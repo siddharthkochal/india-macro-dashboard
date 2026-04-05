@@ -1,0 +1,106 @@
+{
+  "kpi_id": "upi_transactions",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "NPCI (National Payments Corporation of India)",
+  "source_url": "https://www.npci.org.in/statistics/monthly-metrics",
+  "source_url_secondary": "https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics",
+  "current_value": 22.64,
+  "current_value_secondary": 2953000,
+  "unit": "billion transactions",
+  "unit_secondary": "crore rupees value",
+  "as_of": "March 2026",
+  "as_of_release_date": "2026-04-01",
+  "change_from_prev": 2.25,
+  "change_pct": 11.0,
+  "direction": "up",
+  "is_provisional": false,
+  "data_confidence": "high",
+  "data_notes": "April 2025 data point marked null — NPCI.org.in returned HTTP 403 for direct fetch; PIB press release search did not surface April 2025 specific figure. All other months sourced from NPCI official releases cited in PIB/government press releases. npci.org.in/statistics/monthly-metrics is the canonical source.",
+  "series": [
+    {
+      "date": "Apr-25",
+      "value": null,
+      "value_secondary": null,
+      "is_provisional": false,
+      "source": "NPCI monthly-metrics — April 2025 figure not retrieved (HTTP 403 on direct fetch; ACTION: manually verify at npci.org.in/statistics/monthly-metrics)"
+    },
+    {
+      "date": "May-25",
+      "value": 19.5,
+      "value_secondary": 2500000,
+      "is_provisional": false,
+      "source": "NPCI official data cited: 'surpassing Visa with over 65 crore daily transactions, Rs 25 lakh crore' — PIB/IBEF citing NPCI May 2025 release"
+    },
+    {
+      "date": "Jun-25",
+      "value": 18.39,
+      "value_secondary": 2403000,
+      "is_provisional": false,
+      "source": "NPCI official: 18.39 billion transactions, Rs 24.03 lakh crore — PIB press release citing NPCI June 2025 data"
+    },
+    {
+      "date": "Jul-25",
+      "value": 19.47,
+      "value_secondary": null,
+      "is_provisional": false,
+      "source": "NPCI official: 19.47 billion transactions — cited as 'previous record' in October 2025 NPCI data coverage (PIB/IBEF)"
+    },
+    {
+      "date": "Aug-25",
+      "value": 20.0,
+      "value_secondary": 2485000,
+      "is_provisional": false,
+      "source": "NPCI official: 20+ billion transactions, Rs 24.85 lakh crore — PIB/IBEF citing NPCI August 2025 data; first month crossing 20bn milestone"
+    },
+    {
+      "date": "Sep-25",
+      "value": 19.63,
+      "value_secondary": 2490000,
+      "is_provisional": false,
+      "source": "NPCI official: 19.63 billion transactions, Rs 24.90 lakh crore — PIB citing NPCI September 2025 data"
+    },
+    {
+      "date": "Oct-25",
+      "value": 20.7,
+      "value_secondary": 2728000,
+      "is_provisional": false,
+      "source": "NPCI official: 20.7 billion transactions (festive month ATH at time), Rs 27.28 lakh crore — PIB/Upstox citing NPCI October 2025 data"
+    },
+    {
+      "date": "Nov-25",
+      "value": 19.0,
+      "value_secondary": 2632000,
+      "is_provisional": false,
+      "source": "NPCI official: 19+ billion transactions (23% YoY), Rs 26.32 lakh crore — PIB citing NPCI November 2025 data"
+    },
+    {
+      "date": "Dec-25",
+      "value": 21.63,
+      "value_secondary": 2797000,
+      "is_provisional": false,
+      "source": "NPCI official: 21.63 billion transactions, Rs 27.97 lakh crore — DFS/GOI Facebook post citing NPCI December 2025; Elets BFSI citing NPCI release"
+    },
+    {
+      "date": "Jan-26",
+      "value": 21.7,
+      "value_secondary": 2833000,
+      "is_provisional": false,
+      "source": "NPCI official: 21.70 billion transactions, Rs 28.33 lakh crore — startupnews.fyi citing NPCI January 2026 data release"
+    },
+    {
+      "date": "Feb-26",
+      "value": 20.39,
+      "value_secondary": 2684000,
+      "is_provisional": false,
+      "source": "NPCI official: 20.39 billion transactions (27% YoY), Rs 26.84 lakh crore — startupnews.fyi citing NPCI February 2026 data release"
+    },
+    {
+      "date": "Mar-26",
+      "value": 22.64,
+      "value_secondary": 2953000,
+      "is_provisional": false,
+      "source": "NPCI official: 22.64 billion transactions (record, 24% YoY), Rs 29.53 lakh crore — prokerala.com/socialnews.xyz/news9live.com all citing NPCI March 2026 data"
+    }
+  ],
+  "notes": "UPI crossed 20 billion monthly transactions for first time in August 2025. March 2026 set new all-time record at 22.64 billion. FY26 total: 218+ billion transactions. Value of Rs 29.53 lakh crore in March 2026 is highest ever monthly value."
+}

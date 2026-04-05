@@ -1,0 +1,105 @@
+{
+  "kpi_id": "electricity_consumption",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "Central Electricity Authority (CEA), Ministry of Power, Government of India",
+  "source_url": "https://cea.nic.in/monthly-reports-archive/",
+  "source_url_nldc": "https://nldc.in/",
+  "source_url_power_ministry": "https://powermin.gov.in/",
+  "current_value": 126.41,
+  "unit": "Billion Units (BU) — gross electricity generation/consumption",
+  "as_of": "December 2025",
+  "as_of_release_date": "2026-01-31",
+  "change_from_prev": 14.54,
+  "direction": "up",
+  "is_provisional": false,
+  "data_confidence": "medium",
+  "data_notes": "Only 3 months (Aug, Nov, Dec 2025) have confirmed precise BU figures from official CEA/NLDC/Ministry of Power releases accessible via web search. Remaining months (Apr, May, Jun, Jul, Sep, Oct 2025; Jan, Feb 2026) could not be confirmed with precise BU values from primary source pages — CEA monthly detailed reports are PDF-based and were inaccessible. All unconfirmed months are marked null. FY25 full-year total was 1,821 BU for reference. June 2025 saw record peak demand of 250 GW but precise monthly BU total was not confirmed. This KPI requires manual verification from cea.nic.in monthly PDFs to complete the series.",
+  "fy25_full_year_bu": 1821,
+  "series": [
+    {
+      "date": "Apr-25",
+      "value": null,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "Not confirmed. CEA Monthly Report PDF for April 2025 was not accessible via web search. ACTION: Retrieve from cea.nic.in/monthly-reports-archive/ — April 2025 report (typically titled 'Monthly Generation Report April 2025'). Expected range: 130-145 BU based on historical seasonal pattern."
+    },
+    {
+      "date": "May-25",
+      "value": null,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "Not confirmed. CEA Monthly Report PDF for May 2025 was not accessible via web search. ACTION: Retrieve from cea.nic.in/monthly-reports-archive/. May is typically high consumption due to summer air conditioning load. Expected range: 140-155 BU."
+    },
+    {
+      "date": "Jun-25",
+      "value": null,
+      "peak_demand_gw": 250.0,
+      "is_provisional": false,
+      "source": "Peak demand of 250 GW confirmed — Government of India / Ministry of Power official statement cited in The Hindu and Economic Times: 'India sets new record peak electricity demand of 250 GW in June 2025'. This was all-time high peak demand. However, precise monthly BU total not confirmed from primary source. ACTION: Retrieve exact BU from cea.nic.in/monthly-reports-archive/ June 2025 report. Note: 250 GW peak demand does NOT directly equal monthly BU consumption."
+    },
+    {
+      "date": "Jul-25",
+      "value": null,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "Not confirmed. CEA Monthly Report PDF for July 2025 was not accessible via web search. Monsoon typically reduces demand slightly from June peak. ACTION: Retrieve from cea.nic.in/monthly-reports-archive/."
+    },
+    {
+      "date": "Aug-25",
+      "value": 150.47,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "NLDC (National Load Dispatch Centre) official data: August 2025 gross electricity generation/consumption 150.47 BU. Cited in Ministry of Power / Power Sector At A Glance and NLDC monthly report August 2025. This is the highest August on record, driven by sustained monsoon season industrial activity and air conditioning. Source: nldc.in monthly report August 2025."
+    },
+    {
+      "date": "Sep-25",
+      "value": null,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "Not confirmed. CEA Monthly Report PDF for September 2025 was not accessible via web search. September marks monsoon withdrawal — typically 130-140 BU range. ACTION: Retrieve from cea.nic.in/monthly-reports-archive/."
+    },
+    {
+      "date": "Oct-25",
+      "value": null,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "Not confirmed. CEA Monthly Report PDF for October 2025 was not accessible via web search. Note: IIP electricity sub-index fell -6.9% YoY in Oct-25 (MoSPI Quick Estimate) — this suggests electricity consumption growth was weak in October 2025. Exact BU figure not confirmed. ACTION: Retrieve from cea.nic.in/monthly-reports-archive/."
+    },
+    {
+      "date": "Nov-25",
+      "value": 111.87,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "CEA / Ministry of Power official data: November 2025 gross electricity consumption 111.87 BU (+2.8% YoY from 108.85 BU in Nov 2024). Power Ministry statement and CEA Monthly Report November 2025. November is typically the lowest consumption month of the year (post-monsoon mild weather, no AC/heating load). Source: cea.nic.in November 2025 monthly report."
+    },
+    {
+      "date": "Dec-25",
+      "value": 126.41,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "CEA / Ministry of Power official data: December 2025 gross electricity consumption 126.41 BU (+3.1% YoY from 122.60 BU in Dec 2024). Sequential increase from November reflects winter heating demand onset. Power Ministry monthly report December 2025. Source: cea.nic.in December 2025 monthly report."
+    },
+    {
+      "date": "Jan-26",
+      "value": null,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "Not confirmed. CEA Monthly Report PDF for January 2026 was not accessible via web search. January is typically winter heating peak — expected range 130-145 BU. ACTION: Retrieve from cea.nic.in/monthly-reports-archive/."
+    },
+    {
+      "date": "Feb-26",
+      "value": null,
+      "peak_demand_gw": null,
+      "is_provisional": false,
+      "source": "Not confirmed. CEA Monthly Report PDF for February 2026 was not accessible via web search. Note: IIP electricity sub-index was 2.3% YoY in Feb-26 (MoSPI Quick Estimate) — suggesting modest growth. Exact BU not confirmed. ACTION: Retrieve from cea.nic.in/monthly-reports-archive/."
+    },
+    {
+      "date": "Mar-26",
+      "value": null,
+      "peak_demand_gw": null,
+      "is_provisional": true,
+      "source": "Not yet released as of April 5, 2026. March 2026 CEA monthly report expected end-April 2026. ACTION: Retrieve from cea.nic.in/monthly-reports-archive/ when released."
+    }
+  ],
+  "notes": "Electricity consumption is a real-economy activity indicator with no revision risk (unlike GDP or IIP), making it a valuable cross-check for economic momentum. Only 3 months have confirmed BU values in this dataset due to CEA PDF access constraints. Key observations: August 2025 (150.47 BU) was record August, driven by sustained industrial + AC demand; June 2025 peak demand hit all-time high of 250 GW; IIP electricity sub-index tracks monthly YoY growth and can be used as proxy when BU totals are unavailable (IIP shows: Apr +1.1%, Jun -2.6%, Jul +0.6%, Aug +4.1%, Sep +3.1%, Oct -6.9%, Dec +6.3%, Jan +5.1%, Feb +2.3%). Manual CEA PDF retrieval recommended to complete the series before final dashboard render."
+}

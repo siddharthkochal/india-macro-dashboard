@@ -1,0 +1,98 @@
+{
+  "kpi_id": "gdp_growth",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI), Government of India",
+  "source_url": "https://mospi.gov.in/dataviz-quarterly-gdp-growth-rates",
+  "source_url_secondary": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233518",
+  "current_value": 7.6,
+  "current_value_secondary": 7.8,
+  "unit": "percent YoY real GDP growth (annual FY26 estimate)",
+  "unit_secondary": "percent YoY real GDP growth (Q3 FY26, latest quarterly)",
+  "as_of": "FY2025-26 Second Advance Estimate (Q3 FY26 latest quarterly: Oct-Dec 2025)",
+  "as_of_release_date": "2026-02-27",
+  "change_from_prev": 0.5,
+  "change_pct": null,
+  "direction": "up",
+  "is_provisional": true,
+  "data_confidence": "high",
+  "base_year": "2022-23",
+  "data_notes": "IMPORTANT: MoSPI released a new GDP series with base year 2022-23 on February 27, 2026, replacing the old 2011-12 series. All figures in this file use the new 2022-23 base year unless explicitly noted. Q4 FY25 and Q1 FY26 were originally published under old base year 2011-12; Q4 FY25 has not yet been revised under new series (shown with is_provisional:true). Q4 FY26 (Jan-Mar 2026) data is not yet available as of April 2026 (expected May/Jun 2026). Annual FY26 estimate is Second Advance — subject to further revision when provisional and then final estimates are released. All GDP estimates flagged is_provisional:true per plan rule (GDP revised significantly after first release).",
+  "series": [
+    {
+      "date": "Q4 FY24-25",
+      "period": "Jan-Mar 2025",
+      "value": 7.4,
+      "nominal_gdp_lakh_crore": 88.18,
+      "real_gdp_lakh_crore": 51.35,
+      "is_provisional": true,
+      "base_year_used": "2011-12",
+      "source": "MoSPI NSO Provisional Estimates, released May 30, 2025 — mospi.gov.in/sites/default/files/press_release/NAD_PR_30may2025.pdf; PIB prid=2132688. NOTE: Not yet revised under new 2022-23 base year series as of April 2026."
+    },
+    {
+      "date": "Q1 FY25-26",
+      "period": "Apr-Jun 2025",
+      "value": 7.8,
+      "nominal_gdp_lakh_crore": null,
+      "real_gdp_lakh_crore": null,
+      "is_provisional": true,
+      "base_year_used": "2011-12 (original release); may have been revised under 2022-23 base",
+      "source": "MoSPI NSO Quarterly Estimates, released ~August 29, 2025 — PIB prid=2161834. 'Real GDP has been estimated to grow by 7.8% in Q1 of FY 2025-26 over the growth rate of 6.5% during Q1 of FY 2024-25.' Nominal GDP grew 8.8% in Q1 FY26."
+    },
+    {
+      "date": "Q2 FY25-26",
+      "period": "Jul-Sep 2025",
+      "value": 8.4,
+      "value_original_release": 8.2,
+      "nominal_gdp_lakh_crore": 85.25,
+      "real_gdp_lakh_crore": 48.63,
+      "is_provisional": true,
+      "base_year_used": "2022-23 (revised Feb 27, 2026; original release Nov 28, 2025 under 2011-12 = 8.2%)",
+      "source": "MoSPI NSO: First release Nov 28, 2025 under 2011-12 base (prid=2195851): 8.2%. Revised to 8.4% under new 2022-23 base series (Feb 27, 2026 new series press note, mospi.gov.in). Real GDP ₹48.63 lakh crore vs ₹44.94 lakh crore in Q2 FY24-25. Secondary sector 8.1%, Tertiary 9.2%."
+    },
+    {
+      "date": "Q3 FY25-26",
+      "period": "Oct-Dec 2025",
+      "value": 7.8,
+      "nominal_gdp_lakh_crore": 90.91,
+      "real_gdp_lakh_crore": 84.54,
+      "is_provisional": true,
+      "base_year_used": "2022-23",
+      "source": "MoSPI NSO new series (base year 2022-23), released February 27, 2026 — PIB prid=2233518; mospi.gov.in. Real GDP ₹84.54 lakh crore vs ₹78.41 lakh crore in Q3 FY24-25. Nominal GDP ₹90.91 lakh crore, growth 8.9%. Manufacturing sector double-digit growth. Growth accelerated from 7.4% in Q3 FY23-24 and 7.4% in Q3 FY24-25."
+    },
+    {
+      "date": "Q4 FY25-26",
+      "period": "Jan-Mar 2026",
+      "value": null,
+      "is_provisional": true,
+      "base_year_used": "2022-23",
+      "source": "Not yet released. Expected: MoSPI Provisional Estimates, approximately May/June 2026. ACTION: populate when released."
+    }
+  ],
+  "annual_estimates": {
+    "fy26_second_advance": {
+      "value": 7.6,
+      "base_year": "2022-23",
+      "release_date": "2026-02-27",
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233518",
+      "is_provisional": true,
+      "note": "Second Advance Estimate under new base year 2022-23. Previous First Advance Estimate (Jan 7, 2026) under old 2011-12 base was 7.4%."
+    },
+    "fy26_first_advance": {
+      "value": 7.4,
+      "base_year": "2011-12",
+      "release_date": "2026-01-07",
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2212087",
+      "is_provisional": true,
+      "note": "Superseded by second advance estimate under new base year."
+    },
+    "fy25_annual": {
+      "value": 7.1,
+      "base_year": "2022-23",
+      "release_date": "2026-02-27",
+      "is_provisional": true,
+      "note": "Revised to 7.1% under new base year 2022-23, from 6.5% under old 2011-12 base."
+    }
+  },
+  "base_year_change_note": "On February 27, 2026, MoSPI released a new national accounts series with base year 2022-23 (replacing 2011-12). Key implications: (1) Method changed from single-deflation to double-deflation for real GVA. (2) FY26 annual growth revised UP from 7.4% to 7.6%. (3) FY24-25 revised UP from 6.5% to 7.1%. (4) FY23-24 revised DOWN from 9.2% to 7.2% — significant downward revision. (5) Nominal GDP size revised DOWN ~3.3% (₹345.47 lakh crore vs earlier estimate). Cross-period comparisons must use same base year series.",
+  "notes": "India's GDP accelerated through FY2025-26: Q1=7.8%, Q2=8.4% (highest since Q3 FY22-23), Q3=7.8%. Full year FY26 second advance estimate: 7.6% (new base 2022-23), up from 7.1% in FY25. Strong manufacturing and services growth; private consumption growing. Q4 FY26 data expected May/Jun 2026. All quarterly figures flagged provisional — GDP estimates get revised up to 3 years after initial release."
+}

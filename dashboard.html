@@ -1,0 +1,2349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>India Macro Dashboard — Apr 2025 - Mar 2026</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.0.1/dist/chartjs-plugin-annotation.min.js"></script>
+  <style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #0f172a; color: #e2e8f0; font-size: 14px; line-height: 1.5;
+}
+a { color: #60a5fa; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Layout */
+.container { max-width: 1400px; margin: 0 auto; padding: 24px 16px; }
+
+/* Header */
+.dash-header { margin-bottom: 32px; }
+.dash-title { font-size: 1.6rem; font-weight: 700; color: #f1f5f9; }
+.dash-subtitle { color: #94a3b8; font-size: 0.85rem; margin-top: 4px; }
+.dash-meta { display: flex; gap: 16px; margin-top: 8px; flex-wrap: wrap; }
+.meta-item { font-size: 0.78rem; color: #64748b; }
+
+/* Macro narrative */
+.macro-card {
+  background: #1e293b; border-radius: 12px; padding: 20px 24px;
+  margin-bottom: 32px; border-left: 4px solid #3b82f6;
+}
+.macro-headline { font-size: 1.05rem; font-weight: 600; color: #f1f5f9; margin-bottom: 8px; }
+.macro-summary { color: #94a3b8; font-size: 0.88rem; line-height: 1.6; }
+.macro-quote {
+  margin-top: 12px; padding: 12px 16px;
+  background: #0f172a; border-radius: 8px; border-left: 3px solid #64748b;
+  font-style: italic; color: #94a3b8; font-size: 0.83rem;
+}
+
+/* Category group */
+.category-group { margin-bottom: 40px; }
+.category-title {
+  font-size: 0.75rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.1em; color: #64748b; margin-bottom: 16px;
+  padding-bottom: 6px; border-bottom: 1px solid #1e293b;
+}
+
+/* KPI Grid */
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 16px;
+}
+
+/* KPI Card */
+.kpi-card {
+  background: #1e293b; border-radius: 12px; padding: 18px;
+  border: 1px solid #334155; transition: border-color 0.2s;
+}
+.kpi-card:hover { border-color: #475569; }
+.kpi-header { margin-bottom: 10px; }
+.kpi-title-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
+.kpi-name { font-size: 0.88rem; font-weight: 600; color: #cbd5e1; }
+.kpi-meta-row { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+.kpi-asof { font-size: 0.72rem; color: #64748b; }
+.source-link { font-size: 0.72rem; color: #475569; margin-left: auto; }
+
+/* Value */
+.kpi-value-row { display: flex; align-items: baseline; gap: 8px; margin-bottom: 12px; }
+.kpi-value { font-size: 1.8rem; font-weight: 700; color: #f1f5f9; }
+.kpi-value-na { font-size: 1.8rem; font-weight: 700; color: #475569; font-style: italic; }
+.kpi-change { font-size: 0.8rem; padding: 2px 6px; border-radius: 4px; }
+.chg-up   { color: #22c55e; background: #14532d22; }
+.chg-down { color: #ef4444; background: #7f1d1d22; }
+.chg-flat { color: #94a3b8; }
+
+/* Badges */
+.signal-badge {
+  font-size: 0.65rem; font-weight: 700; padding: 2px 7px;
+  border-radius: 4px; text-transform: uppercase; letter-spacing: 0.05em;
+}
+.signal-bullish { background: #14532d; color: #22c55e; }
+.signal-bearish { background: #7f1d1d; color: #f87171; }
+.signal-neutral { background: #1e3a5f; color: #60a5fa; }
+
+.conf-badge {
+  font-size: 0.62rem; font-weight: 600; padding: 1px 5px;
+  border-radius: 3px; text-transform: uppercase;
+}
+.conf-high   { background: #14532d44; color: #4ade80; border: 1px solid #14532d; }
+.conf-medium { background: #78350f44; color: #fbbf24; border: 1px solid #78350f; }
+.conf-low    { background: #7f1d1d44; color: #f87171; border: 1px solid #7f1d1d; }
+
+.stale-badge { font-size: 0.62rem; color: #f59e0b; }
+.stale-warn  { color: #f59e0b; }
+.stale-error { color: #ef4444; }
+.prov-badge  { font-size: 0.62rem; color: #94a3b8; background: #1e293b; border: 1px solid #334155; padding: 1px 5px; border-radius: 3px; }
+.warn-badge  { font-size: 0.75rem; color: #f59e0b; cursor: help; }
+
+/* Chart */
+.kpi-chart-wrap { height: 140px; margin-bottom: 14px; }
+
+/* Commentary */
+.kpi-commentary { border-top: 1px solid #1e293b; padding-top: 12px; }
+.com-section { margin-bottom: 10px; }
+.com-label { font-size: 0.68rem; font-weight: 600; text-transform: uppercase;
+             letter-spacing: 0.08em; color: #475569; display: block; margin-bottom: 3px; }
+.com-text  { font-size: 0.8rem; color: #94a3b8; line-height: 1.55; }
+.com-na    { font-size: 0.78rem; color: #334155; font-style: italic; }
+.inv-note  {
+  font-size: 0.78rem; color: #93c5fd; background: #1e3a5f22;
+  border-left: 2px solid #3b82f6; padding: 8px 10px; border-radius: 4px; margin-top: 8px;
+}
+
+/* Events timeline */
+.events-section { margin-top: 40px; }
+.section-title {
+  font-size: 0.75rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.1em; color: #64748b; margin-bottom: 16px;
+  padding-bottom: 6px; border-bottom: 1px solid #1e293b;
+}
+.events-scroll {
+  display: flex; gap: 12px; overflow-x: auto; padding-bottom: 12px;
+  scrollbar-width: thin; scrollbar-color: #334155 transparent;
+}
+.ev-card {
+  min-width: 220px; max-width: 240px; flex-shrink: 0;
+  background: #1e293b; border-radius: 8px; padding: 12px;
+  border-top: 3px solid #334155;
+}
+.ev-neg { border-top-color: #ef4444; }
+.ev-pos { border-top-color: #22c55e; }
+.ev-neu { border-top-color: #94a3b8; }
+.ev-date  { font-size: 0.68rem; color: #64748b; margin-bottom: 4px; }
+.ev-label { font-size: 0.8rem; font-weight: 600; color: #e2e8f0; margin-bottom: 6px; display: flex; align-items: center; gap: 6px; }
+.ev-mag   { font-size: 0.6rem; background: #334155; color: #94a3b8; padding: 1px 4px; border-radius: 3px; }
+.ev-desc  { font-size: 0.75rem; color: #94a3b8; line-height: 1.4; margin-bottom: 6px; }
+.ev-kpis  { font-size: 0.68rem; color: #475569; }
+.ev-src   { color: #475569; margin-left: 4px; }
+
+/* Footer */
+.dash-footer {
+  margin-top: 48px; padding-top: 20px; border-top: 1px solid #1e293b;
+  color: #334155; font-size: 0.75rem;
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+  <header class="dash-header">
+    <div class="dash-title">India Macro Dashboard</div>
+    <div class="dash-subtitle">Apr 2025 - Mar 2026</div>
+    <div class="dash-meta">
+      <span class="meta-item">Generated: 06 Apr 2026, 00:26</span>
+      <span class="meta-item">KPIs: 14</span>
+      <span class="meta-item">Events: 20</span>
+      <span class="meta-item">Data: primary official sources only</span>
+    </div>
+  </header>
+
+  
+        <div style="background:#78350f22;border:1px solid #78350f;border-radius:8px;
+                    padding:10px 16px;margin-bottom:20px;font-size:0.82rem;color:#fbbf24;">
+          ⚠ Stale data detected for: repo_rate, cpi_inflation, gdp_growth, iip, trade_balance, bank_credit_growth, auto_sales, electricity_consumption, air_passenger_traffic. Values may not reflect latest releases.
+        </div>
+  
+    <div class="macro-card">
+      <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:8px;">
+        <h2 class="macro-headline">India FY26: Growth Holds at 7.6% as RBI Cuts 100bps — A Year of Easing Through Global Headwinds</h2>
+        <span style="font-size:0.72rem;padding:3px 8px;border-radius:4px;background:#1e293b;color:#60a5fa;border:1px solid #60a5fa44;">CAUTIOUSLY BULLISH</span>
+      </div>
+      <p class="macro-summary">India navigated FY2025-26 with remarkable macro resilience. Real GDP grew 7.6% (new 2022-23 base year), the fastest among large economies. The Reserve Bank of India delivered 100bps of rate cuts — the most aggressive easing since 2019 — as record-low CPI (0.25% in October) gave the MPC exceptional room to support growth. US Liberation Day tariffs (April 2025) imposed a 26% levy on Indian goods, escalated to 50% in August, before a landmark trade deal in February 2026 brought effective rates down to 18%. Throughout, India's fundamentals held: GST collections hit a ₹2.37 lakh crore all-time high in April 2025 and FY26 total crossed ₹22.27 lakh crore (+8.3%); the fiscal deficit tracked the 4.4% of GDP target; and bank credit growth re-accelerated to 14.3% by February 2026. The combination of good monsoon (106% of LPA), lower oil (Brent ~$58-65 range), rate cuts, and strong government capex execution set India on a solid footing entering FY27.</p>
+      <div class="macro-quote">"The Indian economy continues on a steadily improving trajectory, with real GDP poised to register significantly higher growth of 7.4% in FY25-26. The monetary policy transmission has been working — WALR for fresh loans has declined by 105 basis points in response to the cumulative 125 basis points of repo rate reduction. We are now in a phase of assessment, allowing the rate cuts already delivered to work their way through the system."</div>
+    </div>
+  
+            <div class="category-group">
+              <h2 class="category-title">Monetary Policy</h2>
+              <div class="kpi-grid">
+    <div class="kpi-card" id="kpi_repo_rate" data-category="monetary_policy">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">Repo Rate</h3>
+          <span class="signal-badge signal-neutral">NEUTRAL</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="stale-badge">⏰ Stale</span>
+          <span class="kpi-asof stale-error">as of February 2026</span>
+          <a href="https://www.rbi.org.in/scripts/annualpolicy.aspx" target="_blank" class="source-link">Reserve Bank of India ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">5.25 %</span>
+        <span class="kpi-change chg-flat"> 0.00</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_repo_rate" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">RBI cut the repo rate by a cumulative 100bps in FY26 — from 6.25% (inherited from the February 2025 cut) to 5.25% by December 2025. The June 2025 cut was an unusual 50bps (5:1 vote), the largest single cut since 2020. February 2026 MPC held at 5.25%. The MPC was enabled by exceptional CPI conditions: vegetable deflation drove headline CPI to a record low of 0.25% in October 2025, well below the 4% target. Simultaneously, US tariff uncertainty created a downside growth risk that the MPC judged warranted pre-emptive easing. The June 50bps cut reflected urgency — RBI governor Malhotra prioritised growth support over cautious incrementalism.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">The February 2026 hold and the signalling of a 'prolonged pause' suggest the next 25bps cut will depend on whether CPI stays below 4% into Q1 FY27 (expected 4.0–4.2% per RBI projections) and whether private investment definitively accelerates. Market consensus: one more 25bps cut in H2 FY27, bringing terminal rate to 5.00%.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_repo_rate');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: ["Apr-25", "May-25", "Jun-25", "Jul-25", "Aug-25", "Sep-25", "Oct-25", "Nov-25", "Dec-25", "Jan-26", "Feb-26", "Mar-26"],
+          datasets: [{
+            label: 'Repo Rate',
+            data: [6.0, 6.0, 5.5, 5.5, 5.5, 5.5, 5.5, 5.5, 5.25, 5.25, 5.25, 5.25],
+            borderColor: '#60a5fa',
+            backgroundColor: '#60a5fa22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2025-04-02',
+          xMax: '2025-04-02',
+          borderColor: '#ef4444',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US Liberation Day Ta',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#ef444422',
+            color: '#ef4444',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-04-09',
+          xMax: '2025-04-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Apr-25: Repo',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-06-04',
+          xMax: '2025-06-04',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Jun-25: Surp',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-08-06',
+          xMax: '2025-08-06',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Aug-25: Hold',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-10-08',
+          xMax: '2025-10-08',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Oct-25: Hold',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-12-10',
+          xMax: '2025-12-10',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Dec-25: Cuts',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-06',
+          xMax: '2026-02-06',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Feb-26: Hold',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script></div>
+            </div>
+            <div class="category-group">
+              <h2 class="category-title">Prices</h2>
+              <div class="kpi-grid">
+    <div class="kpi-card" id="kpi_cpi_inflation" data-category="prices">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">CPI Inflation</h3>
+          <span class="signal-badge signal-bullish">BULLISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="stale-badge">⏰ Stale</span><span class="prov-badge">Provisional</span><span class="warn-badge" title="SERIES BREAK at January 2026: MoSPI launched a new CPI series with base year 2024=100 (weights from HCES 2023-24) effective January 2026, replacing the 2012=100 series. Jan 2026 onwards figures are NOT directly comparable with Apr-Dec 2025 figures under old series. Both series are shown in the series array with base_year field on each entry. March 2026 data not yet released as of April 5, 2026 (scheduled April 13, 2026). Record low under 2012=100 series: October 2025 at 0.25% — driven by vegetable deflation of ~-22% YoY (CFPI). Food deflation persisted Jun 2025 through Dec 2025.">⚠</span>
+          <span class="kpi-asof stale-warn">as of February 2026</span>
+          <a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238889" target="_blank" class="source-link">MoSPI ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">3.21 % YoY</span>
+        <span class="kpi-change chg-up">▲ 0.46</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_cpi_inflation" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">CPI (old 2012=100 series) fell from 3.16% in April 2025 to a record low of 0.25% in October 2025 — driven almost entirely by vegetable deflation (-22% YoY). It recovered to 1.33% in December 2025. From January 2026, MoSPI switched to new 2024=100 base year: Jan-26 = 2.75%, Feb-26 = 3.21%. The two series are NOT directly comparable. Vegetable prices collapsed as an excellent monsoon (106% LPA) boosted Kharif output — onion, tomato, and potato prices fell sharply. Core inflation (ex-food, ex-fuel) remained anchored at 3–4% throughout, suggesting the low headline was entirely supply-side driven. The base year switch from 2012=100 to 2024=100 is a technical change — 2024 basket has higher services weight and more representative consumption patterns.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">Under the new 2024=100 series, MoSPI and RBI project Q4 FY26 CPI at 3.2% and Q1 FY27 at 4.0%. The vegetable deflation base effect will reverse by mid-FY27 as prices normalise. Core inflation at ~3.5% is manageable. March 2026 CPI (due April 13, 2026) will be the first clean print on the new series for Q4 FY26.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_cpi_inflation');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: ["Apr-25", "May-25", "Jun-25", "Jul-25", "Aug-25", "Sep-25", "Oct-25", "Nov-25", "Dec-25", "Jan-26", "Feb-26"],
+          datasets: [{
+            label: 'CPI Inflation',
+            data: [3.16, 2.82, 2.1, 1.55, 2.07, 1.54, 0.25, 0.71, 1.33, 2.75, 3.21],
+            borderColor: '#22c55e',
+            backgroundColor: '#22c55e22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2025-05-03',
+          xMax: '2025-05-03',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'OPEC+ Surprise Accel',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-05-24',
+          xMax: '2025-05-24',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'SW Monsoon Earliest ',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-06-04',
+          xMax: '2025-06-04',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Jun-25: Surp',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-09-01',
+          xMax: '2025-09-01',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'India Monsoon 2025 S',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-10-05',
+          xMax: '2025-10-05',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'OPEC+ Modest Product',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script></div>
+            </div>
+            <div class="category-group">
+              <h2 class="category-title">Growth</h2>
+              <div class="kpi-grid">
+    <div class="kpi-card" id="kpi_gdp_growth" data-category="growth">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">GDP Growth</h3>
+          <span class="signal-badge signal-bullish">BULLISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="stale-badge">⏰ Stale</span><span class="prov-badge">Provisional</span><span class="warn-badge" title="IMPORTANT: MoSPI released a new GDP series with base year 2022-23 on February 27, 2026, replacing the old 2011-12 series. All figures in this file use the new 2022-23 base year unless explicitly noted. Q4 FY25 and Q1 FY26 were originally published under old base year 2011-12; Q4 FY25 has not yet been revised under new series (shown with is_provisional:true). Q4 FY26 (Jan-Mar 2026) data is not yet available as of April 2026 (expected May/Jun 2026). Annual FY26 estimate is Second Advance — subject to further revision when provisional and then final estimates are released. All GDP estimates flagged is_provisional:true per plan rule (GDP revised significantly after first release).">⚠</span>
+          <span class="kpi-asof stale-error">as of FY2025-26 Second Advance Estimate (Q3 FY26 latest quarterly: Oct-Dec 2025)</span>
+          <a href="https://mospi.gov.in/dataviz-quarterly-gdp-growth-rates" target="_blank" class="source-link">MoSPI / NSO ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">7.60 % YoY</span>
+        <span class="kpi-change chg-up">▲ 0.50</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_gdp_growth" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">India's real GDP growth for FY26 is estimated at 7.6% (NSO Second Advance Estimate, February 27, 2026, new 2022-23 base year). Quarterly: Q1 FY26 = 7.8%, Q2 = 8.4%, Q3 = 7.8%. The GDP series was revised with new base year — FY23-24 was significantly revised DOWN from 9.2% to 7.2%; FY26 revised UP from 7.4% to 7.6%. Growth was broad-based: manufacturing activity recovered sharply in H2 (IIP Dec: 7.8%); government capex execution was front-loaded; services remained robust. RBI's rate cuts and the credit revival in H2 FY26 supported consumption. The Q2 FY26 8.4% print was the highest quarterly growth in FY26 — driven partly by a low base from Q2 FY25.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">RBI projects FY27 GDP at 7.4–7.5%. The capex budget (₹11.21 lakh crore) and trade deal with the US are additive upside risks. Private capex signals (capital goods IIP +12.5% in Feb) are turning positive. Key risk: external demand softness if US growth decelerates from tariff impacts.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_gdp_growth');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ["Q4 FY24-25", "Q1 FY25-26", "Q2 FY25-26", "Q3 FY25-26"],
+          datasets: [{
+            label: 'GDP Growth',
+            data: [7.4, 7.8, 8.4, 7.8],
+            borderColor: '#22c55e',
+            backgroundColor: '#22c55e22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: false,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2025-04-02',
+          xMax: '2025-04-02',
+          borderColor: '#ef4444',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US Liberation Day Ta',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#ef444422',
+            color: '#ef4444',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-04-09',
+          xMax: '2025-04-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US 90-Day Tariff Pau',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-04-09',
+          xMax: '2025-04-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Apr-25: Repo',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-05-03',
+          xMax: '2025-05-03',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'OPEC+ Surprise Accel',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-05-24',
+          xMax: '2025-05-24',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'SW Monsoon Earliest ',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-06-04',
+          xMax: '2025-06-04',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Jun-25: Surp',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-08-27',
+          xMax: '2025-08-27',
+          borderColor: '#ef4444',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US Adds 25% Addition',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#ef444422',
+            color: '#ef4444',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-09-01',
+          xMax: '2025-09-01',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'India Monsoon 2025 S',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-12-10',
+          xMax: '2025-12-10',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Dec-25: Cuts',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-01',
+          xMax: '2026-02-01',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Union Budget FY2026-',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-02',
+          xMax: '2026-02-02',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'India-US Trade Deal:',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-06',
+          xMax: '2026-02-06',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Feb-26: Hold',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-27',
+          xMax: '2026-02-27',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'NSO GDP Base Year Re',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-03-28',
+          xMax: '2026-03-28',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'IIP Feb-26: 5.2% — C',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script>
+    <div class="kpi-card" id="kpi_iip" data-category="growth">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">Industrial Production (IIP)</h3>
+          <span class="signal-badge signal-bullish">BULLISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="stale-badge">⏰ Stale</span><span class="prov-badge">Provisional</span><span class="warn-badge" title="All monthly IIP values are Quick Estimates (QE) subject to revision. MoSPI revised release timeline to 28th of every month (from 42 days). March 2026 data not yet available (expected April 28, 2026). MoSPI has announced a base year revision for IIP (current base 2011-12=100) — new series expected May 2026.">⚠</span>
+          <span class="kpi-asof stale-warn">as of February 2026</span>
+          <a href="https://www.mospi.gov.in/iip" target="_blank" class="source-link">MoSPI ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">5.20 % YoY</span>
+        <span class="kpi-change chg-up">▲ 0.40</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_iip" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">IIP growth (YoY, base 2011-12=100) was volatile in FY26: weak H1 (Apr: 2.7%, May: 1.2%, Jun: 1.5%) recovering in H2 (Nov: 7.2%, Dec: 7.8%, Feb: 5.2%). October 2025 was a brief outlier at 0.4% — festival working-day effect + electricity seasonality. All values are Quick Estimates subject to revision. H1 weakness driven by: (1) monsoon impact on mining (Jun: -8.7%, Jul: -7.2%); (2) weak electricity generation in early months; (3) soft consumer sentiment amid tariff uncertainty. H2 revival was genuine — manufacturing +8.1% in December, capital goods +12.5% in February 2026. RBI rate cuts improving cost of capital for manufacturers. Credit growth re-acceleration to 14%+ supporting working capital.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">March 2026 IIP due April 28, 2026. MoSPI has also announced a base year revision (current 2011-12 → new series expected May 2026). H2 FY26 momentum (6%+ average) is sustainable if private capex picks up. Capital goods and infrastructure goods sub-indices are the key leading indicators to watch.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_iip');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ["Apr-25", "May-25", "Jun-25", "Jul-25", "Aug-25", "Sep-25", "Oct-25", "Nov-25", "Dec-25", "Jan-26", "Feb-26"],
+          datasets: [{
+            label: 'Industrial Production (IIP)',
+            data: [2.7, 1.2, 1.5, 3.5, 4.0, 4.0, 0.4, 7.2, 7.8, 4.8, 5.2],
+            borderColor: '#22c55e',
+            backgroundColor: '#22c55e22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: false,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2026-03-28',
+          xMax: '2026-03-28',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'IIP Feb-26: 5.2% — C',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script></div>
+            </div>
+            <div class="category-group">
+              <h2 class="category-title">External Sector</h2>
+              <div class="kpi-grid">
+    <div class="kpi-card" id="kpi_inr_usd" data-category="external">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">INR / USD</h3>
+          <span class="signal-badge signal-neutral">NEUTRAL</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-low">LOW</span>
+          <span class="warn-badge" title="FBIL (fbil.org.in) is the RBI-mandated official source for INR/USD reference rates since July 2018. Direct fetch returned ECONNREFUSED. RBI reference rate archive (rbi.org.in/scripts/referenceratearchive.aspx) requires an interactive form submission — not accessible via automated fetch. FEDAI quarterly PDF (fedai.org.in) was 404. NSE India mirror timed out. No third-party aggregator data used per data integrity policy. ACTION REQUIRED: Manually visit https://www.fbil.org.in and download monthly average rates for Apr 2025 – Mar 2026, then populate the series array below.">⚠</span>
+          <span class="kpi-asof ">as of </span>
+          <a href="https://www.fbil.org.in/" target="_blank" class="source-link">Reserve Bank of India ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value-na">N/A</span>
+        
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_inr_usd" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">INR was under persistent pressure through FY26, driven by US tariff uncertainty and FPI equity outflows. The rupee was among Asia's weakest currencies in 2025, trading in the 86–89 range for much of the year. The India-US trade deal in February 2026 triggered a sharp 1% rally, with USD/INR recovering to 90.26 (i.e., INR strengthened against the dollar). Note: INR/USD data requires manual update from RBI Reference Rate Archive. INR weakness was driven by: (1) FPI equity outflows on global risk-off following Liberation Day tariffs; (2) import demand — gold imports surged in festive season (Oct 2025 trade deficit hit all-time high $41.7B); (3) the US tariff overhang creating negative expectations for India's export outlook. RBI intervened repeatedly using forex reserves to limit daily volatility. The trade deal resolved the primary structural negative.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">With the trade deal in place and Fed in easing mode, INR's structural pressures have eased. RBI's forex reserves of $625–640B (as of FY26 end, unconfirmed) provide substantial intervention capacity. INR stability near 85–88 range is the base case for FY27; upside risk if India receives $500B US energy/tech purchases as committed in the trade deal.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_inr_usd');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: [],
+          datasets: [{
+            label: 'INR / USD',
+            data: [],
+            borderColor: '#60a5fa',
+            backgroundColor: '#60a5fa22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2025-04-02',
+          xMax: '2025-04-02',
+          borderColor: '#ef4444',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US Liberation Day Ta',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#ef444422',
+            color: '#ef4444',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-04-09',
+          xMax: '2025-04-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US 90-Day Tariff Pau',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-04-09',
+          xMax: '2025-04-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Apr-25: Repo',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-06-04',
+          xMax: '2025-06-04',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Jun-25: Surp',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-07-30',
+          xMax: '2025-07-30',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Fed FOMC: Holds Rate',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-08-06',
+          xMax: '2025-08-06',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Aug-25: Hold',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-08-27',
+          xMax: '2025-08-27',
+          borderColor: '#ef4444',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US Adds 25% Addition',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#ef444422',
+            color: '#ef4444',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-09-17',
+          xMax: '2025-09-17',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Fed FOMC Sep-25: Cut',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-12-09',
+          xMax: '2025-12-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Fed FOMC Dec-25: Cut',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-12-10',
+          xMax: '2025-12-10',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Dec-25: Cuts',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-02',
+          xMax: '2026-02-02',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'India-US Trade Deal:',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script>
+    <div class="kpi-card" id="kpi_forex_reserves" data-category="external">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">Forex Reserves</h3>
+          <span class="signal-badge signal-bearish">BEARISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="warn-badge" title="Monthly end-period figures for May, Jun, Aug 2025 interpolated between confirmed anchor points from RBI half-yearly report and RBI WSS press releases. Interpolated months marked is_provisional:true. All anchor points are from RBI primary sources.">⚠</span>
+          <span class="kpi-asof ">as of Week ended March 27, 2026</span>
+          <a href="https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=61516" target="_blank" class="source-link">Reserve Bank of India ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">688.05 USD billion</span>
+        
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_forex_reserves" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">India's foreign exchange reserves showed resilience through FY26. Weekly RBI Statistical Supplement data shows reserves largely stable-to-higher through the year despite periodic RBI intervention to stabilise INR. Exact month-end figures depend on weekly data aggregation. RBI used reserves strategically — selling USD to limit INR depreciation during Liberation Day shock (April) and August tariff escalation, while allowing the currency to adjust gradually. The stable reserves level despite intervention reflects continued FPI debt inflows (attracted by India's high real rates) and services trade surplus (~$15-17B/month).</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">Forex reserves are a key buffer. At current levels, India has ~11-12 months of import cover — well above the 3-month minimum threshold. Any significant INR appreciation from trade deal implementation could see RBI rebuilding reserves further.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_forex_reserves');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: ["Apr-25", "May-25", "Jun-25", "Jul-25", "Aug-25", "Sep-25", "Oct-25", "Nov-25", "Dec-25", "Jan-26", "Feb-26", "Mar-26"],
+          datasets: [{
+            label: 'Forex Reserves',
+            data: [668.33, 678.5, 688.4, 698.19, 699.2, 700.09, 696.0, 692.57, 688.95, 701.4, 728.49, 688.05],
+            borderColor: '#ef4444',
+            backgroundColor: '#ef444422',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2025-04-02',
+          xMax: '2025-04-02',
+          borderColor: '#ef4444',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US Liberation Day Ta',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#ef444422',
+            color: '#ef4444',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-04-09',
+          xMax: '2025-04-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US 90-Day Tariff Pau',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-07-30',
+          xMax: '2025-07-30',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Fed FOMC: Holds Rate',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-08-27',
+          xMax: '2025-08-27',
+          borderColor: '#ef4444',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US Adds 25% Addition',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#ef444422',
+            color: '#ef4444',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-09-17',
+          xMax: '2025-09-17',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Fed FOMC Sep-25: Cut',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-12-09',
+          xMax: '2025-12-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Fed FOMC Dec-25: Cut',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-02',
+          xMax: '2026-02-02',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'India-US Trade Deal:',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script>
+    <div class="kpi-card" id="kpi_trade_balance" data-category="external">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">Trade Balance</h3>
+          <span class="signal-badge signal-neutral">NEUTRAL</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="stale-badge">⏰ Stale</span><span class="warn-badge" title="March 2026 data not yet released as of April 5, 2026 (expected mid-April 2026). Monthly figures for May, Jun, Jul, Nov 2025 are DERIVED from differences between official cumulative PIB releases — derivation noted on each entry. All derived values are fully consistent with official cumulative data. This is merchandise trade only (goods); services trade balance is NOT included. India has a structural services surplus (~$15-20B/month) that partially offsets the goods deficit.">⚠</span>
+          <span class="kpi-asof stale-warn">as of February 2026</span>
+          <a href="https://www.commerce.gov.in/trade-statistics/latest-trade-figures/" target="_blank" class="source-link">Ministry of Commerce ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">-27.10 USD billion</span>
+        <span class="kpi-change chg-up">▲ 7.58</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_trade_balance" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">India's merchandise trade deficit in FY26 (Apr-Feb, 11 months) was $310.6B — wider than FY25 same period. October 2025 deficit hit an all-time high of $41.7B, driven by a gold import surge (+200% YoY) during the festive season. February 2026 deficit narrowed to $27.1B as imports fell from January's $71.2B to $63.7B. The structural drivers of India's goods deficit are oil, gold, and electronics. FY26 added a twist: gold imports surged in October on festive demand and pre-tariff stockpiling; simultaneously exports were constrained by US tariff headwinds (-11.8% exports YoY in October). Services surplus (~$15-17B/month) substantially offsets goods deficit — India's current account deficit remains manageable.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">March 2026 trade data due mid-April 2026. The India-US trade deal (February 2026) is the key structural change — reducing tariffs from 50% to 18% will improve India's export competitiveness in US markets for textiles, leather, and gems over FY27. India's commitment to purchase $500B of US energy products will add to import bill but is spread over 5 years.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_trade_balance');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: [],
+          datasets: [{
+            label: 'Trade Balance',
+            data: [],
+            borderColor: '#60a5fa',
+            backgroundColor: '#60a5fa22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: false,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2025-04-02',
+          xMax: '2025-04-02',
+          borderColor: '#ef4444',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US Liberation Day Ta',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#ef444422',
+            color: '#ef4444',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-04-09',
+          xMax: '2025-04-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US 90-Day Tariff Pau',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-05-03',
+          xMax: '2025-05-03',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'OPEC+ Surprise Accel',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-08-27',
+          xMax: '2025-08-27',
+          borderColor: '#ef4444',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'US Adds 25% Addition',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#ef444422',
+            color: '#ef4444',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-10-05',
+          xMax: '2025-10-05',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'OPEC+ Modest Product',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-02',
+          xMax: '2026-02-02',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'India-US Trade Deal:',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script></div>
+            </div>
+            <div class="category-group">
+              <h2 class="category-title">Fiscal</h2>
+              <div class="kpi-grid">
+    <div class="kpi-card" id="kpi_fiscal_deficit" data-category="fiscal">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">Fiscal Deficit</h3>
+          <span class="signal-badge signal-neutral">NEUTRAL</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="warn-badge" title="March 2026 data not yet available (FY26 final accounts expected April 2026). January 2026 crore amount is derived from the official 63.0%-of-RE percentage; the percentage itself is from the CGA official page. FY26 full year Budget Estimate (BE) = Rs.15,68,936 crore (4.4% of GDP). Revised Estimate (RE) = Rs.15,58,019 crore (derived from Feb 2026 data: 12,52,649 / 0.804 = 15,58,019). Note: CGA cautions that monthly fiscal deficit figures are not necessarily an indicator of the full-year deficit due to temporal mismatches in receipt and expenditure flows. Surplus months (Sep, Dec) reflect advance tax payment inflows.">⚠</span>
+          <span class="kpi-asof ">as of February 2026 (11 months: April 2025 - February 2026)</span>
+          <a href="https://cga.nic.in/MonthlyReport/Published/2/2025-2026.aspx" target="_blank" class="source-link">Controller General of Accounts ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">80.40 % of FY target</span>
+        <span class="kpi-change chg-up">▲ 17.40</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_fiscal_deficit" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">At February 2026 (11 months of FY26), the cumulative fiscal deficit was ₹12.53 lakh crore = 80.4% of the Revised Estimate (RE) of ₹15.58 lakh crore. The full-year FY26 target is 4.4% of GDP. CGA seasonal pattern: May/September/December are surplus months (advance tax deadlines); April/August/October/February are deficit-heavy. Fiscal deficit tracked slightly above prior year pace in H1 (front-loaded capex spending) but normalised from December as tax receipts improved. The advance tax schedule creates apparent volatility in monthly cumulative percentages — the pattern is seasonal, not structural slippage. Revenue receipts at February end: ₹27.26 lakh crore; Expenditure: ₹40.45 lakh crore.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">March 2026 CGA data (due April 2026) will confirm full-year FY26 fiscal deficit. Based on Feb-26 tracking at 80.4% of RE with one month remaining, the outcome should close near 95-100% of RE — consistent with the 4.4% of GDP target. FY27 budget maintains the same 4.4% target, continuing India's multi-year fiscal consolidation path.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_fiscal_deficit');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: [],
+          datasets: [{
+            label: 'Fiscal Deficit',
+            data: [],
+            borderColor: '#60a5fa',
+            backgroundColor: '#60a5fa22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: false,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2025-05-03',
+          xMax: '2025-05-03',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'OPEC+ Surprise Accel',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-10-05',
+          xMax: '2025-10-05',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'OPEC+ Modest Product',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-01',
+          xMax: '2026-02-01',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Union Budget FY2026-',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-27',
+          xMax: '2026-02-27',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'NSO GDP Base Year Re',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script>
+    <div class="kpi-card" id="kpi_gst_collections" data-category="fiscal">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">GST Collections</h3>
+          <span class="signal-badge signal-bullish">BULLISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          
+          <span class="kpi-asof ">as of March 2026</span>
+          <a href="https://tutorial.gst.gov.in/downloads/news/" target="_blank" class="source-link">Ministry of Finance ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">200,064.00 crore INR</span>
+        <span class="kpi-change chg-up">▲ 16,455.00</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_gst_collections" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">FY26 GST collections totalled ₹22.27 lakh crore — up 8.3% from FY25. April 2025 set an all-time high of ₹2.37 lakh crore (+12.6% YoY), reflecting strong year-end compliance. Months ranged from a weak ₹1.70 lakh crore in November 2025 (+0.7%) to a strong ₹2.00 lakh crore in March 2026 (+8.8%). FY26 full year crossed ₹22 lakh crore for the first time. GST performance reflects formalisation of the economy and improved compliance infrastructure. April and March are high-collection months (year-end settlement). November weakness (+0.7%) reflected muted post-festive consumption and mild seasonal slowdown. The overall 8.3% growth slightly below nominal GDP growth rate (~12-13%) suggests room for further formalisation gains.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">FY27 GST collections likely to continue growing at 8-10% YoY, helped by: (1) income tax relief for middle class (more disposable income → consumption → GST); (2) improved e-invoicing compliance; (3) new sectors being brought under GST. Monthly ATH records will continue to be set as nominal GDP grows.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_gst_collections');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ["Apr-25", "May-25", "Jun-25", "Jul-25", "Aug-25", "Sep-25", "Oct-25", "Nov-25", "Dec-25", "Jan-26", "Feb-26", "Mar-26"],
+          datasets: [{
+            label: 'GST Collections',
+            data: [236716, 201050, 184597, 195735, 186315, 189017, 195936, 170276, 174550, 193384, 183609, 200064],
+            borderColor: '#22c55e',
+            backgroundColor: '#22c55e22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: false,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2026-02-01',
+          xMax: '2026-02-01',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Union Budget FY2026-',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script></div>
+            </div>
+            <div class="category-group">
+              <h2 class="category-title">Financial</h2>
+              <div class="kpi-grid">
+    <div class="kpi-card" id="kpi_bank_credit_growth" data-category="financial">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">Bank Credit Growth</h3>
+          <span class="signal-badge signal-bullish">BULLISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="warn-badge" title="RBI publishes sectoral deployment of bank credit fortnightly; we use end-of-month fortnight as the representative monthly figure. Data covers 41 select SCBs (~95% of total non-food credit). March 2026 end-month data not yet available as of April 5, 2026 (RBI typically releases with ~4-5 week lag). Each entry's source_note captures the fortnight date used. Credit growth decelerated sharply from 12% (Mar-25) to ~10% (Jul-Sep 2025) before rebounding to 14.3-14.4% (Dec 2025-Feb 2026) — this re-acceleration drove the RBI's willingness to cut rates.">⚠</span>
+          <span class="kpi-asof ">as of Fortnight ended February 28, 2026</span>
+          <a href="https://rbi.org.in/Scripts/Data_Sectoral_Deployment.aspx" target="_blank" class="source-link">Reserve Bank of India ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">14.30 % YoY</span>
+        <span class="kpi-change chg-flat"> 0.00</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_bank_credit_growth" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">Non-food bank credit (RBI fortnightly data, 41 select SCBs) decelerated sharply from 12% (March 2025) to ~10% (May–September 2025) before re-accelerating to 14.3%–14.4% by December 2025–February 2026. February 2026 sectoral: Industry 13.5%, Agriculture 12.3%, Personal loans 15.2%. The deceleration in H1 FY26 reflected RBI's late-FY25 tightening of lending norms for personal loans and NBFCs. Re-acceleration in H2 was driven by: rate cuts improving credit demand; industry credit revival as the private capex cycle began to turn (industry credit +6.7% in Apr-25 recovered to +13.5% by Feb-26); personal loans rebounding as unsecured lending normalised. The credit re-acceleration is the most significant positive macro signal for FY27 earnings.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">March 2026 bank credit data due April 2026. The re-acceleration to 14%+ is sustainable given RBI's 100bps of cuts, improving corporate balance sheets, and the government's capex push. Expect credit growth to hold at 13-15% in FY27. Key risk: asset quality in personal loans segment if income growth softens.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_bank_credit_growth');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: ["Apr-25", "May-25", "Jun-25", "Jul-25", "Aug-25", "Sep-25", "Oct-25", "Nov-25", "Dec-25", "Jan-26", "Feb-26"],
+          datasets: [{
+            label: 'Bank Credit Growth',
+            data: [11.2, 9.8, 10.2, 10.0, 10.0, 10.2, 11.1, 11.4, 14.4, 14.0, 14.3],
+            borderColor: '#22c55e',
+            backgroundColor: '#22c55e22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2025-04-09',
+          xMax: '2025-04-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Apr-25: Repo',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-05-24',
+          xMax: '2025-05-24',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'SW Monsoon Earliest ',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-06-04',
+          xMax: '2025-06-04',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Jun-25: Surp',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-07-30',
+          xMax: '2025-07-30',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Fed FOMC: Holds Rate',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-08-06',
+          xMax: '2025-08-06',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Aug-25: Hold',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-09-01',
+          xMax: '2025-09-01',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'India Monsoon 2025 S',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-09-17',
+          xMax: '2025-09-17',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Fed FOMC Sep-25: Cut',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-10-08',
+          xMax: '2025-10-08',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Oct-25: Hold',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-12-09',
+          xMax: '2025-12-09',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Fed FOMC Dec-25: Cut',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2025-12-10',
+          xMax: '2025-12-10',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Dec-25: Cuts',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-01',
+          xMax: '2026-02-01',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'Union Budget FY2026-',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-02-06',
+          xMax: '2026-02-06',
+          borderColor: '#94a3b8',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'RBI MPC Feb-26: Hold',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#94a3b822',
+            color: '#94a3b8',
+            font: { size: 9 }
+          }
+        },
+{
+          type: 'line',
+          xMin: '2026-03-28',
+          xMax: '2026-03-28',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'IIP Feb-26: 5.2% — C',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script></div>
+            </div>
+            <div class="category-group">
+              <h2 class="category-title">Digital Economy</h2>
+              <div class="kpi-grid">
+    <div class="kpi-card" id="kpi_upi_transactions" data-category="digital_economy">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">UPI Transactions</h3>
+          <span class="signal-badge signal-bullish">BULLISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="warn-badge" title="April 2025 data point marked null — NPCI.org.in returned HTTP 403 for direct fetch; PIB press release search did not surface April 2025 specific figure. All other months sourced from NPCI official releases cited in PIB/government press releases. npci.org.in/statistics/monthly-metrics is the canonical source.">⚠</span>
+          <span class="kpi-asof ">as of March 2026</span>
+          <a href="https://www.npci.org.in/statistics/monthly-metrics" target="_blank" class="source-link">NPCI ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">22.64 billion transactions</span>
+        <span class="kpi-change chg-up">▲ 2.25</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_upi_transactions" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">UPI transaction volumes continued their strong secular growth through FY26, reaching record highs. Latest confirmed data: March 2026 volume at record levels per NPCI. FY26 full-year transactions significantly exceeded FY25. UPI adoption is structural and compounding — merchant onboarding, credit-on-UPI, and international UPI expansion (UAE, Singapore, UK) are driving volume. The NPCI's product innovations (UPI One World for tourists, UPI Lite for small transactions) added new user segments. Strong data point for India's digital economy narrative.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">UPI is on track to process 25+ billion transactions/month by FY27. RBI's January 2026 circular allowing UPI for cross-border payments (B2B and remittances) opens a large new volume segment. No structural growth ceiling visible in the near term.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_upi_transactions');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ["May-25", "Jun-25", "Jul-25", "Aug-25", "Sep-25", "Oct-25", "Nov-25", "Dec-25", "Jan-26", "Feb-26", "Mar-26"],
+          datasets: [{
+            label: 'UPI Transactions',
+            data: [19.5, 18.39, 19.47, 20.0, 19.63, 20.7, 19.0, 21.63, 21.7, 20.39, 22.64],
+            borderColor: '#22c55e',
+            backgroundColor: '#22c55e22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: false,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: null
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script></div>
+            </div>
+            <div class="category-group">
+              <h2 class="category-title">Real Economy</h2>
+              <div class="kpi-grid">
+    <div class="kpi-card" id="kpi_auto_sales" data-category="real_economy">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">Auto Sales</h3>
+          <span class="signal-badge signal-bullish">BULLISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-high">HIGH</span>
+          <span class="stale-badge">⏰ Stale</span><span class="warn-badge" title="July 2025 monthly figures DERIVED from Q2 FY26 cumulative (Apr-Sep 2025) minus confirmed Aug and Sep monthly values. Derivation noted per entry. SIAM data represents wholesale dispatches from OEM to dealer — not retail sales to end consumers. Retail (VAHAN registration) data tracks differently. Apr 2025 two-wheeler figure is below prior year due to high base effect from pre-buying ahead of OBD2B emission norms that kicked in Apr 2025. Q4 FY26 data for March 2026 not yet released as of April 5, 2026.">⚠</span>
+          <span class="kpi-asof stale-warn">as of February 2026</span>
+          <a href="https://www.siam.in/statistics.aspx?mpgid=8&pgidtrail=12" target="_blank" class="source-link">SIAM ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">417,705.00 units (thousands)</span>
+        <span class="kpi-change chg-down">▼ 42,911.00</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_auto_sales" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">Wholesale auto sales (SIAM data) showed a clear two-phase pattern: H1 muted (Two-Wheeler YoY negative in April due to high OBD2B pre-buying base; Passenger Vehicles growing modestly); H2 record-setting (Oct: festive all-time highs; Jan-26: all-time high month for both PV and 2W). February 2026: PV 4,17,705 (+10.6%), 2W 18,71,406 (+35.2%). The H2 surge was driven by: (1) rural income recovery — excellent monsoon + MSP hikes + improved farm gate prices; (2) festive season (Navratri, Dussehra, Diwali in Oct-25 drove record 2W and PV); (3) SUV demand within PV segment (>50% of PV mix) showing no signs of saturation; (4) improved rural credit availability post-RBI rate cuts. The 2W segment recovery is particularly significant as a rural health indicator.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">March 2026 SIAM data due mid-April 2026. FY26 total likely to be a record year for both PV and 2W. FY27 outlook: continued growth driven by new model launches, EV ramp-up (EVs crossing 5% of PV sales), and sustained rural demand. Risk: urban EMI sensitivity if rate transmission takes longer.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_auto_sales');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: [],
+          datasets: [{
+            label: 'Auto Sales',
+            data: [],
+            borderColor: '#22c55e',
+            backgroundColor: '#22c55e22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: false,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: { annotations: [{
+          type: 'line',
+          xMin: '2025-09-01',
+          xMax: '2025-09-01',
+          borderColor: '#22c55e',
+          borderWidth: 1.5,
+          borderDash: [4, 3],
+          label: {
+            content: 'India Monsoon 2025 S',
+            enabled: true,
+            position: 'start',
+            backgroundColor: '#22c55e22',
+            color: '#22c55e',
+            font: { size: 9 }
+          }
+        }] }
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script>
+    <div class="kpi-card" id="kpi_electricity_consumption" data-category="real_economy">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">Electricity Consumption</h3>
+          <span class="signal-badge signal-bullish">BULLISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-medium">MEDIUM</span>
+          <span class="stale-badge">⏰ Stale</span><span class="warn-badge" title="Only 3 months (Aug, Nov, Dec 2025) have confirmed precise BU figures from official CEA/NLDC/Ministry of Power releases accessible via web search. Remaining months (Apr, May, Jun, Jul, Sep, Oct 2025; Jan, Feb 2026) could not be confirmed with precise BU values from primary source pages — CEA monthly detailed reports are PDF-based and were inaccessible. All unconfirmed months are marked null. FY25 full-year total was 1,821 BU for reference. June 2025 saw record peak demand of 250 GW but precise monthly BU total was not confirmed. This KPI requires manual verification from cea.nic.in monthly PDFs to complete the series.">⚠</span>
+          <span class="kpi-asof stale-error">as of December 2025</span>
+          <a href="https://cea.nic.in/monthly-reports-archive/" target="_blank" class="source-link">Central Electricity Authority ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">126.41 BU (billion units)</span>
+        <span class="kpi-change chg-up">▲ 14.54</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_electricity_consumption" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">Confirmed monthly data is limited to three data points (Aug-25: 150.47 BU, Nov-25: 111.87 BU, Dec-25: 126.41 BU). June 2025 recorded an all-time high peak demand of 250 GW. IIP electricity sub-index provides monthly YoY growth proxy for missing months: strong in Aug (+4.1%), Sep (+3.1%), Dec (+6.3%), Jan (+5.1%). Electricity consumption is a real-economy activity indicator with zero revision risk. The August 2025 record (150.47 BU — highest August ever) reflected sustained industrial and AC load. June 2025 peak demand record (250 GW) highlighted India's growing power needs. November's 111.87 BU is seasonally normal (mild weather, lowest month of year). The IIP electricity sub-index decline in October (-6.9%) was a one-month festival-season aberration.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">FY26 full-year consumption likely to be ~1,900-1,950 BU vs FY25's 1,821 BU — ~5-7% growth. India's power demand trajectory is structurally upward driven by industrialisation, urbanisation, and EV adoption. CEA's 2031-32 demand estimates project 2,200+ GW of installed capacity needed.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_electricity_consumption');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: ["Aug-25", "Nov-25", "Dec-25"],
+          datasets: [{
+            label: 'Electricity Consumption',
+            data: [150.47, 111.87, 126.41],
+            borderColor: '#22c55e',
+            backgroundColor: '#22c55e22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: null
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script>
+    <div class="kpi-card" id="kpi_air_passenger_traffic" data-category="real_economy">
+      <div class="kpi-header">
+        <div class="kpi-title-row">
+          <h3 class="kpi-name">Air Passenger Traffic</h3>
+          <span class="signal-badge signal-bullish">BULLISH</span>
+        </div>
+        <div class="kpi-meta-row">
+          <span class="conf-badge conf-medium">MEDIUM</span>
+          <span class="stale-badge">⏰ Stale</span><span class="warn-badge" title="Months April, June, August 2025 not found in accessible primary source pages — marked null. November 2025 figure (15.26M) is DERIVED from official cumulative Jan-Nov 2025 total (152.6M per DGCA) minus sum of all confirmed monthly values (Jan-Oct 2025 = 137.34M) — derivation noted. February 2026 is DERIVED from Apr-Feb 11-month cumulative (153.24M) minus Apr-Jan 10-month confirmed sum (138.99M) = 14.25M. CY2025 total confirmed at 166.946 million (+3.48% YoY) from DGCA official annual press release. Full data series available via data.gov.in REST API using DATAGOVIN_API_KEY (see fetchers/fetch_datagovin.py).">⚠</span>
+          <span class="kpi-asof stale-error">as of January 2026</span>
+          <a href="https://www.dgca.gov.in/digigov-portal/" target="_blank" class="source-link">DGCA ↗</a>
+        </div>
+      </div>
+      <div class="kpi-value-row">
+        <span class="kpi-value">15.25 million passengers</span>
+        <span class="kpi-change chg-up">▲ 1.00</span>
+      </div>
+      <div class="kpi-chart-wrap">
+        <canvas id="chart_air_passenger_traffic" height="140"></canvas>
+      </div>
+      <div class="kpi-commentary">
+        <div class="com-section">
+          <span class="com-label">Why it moved</span>
+          <p class="com-text">Domestic air passenger traffic in FY26 (Apr-Feb, 11 months): 153.24 million (+1.6% YoY). Calendar year 2025 total: 166.946 million (+3.48% YoY). January 2026 hit 15.25 million — an all-time record January. Monsoon months (July: 12.60M, September: 12.85M) were weakest, consistent with seasonal patterns. Traffic growth slowed to single digits in FY26 vs the 8%+ growth of FY24-FY25. Contributing factors: (1) base effects from the post-COVID travel surge are moderating; (2) capacity constraints — some routes operating at near-100% load factors; (3) Air Vistara's merger with Air India (completed November 2025) created temporary operational disruptions. IndiGo maintained ~58% domestic market share throughout.</p>
+        </div>
+        <div class="com-section"><span class="com-label">Outlook</span><p class="com-text">Air India group (Air India + Vistara) is now the second-largest carrier — integration completion will add capacity by FY27. New airports (Navi Mumbai, Noida International) expected to begin operations by FY28, addressing the structural capacity constraint. Demand trajectory: 8-10% YoY growth expected once capacity normalises. DGCA's February 2026 figure due March 2026.</p></div>
+        
+      </div>
+    </div>
+    <script>
+    (function() {
+      var ctx = document.getElementById('chart_air_passenger_traffic');
+      if (!ctx) return;
+      new Chart(ctx, {
+        type: 'bar',
+        data: {
+          labels: ["May-25", "Jul-25", "Sep-25", "Oct-25", "Nov-25", "Dec-25", "Jan-26", "Feb-26"],
+          datasets: [{
+            label: 'Air Passenger Traffic',
+            data: [14.36, 12.6, 12.85, 14.28, 15.26, 14.3, 15.25, 14.25],
+            borderColor: '#22c55e',
+            backgroundColor: '#22c55e22',
+            borderWidth: 2,
+            pointRadius: 3,
+            fill: false,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            annotation: null
+          },
+          scales: {
+            x: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } },
+            y: { ticks: { color: '#94a3b8', font: { size: 10 } },
+                   grid: { color: '#1e293b' } }
+          }
+        }
+      });
+    })();</script></div>
+            </div>
+  
+    <section class="events-section">
+      <h2 class="section-title">Global Macro Events</h2>
+      <div class="events-scroll">
+        <div class="ev-card ev-neg">
+          <div class="ev-date">2025-04-02</div>
+          <div class="ev-label">US Liberation Day Tariffs <span class="ev-mag">HIGH</span></div>
+          <div class="ev-desc">US President Trump announced sweeping 'Liberation Day' reciprocal tariffs, imposing 26% tariff on Indian goods (10% baseline + 16% reciprocal). INR fell sharply to 87+ vs USD — one of Asia's largest single-day currency moves. Global risk-off triggered broad EM selloff. India's export outlook clouded, particularly textiles, gems & jewellery, and leather. Pharmaceuticals exempted. RBI intervened in forex markets to limit INR volatility.</div>
+          <div class="ev-kpis">Affects: inr_usd, forex_reserves, trade_balance, gdp_growth, repo_rate <a href="https://en.wikipedia.org/wiki/Liberation_Day_tariffs" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-04-09</div>
+          <div class="ev-label">US 90-Day Tariff Pause for India <span class="ev-mag">HIGH</span></div>
+          <div class="ev-desc">Trump announced 90-day pause on reciprocal tariffs above 10% for 75+ countries including India. Markets gapped up sharply on opening: Sensex +1,244 points, Nifty 50 +400 points. INR recovered from Liberation Day shock. India and US had begun bilateral trade negotiations — the pause provided diplomatic space. Baseline 10% tariff remained in effect during pause period. Trade deal negotiations fast-tracked following Feb 2025 Modi-Trump summit.</div>
+          <div class="ev-kpis">Affects: inr_usd, forex_reserves, trade_balance, gdp_growth <a href="https://www.india-briefing.com/news/us-halts-26-tariffs-on-indian-goods-for-90-days-36872.html/" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-04-09</div>
+          <div class="ev-label">RBI MPC Apr-25: Repo Rate Cut 25bps → 6.00% <span class="ev-mag">MEDIUM</span></div>
+          <div class="ev-desc">MPC unanimously cut repo rate by 25bps to 6.00%, maintaining neutral stance. Second consecutive cut (Feb-25 cut from 6.50% → 6.25% preceded this). RBI prioritised growth support as US tariff uncertainty clouded the global outlook. GDP growth forecast for FY26 maintained at 7.0%. CPI inflation tracking below 4% target. Start of FY26 rate cut cycle — first April cut since 2020.</div>
+          <div class="ev-kpis">Affects: repo_rate, bank_credit_growth, inr_usd, gdp_growth <a href="https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2120509" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-05-03</div>
+          <div class="ev-label">OPEC+ Surprise Accelerated Production Hike <span class="ev-mag">HIGH</span></div>
+          <div class="ev-desc">OPEC+ announced production hike 3x larger than originally planned, beginning June 2025. Brent crude plunged to ~$58/barrel — lowest since February 2021. Driven by Saudi Arabia's move to punish quota non-compliant members (Iraq, Kazakhstan) and reclaim market share from US shale. For India (net oil importer, ~85% import dependence), this was strongly positive: lower import bill, improved trade balance, and reduced input cost inflation. Combined with weak global demand from tariff shock, oil stayed subdued through FY26.</div>
+          <div class="ev-kpis">Affects: trade_balance, cpi_inflation, gdp_growth, fiscal_deficit <a href="https://www.cnbc.com/2025/05/03/opec-agrees-another-accelerated-oil-output-hike-for-june-sources-say.html" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-05-24</div>
+          <div class="ev-label">SW Monsoon Earliest Kerala Onset Since 2009 <span class="ev-mag">MEDIUM</span></div>
+          <div class="ev-desc">Southwest monsoon arrived over Kerala on May 24, 2025 — 8 days ahead of the normal June 1 onset, earliest since 2009. IMD's long-range forecast: 106% of Long Period Average (LPA) — above-normal season. Spread rapidly to Mumbai and peninsular India within 2 days. Bullish for Kharif crop output, rural income, and — critically — vegetable prices (key driver of CPI). Early onset combined with above-normal forecast set the stage for the CPI collapse to record low 0.25% by October 2025.</div>
+          <div class="ev-kpis">Affects: cpi_inflation, gdp_growth, bank_credit_growth <a href="https://www.business-standard.com/india-news/india-monsoon-2025-kerala-onset-imd-forecast-rainfall-125052400509_1.html" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-06-04</div>
+          <div class="ev-label">RBI MPC Jun-25: Surprise 50bps Cut → 5.50% <span class="ev-mag">HIGH</span></div>
+          <div class="ev-desc">MPC delivered a larger-than-expected 50bps cut (vs. consensus 25bps), bringing repo rate to 5.50%. Vote was 5-1 (one member dissented for 25bps). RBI characterised this as shifting policy from 'restrictive' to 'neutral' territory. Growth concern intensified by US tariff uncertainty and softer H1 IIP data. CPI at record lows gave RBI room for larger action. Bond yields fell sharply. Marked the start of an accelerated easing cycle — RBI's most aggressive rate cut decision since 2020.</div>
+          <div class="ev-kpis">Affects: repo_rate, bank_credit_growth, inr_usd, gdp_growth, cpi_inflation <a href="https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154573" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-neu">
+          <div class="ev-date">2025-07-30</div>
+          <div class="ev-label">Fed FOMC: Holds Rates at 4.25–4.50% <span class="ev-mag">LOW</span></div>
+          <div class="ev-desc">US Federal Reserve held the federal funds rate unchanged at 4.25–4.50% at its July 29–30 meeting. Fed cited need to assess the lagged impact of tariffs on inflation and growth. Hold was widely expected. For India: neutral — no new EM capital flow disruption. RBI continued its own rate cut cycle independently, as India-US monetary policy cycles remained partly de-linked through H1 FY26.</div>
+          <div class="ev-kpis">Affects: inr_usd, forex_reserves, bank_credit_growth <a href="https://www.federalreserve.gov/monetarypolicy/fomcminutes20250730.htm" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-neu">
+          <div class="ev-date">2025-08-06</div>
+          <div class="ev-label">RBI MPC Aug-25: Holds at 5.50% <span class="ev-mag">LOW</span></div>
+          <div class="ev-desc">MPC held repo rate at 5.50% — pause after back-to-back cuts in April and June. RBI cited need to assess the evolving impact of US tariffs on India's growth and trade outlook, and to monitor whether above-normal monsoon was translating into lower food prices. Inflation at near-record lows but RBI maintained neutral stance. Bond markets and rupee relatively stable. Consistent with RBI's data-dependent approach — next move dependent on CPI and tariff resolution.</div>
+          <div class="ev-kpis">Affects: repo_rate, bank_credit_growth, inr_usd <a href="https://rbi.org.in/scripts/annualpolicy.aspx" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-neg">
+          <div class="ev-date">2025-08-27</div>
+          <div class="ev-label">US Adds 25% Additional Tariff on India (Total 50%) <span class="ev-mag">HIGH</span></div>
+          <div class="ev-desc">US imposed an additional 25% tariff on India, bringing the total effective rate to 50% (10% baseline + 25% reciprocal from Apr-2 + 25% additional). Triggered by stalled trade negotiations after the 90-day pause expired without a deal. INR came under renewed pressure. India's export-oriented sectors — textiles, leather, gems & jewellery — faced severe competitiveness challenges. RBI intervened in forex markets. The escalation strengthened urgency for bilateral trade deal negotiations, eventually resulting in the Feb 2026 agreement.</div>
+          <div class="ev-kpis">Affects: inr_usd, trade_balance, gdp_growth, forex_reserves <a href="https://kpmg.com/in/en/insights/2025/09/us-tariff-shifts-tariff-revisions-and-their-impact-on-india.html" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-09-01</div>
+          <div class="ev-label">India Monsoon 2025 Season: 106% LPA Confirmed <span class="ev-mag">MEDIUM</span></div>
+          <div class="ev-desc">India's 2025 Southwest monsoon season ended with cumulative rainfall at 106% of Long Period Average — above-normal for the second consecutive year. Kharif sowing was strong; reservoir levels at 10-year highs. Effect on food prices materialised dramatically: vegetable prices fell -22% YoY by October 2025, driving CPI to a record low of 0.25%. Rural income recovery supported Two-Wheeler demand (record Sept 2025 2W sales). Agriculture credit growth revived. Confirmed the most positive agricultural monsoon in recent years.</div>
+          <div class="ev-kpis">Affects: cpi_inflation, gdp_growth, bank_credit_growth, auto_sales <a href="https://mausam.imd.gov.in/responsive/monsooninformation.php" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-09-17</div>
+          <div class="ev-label">Fed FOMC Sep-25: Cuts 25bps → 4.00–4.25% <span class="ev-mag">MEDIUM</span></div>
+          <div class="ev-desc">Fed cut the federal funds rate by 25bps to 4.00–4.25% at the September 16–17 meeting. Resumption of Fed easing cycle (first cut since May 2025 hold). EM inflows modestly positive as US-India rate differential narrowed further. India bond market rally supported. INR stabilised despite ongoing tariff concerns. RBI's August hold and Fed's September cut maintained the positive carry for Indian fixed income relative to US Treasuries, supporting FPI debt flows in H2 FY26.</div>
+          <div class="ev-kpis">Affects: inr_usd, forex_reserves, bank_credit_growth <a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-10-05</div>
+          <div class="ev-label">OPEC+ Modest Production Hike from November <span class="ev-mag">LOW</span></div>
+          <div class="ev-desc">OPEC+ agreed to a modest additional production increase effective November 2025, continuing the market share recapture strategy begun in May 2025. Brent remained below $70/barrel. For India: continued low import bill, reduced fuel subsidy pressure, and modest positive for fiscal deficit (lower oil subsidies) and trade balance (lower import value). The sustained low oil price environment through FY26 was a significant tailwind for India's macro fundamentals, partially offsetting export headwinds from US tariffs.</div>
+          <div class="ev-kpis">Affects: trade_balance, cpi_inflation, fiscal_deficit <a href="https://www.cnbc.com/2025/10/05/opec-raises-oil-production-again-with-modest-a-hike-from-november.html" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-neu">
+          <div class="ev-date">2025-10-08</div>
+          <div class="ev-label">RBI MPC Oct-25: Holds at 5.50% <span class="ev-mag">LOW</span></div>
+          <div class="ev-desc">MPC held repo rate unchanged at 5.50% — second consecutive hold. Neutral stance maintained. By October, credit growth was re-accelerating (11.1% YoY) and Q1 FY26 GDP had printed a strong 7.8%. RBI signalled it was in a data-watching mode before resuming cuts. October IIP was weak (0.4% — Diwali seasonal effect) but underlying momentum appeared intact. Market consensus shifted to a December cut given sustained CPI below 4% and growth holding up despite tariff drag.</div>
+          <div class="ev-kpis">Affects: repo_rate, bank_credit_growth <a href="https://prsindia.org/policy/monthly-policy-review/october-2025" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-12-09</div>
+          <div class="ev-label">Fed FOMC Dec-25: Cuts to 3.50–3.75% (Total -75bps in H2 FY26) <span class="ev-mag">MEDIUM</span></div>
+          <div class="ev-desc">Fed cut rates by 25bps to 3.50–3.75% at the December 9–10 meeting, ending 2025 with total cuts of 75bps in H2 FY26 (Sep, Nov, Dec). Decision was not unanimous — dissent reflected internal Fed debate about pace. Fed's cumulative FY26 easing cycle created a more benign global capital flow environment for India. US-India rate differential: Fed at 3.75% vs RBI at 5.25% (post-December cut) = positive 150bps carry for India, supporting FPI fixed income inflows and INR stability.</div>
+          <div class="ev-kpis">Affects: inr_usd, forex_reserves, bank_credit_growth <a href="https://www.rbc.com/en/economics/us-analysis/us-data-flashes/fomc-decision-fed-ends-2025-with-a-cut-but-dissent-reflects-growing-divide/" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2025-12-10</div>
+          <div class="ev-label">RBI MPC Dec-25: Cuts 25bps → 5.25% (100bps Total FY26) <span class="ev-mag">MEDIUM</span></div>
+          <div class="ev-desc">MPC unanimously cut repo rate by 25bps to 5.25%. Cumulative FY26 rate cuts reached 100bps (from 6.25% at start of FY26). RBI cited sustained low inflation (CPI recovering from 0.25% Oct low but still below 3%), solid GDP growth trajectory, and improved credit growth. Bank credit growth had re-accelerated to 14.4% by Dec 2025. The Dec-25 cut marked the end of the active cut cycle — RBI signalled a pause to assess transmission of the 100bps already delivered. Market priced in one more cut in H1 FY27.</div>
+          <div class="ev-kpis">Affects: repo_rate, bank_credit_growth, gdp_growth, inr_usd <a href="https://www.icra.in/Research/ViewResearchReport/6662" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2026-02-01</div>
+          <div class="ev-label">Union Budget FY2026-27: 4.4% GDP Deficit, Capex ₹11.21L Cr <span class="ev-mag">MEDIUM</span></div>
+          <div class="ev-desc">Union Budget FY2026-27 presented on February 1, 2026. Key macro parameters: fiscal deficit target maintained at 4.4% of GDP (same as FY26 revised estimate), demonstrating fiscal consolidation path continuity. Capital expenditure of ₹11.21 lakh crore (3.1% of GDP) — largest ever capex outlay. Income tax relief for middle class (zero tax up to ₹12L income). GDP growth projected at 7.0-7.4% for FY27. Budget seen as growth-oriented while maintaining fiscal discipline — bond markets positive, INR stable.</div>
+          <div class="ev-kpis">Affects: fiscal_deficit, gdp_growth, bank_credit_growth, gst_collections <a href="https://www.indiabudget.gov.in/doc/bh1.pdf" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2026-02-02</div>
+          <div class="ev-label">India-US Trade Deal: Tariffs Reduced to 18%, INR Rallies <span class="ev-mag">HIGH</span></div>
+          <div class="ev-desc">Modi-Trump call announced framework Interim Trade Agreement: US reduced effective tariff on India from 50% to 18% (10% baseline + 8% reciprocal). US removed the additional 25% tariff added in August. India committed to purchasing $500B of US energy, aircraft, and technology products over 5 years, and stopped purchasing Russian oil. INR rallied ~1% to 90.26 vs USD on deal announcement. Nifty 50 closed +2.5%. Export-oriented sectors (textiles, gems) recovered sharply. Full bilateral trade agreement (BTA) negotiations to continue. Most significant bilateral trade development in decades.</div>
+          <div class="ev-kpis">Affects: inr_usd, trade_balance, gdp_growth, forex_reserves <a href="https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-the-united-states-and-india-announce-historic-trade-deal/" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-neu">
+          <div class="ev-date">2026-02-06</div>
+          <div class="ev-label">RBI MPC Feb-26: Holds at 5.25% — Prolonged Pause Signalled <span class="ev-mag">LOW</span></div>
+          <div class="ev-desc">MPC held repo rate unchanged at 5.25% — 5:1 vote for neutral stance (one member voted for accommodative). RBI Governor signalled a 'prolonged pause' to allow the 100bps of FY26 cuts to fully transmit through the credit system. CPI inflation projected at 2.1% for FY26 — well below 4% target. GDP growth forecast raised to 7.4% for FY26. WALR (weighted average lending rate) had fallen 105bps in response to 125bps of total cuts (including Feb-25). Bond markets interpreted guidance as: no more cuts in H1 FY27 unless macro deteriorates.</div>
+          <div class="ev-kpis">Affects: repo_rate, bank_credit_growth, gdp_growth <a href="https://www.unionbankofindia.bank.in/pdf/india-feb-26-mpc-status-quo-policy-prolonged-pause-on-rates-signalled.pdf" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2026-02-27</div>
+          <div class="ev-label">NSO GDP Base Year Revision: FY26 Growth 7.6% (New 2022-23 Base) <span class="ev-mag">MEDIUM</span></div>
+          <div class="ev-desc">National Statistical Office released Second Advance Estimate of FY26 GDP under new base year (2022-23=100), replacing the old 2011-12=100 series. Key revisions: FY26 annual GDP growth raised to 7.6% (from 7.4% in old series). FY2023-24 growth dramatically revised DOWN from 9.2% to 7.2% — significant historical revision. New series showed Q3 FY26 at 7.8% (consistent with 7.8% in old series). The base year change brought India's GDP methodology closer to international standards. Fiscal deficit ratios recalculated on new GDP denominator. Markets focused on the headline improvement to 7.6% for FY26.</div>
+          <div class="ev-kpis">Affects: gdp_growth, fiscal_deficit <a href="https://www.mospi.gov.in/" target="_blank" class="ev-src">source ↗</a></div>
+        </div>
+        <div class="ev-card ev-pos">
+          <div class="ev-date">2026-03-28</div>
+          <div class="ev-label">IIP Feb-26: 5.2% — Capital Goods +12.5% Signals Investment Revival <span class="ev-mag">LOW</span></div>
+          <div class="ev-desc">MoSPI released IIP Quick Estimate for February 2026: 5.2% YoY (Manufacturing 6.0%, Mining 3.1%, Electricity 2.3%). Use-based breakdown revealed Capital Goods +12.5% and Infrastructure/Construction +11.2% — strongest signal of private investment recovery in FY26. Consumer non-durables -0.6% (rural consumption still normalising). The data confirmed H2 FY26 industrial momentum: Dec 7.8%, Jan 4.8%, Feb 5.2% — averaging ~6% vs ~2% in H1. Strong capital goods growth supported RBI's assessment that private capex cycle was beginning to turn alongside the public capex push in the budget.</div>
+          <div class="ev-kpis">Affects: iip, gdp_growth, bank_credit_growth <a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2246871" target="_blank" class="ev-src">source ↗</a></div>
+        </div></div>
+    </section>
+
+  <footer class="dash-footer">
+    <p>All data sourced from primary official releases (RBI, MoSPI, NPCI, SIAM, CEA, DGCA, CGA, Ministry of Commerce).</p>
+    <p>Signals are rule-based (deterministic thresholds). Commentary is analytical, not investment advice.</p>
+    <p>Generated 06 Apr 2026, 00:26 | Confidence: HIGH = directly from official source | MEDIUM = secondary official | LOW = proxy/estimated</p>
+  </footer>
+
+</div>
+</body>
+</html>

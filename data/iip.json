@@ -1,0 +1,128 @@
+{
+  "kpi_id": "iip",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI), Government of India",
+  "source_url": "https://www.mospi.gov.in/iip",
+  "source_url_pib_latest": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2246871",
+  "current_value": 5.2,
+  "unit": "percent YoY growth (base 2011-12=100)",
+  "as_of": "February 2026",
+  "as_of_release_date": "2026-03-28",
+  "change_from_prev": 0.4,
+  "direction": "up",
+  "is_provisional": true,
+  "data_confidence": "high",
+  "data_notes": "All monthly IIP values are Quick Estimates (QE) subject to revision. MoSPI revised release timeline to 28th of every month (from 42 days). March 2026 data not yet available (expected April 28, 2026). MoSPI has announced a base year revision for IIP (current base 2011-12=100) — new series expected May 2026.",
+  "base_year": "2011-12=100",
+  "series": [
+    {
+      "date": "Apr-25",
+      "value": 2.7,
+      "manufacturing": 3.4,
+      "mining": -0.2,
+      "electricity": 1.1,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released June 2025 — PIB prid=2132055. 'India's Index of industrial production records growth of 2.7% in April 2025.' Mining -0.2%, Manufacturing 3.4%, Electricity 1.1%."
+    },
+    {
+      "date": "May-25",
+      "value": 1.2,
+      "manufacturing": null,
+      "mining": null,
+      "electricity": null,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released July 2025 — PIB prid=2140774. 'India's Index of industrial production records growth of 1.2% in May 2025.' Sector breakdown not retrieved."
+    },
+    {
+      "date": "Jun-25",
+      "value": 1.5,
+      "manufacturing": 3.9,
+      "mining": -8.7,
+      "electricity": -2.6,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released July 2025 — PIB prid=2149266. 'India's Index of Industrial Production records growth of 1.5% in June 2025.' Mining -8.7% (monsoon impact on coal/iron ore), Manufacturing 3.9%, Electricity -2.6%."
+    },
+    {
+      "date": "Jul-25",
+      "value": 3.5,
+      "manufacturing": 5.4,
+      "mining": -7.2,
+      "electricity": 0.6,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released August 2025 — PIB prid=2161516. 'India's Index of industrial production records growth of 3.5% in July 2025.' Manufacturing 5.4%, Mining -7.2%, Electricity 0.6%. Key contributors: basic metals +12.7%, electrical equipment +15.9%. Cited in IBEF and Business Standard citing PIB."
+    },
+    {
+      "date": "Aug-25",
+      "value": 4.0,
+      "manufacturing": 3.8,
+      "mining": 6.0,
+      "electricity": 4.1,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released September 2025 — PIB prid=2172702. 'India's Index of industrial production records growth of 4.0% in August 2025.' Mining 6.0%, Manufacturing 3.8%, Electricity 4.1%."
+    },
+    {
+      "date": "Sep-25",
+      "value": 4.0,
+      "manufacturing": 4.8,
+      "mining": -0.4,
+      "electricity": 3.1,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released October 2025 — PIB prid=2183312. 'India's Index of industrial production records growth of 4.0% in September 2025.' Manufacturing 4.8%, Mining -0.4%, Electricity 3.1%. Cited in Republic World citing official PIB."
+    },
+    {
+      "date": "Oct-25",
+      "value": 0.4,
+      "manufacturing": 1.8,
+      "mining": -1.8,
+      "electricity": -6.9,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released December 1, 2025 — PIB prid=2196938. 'India's Index of industrial production records growth of 0.4% in October 2025.' Manufacturing 1.8%, Mining -1.8%, Electricity -6.9%. Sharply lower — attributed to festival-related fewer working days (Diwali) and electricity demand drop. vs 3.7% in Oct 2024."
+    },
+    {
+      "date": "Nov-25",
+      "value": 7.2,
+      "manufacturing": null,
+      "mining": null,
+      "electricity": null,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate — revised to 7.2% (initially reported 6.7% in PIB prid=2209434, later revised). Business Standard and IBEF cite 7.2% as revised figure. Strong rebound from Oct low of 0.4%."
+    },
+    {
+      "date": "Dec-25",
+      "value": 7.8,
+      "manufacturing": 8.1,
+      "mining": 6.8,
+      "electricity": 6.3,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released January 28, 2026 — PIB prid=2219602. 'India's Index of industrial production records growth of 7.8% in December 2025.' Manufacturing 8.1%, Mining 6.8%, Electricity 6.3%. Highest growth in FY26. Business Standard: 'industrial output rises to 7.8% in Dec 2025 against 7.2% in Nov.'"
+    },
+    {
+      "date": "Jan-26",
+      "value": 4.8,
+      "manufacturing": 4.8,
+      "mining": 4.3,
+      "electricity": 5.1,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released February 28, 2026 — PIB (January 2026 release). Manufacturing 4.8%, Mining 4.3%, Electricity 5.1%. Key contributors: basic metals 13.2%, motor vehicles 10.9%, non-metallic minerals 9.9%. Infrastructure/construction goods 13.7%. Business Standard: 'India's industrial output falls to 4.8% in Jan 2026 against 8% in Dec 2025.'"
+    },
+    {
+      "date": "Feb-26",
+      "value": 5.2,
+      "manufacturing": 6.0,
+      "mining": 3.1,
+      "electricity": 2.3,
+      "is_provisional": true,
+      "source": "MoSPI NSO Quick Estimate, released March 28, 2026 — PIB prid=2246871. 'QUICK ESTIMATE OF INDEX OF INDUSTRIAL PRODUCTION AND USE-BASED INDEX FOR THE MONTH OF FEBRUARY 2026 (BASE 2011-12=100).' Manufacturing 6.0%, Mining 3.1%, Electricity 2.3%. Use-based: Capital goods 12.5%, Infrastructure/Construction 11.2%, Consumer durables 7.3%, Consumer non-durables -0.6%."
+    },
+    {
+      "date": "Mar-26",
+      "value": null,
+      "manufacturing": null,
+      "mining": null,
+      "electricity": null,
+      "is_provisional": true,
+      "source": "Not yet released. Expected April 28, 2026. ACTION: Populate from mospi.gov.in/iip when released."
+    }
+  ],
+  "notes": "FY26 IIP shows a volatile but recovering trajectory. H1 weak (Apr-Jun: 2.7%, 1.2%, 1.5%) driven by monsoon impact on mining and base effects. H2 acceleration (Nov: 7.2%, Dec: 7.8%) driven by manufacturing rebound. October 2025 was an outlier low (0.4%) due to festive-month fewer working days and electricity seasonality. Manufacturing (weight ~77%) is the key swing factor. Mining repeatedly dragged in rainy months (Jun, Jul). Capital goods growth strong in Jan-Feb 2026 — positive signal for private investment."
+}

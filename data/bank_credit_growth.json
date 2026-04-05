@@ -1,0 +1,122 @@
+{
+  "kpi_id": "bank_credit_growth",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "Reserve Bank of India — Sectoral Deployment of Bank Credit (41 select scheduled commercial banks, ~95% of total non-food credit)",
+  "source_url": "https://rbi.org.in/Scripts/Data_Sectoral_Deployment.aspx",
+  "current_value": 14.3,
+  "unit": "percent YoY (non-food bank credit)",
+  "as_of": "Fortnight ended February 28, 2026",
+  "as_of_release_date": "2026-03-30",
+  "change_from_prev": 0.0,
+  "direction": "flat",
+  "is_provisional": false,
+  "data_confidence": "high",
+  "data_notes": "RBI publishes sectoral deployment of bank credit fortnightly; we use end-of-month fortnight as the representative monthly figure. Data covers 41 select SCBs (~95% of total non-food credit). March 2026 end-month data not yet available as of April 5, 2026 (RBI typically releases with ~4-5 week lag). Each entry's source_note captures the fortnight date used. Credit growth decelerated sharply from 12% (Mar-25) to ~10% (Jul-Sep 2025) before rebounding to 14.3-14.4% (Dec 2025-Feb 2026) — this re-acceleration drove the RBI's willingness to cut rates.",
+  "series": [
+    {
+      "date": "Apr-25",
+      "value": 11.2,
+      "prev_year": 15.3,
+      "fortnight": "April 18, 2025",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — fortnight ended April 18, 2025. Non-food credit 11.2% YoY vs 15.3% in corresponding period prior year. Agriculture 9.2% (vs 19.8%), Industry 6.7% (vs 6.9%), Services 11.2% (vs 19.5% — NBFC credit slowdown), Personal loans 14.5% (vs 17%). Cited in c4scourses.in and Business Standard citing official RBI release."
+    },
+    {
+      "date": "May-25",
+      "value": 9.8,
+      "prev_year": 16.2,
+      "fortnight": "May 30, 2025",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — fortnight ended May 30, 2025. Non-food credit 9.8% YoY vs 16.2% prior year. Agriculture 7.5% (vs 21.6%), Industry 4.9% (vs 8.9%). Facebook/Business Standard citing official RBI data: 'RBI data shows May 2025 bank credit growth fell to 9.8%'."
+    },
+    {
+      "date": "Jun-25",
+      "value": 10.2,
+      "prev_year": 13.8,
+      "fortnight": "June 27, 2025",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — fortnight ended June 27, 2025. Non-food credit 10.2% YoY vs 13.8% prior year. Agriculture 6.8% (vs 17.4%), Industry 5.5% (vs 7.7%). The Tribune and multiple sources citing RBI official release."
+    },
+    {
+      "date": "Jul-25",
+      "value": 10.0,
+      "prev_year": 13.6,
+      "fortnight": "July 2025",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — July 2025 fortnight. Non-food credit 10.0% YoY vs 13.6% prior year. ICICIdirect citing RBI: 'non food bank credit growth moderated to 10 yoy in July 2025'."
+    },
+    {
+      "date": "Aug-25",
+      "value": 10.0,
+      "prev_year": null,
+      "fortnight": "August 2025",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — August 2025 fortnight. Non-food credit 10% YoY. ICICIdirect citing RBI: 'non food credit grows by 10 in August 2025'."
+    },
+    {
+      "date": "Sep-25",
+      "value": 10.2,
+      "prev_year": 13.0,
+      "fortnight": "September 19, 2025",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — fortnight ended September 19, 2025. Non-food credit 10.2% YoY vs 13.0% prior year. Business Standard citing official RBI release."
+    },
+    {
+      "date": "Oct-25",
+      "value": 11.1,
+      "prev_year": 11.7,
+      "fortnight": "October 31, 2025",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — fortnight ended October 31, 2025. Non-food credit 11.1% YoY vs 11.7% prior year. Business Standard citing official RBI release."
+    },
+    {
+      "date": "Nov-25",
+      "value": 11.4,
+      "prev_year": 10.6,
+      "fortnight": "November 28, 2025",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — fortnight ended November 28, 2025. Non-food credit 11.4% YoY vs 10.6% prior year. Industry credit 9.6% YoY. Upstox citing RBI: 'non-food bank credit rises by 11.4%'. First month where FY26 pace exceeds prior year pace."
+    },
+    {
+      "date": "Dec-25",
+      "value": 14.4,
+      "prev_year": 11.1,
+      "fortnight": "December 2025",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — December 2025. Non-food credit 14.4% YoY vs 11.1% prior year. Business Standard: 'Non-food credit growth accelerates to 14.4% Y-o-Y in Dec 2025'. Sharp acceleration — credit growth exceeds prior year for first time by significant margin."
+    },
+    {
+      "date": "Jan-26",
+      "value": 14.0,
+      "prev_year": 11.0,
+      "fortnight": "January 2026",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — January 2026. Non-food credit 14% YoY vs 11% prior year. Multiple sources citing RBI data including hellobanker.in and bizzbuzz.news citing official RBI release."
+    },
+    {
+      "date": "Feb-26",
+      "value": 14.3,
+      "prev_year": 11.1,
+      "fortnight": "February 28, 2026",
+      "is_provisional": false,
+      "source": "RBI Sectoral Deployment of Bank Credit — fortnight ended February 28, 2026. Non-food credit 14.3% YoY vs 11.1% prior year. Industry 13.5% (vs 7.5%), Agriculture 12.3% (vs 11.4%), Personal loans 15.2% (vs 11.7%). The Tribune and bignewsnetwork citing RBI official release, data released March 30, 2026."
+    },
+    {
+      "date": "Mar-26",
+      "value": null,
+      "prev_year": 12.0,
+      "fortnight": null,
+      "is_provisional": true,
+      "source": "Not yet released as of April 5, 2026. Previous year (March 2025) was 12.0% (Business Standard). ACTION: Populate from rbi.org.in/Scripts/Data_Sectoral_Deployment.aspx when released."
+    }
+  ],
+  "sectoral_latest": {
+    "as_of": "February 28, 2026",
+    "industry": 13.5,
+    "agriculture": 12.3,
+    "personal_loans": 15.2,
+    "services": null,
+    "source": "RBI Sectoral Deployment data, released March 30, 2026"
+  },
+  "notes": "Non-food bank credit growth decelerated sharply from 12% (Mar-25) to ~10% (May-Sep 2025) as RBI tightened lending norms for personal loans and NBFCs in late FY25. Recovery began in Oct 2025 (11.1%) and accelerated to 14.3-14.4% by Dec 2025-Feb 2026 driven by industry credit revival (13.5% in Feb), personal loans rebound (15.2%), and improved economic momentum. The re-acceleration in H2 FY26 supports RBI's rate cut cycle (100bps total) and the GDP growth pickup."
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "period": "Apr 2025 - Mar 2026",
+  "last_updated": "2026-04-05T03:00:00.000000",
+  "sessions_completed": [
+    {
+      "session": "B",
+      "completed_at": "2026-04-05T18:14:46.270971"
+    },
+    {
+      "session": "C",
+      "completed_at": "2026-04-05T20:30:00.000000"
+    },
+    {
+      "session": "D",
+      "completed_at": "2026-04-05T22:00:00.000000"
+    },
+    {
+      "session": "E",
+      "completed_at": "2026-04-05T23:30:00.000000"
+    },
+    {
+      "session": "F",
+      "completed_at": "2026-04-05T01:00:00.000000"
+    },
+    {
+      "session": "G",
+      "completed_at": "2026-04-05T03:00:00.000000"
+    }
+  ],
+  "kpis": {
+    "repo_rate": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T20:30:00.000000",
+      "file": "data/repo_rate.json"
+    },
+    "cpi_inflation": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T22:00:00.000000",
+      "file": "data/cpi_inflation.json"
+    },
+    "gdp_growth": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T20:30:00.000000",
+      "file": "data/gdp_growth.json"
+    },
+    "inr_usd": {
+      "status": "manual_required",
+      "fetched_at": "2026-04-05T18:14:46.270968",
+      "file": "data/inr_usd.json"
+    },
+    "forex_reserves": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T18:14:46.270923",
+      "file": "data/forex_reserves.json"
+    },
+    "iip": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T01:00:00.000000",
+      "file": "data/iip.json"
+    },
+    "trade_balance": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T23:30:00.000000",
+      "file": "data/trade_balance.json"
+    },
+    "fiscal_deficit": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T23:30:00.000000",
+      "file": "data/fiscal_deficit.json"
+    },
+    "bank_credit_growth": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T01:00:00.000000",
+      "file": "data/bank_credit_growth.json"
+    },
+    "gst_collections": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T22:00:00.000000",
+      "file": "data/gst_collections.json"
+    },
+    "upi_transactions": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T18:14:46.270965",
+      "file": "data/upi_transactions.json"
+    },
+    "auto_sales": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T03:00:00.000000",
+      "file": "data/auto_sales.json"
+    },
+    "electricity_consumption": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T03:00:00.000000",
+      "file": "data/electricity_consumption.json",
+      "notes": "Partial series — only Aug/Nov/Dec 2025 have confirmed BU values. data_confidence=medium. Remaining months null pending manual CEA PDF retrieval."
+    },
+    "air_passenger_traffic": {
+      "status": "complete",
+      "fetched_at": "2026-04-05T03:00:00.000000",
+      "file": "data/air_passenger_traffic.json",
+      "notes": "Partial series — Apr/Jun/Aug 2025 null. Nov-25 and Feb-26 are derived from official cumulative DGCA figures."
+    }
+  },
+  "events": {
+    "status": "complete",
+    "fetched_at": "2026-04-05T04:00:00.000000",
+    "file": "data/events.json",
+    "notes": "20 events: 6 RBI MPC, 4 US tariff/trade, 2 Fed FOMC, 2 OPEC+, 2 India monsoon, 2 India data, 1 Union Budget, 1 India-US trade deal"
+  },
+  "commentary": {
+    "status": "complete",
+    "fetched_at": "2026-04-05T04:00:00.000000",
+    "file": "data/commentary.json",
+    "notes": "Macro narrative + per-KPI commentary for all 14 KPIs. No API credits used."
+  }
+}

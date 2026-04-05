@@ -1,0 +1,132 @@
+{
+  "kpi_id": "trade_balance",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "Ministry of Commerce and Industry, Government of India",
+  "source_url": "https://www.commerce.gov.in/trade-statistics/latest-trade-figures/",
+  "source_url_pib_latest": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2240674",
+  "current_value": -27.10,
+  "unit": "USD billion (merchandise trade balance, negative = deficit)",
+  "as_of": "February 2026",
+  "as_of_release_date": "2026-03-14",
+  "change_from_prev": 7.58,
+  "change_pct": null,
+  "direction": "up",
+  "is_provisional": false,
+  "data_confidence": "high",
+  "data_notes": "March 2026 data not yet released as of April 5, 2026 (expected mid-April 2026). Monthly figures for May, Jun, Jul, Nov 2025 are DERIVED from differences between official cumulative PIB releases — derivation noted on each entry. All derived values are fully consistent with official cumulative data. This is merchandise trade only (goods); services trade balance is NOT included. India has a structural services surplus (~$15-20B/month) that partially offsets the goods deficit.",
+  "fy26_cumulative_exports_usd_bn": 402.93,
+  "fy26_cumulative_imports_usd_bn": 713.53,
+  "fy26_cumulative_deficit_usd_bn": -310.60,
+  "fy26_period": "April 2025 - February 2026 (11 months)",
+  "series": [
+    {
+      "date": "Apr-25",
+      "exports": 38.49,
+      "imports": 64.91,
+      "balance": -26.42,
+      "is_provisional": false,
+      "is_derived": false,
+      "source": "Ministry of Commerce PIB release, released May 2025 — PIB prid=2128909. Merchandise exports $38.49Bn (+9% YoY from $35.30Bn in Apr 2024). Merchandise imports $64.91Bn (+19% YoY from $54.49Bn). Combined merch+services exports $73.80Bn (+12.70% YoY)."
+    },
+    {
+      "date": "May-25",
+      "exports": 38.70,
+      "imports": 60.61,
+      "balance": -21.91,
+      "is_provisional": false,
+      "is_derived": true,
+      "source": "DERIVED: (Apr-May cumulative) minus (April alone). Apr-May merch: Exp $77.19Bn, Imp $125.52Bn (PIB prid=2136680). Apr: Exp $38.49Bn, Imp $64.91Bn. May = $38.70Bn exp, $60.61Bn imp."
+    },
+    {
+      "date": "Jun-25",
+      "exports": 34.98,
+      "imports": 53.92,
+      "balance": -18.94,
+      "is_provisional": false,
+      "is_derived": true,
+      "source": "DERIVED: (Apr-Jun cumulative) minus (Apr-May cumulative). Apr-Jun merch: Exp $112.17Bn, Imp $179.44Bn (PIB prid=2144870). Apr-May: Exp $77.19Bn, Imp $125.52Bn. June = $34.98Bn exp, $53.92Bn imp."
+    },
+    {
+      "date": "Jul-25",
+      "exports": 37.03,
+      "imports": 64.57,
+      "balance": -27.54,
+      "is_provisional": false,
+      "is_derived": true,
+      "source": "DERIVED: (Apr-Jul cumulative) minus (Apr-Jun cumulative). Apr-Jul merch: Exp $149.20Bn, Imp $244.01Bn (PIB prid=2156504). Apr-Jun: Exp $112.17Bn, Imp $179.44Bn. July = $37.03Bn exp, $64.57Bn imp."
+    },
+    {
+      "date": "Aug-25",
+      "exports": 35.10,
+      "imports": 61.59,
+      "balance": -26.49,
+      "is_provisional": false,
+      "is_derived": false,
+      "source": "Official PIB/Ministry of Commerce data: merchandise trade deficit narrowed to $26.49Bn in August 2025; imports $61.59Bn (fell from $64.57Bn in July). Exports $35.10Bn. Cited in Nikkei Asia citing official Ministry of Commerce release."
+    },
+    {
+      "date": "Sep-25",
+      "exports": 36.38,
+      "imports": 68.53,
+      "balance": -32.15,
+      "is_provisional": false,
+      "is_derived": false,
+      "source": "Official PIB release, released October 2025. Merchandise exports $36.38Bn (+6.75% YoY from $34.08Bn). Imports $68.53Bn (+16.7% YoY from $58.74Bn). Trade deficit +30.37% YoY to $32.15Bn. April-September 2025 cumulative deficit $154.98Bn (PIB prid=2179604). Key import driver: electronics, fertilisers, gold, silver."
+    },
+    {
+      "date": "Oct-25",
+      "exports": 34.38,
+      "imports": 76.06,
+      "balance": -41.68,
+      "is_provisional": false,
+      "is_derived": false,
+      "source": "Official PIB/MoCI data. Exports $34.38Bn (vs $38.98Bn in Oct 2024, -11.8%). Imports $76.06Bn (vs $65.21Bn in Oct 2024, +16.6%). Merchandise deficit hit ALL-TIME HIGH of $41.68Bn in October 2025. Gold imports $14.7Bn — up ~200% YoY (festive season + pre-import tariff stocking). Cited in CNBC citing Ministry of Commerce official data."
+    },
+    {
+      "date": "Nov-25",
+      "exports": 37.53,
+      "imports": 63.98,
+      "balance": -26.45,
+      "is_provisional": false,
+      "is_derived": true,
+      "source": "DERIVED: (Apr-Dec merch exports $330.29Bn - Dec $38.51Bn = Apr-Nov $291.78Bn) minus (Apr-Oct $254.25Bn) = Nov $37.53Bn. Similarly imports: ($578.61 - $63.55) - $451.08 = $63.98Bn. Deficit $26.45Bn. Consistent with DD News report 'India exports rise 15.5% in November 2025, trade deficit narrows' from official MoCI data."
+    },
+    {
+      "date": "Dec-25",
+      "exports": 38.51,
+      "imports": 63.55,
+      "balance": -25.04,
+      "is_provisional": false,
+      "is_derived": false,
+      "source": "Official PIB/MoCI data, released January 2026. Merchandise exports $38.51Bn (vs $37.80Bn in Dec 2024). Imports $63.55Bn (vs $58.43Bn in Dec 2024). Apr-Dec cumulative: Exp $330.29Bn, Imp $578.61Bn (PIB prid=2214961)."
+    },
+    {
+      "date": "Jan-26",
+      "exports": 36.56,
+      "imports": 71.24,
+      "balance": -34.68,
+      "is_provisional": false,
+      "is_derived": false,
+      "source": "Official PIB release, released February 2026 — PIB prid=2228785. Merchandise exports $36.56Bn (vs $36.34Bn in Jan 2025). Imports $71.24Bn (vs $59.77Bn in Jan 2025). Large import surge driven by gold, oil, electronics. Apr-Jan cumulative: Exp $366.37Bn, Imp $644.82Bn."
+    },
+    {
+      "date": "Feb-26",
+      "exports": 36.61,
+      "imports": 63.71,
+      "balance": -27.10,
+      "is_provisional": false,
+      "is_derived": false,
+      "source": "Official PIB release, released March 2026 — PIB prid=2240674. Merchandise exports $36.61Bn (vs $36.91Bn in Feb 2025, -0.8%). Imports $63.71Bn (vs $51.33Bn, +24.1%). Apr-Feb cumulative: Exp $402.93Bn (+1.84% YoY), Imp $713.53Bn. Cumulative merchandise deficit Apr-Feb: $310.60Bn."
+    },
+    {
+      "date": "Mar-26",
+      "exports": null,
+      "imports": null,
+      "balance": null,
+      "is_provisional": true,
+      "is_derived": false,
+      "source": "Not yet released as of April 5, 2026. Expected: Ministry of Commerce PIB release mid-April 2026. ACTION: Populate when released. commerce.gov.in/trade-statistics/latest-trade-figures/"
+    }
+  ],
+  "notes": "FY26 merchandise trade deficit widened significantly vs FY25. October 2025 set all-time high deficit of $41.7Bn driven by gold import surge (+200% YoY) in festive season. Full year FY26 cumulative (Apr-Feb): exports $402.93Bn (+1.84% YoY), imports $713.53Bn (+8.5% YoY), deficit $310.60Bn (11 months). India's trade deficit structurally driven by oil, gold, and electronics imports. Services trade surplus (~$15-17Bn/month) partially offsets goods deficit, resulting in lower current account deficit."
+}

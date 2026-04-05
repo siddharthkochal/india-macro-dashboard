@@ -1,0 +1,143 @@
+{
+  "kpi_id": "fiscal_deficit",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "Controller General of Accounts (CGA), Ministry of Finance, Government of India",
+  "source_url": "https://cga.nic.in/MonthlyReport/Published/2/2025-2026.aspx",
+  "source_url_dashboard": "https://cga.nic.in/MonthDashboardReport/Published/list.aspx",
+  "current_value": 80.4,
+  "current_value_secondary": 1252649,
+  "unit": "percent of Revised Estimate (BE = RE for FY26)",
+  "unit_secondary": "crore rupees (cumulative Apr 2025 - Feb 2026)",
+  "as_of": "February 2026 (11 months: April 2025 - February 2026)",
+  "as_of_release_date": "2026-03-31",
+  "change_from_prev": 17.4,
+  "direction": "up",
+  "is_provisional": false,
+  "data_confidence": "high",
+  "data_notes": "March 2026 data not yet available (FY26 final accounts expected April 2026). January 2026 crore amount is derived from the official 63.0%-of-RE percentage; the percentage itself is from the CGA official page. FY26 full year Budget Estimate (BE) = Rs.15,68,936 crore (4.4% of GDP). Revised Estimate (RE) = Rs.15,58,019 crore (derived from Feb 2026 data: 12,52,649 / 0.804 = 15,58,019). Note: CGA cautions that monthly fiscal deficit figures are not necessarily an indicator of the full-year deficit due to temporal mismatches in receipt and expenditure flows. Surplus months (Sep, Dec) reflect advance tax payment inflows.",
+  "fy26_be_crore": 1568936,
+  "fy26_re_crore": 1558019,
+  "fy26_be_pct_gdp": 4.4,
+  "full_year_target_pct_gdp": 4.4,
+  "series": [
+    {
+      "date": "Apr-25",
+      "cumulative_deficit_crore": 186332,
+      "pct_of_be": 11.9,
+      "pct_of_re": null,
+      "prev_year_pct": 13.0,
+      "is_provisional": false,
+      "note": "first month; April is always a deficit-heavy month (spending starts, tax receipts lag)",
+      "source": "CGA Union Government Accounts, April 2025 — cga.nic.in/MonthlyReport/Published/4/2025-2026.aspx"
+    },
+    {
+      "date": "May-25",
+      "cumulative_deficit_crore": 13163,
+      "pct_of_be": 0.8,
+      "pct_of_re": null,
+      "prev_year_pct": null,
+      "is_provisional": false,
+      "note": "Apr-May cumulative drops to 0.8% — May had a massive surplus (~₹1.73 lakh crore) due to advance tax and year-end settlement receipts from FY25 flowing in. This seasonal surplus is normal and expected.",
+      "source": "CGA Union Government Accounts, May 2025 — cga.nic.in/MonthlyReport/Published/5/2025-2026.aspx"
+    },
+    {
+      "date": "Jun-25",
+      "cumulative_deficit_crore": 280732,
+      "pct_of_be": 17.9,
+      "pct_of_re": null,
+      "prev_year_pct": 8.4,
+      "is_provisional": false,
+      "note": "Q1 FY26 end; higher than prior year (8.4%) reflecting front-loaded spending",
+      "source": "CGA Union Government Accounts, June 2025 — cga.nic.in/MonthlyReport/Published/6/2025-2026.aspx"
+    },
+    {
+      "date": "Jul-25",
+      "cumulative_deficit_crore": 468416,
+      "pct_of_be": 29.9,
+      "pct_of_re": null,
+      "prev_year_pct": null,
+      "is_provisional": false,
+      "source": "CGA Union Government Accounts, July 2025 — cga.nic.in/MonthlyReport/Published/7/2025-2026.aspx"
+    },
+    {
+      "date": "Aug-25",
+      "cumulative_deficit_crore": 598153,
+      "pct_of_be": 38.1,
+      "pct_of_re": null,
+      "prev_year_pct": 27.0,
+      "is_provisional": false,
+      "note": "Significantly higher than prior year's 27.0% at same point — fiscal deficit tracking above FY25 pace",
+      "source": "CGA Union Government Accounts, August 2025 — cga.nic.in/MonthlyReport/Published/8/2025-2026.aspx"
+    },
+    {
+      "date": "Sep-25",
+      "cumulative_deficit_crore": 573123,
+      "pct_of_be": 36.5,
+      "pct_of_re": null,
+      "prev_year_pct": 29.4,
+      "is_provisional": false,
+      "note": "H1 FY26 end (Apr-Sep). Drops from Aug (38.1% to 36.5%) — September Q2 advance tax deadline (Sept 15) brought large inflows. Prior year was 29.4% — FY26 still tracking higher.",
+      "source": "CGA Union Government Accounts, September 2025 — cga.nic.in/MonthlyReport/Published/9/2025-2026.aspx"
+    },
+    {
+      "date": "Oct-25",
+      "cumulative_deficit_crore": 825144,
+      "pct_of_be": 52.6,
+      "pct_of_re": null,
+      "prev_year_pct": 46.5,
+      "is_provisional": false,
+      "note": "Jumps sharply to 52.6% — October is a heavy spending month (Q2 advance payment and festive/election-related expenditure). Prior year was 46.5%.",
+      "source": "CGA Union Government Accounts, October 2025 — cga.nic.in/MonthlyReport/Published/10/2025-2026.aspx"
+    },
+    {
+      "date": "Nov-25",
+      "cumulative_deficit_crore": 976671,
+      "pct_of_be": 62.3,
+      "pct_of_re": null,
+      "prev_year_pct": null,
+      "is_provisional": false,
+      "source": "CGA Union Government Accounts, November 2025 — cga.nic.in/MonthlyReport/Published/11/2025-2026.aspx. Total Revenue Receipts: ₹19,10,312cr (55.9% of BE). Total Expenditure: ₹29,25,910cr (57.8% of BE)."
+    },
+    {
+      "date": "Dec-25",
+      "cumulative_deficit_crore": 855842,
+      "pct_of_be": 54.5,
+      "pct_of_re": null,
+      "prev_year_pct": 56.7,
+      "is_provisional": false,
+      "note": "Q3 FY26 end (Apr-Dec). Drops from Nov (62.3% to 54.5%) — December Q3 advance tax deadline (Dec 15) brought substantial inflows, creating a December monthly surplus. Prior year was 56.7% — FY26 now slightly better vs prior year at this point.",
+      "source": "CGA Union Government Accounts, December 2025 — cga.nic.in/MonthlyReport/Published/12/2025-2026.aspx. Total Revenue Receipts: ₹24,79,109cr (72.5% of BE). Total Expenditure: ₹33,80,998cr (66.7% of BE)."
+    },
+    {
+      "date": "Jan-26",
+      "cumulative_deficit_crore": 981552,
+      "pct_of_be": null,
+      "pct_of_re": 63.0,
+      "prev_year_pct": null,
+      "is_provisional": false,
+      "note": "Crore amount DERIVED from official 63.0% of RE: 0.63 × 15,58,019 = 9,81,552 crore. The RE of ₹15,58,019 crore is derived from the February 2026 data. CGA January page showed RE = ₹15,58,019 crore.",
+      "source": "CGA Union Government Accounts, January 2026 — cga.nic.in/MonthlyReport/Published/1/2025-2026.aspx. Fiscal deficit 63.0% of RE. Revenue Receipts ₹26,51,525cr (79.3% of RE). Total Expenditure ₹36,90,061cr (74.3% of RE)."
+    },
+    {
+      "date": "Feb-26",
+      "cumulative_deficit_crore": 1252649,
+      "pct_of_be": null,
+      "pct_of_re": 80.4,
+      "prev_year_pct": null,
+      "is_provisional": false,
+      "note": "Latest available (11 months Apr-Feb). Large jump from Jan (63.0% to 80.4%) — February is typically heavy on government expenditure ahead of fiscal year-end. Full year likely to close at 95-100% of RE (target: 4.4% of GDP). Revenue Receipts ₹27,26,396cr; Expenditure ₹40,44,592cr.",
+      "source": "CGA Union Government Accounts, February 2026 — cga.nic.in/MonthlyReport/Published/2/2025-2026.aspx. Fiscal deficit Rs.12,52,649 crore = 80.4% of RE."
+    },
+    {
+      "date": "Mar-26",
+      "cumulative_deficit_crore": null,
+      "pct_of_be": null,
+      "pct_of_re": null,
+      "prev_year_pct": null,
+      "is_provisional": true,
+      "note": "Not yet available. FY26 final accounts expected April 2026. ACTION: Full year final data from cga.nic.in when available.",
+      "source": "Not yet released. Source when available: cga.nic.in/MonthlyReport/Published/3/2025-2026.aspx"
+    }
+  ],
+  "notes": "FY26 fiscal deficit target: 4.4% of GDP (Rs.15.69 lakh crore BE). At Feb 2026 end (11 months), Rs.12.53 lakh crore = 80.4% of RE. Tracking slightly above prior year pace in early months but December tax receipts brought it back in line. Pattern of deficit surges (Apr, Aug, Oct, Feb) and surplus months (May, Sep, Dec) reflects India's advance tax payment schedule. Full-year outcome expected close to 4.4% of GDP target. March 2026 data will confirm final FY26 fiscal deficit."
+}

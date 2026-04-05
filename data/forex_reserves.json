@@ -1,0 +1,94 @@
+{
+  "kpi_id": "forex_reserves",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "Reserve Bank of India",
+  "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=61516",
+  "source_url_secondary": "https://www.rbi.org.in/scripts/WSSViewDetail.aspx?PARAM1=2&TYPE=Section",
+  "current_value": 688.05,
+  "unit": "USD billion",
+  "unit_secondary": "months of imports",
+  "as_of": "Week ended March 27, 2026",
+  "as_of_release_date": "2026-04-04",
+  "change_from_prev_week": -11.41,
+  "direction": "down",
+  "is_provisional": false,
+  "data_confidence": "high",
+  "data_notes": "Monthly end-period figures for May, Jun, Aug 2025 interpolated between confirmed anchor points from RBI half-yearly report and RBI WSS press releases. Interpolated months marked is_provisional:true. All anchor points are from RBI primary sources.",
+  "peak_value": 728.49,
+  "peak_date": "Week ended February 27, 2026",
+  "series": [
+    {
+      "date": "Apr-25",
+      "value": 668.33,
+      "is_provisional": false,
+      "source": "RBI Half-Yearly Report Apr-Sep 2025 (prid=61516): start-of-period figure"
+    },
+    {
+      "date": "May-25",
+      "value": 678.5,
+      "is_provisional": true,
+      "source": "Interpolated between Apr start ($668.33bn) and Jul-25 anchor ($698.19bn)"
+    },
+    {
+      "date": "Jun-25",
+      "value": 688.4,
+      "is_provisional": true,
+      "source": "Interpolated between Apr start ($668.33bn) and Jul-25 anchor ($698.19bn)"
+    },
+    {
+      "date": "Jul-25",
+      "value": 698.19,
+      "is_provisional": false,
+      "source": "RBI WSS press release week ended July 25, 2025 — cited in DD News (rbi.org.in primary)"
+    },
+    {
+      "date": "Aug-25",
+      "value": 699.2,
+      "is_provisional": true,
+      "source": "Interpolated between Jul-25 ($698.19bn) and Sep-25 end ($700.09bn) from RBI half-yearly report"
+    },
+    {
+      "date": "Sep-25",
+      "value": 700.09,
+      "is_provisional": false,
+      "source": "RBI Half-Yearly Report Apr-Sep 2025 (prid=61516): end-of-period figure"
+    },
+    {
+      "date": "Oct-25",
+      "value": 696.0,
+      "is_provisional": true,
+      "source": "Interpolated between Sep-25 end ($700.09bn) and Nov-14 anchor ($692.57bn)"
+    },
+    {
+      "date": "Nov-25",
+      "value": 692.57,
+      "is_provisional": false,
+      "source": "RBI WSS press release week ended November 14, 2025 — cited in IBEF news (rbi.org.in primary)"
+    },
+    {
+      "date": "Dec-25",
+      "value": 688.95,
+      "is_provisional": false,
+      "source": "RBI WSS press release week ended December 12, 2025 — cited in DD News (rbi.org.in primary)"
+    },
+    {
+      "date": "Jan-26",
+      "value": 701.4,
+      "is_provisional": false,
+      "source": "RBI WSS press release week ended January 16, 2026 — cited in DD News (rbi.org.in primary)"
+    },
+    {
+      "date": "Feb-26",
+      "value": 728.49,
+      "is_provisional": false,
+      "source": "RBI WSS press release week ended February 27, 2026 — all-time high. Cited in Business Standard (rbi.org.in primary)"
+    },
+    {
+      "date": "Mar-26",
+      "value": 688.05,
+      "is_provisional": false,
+      "source": "RBI WSS press release week ended March 27, 2026 — fell $30.5bn in March amid RBI FX intervention. Cited in Business Standard (rbi.org.in primary)"
+    }
+  ],
+  "notes": "India's forex reserves hit ATH of $728.49bn in Feb 2026, then fell sharply by $30.5bn in March 2026 due to RBI FX intervention to defend INR amid global risk-off and USD strength. Import cover ~10.8 months throughout period."
+}

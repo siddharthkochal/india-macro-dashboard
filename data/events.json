@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0",
+  "period": "Apr 2025 - Mar 2026",
+  "fetched_at": "2026-04-05T00:00:00",
+  "events": [
+    {
+      "id": "evt_001",
+      "date": "2025-04-02",
+      "label": "US Liberation Day Tariffs",
+      "category": "global_trade",
+      "impact_kpis": ["inr_usd", "forex_reserves", "trade_balance", "gdp_growth", "repo_rate"],
+      "impact_direction": "negative",
+      "magnitude": "high",
+      "source_url": "https://en.wikipedia.org/wiki/Liberation_Day_tariffs",
+      "description": "US President Trump announced sweeping 'Liberation Day' reciprocal tariffs, imposing 26% tariff on Indian goods (10% baseline + 16% reciprocal). INR fell sharply to 87+ vs USD — one of Asia's largest single-day currency moves. Global risk-off triggered broad EM selloff. India's export outlook clouded, particularly textiles, gems & jewellery, and leather. Pharmaceuticals exempted. RBI intervened in forex markets to limit INR volatility."
+    },
+    {
+      "id": "evt_002",
+      "date": "2025-04-09",
+      "label": "US 90-Day Tariff Pause for India",
+      "category": "global_trade",
+      "impact_kpis": ["inr_usd", "forex_reserves", "trade_balance", "gdp_growth"],
+      "impact_direction": "positive",
+      "magnitude": "high",
+      "source_url": "https://www.india-briefing.com/news/us-halts-26-tariffs-on-indian-goods-for-90-days-36872.html/",
+      "description": "Trump announced 90-day pause on reciprocal tariffs above 10% for 75+ countries including India. Markets gapped up sharply on opening: Sensex +1,244 points, Nifty 50 +400 points. INR recovered from Liberation Day shock. India and US had begun bilateral trade negotiations — the pause provided diplomatic space. Baseline 10% tariff remained in effect during pause period. Trade deal negotiations fast-tracked following Feb 2025 Modi-Trump summit."
+    },
+    {
+      "id": "evt_003",
+      "date": "2025-04-09",
+      "label": "RBI MPC Apr-25: Repo Rate Cut 25bps → 6.00%",
+      "category": "rbi_mpc",
+      "impact_kpis": ["repo_rate", "bank_credit_growth", "inr_usd", "gdp_growth"],
+      "impact_direction": "positive",
+      "magnitude": "medium",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2120509",
+      "description": "MPC unanimously cut repo rate by 25bps to 6.00%, maintaining neutral stance. Second consecutive cut (Feb-25 cut from 6.50% → 6.25% preceded this). RBI prioritised growth support as US tariff uncertainty clouded the global outlook. GDP growth forecast for FY26 maintained at 7.0%. CPI inflation tracking below 4% target. Start of FY26 rate cut cycle — first April cut since 2020."
+    },
+    {
+      "id": "evt_004",
+      "date": "2025-05-03",
+      "label": "OPEC+ Surprise Accelerated Production Hike",
+      "category": "commodities",
+      "impact_kpis": ["trade_balance", "cpi_inflation", "gdp_growth", "fiscal_deficit"],
+      "impact_direction": "positive",
+      "magnitude": "high",
+      "source_url": "https://www.cnbc.com/2025/05/03/opec-agrees-another-accelerated-oil-output-hike-for-june-sources-say.html",
+      "description": "OPEC+ announced production hike 3x larger than originally planned, beginning June 2025. Brent crude plunged to ~$58/barrel — lowest since February 2021. Driven by Saudi Arabia's move to punish quota non-compliant members (Iraq, Kazakhstan) and reclaim market share from US shale. For India (net oil importer, ~85% import dependence), this was strongly positive: lower import bill, improved trade balance, and reduced input cost inflation. Combined with weak global demand from tariff shock, oil stayed subdued through FY26."
+    },
+    {
+      "id": "evt_005",
+      "date": "2025-05-24",
+      "label": "SW Monsoon Earliest Kerala Onset Since 2009",
+      "category": "india_monsoon",
+      "impact_kpis": ["cpi_inflation", "gdp_growth", "bank_credit_growth"],
+      "impact_direction": "positive",
+      "magnitude": "medium",
+      "source_url": "https://www.business-standard.com/india-news/india-monsoon-2025-kerala-onset-imd-forecast-rainfall-125052400509_1.html",
+      "description": "Southwest monsoon arrived over Kerala on May 24, 2025 — 8 days ahead of the normal June 1 onset, earliest since 2009. IMD's long-range forecast: 106% of Long Period Average (LPA) — above-normal season. Spread rapidly to Mumbai and peninsular India within 2 days. Bullish for Kharif crop output, rural income, and — critically — vegetable prices (key driver of CPI). Early onset combined with above-normal forecast set the stage for the CPI collapse to record low 0.25% by October 2025."
+    },
+    {
+      "id": "evt_006",
+      "date": "2025-06-04",
+      "label": "RBI MPC Jun-25: Surprise 50bps Cut → 5.50%",
+      "category": "rbi_mpc",
+      "impact_kpis": ["repo_rate", "bank_credit_growth", "inr_usd", "gdp_growth", "cpi_inflation"],
+      "impact_direction": "positive",
+      "magnitude": "high",
+      "source_url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154573",
+      "description": "MPC delivered a larger-than-expected 50bps cut (vs. consensus 25bps), bringing repo rate to 5.50%. Vote was 5-1 (one member dissented for 25bps). RBI characterised this as shifting policy from 'restrictive' to 'neutral' territory. Growth concern intensified by US tariff uncertainty and softer H1 IIP data. CPI at record lows gave RBI room for larger action. Bond yields fell sharply. Marked the start of an accelerated easing cycle — RBI's most aggressive rate cut decision since 2020."
+    },
+    {
+      "id": "evt_007",
+      "date": "2025-07-30",
+      "label": "Fed FOMC: Holds Rates at 4.25–4.50%",
+      "category": "global_monetary",
+      "impact_kpis": ["inr_usd", "forex_reserves", "bank_credit_growth"],
+      "impact_direction": "neutral",
+      "magnitude": "low",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250730.htm",
+      "description": "US Federal Reserve held the federal funds rate unchanged at 4.25–4.50% at its July 29–30 meeting. Fed cited need to assess the lagged impact of tariffs on inflation and growth. Hold was widely expected. For India: neutral — no new EM capital flow disruption. RBI continued its own rate cut cycle independently, as India-US monetary policy cycles remained partly de-linked through H1 FY26."
+    },
+    {
+      "id": "evt_008",
+      "date": "2025-08-06",
+      "label": "RBI MPC Aug-25: Holds at 5.50%",
+      "category": "rbi_mpc",
+      "impact_kpis": ["repo_rate", "bank_credit_growth", "inr_usd"],
+      "impact_direction": "neutral",
+      "magnitude": "low",
+      "source_url": "https://rbi.org.in/scripts/annualpolicy.aspx",
+      "description": "MPC held repo rate at 5.50% — pause after back-to-back cuts in April and June. RBI cited need to assess the evolving impact of US tariffs on India's growth and trade outlook, and to monitor whether above-normal monsoon was translating into lower food prices. Inflation at near-record lows but RBI maintained neutral stance. Bond markets and rupee relatively stable. Consistent with RBI's data-dependent approach — next move dependent on CPI and tariff resolution."
+    },
+    {
+      "id": "evt_009",
+      "date": "2025-08-27",
+      "label": "US Adds 25% Additional Tariff on India (Total 50%)",
+      "category": "global_trade",
+      "impact_kpis": ["inr_usd", "trade_balance", "gdp_growth", "forex_reserves"],
+      "impact_direction": "negative",
+      "magnitude": "high",
+      "source_url": "https://kpmg.com/in/en/insights/2025/09/us-tariff-shifts-tariff-revisions-and-their-impact-on-india.html",
+      "description": "US imposed an additional 25% tariff on India, bringing the total effective rate to 50% (10% baseline + 25% reciprocal from Apr-2 + 25% additional). Triggered by stalled trade negotiations after the 90-day pause expired without a deal. INR came under renewed pressure. India's export-oriented sectors — textiles, leather, gems & jewellery — faced severe competitiveness challenges. RBI intervened in forex markets. The escalation strengthened urgency for bilateral trade deal negotiations, eventually resulting in the Feb 2026 agreement."
+    },
+    {
+      "id": "evt_010",
+      "date": "2025-09-01",
+      "label": "India Monsoon 2025 Season: 106% LPA Confirmed",
+      "category": "india_monsoon",
+      "impact_kpis": ["cpi_inflation", "gdp_growth", "bank_credit_growth", "auto_sales"],
+      "impact_direction": "positive",
+      "magnitude": "medium",
+      "source_url": "https://mausam.imd.gov.in/responsive/monsooninformation.php",
+      "description": "India's 2025 Southwest monsoon season ended with cumulative rainfall at 106% of Long Period Average — above-normal for the second consecutive year. Kharif sowing was strong; reservoir levels at 10-year highs. Effect on food prices materialised dramatically: vegetable prices fell -22% YoY by October 2025, driving CPI to a record low of 0.25%. Rural income recovery supported Two-Wheeler demand (record Sept 2025 2W sales). Agriculture credit growth revived. Confirmed the most positive agricultural monsoon in recent years."
+    },
+    {
+      "id": "evt_011",
+      "date": "2025-09-17",
+      "label": "Fed FOMC Sep-25: Cuts 25bps → 4.00–4.25%",
+      "category": "global_monetary",
+      "impact_kpis": ["inr_usd", "forex_reserves", "bank_credit_growth"],
+      "impact_direction": "positive",
+      "magnitude": "medium",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm",
+      "description": "Fed cut the federal funds rate by 25bps to 4.00–4.25% at the September 16–17 meeting. Resumption of Fed easing cycle (first cut since May 2025 hold). EM inflows modestly positive as US-India rate differential narrowed further. India bond market rally supported. INR stabilised despite ongoing tariff concerns. RBI's August hold and Fed's September cut maintained the positive carry for Indian fixed income relative to US Treasuries, supporting FPI debt flows in H2 FY26."
+    },
+    {
+      "id": "evt_012",
+      "date": "2025-10-05",
+      "label": "OPEC+ Modest Production Hike from November",
+      "category": "commodities",
+      "impact_kpis": ["trade_balance", "cpi_inflation", "fiscal_deficit"],
+      "impact_direction": "positive",
+      "magnitude": "low",
+      "source_url": "https://www.cnbc.com/2025/10/05/opec-raises-oil-production-again-with-modest-a-hike-from-november.html",
+      "description": "OPEC+ agreed to a modest additional production increase effective November 2025, continuing the market share recapture strategy begun in May 2025. Brent remained below $70/barrel. For India: continued low import bill, reduced fuel subsidy pressure, and modest positive for fiscal deficit (lower oil subsidies) and trade balance (lower import value). The sustained low oil price environment through FY26 was a significant tailwind for India's macro fundamentals, partially offsetting export headwinds from US tariffs."
+    },
+    {
+      "id": "evt_013",
+      "date": "2025-10-08",
+      "label": "RBI MPC Oct-25: Holds at 5.50%",
+      "category": "rbi_mpc",
+      "impact_kpis": ["repo_rate", "bank_credit_growth"],
+      "impact_direction": "neutral",
+      "magnitude": "low",
+      "source_url": "https://prsindia.org/policy/monthly-policy-review/october-2025",
+      "description": "MPC held repo rate unchanged at 5.50% — second consecutive hold. Neutral stance maintained. By October, credit growth was re-accelerating (11.1% YoY) and Q1 FY26 GDP had printed a strong 7.8%. RBI signalled it was in a data-watching mode before resuming cuts. October IIP was weak (0.4% — Diwali seasonal effect) but underlying momentum appeared intact. Market consensus shifted to a December cut given sustained CPI below 4% and growth holding up despite tariff drag."
+    },
+    {
+      "id": "evt_014",
+      "date": "2025-12-09",
+      "label": "Fed FOMC Dec-25: Cuts to 3.50–3.75% (Total -75bps in H2 FY26)",
+      "category": "global_monetary",
+      "impact_kpis": ["inr_usd", "forex_reserves", "bank_credit_growth"],
+      "impact_direction": "positive",
+      "magnitude": "medium",
+      "source_url": "https://www.rbc.com/en/economics/us-analysis/us-data-flashes/fomc-decision-fed-ends-2025-with-a-cut-but-dissent-reflects-growing-divide/",
+      "description": "Fed cut rates by 25bps to 3.50–3.75% at the December 9–10 meeting, ending 2025 with total cuts of 75bps in H2 FY26 (Sep, Nov, Dec). Decision was not unanimous — dissent reflected internal Fed debate about pace. Fed's cumulative FY26 easing cycle created a more benign global capital flow environment for India. US-India rate differential: Fed at 3.75% vs RBI at 5.25% (post-December cut) = positive 150bps carry for India, supporting FPI fixed income inflows and INR stability."
+    },
+    {
+      "id": "evt_015",
+      "date": "2025-12-10",
+      "label": "RBI MPC Dec-25: Cuts 25bps → 5.25% (100bps Total FY26)",
+      "category": "rbi_mpc",
+      "impact_kpis": ["repo_rate", "bank_credit_growth", "gdp_growth", "inr_usd"],
+      "impact_direction": "positive",
+      "magnitude": "medium",
+      "source_url": "https://www.icra.in/Research/ViewResearchReport/6662",
+      "description": "MPC unanimously cut repo rate by 25bps to 5.25%. Cumulative FY26 rate cuts reached 100bps (from 6.25% at start of FY26). RBI cited sustained low inflation (CPI recovering from 0.25% Oct low but still below 3%), solid GDP growth trajectory, and improved credit growth. Bank credit growth had re-accelerated to 14.4% by Dec 2025. The Dec-25 cut marked the end of the active cut cycle — RBI signalled a pause to assess transmission of the 100bps already delivered. Market priced in one more cut in H1 FY27."
+    },
+    {
+      "id": "evt_016",
+      "date": "2026-02-01",
+      "label": "Union Budget FY2026-27: 4.4% GDP Deficit, Capex ₹11.21L Cr",
+      "category": "india_fiscal",
+      "impact_kpis": ["fiscal_deficit", "gdp_growth", "bank_credit_growth", "gst_collections"],
+      "impact_direction": "positive",
+      "magnitude": "medium",
+      "source_url": "https://www.indiabudget.gov.in/doc/bh1.pdf",
+      "description": "Union Budget FY2026-27 presented on February 1, 2026. Key macro parameters: fiscal deficit target maintained at 4.4% of GDP (same as FY26 revised estimate), demonstrating fiscal consolidation path continuity. Capital expenditure of ₹11.21 lakh crore (3.1% of GDP) — largest ever capex outlay. Income tax relief for middle class (zero tax up to ₹12L income). GDP growth projected at 7.0-7.4% for FY27. Budget seen as growth-oriented while maintaining fiscal discipline — bond markets positive, INR stable."
+    },
+    {
+      "id": "evt_017",
+      "date": "2026-02-02",
+      "label": "India-US Trade Deal: Tariffs Reduced to 18%, INR Rallies",
+      "category": "global_trade",
+      "impact_kpis": ["inr_usd", "trade_balance", "gdp_growth", "forex_reserves"],
+      "impact_direction": "positive",
+      "magnitude": "high",
+      "source_url": "https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-the-united-states-and-india-announce-historic-trade-deal/",
+      "description": "Modi-Trump call announced framework Interim Trade Agreement: US reduced effective tariff on India from 50% to 18% (10% baseline + 8% reciprocal). US removed the additional 25% tariff added in August. India committed to purchasing $500B of US energy, aircraft, and technology products over 5 years, and stopped purchasing Russian oil. INR rallied ~1% to 90.26 vs USD on deal announcement. Nifty 50 closed +2.5%. Export-oriented sectors (textiles, gems) recovered sharply. Full bilateral trade agreement (BTA) negotiations to continue. Most significant bilateral trade development in decades."
+    },
+    {
+      "id": "evt_018",
+      "date": "2026-02-06",
+      "label": "RBI MPC Feb-26: Holds at 5.25% — Prolonged Pause Signalled",
+      "category": "rbi_mpc",
+      "impact_kpis": ["repo_rate", "bank_credit_growth", "gdp_growth"],
+      "impact_direction": "neutral",
+      "magnitude": "low",
+      "source_url": "https://www.unionbankofindia.bank.in/pdf/india-feb-26-mpc-status-quo-policy-prolonged-pause-on-rates-signalled.pdf",
+      "description": "MPC held repo rate unchanged at 5.25% — 5:1 vote for neutral stance (one member voted for accommodative). RBI Governor signalled a 'prolonged pause' to allow the 100bps of FY26 cuts to fully transmit through the credit system. CPI inflation projected at 2.1% for FY26 — well below 4% target. GDP growth forecast raised to 7.4% for FY26. WALR (weighted average lending rate) had fallen 105bps in response to 125bps of total cuts (including Feb-25). Bond markets interpreted guidance as: no more cuts in H1 FY27 unless macro deteriorates."
+    },
+    {
+      "id": "evt_019",
+      "date": "2026-02-27",
+      "label": "NSO GDP Base Year Revision: FY26 Growth 7.6% (New 2022-23 Base)",
+      "category": "india_data",
+      "impact_kpis": ["gdp_growth", "fiscal_deficit"],
+      "impact_direction": "positive",
+      "magnitude": "medium",
+      "source_url": "https://www.mospi.gov.in/",
+      "description": "National Statistical Office released Second Advance Estimate of FY26 GDP under new base year (2022-23=100), replacing the old 2011-12=100 series. Key revisions: FY26 annual GDP growth raised to 7.6% (from 7.4% in old series). FY2023-24 growth dramatically revised DOWN from 9.2% to 7.2% — significant historical revision. New series showed Q3 FY26 at 7.8% (consistent with 7.8% in old series). The base year change brought India's GDP methodology closer to international standards. Fiscal deficit ratios recalculated on new GDP denominator. Markets focused on the headline improvement to 7.6% for FY26."
+    },
+    {
+      "id": "evt_020",
+      "date": "2026-03-28",
+      "label": "IIP Feb-26: 5.2% — Capital Goods +12.5% Signals Investment Revival",
+      "category": "india_data",
+      "impact_kpis": ["iip", "gdp_growth", "bank_credit_growth"],
+      "impact_direction": "positive",
+      "magnitude": "low",
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2246871",
+      "description": "MoSPI released IIP Quick Estimate for February 2026: 5.2% YoY (Manufacturing 6.0%, Mining 3.1%, Electricity 2.3%). Use-based breakdown revealed Capital Goods +12.5% and Infrastructure/Construction +11.2% — strongest signal of private investment recovery in FY26. Consumer non-durables -0.6% (rural consumption still normalising). The data confirmed H2 FY26 industrial momentum: Dec 7.8%, Jan 4.8%, Feb 5.2% — averaging ~6% vs ~2% in H1. Strong capital goods growth supported RBI's assessment that private capex cycle was beginning to turn alongside the public capex push in the budget."
+    }
+  ]
+}

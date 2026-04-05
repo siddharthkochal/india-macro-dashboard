@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "period": "Apr 2025 - Mar 2026",
+  "written_at": "2026-04-05T00:00:00",
+  "data_vintage": "As of April 5, 2026. March 2026 data not yet released for most KPIs.",
+
+  "headline": {
+    "title": "India FY26: Growth Holds at 7.6% as RBI Cuts 100bps — A Year of Easing Through Global Headwinds",
+    "risk_tone": "cautiously_bullish",
+    "risk_tone_label": "Cautiously Bullish",
+    "summary": "India navigated FY2025-26 with remarkable macro resilience. Real GDP grew 7.6% (new 2022-23 base year), the fastest among large economies. The Reserve Bank of India delivered 100bps of rate cuts — the most aggressive easing since 2019 — as record-low CPI (0.25% in October) gave the MPC exceptional room to support growth. US Liberation Day tariffs (April 2025) imposed a 26% levy on Indian goods, escalated to 50% in August, before a landmark trade deal in February 2026 brought effective rates down to 18%. Throughout, India's fundamentals held: GST collections hit a ₹2.37 lakh crore all-time high in April 2025 and FY26 total crossed ₹22.27 lakh crore (+8.3%); the fiscal deficit tracked the 4.4% of GDP target; and bank credit growth re-accelerated to 14.3% by February 2026. The combination of good monsoon (106% of LPA), lower oil (Brent ~$58-65 range), rate cuts, and strong government capex execution set India on a solid footing entering FY27."
+  },
+
+  "macro_narrative": {
+    "what_happened": "FY26 unfolded in two distinct halves. H1 (April–September 2025) was characterised by external headwinds and domestic resilience: US tariffs roiled markets in April, OPEC+ surprised with aggressive production hikes (Brent fell to multi-year lows — bullish for India), an early and above-normal monsoon depressed food prices sharply, and IIP printed weak (1.2%–4.0%). RBI responded with a cumulative 75bps of cuts by September (25bps in April + 50bps in June). H2 (October 2025–March 2026) saw a decisive turn: industrial output accelerated (7.2% in November, 7.8% in December), credit growth re-accelerated to 14%+, the festive season drove record auto and GST numbers, and the India-US trade deal in February 2026 resolved the tariff overhang. RBI cut a further 25bps in December and held in February, signalling the transmission phase.",
+
+    "why_it_matters": "The 100bps RBI rate cut cycle, combined with fiscal discipline (deficit tracking 4.4% of GDP target) and structural credit revival (bank credit +14.3%), has set the stage for a sustained private investment cycle in FY27. Capital goods IIP growth of 12.5% in February 2026 is the first concrete signal of private capex revival, complementing the government's ₹11.21 lakh crore capex budget for FY27. The India-US trade deal removes a key tail risk and opens US market access for Indian exporters. The primary risks entering FY27 are: (1) INR volatility — the rupee was Asia's weakest currency through much of FY26, trading at 87–90 range; (2) consumer non-durables growth remaining subdued (-0.6% in Feb IIP), suggesting rural mass consumption is still normalising; and (3) the full Brent price impact on import costs if oil recovers.",
+
+    "rbi_verbatim_quote": "The Indian economy continues on a steadily improving trajectory, with real GDP poised to register significantly higher growth of 7.4% in FY25-26. The monetary policy transmission has been working — WALR for fresh loans has declined by 105 basis points in response to the cumulative 125 basis points of repo rate reduction. We are now in a phase of assessment, allowing the rate cuts already delivered to work their way through the system.",
+    "rbi_quote_source": "RBI Governor Sanjay Malhotra, MPC Resolution, February 6, 2026",
+
+    "investor_note": "India screens as a structural overweight in the EM universe for the following reasons: (1) Highest major-economy growth at 7.6% FY26; (2) Fiscal discipline maintained through a challenging year (4.4% GDP deficit); (3) Rate cycle working in the right direction — 100bps of cuts with room for more in H2 FY27; (4) Trade deal with the US removes the tariff tail risk that hung over markets for 10 months; (5) Credit growth re-acceleration to 14%+ supports earnings. Key risk to monitor: INR trajectory at 87–90 range is a headwind for foreign investors in INR-denominated assets unless the trade deal underpins currency stability."
+  },
+
+  "kpi_commentary": {
+    "repo_rate": {
+      "what": "RBI cut the repo rate by a cumulative 100bps in FY26 — from 6.25% (inherited from the February 2025 cut) to 5.25% by December 2025. The June 2025 cut was an unusual 50bps (5:1 vote), the largest single cut since 2020. February 2026 MPC held at 5.25%.",
+      "why": "The MPC was enabled by exceptional CPI conditions: vegetable deflation drove headline CPI to a record low of 0.25% in October 2025, well below the 4% target. Simultaneously, US tariff uncertainty created a downside growth risk that the MPC judged warranted pre-emptive easing. The June 50bps cut reflected urgency — RBI governor Malhotra prioritised growth support over cautious incrementalism.",
+      "outlook": "The February 2026 hold and the signalling of a 'prolonged pause' suggest the next 25bps cut will depend on whether CPI stays below 4% into Q1 FY27 (expected 4.0–4.2% per RBI projections) and whether private investment definitively accelerates. Market consensus: one more 25bps cut in H2 FY27, bringing terminal rate to 5.00%."
+    },
+
+    "cpi_inflation": {
+      "what": "CPI (old 2012=100 series) fell from 3.16% in April 2025 to a record low of 0.25% in October 2025 — driven almost entirely by vegetable deflation (-22% YoY). It recovered to 1.33% in December 2025. From January 2026, MoSPI switched to new 2024=100 base year: Jan-26 = 2.75%, Feb-26 = 3.21%. The two series are NOT directly comparable.",
+      "why": "Vegetable prices collapsed as an excellent monsoon (106% LPA) boosted Kharif output — onion, tomato, and potato prices fell sharply. Core inflation (ex-food, ex-fuel) remained anchored at 3–4% throughout, suggesting the low headline was entirely supply-side driven. The base year switch from 2012=100 to 2024=100 is a technical change — 2024 basket has higher services weight and more representative consumption patterns.",
+      "outlook": "Under the new 2024=100 series, MoSPI and RBI project Q4 FY26 CPI at 3.2% and Q1 FY27 at 4.0%. The vegetable deflation base effect will reverse by mid-FY27 as prices normalise. Core inflation at ~3.5% is manageable. March 2026 CPI (due April 13, 2026) will be the first clean print on the new series for Q4 FY26."
+    },
+
+    "gdp_growth": {
+      "what": "India's real GDP growth for FY26 is estimated at 7.6% (NSO Second Advance Estimate, February 27, 2026, new 2022-23 base year). Quarterly: Q1 FY26 = 7.8%, Q2 = 8.4%, Q3 = 7.8%. The GDP series was revised with new base year — FY23-24 was significantly revised DOWN from 9.2% to 7.2%; FY26 revised UP from 7.4% to 7.6%.",
+      "why": "Growth was broad-based: manufacturing activity recovered sharply in H2 (IIP Dec: 7.8%); government capex execution was front-loaded; services remained robust. RBI's rate cuts and the credit revival in H2 FY26 supported consumption. The Q2 FY26 8.4% print was the highest quarterly growth in FY26 — driven partly by a low base from Q2 FY25.",
+      "outlook": "RBI projects FY27 GDP at 7.4–7.5%. The capex budget (₹11.21 lakh crore) and trade deal with the US are additive upside risks. Private capex signals (capital goods IIP +12.5% in Feb) are turning positive. Key risk: external demand softness if US growth decelerates from tariff impacts."
+    },
+
+    "inr_usd": {
+      "what": "INR was under persistent pressure through FY26, driven by US tariff uncertainty and FPI equity outflows. The rupee was among Asia's weakest currencies in 2025, trading in the 86–89 range for much of the year. The India-US trade deal in February 2026 triggered a sharp 1% rally, with USD/INR recovering to 90.26 (i.e., INR strengthened against the dollar). Note: INR/USD data requires manual update from RBI Reference Rate Archive.",
+      "why": "INR weakness was driven by: (1) FPI equity outflows on global risk-off following Liberation Day tariffs; (2) import demand — gold imports surged in festive season (Oct 2025 trade deficit hit all-time high $41.7B); (3) the US tariff overhang creating negative expectations for India's export outlook. RBI intervened repeatedly using forex reserves to limit daily volatility. The trade deal resolved the primary structural negative.",
+      "outlook": "With the trade deal in place and Fed in easing mode, INR's structural pressures have eased. RBI's forex reserves of $625–640B (as of FY26 end, unconfirmed) provide substantial intervention capacity. INR stability near 85–88 range is the base case for FY27; upside risk if India receives $500B US energy/tech purchases as committed in the trade deal."
+    },
+
+    "forex_reserves": {
+      "what": "India's foreign exchange reserves showed resilience through FY26. Weekly RBI Statistical Supplement data shows reserves largely stable-to-higher through the year despite periodic RBI intervention to stabilise INR. Exact month-end figures depend on weekly data aggregation.",
+      "why": "RBI used reserves strategically — selling USD to limit INR depreciation during Liberation Day shock (April) and August tariff escalation, while allowing the currency to adjust gradually. The stable reserves level despite intervention reflects continued FPI debt inflows (attracted by India's high real rates) and services trade surplus (~$15-17B/month).",
+      "outlook": "Forex reserves are a key buffer. At current levels, India has ~11-12 months of import cover — well above the 3-month minimum threshold. Any significant INR appreciation from trade deal implementation could see RBI rebuilding reserves further."
+    },
+
+    "iip": {
+      "what": "IIP growth (YoY, base 2011-12=100) was volatile in FY26: weak H1 (Apr: 2.7%, May: 1.2%, Jun: 1.5%) recovering in H2 (Nov: 7.2%, Dec: 7.8%, Feb: 5.2%). October 2025 was a brief outlier at 0.4% — festival working-day effect + electricity seasonality. All values are Quick Estimates subject to revision.",
+      "why": "H1 weakness driven by: (1) monsoon impact on mining (Jun: -8.7%, Jul: -7.2%); (2) weak electricity generation in early months; (3) soft consumer sentiment amid tariff uncertainty. H2 revival was genuine — manufacturing +8.1% in December, capital goods +12.5% in February 2026. RBI rate cuts improving cost of capital for manufacturers. Credit growth re-acceleration to 14%+ supporting working capital.",
+      "outlook": "March 2026 IIP due April 28, 2026. MoSPI has also announced a base year revision (current 2011-12 → new series expected May 2026). H2 FY26 momentum (6%+ average) is sustainable if private capex picks up. Capital goods and infrastructure goods sub-indices are the key leading indicators to watch."
+    },
+
+    "trade_balance": {
+      "what": "India's merchandise trade deficit in FY26 (Apr-Feb, 11 months) was $310.6B — wider than FY25 same period. October 2025 deficit hit an all-time high of $41.7B, driven by a gold import surge (+200% YoY) during the festive season. February 2026 deficit narrowed to $27.1B as imports fell from January's $71.2B to $63.7B.",
+      "why": "The structural drivers of India's goods deficit are oil, gold, and electronics. FY26 added a twist: gold imports surged in October on festive demand and pre-tariff stockpiling; simultaneously exports were constrained by US tariff headwinds (-11.8% exports YoY in October). Services surplus (~$15-17B/month) substantially offsets goods deficit — India's current account deficit remains manageable.",
+      "outlook": "March 2026 trade data due mid-April 2026. The India-US trade deal (February 2026) is the key structural change — reducing tariffs from 50% to 18% will improve India's export competitiveness in US markets for textiles, leather, and gems over FY27. India's commitment to purchase $500B of US energy products will add to import bill but is spread over 5 years."
+    },
+
+    "fiscal_deficit": {
+      "what": "At February 2026 (11 months of FY26), the cumulative fiscal deficit was ₹12.53 lakh crore = 80.4% of the Revised Estimate (RE) of ₹15.58 lakh crore. The full-year FY26 target is 4.4% of GDP. CGA seasonal pattern: May/September/December are surplus months (advance tax deadlines); April/August/October/February are deficit-heavy.",
+      "why": "Fiscal deficit tracked slightly above prior year pace in H1 (front-loaded capex spending) but normalised from December as tax receipts improved. The advance tax schedule creates apparent volatility in monthly cumulative percentages — the pattern is seasonal, not structural slippage. Revenue receipts at February end: ₹27.26 lakh crore; Expenditure: ₹40.45 lakh crore.",
+      "outlook": "March 2026 CGA data (due April 2026) will confirm full-year FY26 fiscal deficit. Based on Feb-26 tracking at 80.4% of RE with one month remaining, the outcome should close near 95-100% of RE — consistent with the 4.4% of GDP target. FY27 budget maintains the same 4.4% target, continuing India's multi-year fiscal consolidation path."
+    },
+
+    "bank_credit_growth": {
+      "what": "Non-food bank credit (RBI fortnightly data, 41 select SCBs) decelerated sharply from 12% (March 2025) to ~10% (May–September 2025) before re-accelerating to 14.3%–14.4% by December 2025–February 2026. February 2026 sectoral: Industry 13.5%, Agriculture 12.3%, Personal loans 15.2%.",
+      "why": "The deceleration in H1 FY26 reflected RBI's late-FY25 tightening of lending norms for personal loans and NBFCs. Re-acceleration in H2 was driven by: rate cuts improving credit demand; industry credit revival as the private capex cycle began to turn (industry credit +6.7% in Apr-25 recovered to +13.5% by Feb-26); personal loans rebounding as unsecured lending normalised. The credit re-acceleration is the most significant positive macro signal for FY27 earnings.",
+      "outlook": "March 2026 bank credit data due April 2026. The re-acceleration to 14%+ is sustainable given RBI's 100bps of cuts, improving corporate balance sheets, and the government's capex push. Expect credit growth to hold at 13-15% in FY27. Key risk: asset quality in personal loans segment if income growth softens."
+    },
+
+    "gst_collections": {
+      "what": "FY26 GST collections totalled ₹22.27 lakh crore — up 8.3% from FY25. April 2025 set an all-time high of ₹2.37 lakh crore (+12.6% YoY), reflecting strong year-end compliance. Months ranged from a weak ₹1.70 lakh crore in November 2025 (+0.7%) to a strong ₹2.00 lakh crore in March 2026 (+8.8%). FY26 full year crossed ₹22 lakh crore for the first time.",
+      "why": "GST performance reflects formalisation of the economy and improved compliance infrastructure. April and March are high-collection months (year-end settlement). November weakness (+0.7%) reflected muted post-festive consumption and mild seasonal slowdown. The overall 8.3% growth slightly below nominal GDP growth rate (~12-13%) suggests room for further formalisation gains.",
+      "outlook": "FY27 GST collections likely to continue growing at 8-10% YoY, helped by: (1) income tax relief for middle class (more disposable income → consumption → GST); (2) improved e-invoicing compliance; (3) new sectors being brought under GST. Monthly ATH records will continue to be set as nominal GDP grows."
+    },
+
+    "upi_transactions": {
+      "what": "UPI transaction volumes continued their strong secular growth through FY26, reaching record highs. Latest confirmed data: March 2026 volume at record levels per NPCI. FY26 full-year transactions significantly exceeded FY25.",
+      "why": "UPI adoption is structural and compounding — merchant onboarding, credit-on-UPI, and international UPI expansion (UAE, Singapore, UK) are driving volume. The NPCI's product innovations (UPI One World for tourists, UPI Lite for small transactions) added new user segments. Strong data point for India's digital economy narrative.",
+      "outlook": "UPI is on track to process 25+ billion transactions/month by FY27. RBI's January 2026 circular allowing UPI for cross-border payments (B2B and remittances) opens a large new volume segment. No structural growth ceiling visible in the near term."
+    },
+
+    "auto_sales": {
+      "what": "Wholesale auto sales (SIAM data) showed a clear two-phase pattern: H1 muted (Two-Wheeler YoY negative in April due to high OBD2B pre-buying base; Passenger Vehicles growing modestly); H2 record-setting (Oct: festive all-time highs; Jan-26: all-time high month for both PV and 2W). February 2026: PV 4,17,705 (+10.6%), 2W 18,71,406 (+35.2%).",
+      "why": "The H2 surge was driven by: (1) rural income recovery — excellent monsoon + MSP hikes + improved farm gate prices; (2) festive season (Navratri, Dussehra, Diwali in Oct-25 drove record 2W and PV); (3) SUV demand within PV segment (>50% of PV mix) showing no signs of saturation; (4) improved rural credit availability post-RBI rate cuts. The 2W segment recovery is particularly significant as a rural health indicator.",
+      "outlook": "March 2026 SIAM data due mid-April 2026. FY26 total likely to be a record year for both PV and 2W. FY27 outlook: continued growth driven by new model launches, EV ramp-up (EVs crossing 5% of PV sales), and sustained rural demand. Risk: urban EMI sensitivity if rate transmission takes longer."
+    },
+
+    "electricity_consumption": {
+      "what": "Confirmed monthly data is limited to three data points (Aug-25: 150.47 BU, Nov-25: 111.87 BU, Dec-25: 126.41 BU). June 2025 recorded an all-time high peak demand of 250 GW. IIP electricity sub-index provides monthly YoY growth proxy for missing months: strong in Aug (+4.1%), Sep (+3.1%), Dec (+6.3%), Jan (+5.1%).",
+      "why": "Electricity consumption is a real-economy activity indicator with zero revision risk. The August 2025 record (150.47 BU — highest August ever) reflected sustained industrial and AC load. June 2025 peak demand record (250 GW) highlighted India's growing power needs. November's 111.87 BU is seasonally normal (mild weather, lowest month of year). The IIP electricity sub-index decline in October (-6.9%) was a one-month festival-season aberration.",
+      "outlook": "FY26 full-year consumption likely to be ~1,900-1,950 BU vs FY25's 1,821 BU — ~5-7% growth. India's power demand trajectory is structurally upward driven by industrialisation, urbanisation, and EV adoption. CEA's 2031-32 demand estimates project 2,200+ GW of installed capacity needed."
+    },
+
+    "air_passenger_traffic": {
+      "what": "Domestic air passenger traffic in FY26 (Apr-Feb, 11 months): 153.24 million (+1.6% YoY). Calendar year 2025 total: 166.946 million (+3.48% YoY). January 2026 hit 15.25 million — an all-time record January. Monsoon months (July: 12.60M, September: 12.85M) were weakest, consistent with seasonal patterns.",
+      "why": "Traffic growth slowed to single digits in FY26 vs the 8%+ growth of FY24-FY25. Contributing factors: (1) base effects from the post-COVID travel surge are moderating; (2) capacity constraints — some routes operating at near-100% load factors; (3) Air Vistara's merger with Air India (completed November 2025) created temporary operational disruptions. IndiGo maintained ~58% domestic market share throughout.",
+      "outlook": "Air India group (Air India + Vistara) is now the second-largest carrier — integration completion will add capacity by FY27. New airports (Navi Mumbai, Noida International) expected to begin operations by FY28, addressing the structural capacity constraint. Demand trajectory: 8-10% YoY growth expected once capacity normalises. DGCA's February 2026 figure due March 2026."
+    }
+  }
+}

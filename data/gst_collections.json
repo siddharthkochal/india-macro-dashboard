@@ -1,0 +1,122 @@
+{
+  "kpi_id": "gst_collections",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "Ministry of Finance, Government of India — via GST Network (GSTN) and Press Information Bureau (PIB)",
+  "source_url": "https://tutorial.gst.gov.in/downloads/news/",
+  "source_url_pib": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2185839",
+  "source_url_council": "https://gstcouncil.gov.in/gst-revenue",
+  "current_value": 200064,
+  "current_value_secondary": 177990,
+  "unit": "crore rupees (gross GST collection)",
+  "unit_secondary": "crore rupees (net GST collection after refunds)",
+  "as_of": "March 2026",
+  "as_of_release_date": "2026-04-01",
+  "change_from_prev": 16455,
+  "change_pct": 8.8,
+  "direction": "up",
+  "is_provisional": false,
+  "data_confidence": "high",
+  "data_notes": null,
+  "fy26_total_gross": 2227000,
+  "fy26_total_yoy_growth_pct": 8.3,
+  "fy25_total_gross": 2055000,
+  "series": [
+    {
+      "date": "Apr-25",
+      "value": 236716,
+      "value_net": 209000,
+      "yoy_growth_pct": 12.6,
+      "is_provisional": false,
+      "source": "Ministry of Finance official data; Finance Minister Nirmala Sitharaman confirmed on X (twitter.com/nsitharaman/status/1917954262576910523): 'Gross GST collections for April 2025 stood at ₹2.36 lakh crore, marking a 12.6% increase over ₹2.10 lakh crore in April 2024. Net ₹2.09 lakh crore, 9.1% growth.' Components: CGST ₹48,634cr + SGST ₹59,372cr + IGST ₹1,15,259cr + CESS ₹13,451cr = ₹2,36,716cr."
+    },
+    {
+      "date": "May-25",
+      "value": 201050,
+      "value_net": null,
+      "yoy_growth_pct": 16.4,
+      "is_provisional": false,
+      "source": "Ministry of Finance official data: gross GST ₹2,01,050 crore in May 2025, up 16.4% YoY from ₹1,72,739 crore in May 2024. Domestic collections ₹1,49,785cr; import GST ₹51,266cr. Cited in newsonair.gov.in (DD News) citing official MoF release."
+    },
+    {
+      "date": "Jun-25",
+      "value": 184597,
+      "value_net": null,
+      "yoy_growth_pct": null,
+      "is_provisional": false,
+      "source": "GST Network official monthly data, June 2025 — tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_june_2025.pdf. Gross ₹1,84,597 crore."
+    },
+    {
+      "date": "Jul-25",
+      "value": 195735,
+      "value_net": null,
+      "yoy_growth_pct": 7.5,
+      "is_provisional": false,
+      "source": "GST Network official monthly data, July 2025 — tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_aug_2025.pdf. Gross ₹1,95,735 crore, +7.5% YoY."
+    },
+    {
+      "date": "Aug-25",
+      "value": 186315,
+      "value_net": null,
+      "yoy_growth_pct": null,
+      "is_provisional": false,
+      "source": "GST Network official monthly data, August 2025 — tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_aug_2025.pdf. Gross ₹1,86,315 crore."
+    },
+    {
+      "date": "Sep-25",
+      "value": 189017,
+      "value_net": null,
+      "yoy_growth_pct": 9.1,
+      "is_provisional": false,
+      "source": "GST Network official monthly data, September 2025 — tutorial.gst.gov.in/downloads/news/approved_monthly_gst_data_for_publishing_sep_2025.pdf. Gross ₹1,89,017 crore, +9.1% YoY."
+    },
+    {
+      "date": "Oct-25",
+      "value": 195936,
+      "value_net": null,
+      "yoy_growth_pct": 4.6,
+      "is_provisional": false,
+      "source": "PIB official press release 'GST Revenue Soars in October 2025', November 3, 2025 — prid=2185839 (pib.gov.in). 'Gross GST revenue collected for October 2025 is ₹1,95,936 crores, registering a 4.6% increase compared to ₹1,87,346 crores for the same month last year.'"
+    },
+    {
+      "date": "Nov-25",
+      "value": 170276,
+      "value_net": 152079,
+      "yoy_growth_pct": 0.7,
+      "is_provisional": false,
+      "source": "GST Network official monthly data, November 2025. Gross ₹1,70,276 crore, +0.7% YoY from ₹1,69,016cr in Nov 2024. Net ₹1,52,079cr, +1.3% YoY. Cited in a2ztaxcorp.net citing official GSTN release. Weakest YoY growth month in FY26."
+    },
+    {
+      "date": "Dec-25",
+      "value": 174550,
+      "value_net": 145570,
+      "yoy_growth_pct": 6.1,
+      "is_provisional": false,
+      "source": "GST Network official monthly data, December 2025 — tutorial.gst.gov.in/downloads/news/monthly_gst_data_for_publishing_dec_2025_final_01jan2026.pdf. Gross ₹1,74,550 crore, +6.1% YoY from ₹1,64,556cr in Dec 2024. Net ₹1,45,570cr, +2.2% YoY. Import GST surged +19.7% YoY to ₹51,977cr."
+    },
+    {
+      "date": "Jan-26",
+      "value": 193384,
+      "value_net": 170719,
+      "yoy_growth_pct": 6.2,
+      "is_provisional": false,
+      "source": "GST Network official monthly data, January 2026 — tutorial.gst.gov.in/downloads/news/final_approved_monthly_gst_data_for_publishing_jan_2026_01022026.pdf. Gross ₹1,93,384 crore, +6.2% YoY from ₹1,82,094cr in Jan 2025. Net ₹1,70,719cr, +7.6% YoY. Domestic ₹1,41,132cr (+4.8%); import GST ₹52,253cr (+10.1%). Cited in taxguru.in citing official GSTN."
+    },
+    {
+      "date": "Feb-26",
+      "value": 183609,
+      "value_net": null,
+      "yoy_growth_pct": null,
+      "is_provisional": false,
+      "source": "Ministry of Finance official data, February 2026. Gross ₹1,83,609 crore. Cited in multiple financial sources citing official MoF/GSTN release."
+    },
+    {
+      "date": "Mar-26",
+      "value": 200064,
+      "value_net": 177990,
+      "yoy_growth_pct": 8.8,
+      "is_provisional": false,
+      "source": "Ministry of Finance official data, released April 1, 2026. 'GST collections rise 8.8% to cross Rs 2 lakh crore in March.' Gross ₹2,00,064 crore, +8.8% YoY. Net ₹1,77,990cr, +8.2% YoY. Components: CGST ₹40,549cr + SGST ₹53,268cr + IGST ~₹1,00,000cr+. Total FY26 gross: ₹22.27 lakh crore, +8.3% YoY. Cited in ANI News, Republic World, CAClubIndia all citing MoF official data."
+    }
+  ],
+  "notes": "GST collections showed strong performance in FY26 (₹22.27 lakh crore, +8.3% YoY vs ₹20.55 lakh crore in FY25). Highlights: April 2025 = all-time high at ₹2.37 lakh crore (+12.6%); May 2025 = second consecutive ₹2+ lakh crore month (+16.4%). Seasonal dip in Jun-Aug 2025 (₹1.84-1.86 lakh crore range). November 2025 = weakest growth month at +0.7% YoY. Recovery in Q4 FY26 with October, January, March all crossing ₹1.93 lakh crore+. March 2026 crossed ₹2 lakh crore for 3rd time in FY26. Import GST grew faster than domestic GST in H2 FY26 suggesting strong import demand even amid global uncertainty."
+}

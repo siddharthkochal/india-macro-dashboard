@@ -1,0 +1,188 @@
+{
+  "kpi_id": "repo_rate",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "Reserve Bank of India — Monetary Policy Committee",
+  "source_url": "https://www.rbi.org.in/scripts/annualpolicy.aspx",
+  "source_url_secondary": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62169",
+  "current_value": 5.25,
+  "unit": "percent per annum",
+  "as_of": "February 2026",
+  "as_of_release_date": "2026-02-06",
+  "change_from_prev": 0,
+  "change_bps": 0,
+  "direction": "flat",
+  "is_provisional": false,
+  "data_confidence": "high",
+  "data_notes": null,
+  "pre_period_rate": 6.25,
+  "total_cut_fy26_bps": -100,
+  "mpc_meetings": [
+    {
+      "meeting_dates": "April 7-9, 2025",
+      "decision_date": "2025-04-09",
+      "decision": "cut",
+      "change_bps": -25,
+      "new_rate": 6.00,
+      "stance": "Accommodative",
+      "vote": "6-0 unanimous",
+      "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60176",
+      "verbatim_quote": "The MPC unanimously voted to reduce the policy repo rate by 25 basis points to 6.00 per cent with immediate effect."
+    },
+    {
+      "meeting_dates": "June 4-6, 2025",
+      "decision_date": "2025-06-06",
+      "decision": "cut",
+      "change_bps": -50,
+      "new_rate": 5.50,
+      "stance": "Neutral",
+      "vote": "5-1",
+      "dissent_note": "Shri Saugata Bhattacharya voted for only 25 bps cut",
+      "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60604",
+      "verbatim_quote": "the MPC voted to reduce the policy repo rate by 50 basis points (bps) to 5.50 per cent with immediate effect."
+    },
+    {
+      "meeting_dates": "August 4-6, 2025",
+      "decision_date": "2025-08-06",
+      "decision": "hold",
+      "change_bps": 0,
+      "new_rate": 5.50,
+      "stance": "Neutral",
+      "vote": "6-0 unanimous",
+      "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=60957",
+      "verbatim_quote": "the MPC voted to maintain the policy repo rate at 5.50 per cent"
+    },
+    {
+      "meeting_dates": "September 29 - October 1, 2025",
+      "decision_date": "2025-10-01",
+      "decision": "hold",
+      "change_bps": 0,
+      "new_rate": 5.50,
+      "stance": "Neutral",
+      "vote": "6-0 unanimous on rate; 4-2 on stance (2 dissented preferring Accommodative)",
+      "dissent_note": "Dr. Nagesh Kumar and Prof. Ram Singh dissented on stance, preferring Accommodative over Neutral",
+      "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=61332",
+      "verbatim_quote": "the MPC unanimously voted to keep the policy repo rate under the liquidity adjustment facility (LAF) unchanged at 5.50 per cent"
+    },
+    {
+      "meeting_dates": "December 3-5, 2025",
+      "decision_date": "2025-12-05",
+      "decision": "cut",
+      "change_bps": -25,
+      "new_rate": 5.25,
+      "stance": "Neutral",
+      "vote": "6-0 unanimous on rate; 5-1 on stance (Prof. Ram Singh preferred Accommodative)",
+      "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=61749",
+      "verbatim_quote": "voted unanimously to reduce the policy repo rate"
+    },
+    {
+      "meeting_dates": "February 4-6, 2026",
+      "decision_date": "2026-02-06",
+      "decision": "hold",
+      "change_bps": 0,
+      "new_rate": 5.25,
+      "stance": "Neutral",
+      "vote": "6-0 unanimous on rate; 5-1 on stance (Prof. Ram Singh preferred Accommodative)",
+      "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62169",
+      "verbatim_quote": "the MPC voted unanimously to keep the policy repo rate under the liquidity adjustment facility (LAF) unchanged at 5.25 per cent."
+    }
+  ],
+  "series": [
+    {
+      "date": "Apr-25",
+      "value": 6.00,
+      "change_bps": -25,
+      "decision": "cut",
+      "is_provisional": false,
+      "source": "RBI MPC press release April 9, 2025 — prid=60176 (rbi.org.in); cut from 6.25% to 6.00%, unanimous, Accommodative stance"
+    },
+    {
+      "date": "May-25",
+      "value": 6.00,
+      "change_bps": 0,
+      "decision": "no_meeting",
+      "is_provisional": false,
+      "source": "No MPC meeting in May 2025; rate unchanged from April 9, 2025 decision"
+    },
+    {
+      "date": "Jun-25",
+      "value": 5.50,
+      "change_bps": -50,
+      "decision": "cut",
+      "is_provisional": false,
+      "source": "RBI MPC press release June 6, 2025 — prid=60604 (rbi.org.in); cut from 6.00% to 5.50%, 5-1 vote, Neutral stance"
+    },
+    {
+      "date": "Jul-25",
+      "value": 5.50,
+      "change_bps": 0,
+      "decision": "no_meeting",
+      "is_provisional": false,
+      "source": "No MPC meeting in July 2025; rate unchanged from June 6, 2025 decision"
+    },
+    {
+      "date": "Aug-25",
+      "value": 5.50,
+      "change_bps": 0,
+      "decision": "hold",
+      "is_provisional": false,
+      "source": "RBI MPC press release August 6, 2025 — prid=60957 (rbi.org.in); held at 5.50%, unanimous, Neutral stance"
+    },
+    {
+      "date": "Sep-25",
+      "value": 5.50,
+      "change_bps": 0,
+      "decision": "no_meeting",
+      "is_provisional": false,
+      "source": "No MPC meeting in September 2025; rate unchanged (Oct 1 meeting covered Sep 29 - Oct 1)"
+    },
+    {
+      "date": "Oct-25",
+      "value": 5.50,
+      "change_bps": 0,
+      "decision": "hold",
+      "is_provisional": false,
+      "source": "RBI MPC press release October 1, 2025 — prid=61332 (rbi.org.in); held at 5.50%, unanimous, Neutral stance"
+    },
+    {
+      "date": "Nov-25",
+      "value": 5.50,
+      "change_bps": 0,
+      "decision": "no_meeting",
+      "is_provisional": false,
+      "source": "No MPC meeting in November 2025; rate unchanged from October 1, 2025 decision"
+    },
+    {
+      "date": "Dec-25",
+      "value": 5.25,
+      "change_bps": -25,
+      "decision": "cut",
+      "is_provisional": false,
+      "source": "RBI MPC press release December 5, 2025 — prid=61749 (rbi.org.in); cut from 5.50% to 5.25%, unanimous, Neutral stance"
+    },
+    {
+      "date": "Jan-26",
+      "value": 5.25,
+      "change_bps": 0,
+      "decision": "no_meeting",
+      "is_provisional": false,
+      "source": "No MPC meeting in January 2026; rate unchanged from December 5, 2025 decision"
+    },
+    {
+      "date": "Feb-26",
+      "value": 5.25,
+      "change_bps": 0,
+      "decision": "hold",
+      "is_provisional": false,
+      "source": "RBI MPC press release February 6, 2026 — prid=62169 (rbi.org.in); held at 5.25%, unanimous, Neutral stance"
+    },
+    {
+      "date": "Mar-26",
+      "value": 5.25,
+      "change_bps": 0,
+      "decision": "no_meeting",
+      "is_provisional": false,
+      "source": "No MPC meeting in March 2026; rate unchanged from February 6, 2026 decision"
+    }
+  ],
+  "notes": "RBI cut repo rate 3 times in FY2025-26 for a total of 100 bps: -25bps in April, -50bps in June, -25bps in December. Rate fell from 6.25% (pre-period) to 5.25% by end of FY26. June 2025 was an unusually large 50bps cut (5-1 vote). All other decisions unanimous. Stance: Accommodative after April cut, back to Neutral after June cut. SDF rate at 5.00%, MSF/Bank Rate at 5.50% as of Dec 2025 cut."
+}

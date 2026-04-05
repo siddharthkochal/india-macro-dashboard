@@ -1,0 +1,86 @@
+{
+  "period": "January 2026",
+  "generated_at": "2026-01-31T12:00:00",
+  "macro_narrative": {
+    "headline": "RBI pivots dovish as inflation cools — but currency pressure and global headwinds temper the easing cycle",
+    "summary": "India enters 2026 with a more balanced macro backdrop than a year ago. Inflation has retreated within the MPC's 4% target band after a volatile H2 FY25, creating room for policy easing. The RBI cut the repo rate by 25 bps to 5.75% at its February 2026 meeting, signalling a cautious easing cycle rather than aggressive accommodation. Growth is moderating gracefully — Q2 FY26 GDP at 6.4% remains among the fastest of any major economy — while the fiscal path stays disciplined. The key risks are external: a strong dollar (DXY ~109) is pressuring the INR toward 87+, portfolio outflows are draining forex reserves from their September 2024 peak, and global trade uncertainty (US tariff escalation) clouds the export outlook. Domestically, credit deceleration and subdued private capex remain the soft underbelly.",
+    "risk_tone": "cautiously optimistic",
+    "key_themes": [
+      "Easing cycle underway — RBI cuts 25 bps, more possible in H1 FY26",
+      "Inflation back in the comfort zone — December CPI at 4.31%, core at 3.68%",
+      "INR under pressure — $70bn reserve drawdown since peak, FII outflows continuing",
+      "Growth resilient but moderating — 6.4% Q2 FY26, FY26 projection 6.6%",
+      "Fiscal consolidation on track — deficit at 52.5% of target through November"
+    ],
+    "rbi_verbatim_quote": "The MPC decided to reduce the policy repo rate by 25 basis points to 5.75 per cent with immediate effect... The stance is changed to 'accommodative' to support growth while remaining focused on achieving durable alignment of inflation with the target. — RBI MPC Resolution, February 2026",
+    "forward_outlook": "The easing cycle has begun but will be data-dependent and shallow. We expect 1-2 more 25 bps cuts in H1 FY26, taking the repo to 5.25-5.50%, contingent on CPI staying below 5%. The INR trajectory is the key wildcard — sustained depreciation beyond 88 could force RBI to pause. Investors should watch the February Union Budget for fiscal signal clarity and the March CPI print for pace of easing."
+  },
+  "kpi_commentary": {
+    "repo_rate": {
+      "why_it_moved": "The MPC cut rates for the first time since May 2020, reversing the 250 bps tightening cycle of FY22-24. The trigger was a sustained decline in both headline and core CPI, which has given the MPC confidence that the last-mile disinflation battle is being won. Additionally, with Q2 FY26 GDP at 6.4% — below the RBI's own estimate of 7.2% — the growth-inflation balance has tilted toward supporting activity. The stance shift to 'accommodative' is a strong forward signal.",
+      "forward_outlook": "Expect 1-2 more 25 bps cuts in H1 FY26. The June 2026 MPC meeting is the next live meeting contingent on: (1) CPI print for Feb-Mar staying below 5%, (2) INR not breaching 88, (3) global central bank positioning. A shallow 75-100 bps total easing cycle (ending ~5.50%) is the base case — not a return to pandemic-era accommodation.",
+      "investor_note": "Rate-sensitive sectors (banking NIMs will compress marginally, but loan growth re-acceleration is positive net), housing, and long-duration bonds are the primary beneficiaries. Watch for RBI's liquidity infusion via OMOs to complement rate cuts.",
+      "signal": "bullish"
+    },
+    "cpi_inflation": {
+      "why_it_moved": "December's sharp drop to 4.31% from 5.48% in November was almost entirely driven by vegetables — tomato and onion prices corrected sharply as winter harvest arrivals improved supply. This is the classic seasonal reversal that the MPC had anticipated. Core inflation (ex-food and fuel) held steady at 3.68%, confirming that demand-side pressures remain subdued. Services inflation at 4.2% is the one sticky component to watch.",
+      "forward_outlook": "The base case is CPI hovering between 4.0-4.8% through H1 FY26. Upside risks: (a) El Nino re-emergence threatening rabi crop, (b) global oil prices spiking if Middle East tensions escalate, (c) INR depreciation feeding into imported inflation with a 3-6 month lag. Downside surprise is possible if global commodity prices remain soft.",
+      "investor_note": "Benign core inflation is the green light for RBI. Food volatility will cause noise in the headline number — investors should track core and services sub-indices for the true signal on MPC trajectory.",
+      "signal": "bullish"
+    },
+    "wpi_inflation": {
+      "why_it_moved": "WPI eased to 2.37% in December, driven by manufactured products (particularly metals and chemicals) tracking global commodity price softness. The oil & gas component moderated as Brent stayed in the $72-78 range. Food articles in WPI remain elevated at ~7%, mirroring CPI food trends. The divergence between WPI and CPI food reflects structural differences in the baskets.",
+      "forward_outlook": "WPI likely to remain in the 2-3% range in early CY2026. Key watch: any hardening in global metal prices (driven by Chinese stimulus) or oil (OPEC+ cuts) could push WPI higher with a 1-2 quarter lag into CPI manufactured goods.",
+      "investor_note": "Low WPI is positive for manufacturing margins. Companies with high raw material intensity (auto ancillaries, FMCG, paints) are seeing input cost tailwinds — this supports earnings visibility for FY26.",
+      "signal": "bullish"
+    },
+    "inr_usd": {
+      "why_it_moved": "The INR has depreciated ~2.1% YTD in January 2026, driven by three structural forces: (1) a surging US dollar as the Fed signals slower cuts in 2026 — DXY broke above 109 in January; (2) persistent FII equity outflows (~$8bn since October) as global risk-off reduces EM allocation; (3) RBI has been selectively intervening but allowing orderly depreciation to preserve forex reserves. The cross-currency effect (JPY and CNY weakness) also adds to INR pressure.",
+      "forward_outlook": "The INR is likely to remain under pressure in H1 2026 in a 85.5-88.5 range. Key drivers to watch: (a) Fed's March 2026 meeting — any hawkish pivot is negative for INR; (b) India's CAD trajectory — if services surplus holds, overall BoP pressure is manageable; (c) potential FII re-entry if the rate-cut narrative firms up domestic equity sentiment. RBI will defend 88 as a psychological level.",
+      "investor_note": "For equity investors, modest INR depreciation is sector-differentiated: positive for IT exporters, pharma, and metals; negative for oil marketing companies, airlines, and firms with USD debt. Hedge FX exposure on large USD-denominated positions.",
+      "signal": "bearish"
+    },
+    "gdp_growth": {
+      "why_it_moved": "Q2 FY26 GDP growth of 6.4% reflects a tale of two sectors: government infrastructure spending (+8.2% in GFCFgov) supported the headline, while private consumption growth (5.8%) and private capex (3.2%) remain below potential. Manufacturing GVA at 4.3% disappointed versus Q1's 7.4%, partly due to inventory correction post-festive season. Agriculture at 3.5% is a bright spot supported by a normal monsoon.",
+      "forward_outlook": "H2 FY26 growth should re-accelerate toward 7.0-7.2% on the back of: (a) rate cut transmission improving consumption credit; (b) government capex acceleration (typically H2-heavy); (c) agriculture sector tailwinds from good rabi. The First Advance Estimate projects FY26 at 6.6% — we see upside to 6.8% if H2 delivery is strong.",
+      "investor_note": "The growth story remains intact — 6.4% in a year of global uncertainty is genuinely impressive. Private capex recovery is the next catalyst: watch Q3 FY26 corporate earnings for capital expenditure guidance from industrials and infrastructure companies.",
+      "signal": "bullish"
+    },
+    "iip": {
+      "why_it_moved": "IIP rebounded to 5.2% in November from 3.5% in October, led by manufacturing (+5.8%). Consumer durables growing at 8.2% signals that festive demand did translate into production, with a typical 4-6 week lag. Capital goods growth of 6.7% is encouraging — it suggests early signs of private investment pick-up, though one month does not make a trend. Mining remained sluggish at 1.9%.",
+      "forward_outlook": "IIP for December and January should stay in the 4-6% range. Key upside driver: government infrastructure spending acceleration. Risk: global export slowdown (electronics, auto components) if US-China trade tensions escalate. Watch PMI Manufacturing — it has held above 56 for three consecutive months, which is consistent with sustained IIP improvement.",
+      "investor_note": "Improving IIP is positive for: manufacturing-oriented equities, industrial capex plays, consumer durables. The capital goods sub-index is the most important leading indicator for private investment — its sustained recovery would be a significant re-rating catalyst for the broader market.",
+      "signal": "bullish"
+    },
+    "bank_credit_growth": {
+      "why_it_moved": "Credit growth has decelerated from 16%+ in FY24 to 11.5% in January 2026 — a deliberate RBI-engineered slowdown. The November 2023 risk-weight increase on unsecured retail loans and NBFC exposures has materially reduced personal loan growth. However, the slowdown is concentrated in high-risk segments: corporate credit and infrastructure lending remain healthy. MSME credit has picked up as banks redeploy capacity.",
+      "forward_outlook": "Credit growth is likely to stabilise at 11-13% in FY26. The rate cut should incrementally support demand, particularly in home loans and SME working capital. A key risk is if GNPA ratios deteriorate in the unsecured retail book — this is the portfolio to watch in upcoming bank earnings.",
+      "investor_note": "Net interest margin compression (25-30 bps over the next 12 months as rates fall) will be the near-term headwind for banking sector earnings. However, improving asset quality, better liability franchise positioning, and eventual volume re-acceleration make banks a medium-term buy on dips.",
+      "signal": "neutral"
+    },
+    "m3_growth": {
+      "why_it_moved": "M3 growth at 9.8% is stable, slightly below the RBI's indicative projection of 11%. Time deposit growth has accelerated as households lock in current interest rates ahead of anticipated cuts — a rational forward-looking behavior. Currency in circulation growth has moderated to 7.2%, consistent with digital payment deepening. The money multiplier is at 5.8x, within normal range.",
+      "forward_outlook": "M3 growth should track close to nominal GDP growth (10-11%). The easing cycle will eventually shift deposit flows back toward shorter-duration instruments and equities — watch for this rotation in H2 FY26 as rate cut expectations become entrenched. Mutual fund inflows (SIP at Rs 26,000 cr/month) are already signalling this preference shift.",
+      "investor_note": "For fixed income investors: the yield curve steepening trade (short end falls faster than long end as RBI cuts) is the key opportunity. The 10-year G-Sec yield (~6.65%) offers an attractive carry for FPIs if the INR stabilises.",
+      "signal": "neutral"
+    },
+    "forex_reserves": {
+      "why_it_moved": "Reserves have declined ~$70bn from the all-time peak of $704.9bn in September 2024, reflecting sustained RBI FX intervention to support the INR as FII outflows and dollar strength created headwinds. The pace of drawdown has slowed — November-January saw only ~$9bn decline versus $45bn in the prior 3 months — suggesting RBI is becoming more selective in its intervention. Valuation changes (EUR, GBP depreciation vs USD) account for roughly $15-20bn of the total decline.",
+      "forward_outlook": "Reserves stabilisation is likely in H1 FY26 as: (a) FII flows may reverse if Fed rate cut expectations firm; (b) USD likely to soften from current elevated levels; (c) RBI import cover at 10.8 months remains among the highest in EM peers, reducing urgency to defend further. A recovery toward $660-670bn is possible by Q2 FY26 if capital flows normalise.",
+      "investor_note": "India's FX position remains fundamentally sound — 10.8 months of import cover compares very favorably to EM peers (median ~5-6 months). The headline decline from peak is optically negative but the underlying BoP is manageable. This is not a crisis; it is an adjustment.",
+      "signal": "neutral"
+    },
+    "trade_balance": {
+      "why_it_moved": "The merchandise deficit narrowed to $21.9bn in December from $32.3bn in November — the sharpest monthly improvement in two years. Two drivers: (1) oil imports fell as Brent averaged $73/bbl in December versus $78 in November; (2) seasonal import compression in gold (post-festive demand) and electronics. Exports grew 2.3% driven by engineering goods, pharma, and chemicals. Services surplus (estimated ~$18bn/month) continues to more than offset the merchandise gap.",
+      "forward_outlook": "FY26 CAD is tracking at 1.4-1.6% of GDP — very manageable and well within the 2.5% RBI comfort zone. Risks: an oil price spike above $90 would widen the deficit rapidly. Opportunity: if global trade normalises, India's merchandise export growth (currently sluggish) could accelerate, particularly in electronics and textiles as China+1 sourcing gains traction.",
+      "investor_note": "India's external position is structurally sounder than the weak INR narrative suggests. The current account is manageable, remittances are sticky (~$4bn/month), and services exports are a structural positive. The INR weakness is primarily capital account driven, not current account — it should self-correct as FII flows stabilise.",
+      "signal": "neutral"
+    },
+    "fiscal_deficit": {
+      "why_it_moved": "At 52.5% of the FY26 target through November, the fiscal situation is on track for the 4.9% of GDP target. Revenue performance is strong: direct taxes grew 15% YoY through Q3 FY26, and GST collections averaged Rs 1.87 lakh cr/month. Capital expenditure is running at 58% of budget by November — broadly on pace, with the typical H2 acceleration expected. Subsidies (food, fertilizer) have been well-contained.",
+      "forward_outlook": "FY26 fiscal deficit will likely meet or beat the 4.9% target. The bigger watch is the FY27 Budget (February 2026) — markets will look for a glide path to 4.5% of GDP. Any fiscal surprise spending ahead of state elections would be negatively received. The quality of fiscal consolidation (revenue-led vs. capex compression) matters: capex compression to meet targets would be a negative signal for growth.",
+      "investor_note": "India's fiscal credibility is a key underpin for sovereign bond inclusion (JPMorgan GBI-EM, Bloomberg EM Index). The continued consolidation path is essential to sustain FPI interest in Indian government bonds. Watch the February Budget closely — the fiscal targets for FY27 will set the tone for the G-Sec yield trajectory for the year.",
+      "signal": "bullish"
+    }
+  }
+}

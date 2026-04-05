@@ -1,0 +1,18 @@
+{
+  "kpi_id": "inr_usd",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "FBIL (Financial Benchmarks India Pvt Ltd) — mandated by RBI since July 10, 2018",
+  "source_url": "https://www.fbil.org.in/",
+  "source_url_rbi_archive": "https://www.rbi.org.in/scripts/referenceratearchive.aspx",
+  "current_value": null,
+  "unit": "INR per USD",
+  "as_of": null,
+  "as_of_release_date": null,
+  "change_from_prev": null,
+  "direction": null,
+  "is_provisional": false,
+  "data_confidence": "low",
+  "data_notes": "FBIL (fbil.org.in) is the RBI-mandated official source for INR/USD reference rates since July 2018. Direct fetch returned ECONNREFUSED. RBI reference rate archive (rbi.org.in/scripts/referenceratearchive.aspx) requires an interactive form submission — not accessible via automated fetch. FEDAI quarterly PDF (fedai.org.in) was 404. NSE India mirror timed out. No third-party aggregator data used per data integrity policy. ACTION REQUIRED: Manually visit https://www.fbil.org.in and download monthly average rates for Apr 2025 – Mar 2026, then populate the series array below.",
+  "series": [],
+  "notes": "MANUAL FETCH REQUIRED. Visit fbil.org.in → Reference Rates → Historical → USD/INR → select Apr 2025 to Mar 2026 → download CSV → populate series."
+}

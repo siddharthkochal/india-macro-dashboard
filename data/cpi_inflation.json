@@ -1,0 +1,121 @@
+{
+  "kpi_id": "cpi_inflation",
+  "fetched_at": "2026-04-05T00:00:00",
+  "source_authority": "National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI), Government of India",
+  "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238889",
+  "source_url_secondary": "https://mospi.gov.in/year-year-rate-inflation-based-all-india-consumer-price-index-cpi-and-consumer-food-price-index-cfpi",
+  "current_value": 3.21,
+  "current_value_secondary": 1.33,
+  "unit": "percent YoY (base 2024=100, from Feb 2026 release)",
+  "unit_secondary": "percent YoY (base 2012=100, Dec 2025 — last month of old series)",
+  "as_of": "February 2026",
+  "as_of_release_date": "2026-03-12",
+  "change_from_prev": 0.46,
+  "change_pct": null,
+  "direction": "up",
+  "is_provisional": true,
+  "data_confidence": "high",
+  "base_year": "2024=100 (new series from Jan 2026); 2012=100 (old series Apr-Dec 2025)",
+  "data_notes": "SERIES BREAK at January 2026: MoSPI launched a new CPI series with base year 2024=100 (weights from HCES 2023-24) effective January 2026, replacing the 2012=100 series. Jan 2026 onwards figures are NOT directly comparable with Apr-Dec 2025 figures under old series. Both series are shown in the series array with base_year field on each entry. March 2026 data not yet released as of April 5, 2026 (scheduled April 13, 2026). Record low under 2012=100 series: October 2025 at 0.25% — driven by vegetable deflation of ~-22% YoY (CFPI). Food deflation persisted Jun 2025 through Dec 2025.",
+  "series": [
+    {
+      "date": "Apr-25",
+      "value": 3.16,
+      "food_inflation": 1.78,
+      "is_provisional": true,
+      "base_year": "2012=100",
+      "source": "MoSPI NSO press release, released May 13, 2025 — PIB prid=2128387; mospi.gov.in/sites/default/files/press_release/CPI_PR_13May25.pdf. Food inflation (CFPI) 1.78% (rural 1.85%, urban 1.64%)."
+    },
+    {
+      "date": "May-25",
+      "value": 2.82,
+      "food_inflation": 0.99,
+      "is_provisional": true,
+      "base_year": "2012=100",
+      "source": "MoSPI NSO press release, released June 12, 2025 — PIB prid=2135927; mospi.gov.in/sites/default/files/press_release/CPI_PR_12Jun25.pdf. Food inflation 0.99% (rural 0.95%, urban 0.96%)."
+    },
+    {
+      "date": "Jun-25",
+      "value": 2.10,
+      "food_inflation": -1.06,
+      "is_provisional": true,
+      "base_year": "2012=100",
+      "source": "MoSPI NSO press release, released July 2025 — mospi.gov.in (June 2025 CPI release). Food inflation (CFPI) -1.06% — first month of food deflation in the series."
+    },
+    {
+      "date": "Jul-25",
+      "value": 1.55,
+      "food_inflation": -1.76,
+      "is_provisional": true,
+      "base_year": "2012=100",
+      "source": "MoSPI NSO press release, released August 2025 — PIB prid=2155476. Food inflation -1.76%."
+    },
+    {
+      "date": "Aug-25",
+      "value": 2.07,
+      "food_inflation": -0.69,
+      "is_provisional": true,
+      "base_year": "2012=100",
+      "source": "MoSPI NSO press release, released September 12, 2025 — PIB prid=2165974; mospi.gov.in CPI_PR_12Sep25.pdf. Food inflation -0.69% (rural -0.70%, urban -0.58%)."
+    },
+    {
+      "date": "Sep-25",
+      "value": 1.54,
+      "food_inflation": -2.28,
+      "is_provisional": true,
+      "base_year": "2012=100",
+      "source": "MoSPI NSO press release, released October 13, 2025 — PIB prid=2178447. '8-year low' per media citing official data. Food inflation -2.28% (rural -2.17%, urban -2.47%). Cited: 'India Inflation Falls to 8-Year Low in September' — businesstoday.in citing NSO."
+    },
+    {
+      "date": "Oct-25",
+      "value": 0.25,
+      "food_inflation": -5.02,
+      "is_provisional": true,
+      "base_year": "2012=100",
+      "source": "MoSPI NSO press release, released November 12, 2025 — PIB prid=2189186; mospi.gov.in Press_Release_CPI_Oct_2025.pdf. Record low headline inflation under the 2012=100 series. Food inflation -5.02% — vegetable deflation ~-22% YoY in October 2025."
+    },
+    {
+      "date": "Nov-25",
+      "value": 0.71,
+      "food_inflation": -3.91,
+      "is_provisional": true,
+      "base_year": "2012=100",
+      "source": "MoSPI NSO press release, released December 12, 2025 — PIB prid=2202940; mospi.gov.in Press_Release_CPI_November_2025.pdf. Food inflation -3.91%; vegetables -22.20% YoY."
+    },
+    {
+      "date": "Dec-25",
+      "value": 1.33,
+      "food_inflation": -2.71,
+      "is_provisional": true,
+      "base_year": "2012=100",
+      "source": "MoSPI NSO press release, released January 12, 2026 — PIB prid=2213736; mospi.gov.in Press_Release_of_CPI_for_December_2025.pdf. Last monthly release under base year 2012=100. Food inflation -2.71%."
+    },
+    {
+      "date": "Jan-26",
+      "value": 2.75,
+      "food_inflation": null,
+      "is_provisional": true,
+      "base_year": "2024=100 (NEW SERIES — not comparable to prior months)",
+      "source": "MoSPI NSO FIRST press release under new base year 2024=100, released February 2026 — PIB prid=2227012 ('FIRST PRESS RELEASE OF CONSUMER PRICE INDEX ON BASE 2024=100'). Weights from Household Consumption Expenditure Survey 2023-24. Not directly comparable to Dec 2025 (2012=100 series)."
+    },
+    {
+      "date": "Feb-26",
+      "value": 3.21,
+      "food_inflation": null,
+      "is_provisional": true,
+      "base_year": "2024=100",
+      "source": "MoSPI NSO press release, released March 12, 2026 — PIB prid=2238889. 'PRESS RELEASE OF CONSUMER PRICE INDEX ON BASE 2024=100 FOR FEBRUARY, 2026'. CPI rose to 3.21% from 2.75% in January — cited in Tribune India and newkerala.com citing MoSPI."
+    },
+    {
+      "date": "Mar-26",
+      "value": null,
+      "food_inflation": null,
+      "is_provisional": true,
+      "base_year": "2024=100",
+      "source": "Not yet released as of April 5, 2026. Scheduled release: April 13, 2026. ACTION: Populate when released."
+    }
+  ],
+  "rbi_target": 4.0,
+  "rbi_tolerance_band": "2-6%",
+  "notes": "FY26 CPI inflation stayed well below RBI's 4% target for most of the year. Old series (2012=100): High of 3.16% in April 2025, record low of 0.25% in October 2025. Sustained food deflation from June 2025 to December 2025 (CFPI went negative from Jun onwards, deepening to -5.02% in Oct). Key driver: vegetable price crash (tomato, onion, leafy vegetables -20%+ YoY). MoSPI launched new CPI series (2024=100) in January 2026. Under new series: Jan=2.75%, Feb=3.21%. Low CPI environment (average <2% for bulk of FY26) supported aggressive 100bps rate cuts by RBI."
+}

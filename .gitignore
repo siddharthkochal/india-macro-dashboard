@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# Logs
+pipeline.log
+
+# Output directory (we commit dashboard.html at root, not the output/ copy)
+output/
+
+# OS
+.DS_Store
+Thumbs.db

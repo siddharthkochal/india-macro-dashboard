@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>India Economy KPI Dashboard — January 2026</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --surface2: #1c2330;
+      --border: #30363d;
+      --accent: #1e6fa5;
+      --accent2: #238636;
+      --warn: #d29922;
+      --danger: #da3633;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --green: #3fb950;
+      --red: #f85149;
+      --blue: #58a6ff;
+      --purple: #bc8cff;
+      --orange: #ffa657;
+      --teal: #39d353;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    header {
+      background: linear-gradient(135deg, #0d1f35 0%, #0d1117 60%);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .header-left { display: flex; align-items: center; gap: 14px; }
+    .rbi-badge {
+      background: linear-gradient(135deg, #1a3a6b, #0d2444);
+      border: 2px solid #2d5fa6;
+      border-radius: 10px;
+      padding: 8px 14px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: #7db8f7;
+    }
+    .header-title h1 {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.2;
+    }
+    .header-title p {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .header-meta {
+      text-align: right;
+    }
+    .header-meta .label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.8px; }
+    .header-meta .value { font-size: 14px; font-weight: 600; color: var(--blue); margin-top: 2px; }
+    .pulse {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(62, 185, 80, 0.12);
+      border: 1px solid rgba(62, 185, 80, 0.3);
+      border-radius: 20px;
+      padding: 5px 12px;
+      font-size: 12px;
+      color: var(--green);
+      font-weight: 600;
+    }
+    .pulse::before {
+      content: '';
+      width: 8px; height: 8px;
+      background: var(--green);
+      border-radius: 50%;
+      animation: blink 1.8s infinite;
+    }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+
+    /* ── LAYOUT ── */
+    main { padding: 24px 32px; max-width: 1600px; margin: 0 auto; }
+
+    /* ── SECTION LABELS ── */
+    .section-label {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: var(--muted);
+      margin: 28px 0 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ── KPI GRID ── */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 14px;
+    }
+    .kpi-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px 20px;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.2s, transform 0.15s;
+      cursor: default;
+    }
+    .kpi-card:hover {
+      border-color: #4d5663;
+      transform: translateY(-1px);
+    }
+    .kpi-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+    }
+    .kpi-card.green::before { background: linear-gradient(90deg, #3fb950, #26a641); }
+    .kpi-card.blue::before  { background: linear-gradient(90deg, #58a6ff, #1f6feb); }
+    .kpi-card.warn::before  { background: linear-gradient(90deg, #ffa657, #d29922); }
+    .kpi-card.red::before   { background: linear-gradient(90deg, #f85149, #da3633); }
+    .kpi-card.purple::before { background: linear-gradient(90deg, #bc8cff, #8957e5); }
+    .kpi-card.teal::before  { background: linear-gradient(90deg, #39d353, #26a148); }
+
+    .kpi-icon { font-size: 20px; margin-bottom: 10px; }
+    .kpi-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.8px; font-weight: 600; }
+    .kpi-value { font-size: 26px; font-weight: 800; margin: 6px 0 4px; line-height: 1; }
+    .kpi-card.green .kpi-value { color: var(--green); }
+    .kpi-card.blue  .kpi-value { color: var(--blue); }
+    .kpi-card.warn  .kpi-value { color: var(--orange); }
+    .kpi-card.red   .kpi-value { color: var(--red); }
+    .kpi-card.purple .kpi-value { color: var(--purple); }
+    .kpi-card.teal  .kpi-value { color: var(--teal); }
+
+    .kpi-sub { font-size: 12px; color: var(--muted); }
+    .kpi-badge {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 10px;
+      margin-top: 8px;
+    }
+    .badge-up   { background: rgba(62,185,80,0.15);  color: var(--green); }
+    .badge-down { background: rgba(248,81,73,0.15);  color: var(--red); }
+    .badge-flat { background: rgba(88,166,255,0.15); color: var(--blue); }
+    .badge-warn { background: rgba(255,166,87,0.15); color: var(--orange); }
+
+    /* ── CHARTS GRID ── */
+    .charts-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+      gap: 18px;
+    }
+    .chart-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+    }
+    .chart-card.wide {
+      grid-column: span 2;
+    }
+    .chart-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 18px;
+    }
+    .chart-title {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .chart-subtitle {
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: 3px;
+    }
+    .chart-badge {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 20px;
+      background: rgba(88,166,255,0.12);
+      color: var(--blue);
+      border: 1px solid rgba(88,166,255,0.2);
+      white-space: nowrap;
+    }
+    canvas { display: block; width: 100% !important; }
+
+    /* ── DETAIL TABLE ── */
+    .detail-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+      gap: 18px;
+    }
+    .table-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .table-card-header {
+      padding: 14px 20px;
+      border-bottom: 1px solid var(--border);
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 10px 20px; text-align: left; font-size: 13px; }
+    th { background: var(--surface2); color: var(--muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.6px; }
+    tr:not(:last-child) td { border-bottom: 1px solid var(--border); }
+    tr:hover td { background: rgba(255,255,255,0.02); }
+    td:last-child { text-align: right; font-weight: 600; }
+    .tag-green { color: var(--green); }
+    .tag-red   { color: var(--red); }
+    .tag-blue  { color: var(--blue); }
+    .tag-orange { color: var(--orange); }
+    .tag-purple { color: var(--purple); }
+
+    /* ── SIGNAL BOX ── */
+    .signal-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 12px;
+    }
+    .signal-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .signal-dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .signal-dot.green  { background: var(--green);  box-shadow: 0 0 6px var(--green); }
+    .signal-dot.red    { background: var(--red);    box-shadow: 0 0 6px var(--red); }
+    .signal-dot.yellow { background: var(--orange); box-shadow: 0 0 6px var(--orange); }
+    .signal-dot.blue   { background: var(--blue);   box-shadow: 0 0 6px var(--blue); }
+    .signal-text .s-label { font-size: 12px; color: var(--muted); }
+    .signal-text .s-value { font-size: 13px; font-weight: 700; color: var(--text); margin-top: 1px; }
+
+    /* ── FOOTER ── */
+    footer {
+      text-align: center;
+      padding: 24px 32px;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 40px;
+    }
+    footer a { color: var(--blue); text-decoration: none; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 768px) {
+      main { padding: 16px; }
+      header { padding: 16px; }
+      .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+      .charts-grid { grid-template-columns: 1fr; }
+      .chart-card.wide { grid-column: span 1; }
+      .detail-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="header-left">
+    <div class="rbi-badge">RBI</div>
+    <div class="header-title">
+      <h1>India Economy KPI Dashboard</h1>
+      <p>Reserve Bank of India — Data Release: January 2026</p>
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="header-meta">
+      <div class="label">Reporting Period</div>
+      <div class="value">January 2026</div>
+    </div>
+    <div class="header-meta">
+      <div class="label">Fiscal Year</div>
+      <div class="value">FY 2025–26</div>
+    </div>
+    <div class="pulse">Live Data</div>
+  </div>
+</header>
+
+<main>
+
+  <!-- ── INVESTOR SIGNALS ── -->
+  <div class="section-label">Investor Signals</div>
+  <div class="signal-grid">
+    <div class="signal-card">
+      <div class="signal-dot green"></div>
+      <div class="signal-text">
+        <div class="s-label">Monetary Policy</div>
+        <div class="s-value">Neutral Stance — Rate Held</div>
+      </div>
+    </div>
+    <div class="signal-card">
+      <div class="signal-dot green"></div>
+      <div class="signal-text">
+        <div class="s-label">GDP Growth</div>
+        <div class="s-value">Strong at 7.8% (Q3 FY26)</div>
+      </div>
+    </div>
+    <div class="signal-card">
+      <div class="signal-dot green"></div>
+      <div class="signal-text">
+        <div class="s-label">Inflation</div>
+        <div class="s-value">Within RBI band at 2.75%</div>
+      </div>
+    </div>
+    <div class="signal-card">
+      <div class="signal-dot green"></div>
+      <div class="signal-text">
+        <div class="s-label">Forex Reserves</div>
+        <div class="s-value">Record high ~$723.8 bn</div>
+      </div>
+    </div>
+    <div class="signal-card">
+      <div class="signal-dot yellow"></div>
+      <div class="signal-text">
+        <div class="s-label">Trade Deficit</div>
+        <div class="s-value">Widened to $34.7 bn (gold-driven)</div>
+      </div>
+    </div>
+    <div class="signal-card">
+      <div class="signal-dot yellow"></div>
+      <div class="signal-text">
+        <div class="s-label">INR/USD</div>
+        <div class="s-value">Pressured ~86–90 range</div>
+      </div>
+    </div>
+    <div class="signal-card">
+      <div class="signal-dot green"></div>
+      <div class="signal-text">
+        <div class="s-label">Fiscal Deficit</div>
+        <div class="s-value">63% of target — consolidating</div>
+      </div>
+    </div>
+    <div class="signal-card">
+      <div class="signal-dot green"></div>
+      <div class="signal-text">
+        <div class="s-label">Bank Credit</div>
+        <div class="s-value">Healthy growth at 14.6% YoY</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── TOP KPI CARDS ── -->
+  <div class="section-label">Key Performance Indicators</div>
+  <div class="kpi-grid">
+
+    <div class="kpi-card blue">
+      <div class="kpi-icon">🏦</div>
+      <div class="kpi-label">Repo Rate</div>
+      <div class="kpi-value">5.25%</div>
+      <div class="kpi-sub">MPC — Neutral Stance</div>
+      <span class="kpi-badge badge-flat">─ Held (5:1)</span>
+    </div>
+
+    <div class="kpi-card green">
+      <div class="kpi-icon">📊</div>
+      <div class="kpi-label">CPI Inflation</div>
+      <div class="kpi-value">2.75%</div>
+      <div class="kpi-sub">January 2026 (provisional)</div>
+      <span class="kpi-badge badge-up">▲ vs 1.3% Dec</span>
+    </div>
+
+    <div class="kpi-card green">
+      <div class="kpi-icon">📈</div>
+      <div class="kpi-label">WPI Inflation</div>
+      <div class="kpi-value">1.81%</div>
+      <div class="kpi-sub">January 2026 (10-mth high)</div>
+      <span class="kpi-badge badge-up">▲ vs 0.83% Dec</span>
+    </div>
+
+    <div class="kpi-card green">
+      <div class="kpi-icon">🌱</div>
+      <div class="kpi-label">GDP Growth</div>
+      <div class="kpi-value">7.8%</div>
+      <div class="kpi-sub">Q3 FY26 (Oct–Dec 2025)</div>
+      <span class="kpi-badge badge-flat">FY26 est: 7.6%</span>
+    </div>
+
+    <div class="kpi-card teal">
+      <div class="kpi-icon">🛡️</div>
+      <div class="kpi-label">Forex Reserves</div>
+      <div class="kpi-value">$723.8B</div>
+      <div class="kpi-sub">Jan 30, 2026 (near-record)</div>
+      <span class="kpi-badge badge-up">▲ +$36B in Jan</span>
+    </div>
+
+    <div class="kpi-card blue">
+      <div class="kpi-icon">💳</div>
+      <div class="kpi-label">Bank Credit Growth</div>
+      <div class="kpi-value">14.6%</div>
+      <div class="kpi-sub">YoY (Jan 31 fortnight)</div>
+      <span class="kpi-badge badge-up">▲ Healthy</span>
+    </div>
+
+    <div class="kpi-card purple">
+      <div class="kpi-icon">💰</div>
+      <div class="kpi-label">M3 Money Supply</div>
+      <div class="kpi-value">~12%</div>
+      <div class="kpi-sub">YoY growth | ₹299T absolute</div>
+      <span class="kpi-badge badge-flat">Accommodative</span>
+    </div>
+
+    <div class="kpi-card warn">
+      <div class="kpi-icon">⚖️</div>
+      <div class="kpi-label">Trade Deficit</div>
+      <div class="kpi-value">$34.7B</div>
+      <div class="kpi-sub">Merchandise (Jan 2026)</div>
+      <span class="kpi-badge badge-warn">▲ Gold-driven</span>
+    </div>
+
+    <div class="kpi-card warn">
+      <div class="kpi-icon">💱</div>
+      <div class="kpi-label">INR / USD</div>
+      <div class="kpi-value">~88.0</div>
+      <div class="kpi-sub">Jan avg (peaked 89.87)</div>
+      <span class="kpi-badge badge-down">▼ Pressured</span>
+    </div>
+
+    <div class="kpi-card blue">
+      <div class="kpi-icon">🏭</div>
+      <div class="kpi-label">IIP Growth</div>
+      <div class="kpi-value">4.8%</div>
+      <div class="kpi-sub">January 2026 (YoY)</div>
+      <span class="kpi-badge badge-down">▼ vs 7.8% Dec</span>
+    </div>
+
+    <div class="kpi-card green">
+      <div class="kpi-icon">🏛️</div>
+      <div class="kpi-label">Fiscal Deficit</div>
+      <div class="kpi-value">63%</div>
+      <div class="kpi-sub">of FY26 target (Apr–Jan)</div>
+      <span class="kpi-badge badge-up">▲ Better than FY25</span>
+    </div>
+
+    <div class="kpi-card warn">
+      <div class="kpi-icon">🔄</div>
+      <div class="kpi-label">Current Acct Deficit</div>
+      <div class="kpi-value">$13.2B</div>
+      <div class="kpi-sub">Q3 FY26 (1.3% of GDP)</div>
+      <span class="kpi-badge badge-warn">Manageable</span>
+    </div>
+
+  </div>
+
+  <!-- ── CHARTS ── -->
+  <div class="section-label">Trend Charts</div>
+  <div class="charts-grid">
+
+    <!-- Repo Rate History -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Policy Repo Rate</div>
+          <div class="chart-subtitle">RBI MPC decisions — FY26</div>
+        </div>
+        <div class="chart-badge">5.25% Current</div>
+      </div>
+      <canvas id="repoChart" height="200"></canvas>
+    </div>
+
+    <!-- CPI Inflation -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">CPI Inflation (%)</div>
+          <div class="chart-subtitle">Headline YoY — Monthly trend</div>
+        </div>
+        <div class="chart-badge">2.75% Jan 2026</div>
+      </div>
+      <canvas id="cpiChart" height="200"></canvas>
+    </div>
+
+    <!-- GDP Growth -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Real GDP Growth (%)</div>
+          <div class="chart-subtitle">Quarterly YoY</div>
+        </div>
+        <div class="chart-badge">7.8% Q3 FY26</div>
+      </div>
+      <canvas id="gdpChart" height="200"></canvas>
+    </div>
+
+    <!-- Forex Reserves -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Forex Reserves (USD Billion)</div>
+          <div class="chart-subtitle">Weekly as of Jan–Feb 2026</div>
+        </div>
+        <div class="chart-badge">$725.7B Record</div>
+      </div>
+      <canvas id="forexChart" height="200"></canvas>
+    </div>
+
+    <!-- Bank Credit Growth -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Bank Credit Growth (% YoY)</div>
+          <div class="chart-subtitle">Non-food credit — by segment Jan 2026</div>
+        </div>
+        <div class="chart-badge">14.6% Overall</div>
+      </div>
+      <canvas id="creditChart" height="200"></canvas>
+    </div>
+
+    <!-- IIP Breakdown -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">IIP — Sectoral Growth (%)</div>
+          <div class="chart-subtitle">January 2026 use-based classification</div>
+        </div>
+        <div class="chart-badge">+4.8% Overall</div>
+      </div>
+      <canvas id="iipChart" height="200"></canvas>
+    </div>
+
+    <!-- Trade Balance (wide) -->
+    <div class="chart-card wide">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Trade Balance — Goods & Services (USD Billion)</div>
+          <div class="chart-subtitle">January 2026 breakdown</div>
+        </div>
+        <div class="chart-badge">Deficit: $10.38B Overall</div>
+      </div>
+      <canvas id="tradeChart" height="150"></canvas>
+    </div>
+
+    <!-- Fiscal Deficit -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Fiscal Deficit vs Target</div>
+          <div class="chart-subtitle">Apr–Jan FY26 (% of annual target)</div>
+        </div>
+        <div class="chart-badge">63% utilized</div>
+      </div>
+      <canvas id="fiscalChart" height="200"></canvas>
+    </div>
+
+    <!-- INR/USD -->
+    <div class="chart-card">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">INR / USD Exchange Rate</div>
+          <div class="chart-subtitle">Monthly — CY 2025 to Jan 2026</div>
+        </div>
+        <div class="chart-badge">~88 Jan avg</div>
+      </div>
+      <canvas id="inrChart" height="200"></canvas>
+    </div>
+
+  </div>
+
+  <!-- ── DETAIL TABLES ── -->
+  <div class="section-label">Detailed Data</div>
+  <div class="detail-grid">
+
+    <!-- Monetary Policy -->
+    <div class="table-card">
+      <div class="table-card-header">🏦 Monetary Policy Rates</div>
+      <table>
+        <thead><tr><th>Rate</th><th>Value</th></tr></thead>
+        <tbody>
+          <tr><td>Repo Rate</td><td class="tag-blue">5.25%</td></tr>
+          <tr><td>Standing Deposit Facility (SDF)</td><td class="tag-blue">5.00%</td></tr>
+          <tr><td>Marginal Standing Facility (MSF)</td><td class="tag-blue">5.50%</td></tr>
+          <tr><td>Bank Rate</td><td class="tag-blue">5.50%</td></tr>
+          <tr><td>CRR (Cash Reserve Ratio)</td><td class="tag-green">Reduced 100 bps FY26</td></tr>
+          <tr><td>Policy Stance</td><td class="tag-orange">Neutral (5:1 vote)</td></tr>
+          <tr><td>Cumulative cuts FY26</td><td class="tag-green">−125 bps</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Inflation Detail -->
+    <div class="table-card">
+      <div class="table-card-header">📊 Inflation — January 2026</div>
+      <table>
+        <thead><tr><th>Indicator</th><th>Value</th></tr></thead>
+        <tbody>
+          <tr><td>CPI Headline</td><td class="tag-green">2.75%</td></tr>
+          <tr><td>CPI Rural</td><td class="tag-green">2.73%</td></tr>
+          <tr><td>CPI Urban</td><td class="tag-green">2.77%</td></tr>
+          <tr><td>Core CPI (ex-food & fuel)</td><td class="tag-green">~2.6%</td></tr>
+          <tr><td>WPI Headline</td><td class="tag-green">1.81%</td></tr>
+          <tr><td>WPI Manufacturing</td><td class="tag-orange">2.86%</td></tr>
+          <tr><td>WPI Food</td><td class="tag-green">1.41%</td></tr>
+          <tr><td>WPI Fuel & Power</td><td class="tag-green">−1.62%</td></tr>
+          <tr><td>RBI FY26 Projection</td><td class="tag-blue">2.1%</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- GDP -->
+    <div class="table-card">
+      <div class="table-card-header">🌱 GDP & Growth</div>
+      <table>
+        <thead><tr><th>Period</th><th>Growth</th></tr></thead>
+        <tbody>
+          <tr><td>Q1 FY26 (Apr–Jun 2025)</td><td class="tag-green">7.8%</td></tr>
+          <tr><td>Q2 FY26 (Jul–Sep 2025)</td><td class="tag-green">8.2%</td></tr>
+          <tr><td>Q3 FY26 (Oct–Dec 2025)</td><td class="tag-green">7.8%</td></tr>
+          <tr><td>FY26 Full Year (MoSPI)</td><td class="tag-green">7.6%</td></tr>
+          <tr><td>FY26 Full Year (RBI est.)</td><td class="tag-blue">7.4%</td></tr>
+          <tr><td>Manufacturing growth (Q3)</td><td class="tag-green">Double-digit (5th consec.)</td></tr>
+          <tr><td>Services growth (Q3)</td><td class="tag-green">9.9%</td></tr>
+          <tr><td>Agriculture (Q3)</td><td class="tag-orange">3.1%</td></tr>
+          <tr><td>Nominal GDP FY26</td><td class="tag-blue">₹322.58 lakh crore</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Forex Reserves -->
+    <div class="table-card">
+      <div class="table-card-header">🛡️ Forex Reserves — Weekly (Jan 2026)</div>
+      <table>
+        <thead><tr><th>Week Ending</th><th>Total (USD Bn)</th></tr></thead>
+        <tbody>
+          <tr><td>Jan 9, 2026</td><td class="tag-blue">~$687.0 bn</td></tr>
+          <tr><td>Jan 16, 2026</td><td class="tag-green">$701.36 bn (+$14.2B)</td></tr>
+          <tr><td>Jan 23, 2026</td><td class="tag-green">~$709.4 bn (+$8.0B)</td></tr>
+          <tr><td>Jan 30, 2026</td><td class="tag-green">$723.77 bn (+$14.4B)</td></tr>
+          <tr><td>Feb 13, 2026</td><td class="tag-purple">$725.73 bn (All-time record)</td></tr>
+          <tr><td>FCA (Feb 13)</td><td class="tag-blue">$573.60 bn</td></tr>
+          <tr><td>Gold Reserves</td><td class="tag-orange">$128.47 bn</td></tr>
+          <tr><td>Import Cover</td><td class="tag-green">~11 months</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Trade -->
+    <div class="table-card">
+      <div class="table-card-header">⚖️ Trade — January 2026</div>
+      <table>
+        <thead><tr><th>Item</th><th>Value</th></tr></thead>
+        <tbody>
+          <tr><td>Merchandise Exports</td><td class="tag-green">$36.56 bn (+0.6%)</td></tr>
+          <tr><td>Merchandise Imports</td><td class="tag-red">$71.24 bn (+19.3%)</td></tr>
+          <tr><td>Merchandise Trade Deficit</td><td class="tag-red">$34.68 bn</td></tr>
+          <tr><td>Services Exports</td><td class="tag-green">$43.90 bn (+26.3%)</td></tr>
+          <tr><td>Services Imports</td><td class="tag-orange">$19.60 bn (+17.3%)</td></tr>
+          <tr><td>Services Surplus</td><td class="tag-green">$24.30 bn</td></tr>
+          <tr><td>Total Exports</td><td class="tag-green">$80.45 bn (+13.2%)</td></tr>
+          <tr><td>Total Imports</td><td class="tag-orange">$90.83 bn (+18.8%)</td></tr>
+          <tr><td>Overall Trade Deficit</td><td class="tag-orange">$10.38 bn</td></tr>
+          <tr><td>Q3 FY26 Current Acct Deficit</td><td class="tag-orange">$13.2 bn (1.3% GDP)</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Fiscal -->
+    <div class="table-card">
+      <div class="table-card-header">🏛️ Fiscal Position — Apr–Jan FY26</div>
+      <table>
+        <thead><tr><th>Item</th><th>Value</th></tr></thead>
+        <tbody>
+          <tr><td>Fiscal Deficit (Apr–Jan)</td><td class="tag-orange">₹9.8 lakh crore</td></tr>
+          <tr><td>% of FY26 Target</td><td class="tag-green">63% (vs 74.5% last year)</td></tr>
+          <tr><td>Full-Year Target</td><td class="tag-blue">₹15.58 lakh crore (4.4% GDP)</td></tr>
+          <tr><td>Total Receipts</td><td class="tag-green">₹27.08 lakh crore (79.5%)</td></tr>
+          <tr><td>Net Tax Revenue</td><td class="tag-green">₹20.94 lakh crore</td></tr>
+          <tr><td>Non-Tax Revenue</td><td class="tag-green">₹5.57 lakh crore</td></tr>
+          <tr><td>Total Expenditure</td><td class="tag-orange">₹36.9 lakh crore (74.3%)</td></tr>
+          <tr><td>Revenue Expenditure</td><td class="tag-blue">₹28.47 lakh crore</td></tr>
+          <tr><td>Capital Expenditure</td><td class="tag-blue">₹8.42 lakh crore</td></tr>
+          <tr><td>Interest Payments</td><td class="tag-red">₹9.88 lakh crore</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+
+</main>
+
+<footer>
+  Data sourced from <a href="https://www.rbi.org.in" target="_blank">Reserve Bank of India</a>,
+  MoSPI, CGA &amp; official government releases &bull; Reporting period: January 2026 &bull;
+  Dashboard generated April 2026
+</footer>
+
+<script>
+  // ── CHART DEFAULTS ──
+  Chart.defaults.color = '#8b949e';
+  Chart.defaults.borderColor = '#30363d';
+  Chart.defaults.font.family = "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
+  Chart.defaults.font.size = 12;
+
+  const gridOpts = {
+    color: 'rgba(48,54,61,0.8)',
+    drawBorder: false
+  };
+
+  // ── 1. REPO RATE ──
+  new Chart(document.getElementById('repoChart'), {
+    type: 'line',
+    data: {
+      labels: ['Apr 25','Jun 25','Aug 25','Oct 25','Dec 25','Feb 26'],
+      datasets: [{
+        label: 'Repo Rate (%)',
+        data: [6.50, 6.25, 6.00, 5.75, 5.50, 5.25],
+        borderColor: '#58a6ff',
+        backgroundColor: 'rgba(88,166,255,0.08)',
+        fill: true,
+        tension: 0.4,
+        pointBackgroundColor: '#58a6ff',
+        pointRadius: 5,
+        pointHoverRadius: 7
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: gridOpts },
+        y: {
+          grid: gridOpts,
+          min: 5.0, max: 7.0,
+          ticks: { callback: v => v + '%' }
+        }
+      }
+    }
+  });
+
+  // ── 2. CPI INFLATION ──
+  new Chart(document.getElementById('cpiChart'), {
+    type: 'line',
+    data: {
+      labels: ['Aug 25','Sep 25','Oct 25','Nov 25','Dec 25','Jan 26'],
+      datasets: [{
+        label: 'CPI Inflation (%)',
+        data: [3.65, 3.22, 2.88, 1.90, 1.30, 2.75],
+        borderColor: '#3fb950',
+        backgroundColor: 'rgba(63,185,80,0.08)',
+        fill: true,
+        tension: 0.4,
+        pointBackgroundColor: '#3fb950',
+        pointRadius: 5,
+        pointHoverRadius: 7
+      },{
+        label: 'RBI Upper Band',
+        data: [4,4,4,4,4,4],
+        borderColor: 'rgba(248,81,73,0.4)',
+        borderDash: [6,4],
+        pointRadius: 0,
+        fill: false
+      },{
+        label: 'RBI Lower Band',
+        data: [2,2,2,2,2,2],
+        borderColor: 'rgba(255,166,87,0.4)',
+        borderDash: [6,4],
+        pointRadius: 0,
+        fill: false
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: gridOpts },
+        y: {
+          grid: gridOpts,
+          min: 0, max: 6,
+          ticks: { callback: v => v + '%' }
+        }
+      }
+    }
+  });
+
+  // ── 3. GDP GROWTH ──
+  new Chart(document.getElementById('gdpChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Q3 FY24','Q4 FY24','Q1 FY25','Q2 FY25','Q3 FY25','Q4 FY25','Q1 FY26','Q2 FY26','Q3 FY26'],
+      datasets: [{
+        label: 'GDP Growth (%)',
+        data: [8.6, 7.8, 6.7, 5.4, 6.4, 7.4, 7.8, 8.2, 7.8],
+        backgroundColor: ctx => {
+          const v = ctx.raw;
+          return v >= 7.5 ? 'rgba(63,185,80,0.75)' : v >= 6.5 ? 'rgba(255,166,87,0.75)' : 'rgba(248,81,73,0.75)';
+        },
+        borderRadius: 5
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { display: false } },
+        y: {
+          grid: gridOpts,
+          min: 4, max: 10,
+          ticks: { callback: v => v + '%' }
+        }
+      }
+    }
+  });
+
+  // ── 4. FOREX RESERVES ──
+  new Chart(document.getElementById('forexChart'), {
+    type: 'line',
+    data: {
+      labels: ['Jan 9','Jan 16','Jan 23','Jan 30','Feb 13'],
+      datasets: [{
+        label: 'Forex Reserves (USD bn)',
+        data: [687.0, 701.36, 709.4, 723.77, 725.73],
+        borderColor: '#39d353',
+        backgroundColor: 'rgba(57,211,83,0.08)',
+        fill: true,
+        tension: 0.3,
+        pointBackgroundColor: '#39d353',
+        pointRadius: 6,
+        pointHoverRadius: 8
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: gridOpts },
+        y: {
+          grid: gridOpts,
+          min: 680, max: 740,
+          ticks: { callback: v => '$' + v + 'B' }
+        }
+      }
+    }
+  });
+
+  // ── 5. CREDIT GROWTH ──
+  new Chart(document.getElementById('creditChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Overall','Retail','Industry','Agriculture','Corporate','Gold Loans'],
+      datasets: [{
+        label: 'YoY Growth (%)',
+        data: [14.6, 15.0, 13.5, 12.3, 12.0, 128.0],
+        backgroundColor: [
+          'rgba(88,166,255,0.75)',
+          'rgba(63,185,80,0.75)',
+          'rgba(188,140,255,0.75)',
+          'rgba(57,211,83,0.75)',
+          'rgba(255,166,87,0.75)',
+          'rgba(248,81,73,0.75)',
+        ],
+        borderRadius: 5
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { display: false } },
+        y: {
+          grid: gridOpts,
+          ticks: { callback: v => v + '%' }
+        }
+      }
+    }
+  });
+
+  // ── 6. IIP BREAKDOWN ──
+  new Chart(document.getElementById('iipChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Mining','Manufacturing','Electricity','Primary','Capital','Intermediate','Infra/Const','C.Durables','C.Non-Dur'],
+      datasets: [{
+        label: 'IIP Growth (% YoY)',
+        data: [4.3, 4.8, 5.1, 3.1, 4.3, 6.0, 13.7, 6.3, -2.7],
+        backgroundColor: ctx => ctx.raw >= 0 ? 'rgba(88,166,255,0.75)' : 'rgba(248,81,73,0.75)',
+        borderRadius: 5
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { size: 10 } } },
+        y: {
+          grid: gridOpts,
+          ticks: { callback: v => v + '%' }
+        }
+      }
+    }
+  });
+
+  // ── 7. TRADE CHART (wide) ──
+  new Chart(document.getElementById('tradeChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Goods Exports','Goods Imports','Services Exports','Services Imports','Total Exports','Total Imports'],
+      datasets: [{
+        label: 'USD Billion',
+        data: [36.56, 71.24, 43.90, 19.60, 80.45, 90.83],
+        backgroundColor: [
+          'rgba(63,185,80,0.75)',
+          'rgba(248,81,73,0.75)',
+          'rgba(63,185,80,0.75)',
+          'rgba(255,166,87,0.75)',
+          'rgba(88,166,255,0.75)',
+          'rgba(188,140,255,0.75)',
+        ],
+        borderRadius: 6
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { display: false } },
+        y: {
+          grid: gridOpts,
+          ticks: { callback: v => '$' + v + 'B' }
+        }
+      }
+    }
+  });
+
+  // ── 8. FISCAL DEFICIT ──
+  new Chart(document.getElementById('fiscalChart'), {
+    type: 'doughnut',
+    data: {
+      labels: ['Utilized (Apr–Jan)', 'Remaining'],
+      datasets: [{
+        data: [63, 37],
+        backgroundColor: ['rgba(88,166,255,0.85)', 'rgba(48,54,61,0.6)'],
+        borderColor: ['#58a6ff', '#30363d'],
+        borderWidth: 2,
+        hoverOffset: 4
+      }]
+    },
+    options: {
+      responsive: true,
+      cutout: '68%',
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: { padding: 16, usePointStyle: true }
+        },
+        tooltip: {
+          callbacks: {
+            label: ctx => ' ' + ctx.label + ': ' + ctx.raw + '%'
+          }
+        }
+      }
+    }
+  });
+
+  // ── 9. INR/USD ──
+  new Chart(document.getElementById('inrChart'), {
+    type: 'line',
+    data: {
+      labels: ['Aug 25','Sep 25','Oct 25','Nov 25','Dec 25','Jan 7','Jan 16','Jan 23','Jan 30'],
+      datasets: [{
+        label: 'INR per USD',
+        data: [83.97, 84.10, 84.40, 84.80, 85.60, 89.87, 86.50, 86.20, 86.60],
+        borderColor: '#ffa657',
+        backgroundColor: 'rgba(255,166,87,0.08)',
+        fill: true,
+        tension: 0.4,
+        pointBackgroundColor: ctx => ctx.raw === 89.87 ? '#f85149' : '#ffa657',
+        pointRadius: ctx => ctx.raw === 89.87 ? 8 : 4,
+        pointHoverRadius: 8
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: gridOpts },
+        y: {
+          grid: gridOpts,
+          min: 82, max: 92,
+          ticks: { callback: v => '₹' + v }
+        }
+      }
+    }
+  });
+</script>
+</body>
+</html>

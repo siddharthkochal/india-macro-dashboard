@@ -202,6 +202,19 @@ def run_pipeline(
     kpis_config = load_kpis_config()
     events = load_events()
 
+    # ── Step 0: Refresh live market + geopolitical data ──────────────────────
+    logger.info("[0/3] Refreshing live market prices and geopolitical news...")
+    try:
+        from fetchers.fetch_market import run as fetch_market
+        fetch_market()
+    except Exception as e:
+        logger.warning("Market fetch failed (non-fatal): %s", e)
+    try:
+        from fetchers.fetch_rss import run as fetch_rss
+        fetch_rss()
+    except Exception as e:
+        logger.warning("RSS fetch failed (non-fatal): %s", e)
+
     # ── Step 1: Load KPI data ────────────────────────────────────────────────
     if force_refresh and not commentary_only:
         check_api_key()
@@ -248,6 +261,17 @@ def run_pipeline(
                 logger.warning("  No commentary cache — dashboard will show placeholder text")
                 commentary = {}
 
+    # ── Load live market + geopolitical data ────────────────────────────────
+    def _load_json_safe(path):
+        try:
+            with open(path, encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return {}
+
+    market_data = _load_json_safe(DATA_DIR / "market_prices.json")
+    geo_data    = _load_json_safe(DATA_DIR / "geopolitical_news.json")
+
     # ── Step 3: Render ───────────────────────────────────────────────────────
     logger.info("[3/3] Rendering dashboard...")
     from render import render_dashboard
@@ -262,6 +286,8 @@ def run_pipeline(
         kpis_config=kpis_config,
         output_path=str(out_path),
         stale_kpis=stale,
+        market_data=market_data,
+        geo_data=geo_data,
     )
 
     root_out = Path(__file__).parent / "dashboard.html"
@@ -272,6 +298,8 @@ def run_pipeline(
         kpis_config=kpis_config,
         output_path=str(root_out),
         stale_kpis=stale,
+        market_data=market_data,
+        geo_data=geo_data,
     )
 
     logger.info("=" * 60)

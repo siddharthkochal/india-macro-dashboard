@@ -617,6 +617,56 @@ a:hover { text-decoration: underline; opacity: 0.85; }
   color: #253447; font-size: 0.73rem; line-height: 1.8;
 }
 
+/* ── Live Context Strip ── */
+.live-context {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px 20px;
+  margin-bottom: 28px;
+}
+.live-header {
+  display: flex; align-items: center; gap: 10px;
+  margin-bottom: 14px; flex-wrap: wrap;
+}
+.live-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #ef4444;
+  box-shadow: 0 0 8px #ef444488;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; } 50% { opacity: 0.4; }
+}
+.live-title {
+  font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.12em; color: var(--subtle);
+}
+.live-source { font-size: 0.67rem; color: var(--muted); margin-left: auto; }
+
+.price-strip {
+  display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 14px;
+}
+.price-pill {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 8px; padding: 8px 14px;
+  display: flex; align-items: center; gap: 8px;
+}
+.price-name { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+.price-val  { font-size: 1rem; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+.price-unit { font-size: 0.65rem; color: #334155; }
+
+.geo-feed { display: flex; flex-direction: column; gap: 8px; }
+.geo-headline {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 6px 0; border-bottom: 1px solid var(--border);
+}
+.geo-headline:last-child { border-bottom: none; }
+.geo-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; margin-top: 5px; }
+.geo-time { font-size: 0.67rem; color: var(--muted); white-space: nowrap; flex-shrink: 0;
+            font-family: 'JetBrains Mono', monospace; margin-top: 1px; }
+.geo-text { font-size: 0.78rem; color: var(--subtle); line-height: 1.4; }
+
 /* ── Responsive ── */
 @media (max-width: 640px) {
   .dash-title { font-size: 1.4rem; }
@@ -628,6 +678,80 @@ a:hover { text-decoration: underline; opacity: 0.85; }
 
 # ── Main render function ───────────────────────────────────────────────────────
 
+def _render_live_context(market_data: dict, geo_data: dict) -> str:
+    """Renders the live market prices + geopolitical headlines strip."""
+    prices = (market_data or {}).get("prices", {})
+    alert  = (market_data or {}).get("india_oil_alert", {})
+    headlines = (geo_data or {}).get("india_headlines", [])
+    geo_fetch = (geo_data or {}).get("fetched_at", "")
+    mkt_fetch = (market_data or {}).get("fetched_at", "")
+
+    if not prices and not headlines:
+        return ""
+
+    # Alert bar
+    alert_severity = alert.get("severity", "normal")
+    alert_color = {"critical": "#ef4444", "warning": "#f59e0b", "normal": "#22c55e"}.get(alert_severity, "#64748b")
+    alert_msgs = alert.get("alerts", [])
+    alert_html = ""
+    if alert_msgs:
+        alert_html = f"""
+        <div style="background:{alert_color}11;border:1px solid {alert_color}44;border-left:3px solid {alert_color};
+                    border-radius:8px;padding:10px 16px;margin-bottom:12px;font-size:0.8rem;color:{alert_color};">
+          <strong>India Macro Alert ({alert_severity.upper()}):</strong>
+          {'  &nbsp;|&nbsp;  '.join(alert_msgs)}
+        </div>"""
+
+    # Price pills
+    price_items = []
+    for key, p in prices.items():
+        if p.get("current_value") is None:
+            continue
+        sig = p.get("signal", "neutral")
+        sig_color = {"bullish": "#4ade80", "bearish": "#fca5a5", "neutral": "#94a3b8"}.get(sig, "#94a3b8")
+        direction = p.get("direction", "")
+        arrow = "▲" if direction == "up" else ("▼" if direction == "down" else "")
+        arrow_color = "#4ade80" if direction == "up" else ("#fca5a5" if direction == "down" else "#64748b")
+        price_items.append(f"""
+          <div class="price-pill">
+            <span class="price-name">{p['name']}</span>
+            <span class="price-val" style="color:{sig_color};">{p['current_value']:,.2f}</span>
+            <span style="font-size:0.65rem;color:{arrow_color};">{arrow}</span>
+            <span class="price-unit">{p['unit']}</span>
+          </div>""")
+
+    prices_html = f'<div class="price-strip">{"".join(price_items)}</div>' if price_items else ""
+
+    # Geopolitical headlines
+    top_headlines = headlines[:6]
+    hl_items = []
+    for h in top_headlines:
+        sev = h.get("severity", "medium")
+        dot_color = {"critical": "#ef4444", "high": "#f59e0b", "medium": "#64748b"}.get(sev, "#64748b")
+        hl_items.append(f"""
+          <div class="geo-headline">
+            <span class="geo-dot" style="background:{dot_color};"></span>
+            <span class="geo-time">{h.get('date_display','')}</span>
+            <span class="geo-text">{h.get('title','')[:120]}</span>
+          </div>""")
+
+    hl_html = f'<div class="geo-feed">{"".join(hl_items)}</div>' if hl_items else ""
+
+    fetch_time = geo_fetch or mkt_fetch
+
+    return f"""
+    <section class="live-context">
+      <div class="live-header">
+        <div class="live-dot"></div>
+        <span class="live-title">Live Market & Geopolitical Context</span>
+        <span class="live-source">Spectator Index RSS &nbsp;+&nbsp; Yahoo Finance &nbsp;&middot;&nbsp; {fetch_time}</span>
+      </div>
+      {alert_html}
+      {prices_html}
+      {hl_html}
+    </section>"""
+
+
 def render_dashboard(
     kpi_data: dict,
     commentary: dict,
@@ -635,6 +759,8 @@ def render_dashboard(
     kpis_config: list = None,
     output_path: str = None,
     stale_kpis: list = None,
+    market_data: dict = None,
+    geo_data: dict = None,
 ) -> str:
     """
     Render the full HTML dashboard. Returns HTML string.
@@ -719,6 +845,9 @@ def render_dashboard(
     # ── Events timeline ──
     events_html = _render_events_timeline(events)
 
+    # ── Live context strip ──
+    live_html = _render_live_context(market_data, geo_data)
+
     # ── Stale warning banner ──
     stale_banner = ""
     if stale_kpis:
@@ -793,6 +922,7 @@ def render_dashboard(
 
 <div class="container">
   {stale_banner}
+  {live_html}
   {macro_html}
   {sections_html}
   {events_html}

@@ -301,6 +301,56 @@ a:hover { text-decoration: underline; opacity: 0.85; }
   color: #253447; font-size: 0.73rem; line-height: 1.8;
 }
 
+/* ── Live Context Strip ── */
+.live-context {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px 20px;
+  margin-bottom: 28px;
+}
+.live-header {
+  display: flex; align-items: center; gap: 10px;
+  margin-bottom: 14px; flex-wrap: wrap;
+}
+.live-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #ef4444;
+  box-shadow: 0 0 8px #ef444488;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; } 50% { opacity: 0.4; }
+}
+.live-title {
+  font-size: 0.72rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.12em; color: var(--subtle);
+}
+.live-source { font-size: 0.67rem; color: var(--muted); margin-left: auto; }
+
+.price-strip {
+  display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 14px;
+}
+.price-pill {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 8px; padding: 8px 14px;
+  display: flex; align-items: center; gap: 8px;
+}
+.price-name { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+.price-val  { font-size: 1rem; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+.price-unit { font-size: 0.65rem; color: #334155; }
+
+.geo-feed { display: flex; flex-direction: column; gap: 8px; }
+.geo-headline {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 6px 0; border-bottom: 1px solid var(--border);
+}
+.geo-headline:last-child { border-bottom: none; }
+.geo-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; margin-top: 5px; }
+.geo-time { font-size: 0.67rem; color: var(--muted); white-space: nowrap; flex-shrink: 0;
+            font-family: 'JetBrains Mono', monospace; margin-top: 1px; }
+.geo-text { font-size: 0.78rem; color: var(--subtle); line-height: 1.4; }
+
 /* ── Responsive ── */
 @media (max-width: 640px) {
   .dash-title { font-size: 1.4rem; }
@@ -354,6 +404,82 @@ a:hover { text-decoration: underline; opacity: 0.85; }
         <div class="stale-banner">
           ⚠ Some data may not reflect the latest releases: repo_rate, cpi_inflation, gdp_growth, iip, trade_balance, bank_credit_growth, auto_sales, electricity_consumption, air_passenger_traffic
         </div>
+  
+    <section class="live-context">
+      <div class="live-header">
+        <div class="live-dot"></div>
+        <span class="live-title">Live Market & Geopolitical Context</span>
+        <span class="live-source">Spectator Index RSS &nbsp;+&nbsp; Yahoo Finance &nbsp;&middot;&nbsp; 2026-04-06T10:46Z</span>
+      </div>
+      
+        <div style="background:#ef444411;border:1px solid #ef444444;border-left:3px solid #ef4444;
+                    border-radius:8px;padding:10px 16px;margin-bottom:12px;font-size:0.8rem;color:#ef4444;">
+          <strong>India Macro Alert (CRITICAL):</strong>
+          Brent at $108/barrel — severe import bill pressure for India  &nbsp;|&nbsp;  Oil volatility index (OVX) at 93 — elevated supply disruption risk (Strait of Hormuz?)  &nbsp;|&nbsp;  USD/INR at 93.06 — weak rupee amplifies oil import cost in INR terms
+        </div>
+      <div class="price-strip">
+          <div class="price-pill">
+            <span class="price-name">Brent Crude</span>
+            <span class="price-val" style="color:#fca5a5;">108.12</span>
+            <span style="font-size:0.65rem;color:#fca5a5;">▼</span>
+            <span class="price-unit">USD/barrel</span>
+          </div>
+          <div class="price-pill">
+            <span class="price-name">WTI Crude</span>
+            <span class="price-val" style="color:#fca5a5;">110.38</span>
+            <span style="font-size:0.65rem;color:#fca5a5;">▼</span>
+            <span class="price-unit">USD/barrel</span>
+          </div>
+          <div class="price-pill">
+            <span class="price-name">Gold</span>
+            <span class="price-val" style="color:#fca5a5;">4,715.20</span>
+            <span style="font-size:0.65rem;color:#4ade80;">▲</span>
+            <span class="price-unit">USD/troy oz</span>
+          </div>
+          <div class="price-pill">
+            <span class="price-name">USD/INR</span>
+            <span class="price-val" style="color:#fca5a5;">93.06</span>
+            <span style="font-size:0.65rem;color:#4ade80;">▲</span>
+            <span class="price-unit">INR per USD</span>
+          </div>
+          <div class="price-pill">
+            <span class="price-name">CBOE Oil Volatility</span>
+            <span class="price-val" style="color:#fca5a5;">93.14</span>
+            <span style="font-size:0.65rem;color:#64748b;"></span>
+            <span class="price-unit">index</span>
+          </div></div>
+      <div class="geo-feed">
+          <div class="geo-headline">
+            <span class="geo-dot" style="background:#ef4444;"></span>
+            <span class="geo-time">06 Apr 09:50 UTC</span>
+            <span class="geo-text">BREAKING: Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to ac...</span>
+          </div>
+          <div class="geo-headline">
+            <span class="geo-dot" style="background:#64748b;"></span>
+            <span class="geo-time">06 Apr 08:20 UTC</span>
+            <span class="geo-text">US crude oil prices are down 2%, amid reports of proposals to end the conflict in the Middle East.</span>
+          </div>
+          <div class="geo-headline">
+            <span class="geo-dot" style="background:#f59e0b;"></span>
+            <span class="geo-time">06 Apr 08:00 UTC</span>
+            <span class="geo-text">BREAKING: Iran's Revolutionary Guards intelligence chief has been killed, according to Iranian media...</span>
+          </div>
+          <div class="geo-headline">
+            <span class="geo-dot" style="background:#f59e0b;"></span>
+            <span class="geo-time">06 Apr 07:20 UTC</span>
+            <span class="geo-text">BREAKING: US and Iran received a plan to end conflict, including immediate ceasefire, mediated by Pa...</span>
+          </div>
+          <div class="geo-headline">
+            <span class="geo-dot" style="background:#ef4444;"></span>
+            <span class="geo-time">06 Apr 07:20 UTC</span>
+            <span class="geo-text">BREAKING: Proposal, dubbed the 'Islamabad Accord', would involve a ceasefire that would take effect ...</span>
+          </div>
+          <div class="geo-headline">
+            <span class="geo-dot" style="background:#f59e0b;"></span>
+            <span class="geo-time">06 Apr 03:10 UTC</span>
+            <span class="geo-text">BREAKING: Several fires reported in the city of Haifa in northern Israel following Iranian attack...</span>
+          </div></div>
+    </section>
   
     <div class="macro-card">
       <div style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:8px;">

@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-06T10:46Z",
+  "fetched_at": "2026-04-06T13:32Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 41,
+  "india_relevant_items": 42,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "US crude oil prices are down 2%, amid reports of proposals to end the conflict in the Middle East."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Reports of attack on power facility in Shiraz, Iran.",
+      "description": "<b>BREAKING:</b> Reports of attack on power facility in Shiraz, Iran.",
+      "date": "2026-04-06T12:00Z",
+      "date_display": "06 Apr 12:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israel's defense minister says the military has attacked Iran's 'largest petrochemical fac...",
+      "description": "<b>BREAKING:</b> Israel's defense minister says the military has attacked Iran's 'largest petrochemical facility'",
+      "date": "2026-04-06T11:50Z",
+      "date_display": "06 Apr 11:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Attack on petrochemical facility in Asaluyeh, southern Iran.",
+      "description": "<b>BREAKING:</b> Attack on petrochemical facility in Asaluyeh, southern Iran.",
+      "date": "2026-04-06T11:10Z",
+      "date_display": "06 Apr 11:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to ac...",
       "description": "<b>BREAKING:</b> Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to accept a temporary cease-fire in exchange for opening the Strait of Hormuz or giving up the country’s highly enriched uranium stockpile', according to Wall Street Journal report.",
@@ -147,33 +171,33 @@
       "date_display": "05 Apr 21:20 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: Iranian Revolutionary Guards say they are preparing for a 'new order' in the Gulf",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they are preparing for a 'new order' in the Gulf",
-      "date": "2026-04-05T20:50Z",
-      "date_display": "05 Apr 20:50 UTC",
+      "title": "BREAKING: Reports of attack on power facility in Shiraz, Iran.",
+      "description": "<b>BREAKING:</b> Reports of attack on power facility in Shiraz, Iran.",
+      "date": "2026-04-06T12:00Z",
+      "date_display": "06 Apr 12:00 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iranian Revolutionary Guards say the Strait of Hormuz will never return to its previous st...",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say the Strait of Hormuz will never return to its previous state, particularly for the United States and Israel.",
-      "date": "2026-04-05T20:20Z",
-      "date_display": "05 Apr 20:20 UTC",
-      "severity": "critical",
+      "title": "BREAKING: Israel's defense minister says the military has attacked Iran's 'largest petrochemical fac...",
+      "description": "<b>BREAKING:</b> Israel's defense minister says the military has attacked Iran's 'largest petrochemical facility'",
+      "date": "2026-04-06T11:50Z",
+      "date_display": "06 Apr 11:50 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "The Iran war has 'eroded faith in the US role as protector of the high seas' and raised 'growing dou...",
-      "description": "The Iran war has 'eroded faith in the US role as protector of the high seas' and raised 'growing doubts about Washington's ability to manage the consequences of the war', according to Bloomberg report.",
-      "date": "2026-04-05T20:00Z",
-      "date_display": "05 Apr 20:00 UTC",
-      "severity": "medium",
+      "title": "BREAKING: Attack on petrochemical facility in Asaluyeh, southern Iran.",
+      "description": "<b>BREAKING:</b> Attack on petrochemical facility in Asaluyeh, southern Iran.",
+      "date": "2026-04-06T11:10Z",
+      "date_display": "06 Apr 11:10 UTC",
+      "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "BREAKING: Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to ac...",
       "description": "<b>BREAKING:</b> Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to accept a temporary cease-fire in exchange for opening the Strait of Hormuz or giving up the country’s highly enriched uranium stockpile', according to Wall Street Journal report.",
@@ -389,30 +413,6 @@
       "date_display": "05 Apr 12:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump post about F-15 crew member rescue https://t.co/oONd6hYlWl",
-      "description": "<b>BREAKING:</b> Trump post about F-15 crew member rescue https://t.co/oONd6hYlWl",
-      "date": "2026-04-05T04:50Z",
-      "date_display": "05 Apr 04:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Reuters also reports that second US F-15 pilot has been rescued",
-      "description": "<b>BREAKING:</b> Reuters also reports that second US F-15 pilot has been rescued",
-      "date": "2026-04-05T04:10Z",
-      "date_display": "05 Apr 04:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Second US F-15 crew member has been rescued, according to Fox News report.",
-      "description": "<b>BREAKING:</b> Second US F-15 crew member has been rescued, according to Fox News report.",
-      "date": "2026-04-05T04:00Z",
-      "date_display": "05 Apr 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

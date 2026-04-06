@@ -193,7 +193,7 @@
       "id": "auto_sales",
       "name": "Auto Sales",
       "category": "real_economy",
-      "unit": "units (thousands)",
+      "unit": "units (PV wholesale)",
       "unit_secondary": "% YoY growth",
       "frequency": "monthly",
       "source_authority": "SIAM",

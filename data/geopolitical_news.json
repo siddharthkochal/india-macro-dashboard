@@ -1,417 +1,417 @@
 {
-  "fetched_at": "2026-04-06T13:32Z",
+  "fetched_at": "2026-04-17T03:52Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 42,
+  "india_relevant_items": 34,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "up",
-    "latest_oil_headline": "US crude oil prices are down 2%, amid reports of proposals to end the conflict in the Middle East."
+    "price_direction": "down",
+    "latest_oil_headline": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5..."
   },
   "india_headlines": [
     {
-      "title": "BREAKING: Reports of attack on power facility in Shiraz, Iran.",
-      "description": "<b>BREAKING:</b> Reports of attack on power facility in Shiraz, Iran.",
-      "date": "2026-04-06T12:00Z",
-      "date_display": "06 Apr 12:00 UTC",
-      "severity": "high",
+      "title": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
+      "description": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
+      "date": "2026-04-17T00:30Z",
+      "date_display": "17 Apr 00:30 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Israel's defense minister says the military has attacked Iran's 'largest petrochemical fac...",
-      "description": "<b>BREAKING:</b> Israel's defense minister says the military has attacked Iran's 'largest petrochemical facility'",
-      "date": "2026-04-06T11:50Z",
-      "date_display": "06 Apr 11:50 UTC",
-      "severity": "high",
+      "title": "Trump says, 'tell that to the Pope', after journalist asks about Iran's plans for executions. https:...",
+      "description": "Trump says, 'tell that to the Pope', after journalist asks about Iran's plans for executions. https://t.co/ABaekEEq6b",
+      "date": "2026-04-16T21:40Z",
+      "date_display": "16 Apr 21:40 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Attack on petrochemical facility in Asaluyeh, southern Iran.",
-      "description": "<b>BREAKING:</b> Attack on petrochemical facility in Asaluyeh, southern Iran.",
-      "date": "2026-04-06T11:10Z",
-      "date_display": "06 Apr 11:10 UTC",
-      "severity": "high",
+      "title": "Israel-Hezbollah ceasefire has come into effect.",
+      "description": "Israel-Hezbollah ceasefire has come into effect.",
+      "date": "2026-04-16T21:10Z",
+      "date_display": "16 Apr 21:10 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to ac...",
-      "description": "<b>BREAKING:</b> Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to accept a temporary cease-fire in exchange for opening the Strait of Hormuz or giving up the country’s highly enriched uranium stockpile', according to Wall Street Journal report.",
-      "date": "2026-04-06T09:50Z",
-      "date_display": "06 Apr 09:50 UTC",
+      "title": "Israeli airstrikes on several targets across southern Lebanon.",
+      "description": "Israeli airstrikes on several targets across southern Lebanon.",
+      "date": "2026-04-16T20:50Z",
+      "date_display": "16 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's foreign ministry says it welcomes the ceasefire announced between Israel and Lebanon.",
+      "description": "Iran's foreign ministry says it welcomes the ceasefire announced between Israel and Lebanon.",
+      "date": "2026-04-16T20:30Z",
+      "date_display": "16 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5...",
+      "description": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5.",
+      "date": "2026-04-16T20:10Z",
+      "date_display": "16 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US officials have told their European counterparts that some weapons delivers 'are ​likely to be del...",
+      "description": "US officials have told their European counterparts that some weapons delivers 'are ​likely to be delayed ​as the Iran war continues to ⁠draw on weapons stocks', according to Reuters report.",
+      "date": "2026-04-16T20:00Z",
+      "date_display": "16 Apr 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Aluminium prices have hit a four-year high as Middle East deliveries continue to be disrupted.",
+      "description": "Aluminium prices have hit a four-year high as Middle East deliveries continue to be disrupted.",
+      "date": "2026-04-16T09:00Z",
+      "date_display": "16 Apr 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China's foreign minister calls on Iran to allow for 'normal navigation' in the Strait of Hormuz.",
+      "description": "China's foreign minister calls on Iran to allow for 'normal navigation' in the Strait of Hormuz.",
+      "date": "2026-04-16T03:20Z",
+      "date_display": "16 Apr 03:20 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "US crude oil prices are down 2%, amid reports of proposals to end the conflict in the Middle East.",
-      "description": "US crude oil prices are down 2%, amid reports of proposals to end the conflict in the Middle East.",
-      "date": "2026-04-06T08:20Z",
-      "date_display": "06 Apr 08:20 UTC",
+      "title": "🇨🇳 China's economy grows at 5%, exceeding market expectations and accelerating compared to previou...",
+      "description": "🇨🇳 China's economy grows at 5%, exceeding market expectations and accelerating compared to previous quarter.",
+      "date": "2026-04-16T03:20Z",
+      "date_display": "16 Apr 03:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iran's Revolutionary Guards intelligence chief has been killed, according to Iranian media...",
-      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards intelligence chief has been killed, according to Iranian media.",
-      "date": "2026-04-06T08:00Z",
-      "date_display": "06 Apr 08:00 UTC",
-      "severity": "high",
+      "title": "Lebanon says there are efforts to reach a ceasefire with Israel 'soon', according to Financial Times...",
+      "description": "Lebanon says there are efforts to reach a ceasefire with Israel 'soon', according to Financial Times report.",
+      "date": "2026-04-15T21:40Z",
+      "date_display": "15 Apr 21:40 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: US and Iran received a plan to end conflict, including immediate ceasefire, mediated by Pa...",
-      "description": "<b>BREAKING:</b> US and Iran received a plan to end conflict, including immediate ceasefire, mediated by Pakistan's army chief, according to Reuters report.",
-      "date": "2026-04-06T07:20Z",
-      "date_display": "06 Apr 07:20 UTC",
-      "severity": "high",
+      "title": "🇺🇸 US crude oil exports rose to 5.2 million barrels a day last week, a record high. https://t.co/d...",
+      "description": "🇺🇸 US crude oil exports rose to 5.2 million barrels a day last week, a record high. https://t.co/d7B2gnLFNS",
+      "date": "2026-04-15T21:10Z",
+      "date_display": "15 Apr 21:10 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Proposal, dubbed the 'Islamabad Accord', would involve a ceasefire that would take effect ...",
-      "description": "<b>BREAKING:</b> Proposal, dubbed the 'Islamabad Accord', would involve a ceasefire that would take effect 'immediately' and involve 'reopening the Strait of Hormuz, with 15-20 days to finalise a broader agreement', according to Reuters report.",
-      "date": "2026-04-06T07:20Z",
-      "date_display": "06 Apr 07:20 UTC",
+      "title": "Iran's speaker of parliament and key member of negotiation team Mohammad-Bagher Ghalibaf claims that...",
+      "description": "Iran's speaker of parliament and key member of negotiation team Mohammad-Bagher Ghalibaf claims that the US should withdraw from its 'Israel First' mistake. https://t.co/5bmJmELfIM",
+      "date": "2026-04-15T21:00Z",
+      "date_display": "15 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israeli military chief Eyal Zamir says that strikes in Iran 'stripped them of their defensive capabi...",
+      "description": "Israeli military chief Eyal Zamir says that strikes in Iran 'stripped them of their defensive capabilities and weakened them' and that 'we must not allow them any achievements on the nuclear issue, in Hormuz and in other matters on the table'.",
+      "date": "2026-04-15T20:10Z",
+      "date_display": "15 Apr 20:10 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Several fires reported in the city of Haifa in northern Israel following Iranian attack...",
-      "description": "<b>BREAKING:</b> Several fires reported in the city of Haifa in northern Israel following Iranian attack",
-      "date": "2026-04-06T03:10Z",
-      "date_display": "06 Apr 03:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US, Iran and regional mediators are discussing terms for a potential 45-day ceasefire, acc...",
-      "description": "<b>BREAKING:</b> US, Iran and regional mediators are discussing terms for a potential 45-day ceasefire, according to Axios report.",
-      "date": "2026-04-06T02:20Z",
-      "date_display": "06 Apr 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media says that three volleys of missiles were fired towards Israel",
-      "description": "<b>BREAKING:</b> Iranian media says that three volleys of missiles were fired towards Israel",
-      "date": "2026-04-06T01:00Z",
-      "date_display": "06 Apr 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reports of blasts and interceptions in central Israel after Iran launched missile attack...",
-      "description": "<b>BREAKING:</b> Reports of blasts and interceptions in central Israel after Iran launched missile attack",
-      "date": "2026-04-06T00:50Z",
-      "date_display": "06 Apr 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran launches new wave of missiles at Israel",
-      "description": "<b>BREAKING:</b> Iran launches new wave of missiles at Israel",
-      "date": "2026-04-06T00:40Z",
-      "date_display": "06 Apr 00:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Very large blasts reported in Iranian cities of Shiraz and Qom",
-      "description": "<b>BREAKING:</b> Very large blasts reported in Iranian cities of Shiraz and Qom",
-      "date": "2026-04-05T23:10Z",
-      "date_display": "05 Apr 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil prices have now doubled since the start of 2026, rising from $57 to current $115.",
-      "description": "US crude oil prices have now doubled since the start of 2026, rising from $57 to current $115.",
-      "date": "2026-04-05T22:40Z",
-      "date_display": "05 Apr 22:40 UTC",
+      "title": "IMF projection for economic growth in 2026.\n\n🇪🇬 Egypt: 4.2%\n🇴🇲 Oman: 3.5%\n🇮🇱 Israel: 3.5%\n🇹🇷...",
+      "description": "IMF projection for economic growth in 2026.\n\n🇪🇬 Egypt: 4.2%\n🇴🇲 Oman: 3.5%\n🇮🇱 Israel: 3.5%\n🇹🇷 Turkey: 3.4%\n🇸🇦 Saudi Arabia: 3.1%\n🇦🇪 UAE: 3.1%\n🇯🇴 Jordan: 2.7%\n🇧🇭 Bahrain: -0.5%\n🇰🇼 Kuwait: -0.6%\n🇮🇷 Iran: -6.1%\n🇮🇶 Iraq: -6.8%\n🇶🇦 Qatar: -8.6%",
+      "date": "2026-04-15T19:40Z",
+      "date_display": "15 Apr 19:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Stock market futures in the US are down by 0.6%, as oil prices rise by 3%.",
-      "description": "<b>BREAKING:</b> Stock market futures in the US are down by 0.6%, as oil prices rise by 3%.",
-      "date": "2026-04-05T22:30Z",
-      "date_display": "05 Apr 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices rise by 3%",
-      "description": "<b>BREAKING:</b> Oil prices rise by 3%",
-      "date": "2026-04-05T22:20Z",
-      "date_display": "05 Apr 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil prices rise by over 3%, now trading at $115.",
-      "description": "<b>BREAKING:</b> US crude oil prices rise by over 3%, now trading at $115.",
-      "date": "2026-04-05T22:20Z",
-      "date_display": "05 Apr 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reuters reports that the US military destroyed two of their disabled MC-130 planes and four helicopt...",
-      "description": "Reuters reports that the US military destroyed two of their disabled MC-130 planes and four helicopters inside Iran 'rather than risk leaving sensitive equipment behind', as rescue mission 'nearly went off course'.",
-      "date": "2026-04-05T21:50Z",
-      "date_display": "05 Apr 21:50 UTC",
+      "title": "Trump post about China and Iran war. https://t.co/jnBxWIG0Gf",
+      "description": "Trump post about China and Iran war. https://t.co/jnBxWIG0Gf",
+      "date": "2026-04-15T11:50Z",
+      "date_display": "15 Apr 11:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Sirens sound in Kuwait amid Iranian missile and drone attack, with air defenses intercepti...",
-      "description": "<b>BREAKING:</b> Sirens sound in Kuwait amid Iranian missile and drone attack, with air defenses intercepting.",
-      "date": "2026-04-05T21:20Z",
-      "date_display": "05 Apr 21:20 UTC",
-      "severity": "high",
+      "title": "Iran used Chinese spy satellite to 'target US military bases across the Middle East during the recen...",
+      "description": "Iran used Chinese spy satellite to 'target US military bases across the Middle East during the recent war', according to Financial Times investigation.",
+      "date": "2026-04-15T10:10Z",
+      "date_display": "15 Apr 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇳 India's wholesale inflation rate rose to 3.88%, the highest in over three years.",
+      "description": "🇮🇳 India's wholesale inflation rate rose to 3.88%, the highest in over three years.",
+      "date": "2026-04-15T09:50Z",
+      "date_display": "15 Apr 09:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The US military is 'sending thousands of additional troops into the Middle East in the coming days',...",
+      "description": "The US military is 'sending thousands of additional troops into the Middle East in the coming days', according to Washington Post report.",
+      "date": "2026-04-15T09:30Z",
+      "date_display": "15 Apr 09:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Saudi Arabia is set to provide Pakistan with $3 billion in support, as Pakistan prepares to repay $3...",
+      "description": "Saudi Arabia is set to provide Pakistan with $3 billion in support, as Pakistan prepares to repay $3.5 billion loan to the UAE.",
+      "date": "2026-04-15T06:10Z",
+      "date_display": "15 Apr 06:10 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
     {
-      "title": "BREAKING: Reports of attack on power facility in Shiraz, Iran.",
-      "description": "<b>BREAKING:</b> Reports of attack on power facility in Shiraz, Iran.",
-      "date": "2026-04-06T12:00Z",
-      "date_display": "06 Apr 12:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israel's defense minister says the military has attacked Iran's 'largest petrochemical fac...",
-      "description": "<b>BREAKING:</b> Israel's defense minister says the military has attacked Iran's 'largest petrochemical facility'",
-      "date": "2026-04-06T11:50Z",
-      "date_display": "06 Apr 11:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Attack on petrochemical facility in Asaluyeh, southern Iran.",
-      "description": "<b>BREAKING:</b> Attack on petrochemical facility in Asaluyeh, southern Iran.",
-      "date": "2026-04-06T11:10Z",
-      "date_display": "06 Apr 11:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to ac...",
-      "description": "<b>BREAKING:</b> Chances for a breakthrough over Iran war 'remain slim' and Iran has 'so far declined to accept a temporary cease-fire in exchange for opening the Strait of Hormuz or giving up the country’s highly enriched uranium stockpile', according to Wall Street Journal report.",
-      "date": "2026-04-06T09:50Z",
-      "date_display": "06 Apr 09:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli military struck airports in Tehran that were being used by the Quds Force",
-      "description": "<b>BREAKING:</b> Israeli military struck airports in Tehran that were being used by the Quds Force",
-      "date": "2026-04-06T08:40Z",
-      "date_display": "06 Apr 08:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US crude oil prices are down 2%, amid reports of proposals to end the conflict in the Middle East.",
-      "description": "US crude oil prices are down 2%, amid reports of proposals to end the conflict in the Middle East.",
-      "date": "2026-04-06T08:20Z",
-      "date_display": "06 Apr 08:20 UTC",
+      "title": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
+      "description": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
+      "date": "2026-04-17T00:30Z",
+      "date_display": "17 Apr 00:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iran's Revolutionary Guards intelligence chief has been killed, according to Iranian media...",
-      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards intelligence chief has been killed, according to Iranian media.",
-      "date": "2026-04-06T08:00Z",
-      "date_display": "06 Apr 08:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US and Iran received a plan to end conflict, including immediate ceasefire, mediated by Pa...",
-      "description": "<b>BREAKING:</b> US and Iran received a plan to end conflict, including immediate ceasefire, mediated by Pakistan's army chief, according to Reuters report.",
-      "date": "2026-04-06T07:20Z",
-      "date_display": "06 Apr 07:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Proposal, dubbed the 'Islamabad Accord', would involve a ceasefire that would take effect ...",
-      "description": "<b>BREAKING:</b> Proposal, dubbed the 'Islamabad Accord', would involve a ceasefire that would take effect 'immediately' and involve 'reopening the Strait of Hormuz, with 15-20 days to finalise a broader agreement', according to Reuters report.",
-      "date": "2026-04-06T07:20Z",
-      "date_display": "06 Apr 07:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇯🇵 Japan's 10-year government bond yield rises to the highest in 28 years",
-      "description": "<b>BREAKING:</b> 🇯🇵 Japan's 10-year government bond yield rises to the highest in 28 years",
-      "date": "2026-04-06T03:20Z",
-      "date_display": "06 Apr 03:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Several fires reported in the city of Haifa in northern Israel following Iranian attack...",
-      "description": "<b>BREAKING:</b> Several fires reported in the city of Haifa in northern Israel following Iranian attack",
-      "date": "2026-04-06T03:10Z",
-      "date_display": "06 Apr 03:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US, Iran and regional mediators are discussing terms for a potential 45-day ceasefire, acc...",
-      "description": "<b>BREAKING:</b> US, Iran and regional mediators are discussing terms for a potential 45-day ceasefire, according to Axios report.",
-      "date": "2026-04-06T02:20Z",
-      "date_display": "06 Apr 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media says that three volleys of missiles were fired towards Israel",
-      "description": "<b>BREAKING:</b> Iranian media says that three volleys of missiles were fired towards Israel",
-      "date": "2026-04-06T01:00Z",
-      "date_display": "06 Apr 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reports of blasts and interceptions in central Israel after Iran launched missile attack...",
-      "description": "<b>BREAKING:</b> Reports of blasts and interceptions in central Israel after Iran launched missile attack",
-      "date": "2026-04-06T00:50Z",
-      "date_display": "06 Apr 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran launches new wave of missiles at Israel",
-      "description": "<b>BREAKING:</b> Iran launches new wave of missiles at Israel",
-      "date": "2026-04-06T00:40Z",
-      "date_display": "06 Apr 00:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "European allies are now 'losing hope of keeping America in NATO', and the situation 'may have gone b...",
-      "description": "European allies are now 'losing hope of keeping America in NATO', and the situation 'may have gone beyond the point where European action could soften Mr Trump's contempt for NATO', according to The Economist. https://t.co/9REifYOSao",
-      "date": "2026-04-05T23:30Z",
-      "date_display": "05 Apr 23:30 UTC",
+      "title": "Trump says that Mamdani is 'destroying New York'. https://t.co/XuYeEuo4ho",
+      "description": "Trump says that Mamdani is 'destroying New York'. https://t.co/XuYeEuo4ho",
+      "date": "2026-04-16T22:00Z",
+      "date_display": "16 Apr 22:00 UTC",
       "severity": "medium",
       "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Very large blasts reported in Iranian cities of Shiraz and Qom",
-      "description": "<b>BREAKING:</b> Very large blasts reported in Iranian cities of Shiraz and Qom",
-      "date": "2026-04-05T23:10Z",
-      "date_display": "05 Apr 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil prices have now doubled since the start of 2026, rising from $57 to current $115.",
-      "description": "US crude oil prices have now doubled since the start of 2026, rising from $57 to current $115.",
-      "date": "2026-04-05T22:40Z",
-      "date_display": "05 Apr 22:40 UTC",
+      "title": "Trump says, 'tell that to the Pope', after journalist asks about Iran's plans for executions. https:...",
+      "description": "Trump says, 'tell that to the Pope', after journalist asks about Iran's plans for executions. https://t.co/ABaekEEq6b",
+      "date": "2026-04-16T21:40Z",
+      "date_display": "16 Apr 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Bitcoin price\n\nSix months ago: $114,300\n\nNow: $67,500",
-      "description": "Bitcoin price\n\nSix months ago: $114,300\n\nNow: $67,500",
-      "date": "2026-04-05T22:40Z",
-      "date_display": "05 Apr 22:40 UTC",
+      "title": "Israel-Hezbollah ceasefire has come into effect.",
+      "description": "Israel-Hezbollah ceasefire has come into effect.",
+      "date": "2026-04-16T21:10Z",
+      "date_display": "16 Apr 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Pope Leo XIV says 'woe to those who manipulate religion and the very name of God for their own milit...",
+      "description": "Pope Leo XIV says 'woe to those who manipulate religion and the very name of God for their own military, economic and political gain, dragging that which is sacred into darkness and filth'. https://t.co/AaX2sHMODO",
+      "date": "2026-04-16T21:00Z",
+      "date_display": "16 Apr 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Stock market futures in the US are down by 0.6%, as oil prices rise by 3%.",
-      "description": "<b>BREAKING:</b> Stock market futures in the US are down by 0.6%, as oil prices rise by 3%.",
-      "date": "2026-04-05T22:30Z",
-      "date_display": "05 Apr 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices rise by 3%",
-      "description": "<b>BREAKING:</b> Oil prices rise by 3%",
-      "date": "2026-04-05T22:20Z",
-      "date_display": "05 Apr 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil prices rise by over 3%, now trading at $115.",
-      "description": "<b>BREAKING:</b> US crude oil prices rise by over 3%, now trading at $115.",
-      "date": "2026-04-05T22:20Z",
-      "date_display": "05 Apr 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reuters reports that the US military destroyed two of their disabled MC-130 planes and four helicopt...",
-      "description": "Reuters reports that the US military destroyed two of their disabled MC-130 planes and four helicopters inside Iran 'rather than risk leaving sensitive equipment behind', as rescue mission 'nearly went off course'.",
-      "date": "2026-04-05T21:50Z",
-      "date_display": "05 Apr 21:50 UTC",
+      "title": "Israeli airstrikes on several targets across southern Lebanon.",
+      "description": "Israeli airstrikes on several targets across southern Lebanon.",
+      "date": "2026-04-16T20:50Z",
+      "date_display": "16 Apr 20:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Sirens sound in Kuwait amid Iranian missile and drone attack, with air defenses intercepti...",
-      "description": "<b>BREAKING:</b> Sirens sound in Kuwait amid Iranian missile and drone attack, with air defenses intercepting.",
-      "date": "2026-04-05T21:20Z",
-      "date_display": "05 Apr 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they are preparing for a 'new order' in the Gulf",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they are preparing for a 'new order' in the Gulf",
-      "date": "2026-04-05T20:50Z",
-      "date_display": "05 Apr 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say the Strait of Hormuz will never return to its previous st...",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say the Strait of Hormuz will never return to its previous state, particularly for the United States and Israel.",
-      "date": "2026-04-05T20:20Z",
-      "date_display": "05 Apr 20:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Iran war has 'eroded faith in the US role as protector of the high seas' and raised 'growing dou...",
-      "description": "The Iran war has 'eroded faith in the US role as protector of the high seas' and raised 'growing doubts about Washington's ability to manage the consequences of the war', according to Bloomberg report.",
-      "date": "2026-04-05T20:00Z",
-      "date_display": "05 Apr 20:00 UTC",
+      "title": "Iran's foreign ministry says it welcomes the ceasefire announced between Israel and Lebanon.",
+      "description": "Iran's foreign ministry says it welcomes the ceasefire announced between Israel and Lebanon.",
+      "date": "2026-04-16T20:30Z",
+      "date_display": "16 Apr 20:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Trump says there is still a 'good chance' of a deal, but if Iran does not make one, 'I am ...",
-      "description": "<b>BREAKING:</b> Trump says there is still a 'good chance' of a deal, but if Iran does not make one, 'I am blowing up everything over there', according to Axios report.",
-      "date": "2026-04-05T19:50Z",
-      "date_display": "05 Apr 19:50 UTC",
-      "severity": "high",
+      "title": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5...",
+      "description": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5.",
+      "date": "2026-04-16T20:10Z",
+      "date_display": "16 Apr 20:10 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iran rejected proposal to open Strait of Hormuz in exchange for temporary ceasefire, accor...",
-      "description": "<b>BREAKING:</b> Iran rejected proposal to open Strait of Hormuz in exchange for temporary ceasefire, according to Wall Street Journal report.",
-      "date": "2026-04-05T19:30Z",
-      "date_display": "05 Apr 19:30 UTC",
+      "title": "Pope Leo XIV says the world is 'being ravaged by a handful of tyrants'. https://t.co/falq6aaomJ",
+      "description": "Pope Leo XIV says the world is 'being ravaged by a handful of tyrants'. https://t.co/falq6aaomJ",
+      "date": "2026-04-16T20:10Z",
+      "date_display": "16 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Netflix founder and chairman Reed Hastings set to step down from the board. https://t.co/VEEFcrYNcL",
+      "description": "Netflix founder and chairman Reed Hastings set to step down from the board. https://t.co/VEEFcrYNcL",
+      "date": "2026-04-16T20:10Z",
+      "date_display": "16 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US officials have told their European counterparts that some weapons delivers 'are ​likely to be del...",
+      "description": "US officials have told their European counterparts that some weapons delivers 'are ​likely to be delayed ​as the Iran war continues to ⁠draw on weapons stocks', according to Reuters report.",
+      "date": "2026-04-16T20:00Z",
+      "date_display": "16 Apr 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "International Energy Agency chief says that Europe has 'maybe six weeks' of jet fuel left, says curr...",
+      "description": "International Energy Agency chief says that Europe has 'maybe six weeks' of jet fuel left, says current shock is 'the largest energy crisis we have ever faced', according to AP report.",
+      "date": "2026-04-16T11:00Z",
+      "date_display": "16 Apr 11:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Aluminium prices have hit a four-year high as Middle East deliveries continue to be disrupted.",
+      "description": "Aluminium prices have hit a four-year high as Middle East deliveries continue to be disrupted.",
+      "date": "2026-04-16T09:00Z",
+      "date_display": "16 Apr 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China's foreign minister calls on Iran to allow for 'normal navigation' in the Strait of Hormuz.",
+      "description": "China's foreign minister calls on Iran to allow for 'normal navigation' in the Strait of Hormuz.",
+      "date": "2026-04-16T03:20Z",
+      "date_display": "16 Apr 03:20 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Israeli defense minister says that as long as Iranian missile fire continues, Iran will se...",
-      "description": "<b>BREAKING:</b> Israeli defense minister says that as long as Iranian missile fire continues, Iran will see its national infrastructure 'erode and collapse'.",
-      "date": "2026-04-05T12:00Z",
-      "date_display": "05 Apr 12:00 UTC",
-      "severity": "high",
+      "title": "🇨🇳 China's economy grows at 5%, exceeding market expectations and accelerating compared to previou...",
+      "description": "🇨🇳 China's economy grows at 5%, exceeding market expectations and accelerating compared to previous quarter.",
+      "date": "2026-04-16T03:20Z",
+      "date_display": "16 Apr 03:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The Pentagon has approached automakers General Motors and Ford about shifting some capacity to 'make...",
+      "description": "The Pentagon has approached automakers General Motors and Ford about shifting some capacity to 'make arms and military supplies', according to Wall Street Journal.",
+      "date": "2026-04-15T23:20Z",
+      "date_display": "15 Apr 23:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Lebanon says there are efforts to reach a ceasefire with Israel 'soon', according to Financial Times...",
+      "description": "Lebanon says there are efforts to reach a ceasefire with Israel 'soon', according to Financial Times report.",
+      "date": "2026-04-15T21:40Z",
+      "date_display": "15 Apr 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇺🇸 US crude oil exports rose to 5.2 million barrels a day last week, a record high. https://t.co/d...",
+      "description": "🇺🇸 US crude oil exports rose to 5.2 million barrels a day last week, a record high. https://t.co/d7B2gnLFNS",
+      "date": "2026-04-15T21:10Z",
+      "date_display": "15 Apr 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's speaker of parliament and key member of negotiation team Mohammad-Bagher Ghalibaf claims that...",
+      "description": "Iran's speaker of parliament and key member of negotiation team Mohammad-Bagher Ghalibaf claims that the US should withdraw from its 'Israel First' mistake. https://t.co/5bmJmELfIM",
+      "date": "2026-04-15T21:00Z",
+      "date_display": "15 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US military says 'ten vessels have now been turned around and ZERO ships have broken through since t...",
+      "description": "US military says 'ten vessels have now been turned around and ZERO ships have broken through since the start of the U.S. blockade'.",
+      "date": "2026-04-15T20:40Z",
+      "date_display": "15 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Israeli military chief Eyal Zamir says that strikes in Iran 'stripped them of their defensive capabi...",
+      "description": "Israeli military chief Eyal Zamir says that strikes in Iran 'stripped them of their defensive capabilities and weakened them' and that 'we must not allow them any achievements on the nuclear issue, in Hormuz and in other matters on the table'.",
+      "date": "2026-04-15T20:10Z",
+      "date_display": "15 Apr 20:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "S&amp;P 500 closes at record high of 7,019 https://t.co/XCj2RjNS0h",
+      "description": "S&amp;P 500 closes at record high of 7,019 https://t.co/XCj2RjNS0h",
+      "date": "2026-04-15T20:10Z",
+      "date_display": "15 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "IMF projection for economic growth in 2026.\n\n🇪🇬 Egypt: 4.2%\n🇴🇲 Oman: 3.5%\n🇮🇱 Israel: 3.5%\n🇹🇷...",
+      "description": "IMF projection for economic growth in 2026.\n\n🇪🇬 Egypt: 4.2%\n🇴🇲 Oman: 3.5%\n🇮🇱 Israel: 3.5%\n🇹🇷 Turkey: 3.4%\n🇸🇦 Saudi Arabia: 3.1%\n🇦🇪 UAE: 3.1%\n🇯🇴 Jordan: 2.7%\n🇧🇭 Bahrain: -0.5%\n🇰🇼 Kuwait: -0.6%\n🇮🇷 Iran: -6.1%\n🇮🇶 Iraq: -6.8%\n🇶🇦 Qatar: -8.6%",
+      "date": "2026-04-15T19:40Z",
+      "date_display": "15 Apr 19:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Tesla share price is up 7.7% so far today. https://t.co/79wWqpicHu",
+      "description": "Tesla share price is up 7.7% so far today. https://t.co/79wWqpicHu",
+      "date": "2026-04-15T19:30Z",
+      "date_display": "15 Apr 19:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump post about China and Iran war. https://t.co/jnBxWIG0Gf",
+      "description": "Trump post about China and Iran war. https://t.co/jnBxWIG0Gf",
+      "date": "2026-04-15T11:50Z",
+      "date_display": "15 Apr 11:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran used Chinese spy satellite to 'target US military bases across the Middle East during the recen...",
+      "description": "Iran used Chinese spy satellite to 'target US military bases across the Middle East during the recent war', according to Financial Times investigation.",
+      "date": "2026-04-15T10:10Z",
+      "date_display": "15 Apr 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇳 India's wholesale inflation rate rose to 3.88%, the highest in over three years.",
+      "description": "🇮🇳 India's wholesale inflation rate rose to 3.88%, the highest in over three years.",
+      "date": "2026-04-15T09:50Z",
+      "date_display": "15 Apr 09:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The US military is 'sending thousands of additional troops into the Middle East in the coming days',...",
+      "description": "The US military is 'sending thousands of additional troops into the Middle East in the coming days', according to Washington Post report.",
+      "date": "2026-04-15T09:30Z",
+      "date_display": "15 Apr 09:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israeli military issues evacuation order for large parts of southern Lebanon. https://t.co/lEXUOg1ek...",
+      "description": "Israeli military issues evacuation order for large parts of southern Lebanon. https://t.co/lEXUOg1eku",
+      "date": "2026-04-15T09:00Z",
+      "date_display": "15 Apr 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Saudi Arabia is set to provide Pakistan with $3 billion in support, as Pakistan prepares to repay $3...",
+      "description": "Saudi Arabia is set to provide Pakistan with $3 billion in support, as Pakistan prepares to repay $3.5 billion loan to the UAE.",
+      "date": "2026-04-15T06:10Z",
+      "date_display": "15 Apr 06:10 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     }
   ]

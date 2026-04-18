@@ -1,17 +1,121 @@
 {
-  "fetched_at": "2026-04-17T03:52Z",
+  "fetched_at": "2026-04-18T03:37Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 34,
+  "india_relevant_items": 33,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "down",
-    "latest_oil_headline": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5..."
+    "price_direction": "up",
+    "latest_oil_headline": "Crude oil price down 10%, now trading at $85."
   },
   "india_headlines": [
+    {
+      "title": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
+      "description": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
+      "date": "2026-04-18T02:30Z",
+      "date_display": "18 Apr 02:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran has denied two of President Trump's key claims today.\n\nTehran denied agreeing to the transfer o...",
+      "description": "Iran has denied two of President Trump's key claims today.\n\nTehran denied agreeing to the transfer of enriched uranium out of the country, and said it would continue to limit number of ships crossing through the Strait of Hormuz.",
+      "date": "2026-04-17T22:30Z",
+      "date_display": "17 Apr 22:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Speaker of Parliament and key part of negotiating team Mohammad-Bagher Ghalibaf says that Tru...",
+      "description": "Iran's Speaker of Parliament and key part of negotiating team Mohammad-Bagher Ghalibaf says that Trump 'made seven claims in one hour, all seven of which were false'.",
+      "date": "2026-04-17T22:30Z",
+      "date_display": "17 Apr 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says he would like to thank Pakistan and 'its great prime minister and its great, great field ...",
+      "description": "Trump says he would like to thank Pakistan and 'its great prime minister and its great, great field marshal' for their contributions to US-Iran deal.",
+      "date": "2026-04-17T22:20Z",
+      "date_display": "17 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Iran will never have a nuclear weapon and the US will extract enriched uranium in pa...",
+      "description": "Trump says that Iran will never have a nuclear weapon and the US will extract enriched uranium in partnership with Iranians, with lots of 'excavators'.",
+      "date": "2026-04-17T22:10Z",
+      "date_display": "17 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Iran's uranium will be brought to the United States of America",
+      "description": "Trump says that Iran's uranium will be brought to the United States of America",
+      "date": "2026-04-17T22:10Z",
+      "date_display": "17 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump tells ABC News he thinks he can trust the Iranian side.",
+      "description": "Trump tells ABC News he thinks he can trust the Iranian side.",
+      "date": "2026-04-17T21:10Z",
+      "date_display": "17 Apr 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran told mediators it will 'continue to limit the number of ships allowed to cross the Strait of Ho...",
+      "description": "Iran told mediators it will 'continue to limit the number of ships allowed to cross the Strait of Hormuz' and that it will also charge tolls for the 'remaining period of the cease-fire', according to Wall Street Journal report.",
+      "date": "2026-04-17T21:10Z",
+      "date_display": "17 Apr 21:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iraq is resuming southern oil exports after a halt that lasted over a month, according to Reuters re...",
+      "description": "Iraq is resuming southern oil exports after a halt that lasted over a month, according to Reuters report.",
+      "date": "2026-04-17T20:30Z",
+      "date_display": "17 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Crude oil price down 10%, now trading at $85.",
+      "description": "Crude oil price down 10%, now trading at $85.",
+      "date": "2026-04-17T20:10Z",
+      "date_display": "17 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian foreign ministry says option of transferring its enriched uranium to another country is unac...",
+      "description": "Iranian foreign ministry says option of transferring its enriched uranium to another country is unacceptable.",
+      "date": "2026-04-17T20:00Z",
+      "date_display": "17 Apr 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Iran has agreed to 'stop backing all proxy groups like Hezbollah and Hamas', and has...",
+      "description": "Trump says that Iran has agreed to 'stop backing all proxy groups like Hezbollah and Hamas', and has 'agreed to everything', according to CBS News report.",
+      "date": "2026-04-17T20:00Z",
+      "date_display": "17 Apr 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Indian oil refiners paid for Iranian oil using Chinese yuan, according to Reuters report.",
+      "description": "Indian oil refiners paid for Iranian oil using Chinese yuan, according to Reuters report.",
+      "date": "2026-04-17T09:00Z",
+      "date_display": "17 Apr 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
       "description": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
@@ -67,113 +171,169 @@
       "date_display": "16 Apr 20:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Aluminium prices have hit a four-year high as Middle East deliveries continue to be disrupted.",
-      "description": "Aluminium prices have hit a four-year high as Middle East deliveries continue to be disrupted.",
-      "date": "2026-04-16T09:00Z",
-      "date_display": "16 Apr 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's foreign minister calls on Iran to allow for 'normal navigation' in the Strait of Hormuz.",
-      "description": "China's foreign minister calls on Iran to allow for 'normal navigation' in the Strait of Hormuz.",
-      "date": "2026-04-16T03:20Z",
-      "date_display": "16 Apr 03:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇨🇳 China's economy grows at 5%, exceeding market expectations and accelerating compared to previou...",
-      "description": "🇨🇳 China's economy grows at 5%, exceeding market expectations and accelerating compared to previous quarter.",
-      "date": "2026-04-16T03:20Z",
-      "date_display": "16 Apr 03:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Lebanon says there are efforts to reach a ceasefire with Israel 'soon', according to Financial Times...",
-      "description": "Lebanon says there are efforts to reach a ceasefire with Israel 'soon', according to Financial Times report.",
-      "date": "2026-04-15T21:40Z",
-      "date_display": "15 Apr 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 US crude oil exports rose to 5.2 million barrels a day last week, a record high. https://t.co/d...",
-      "description": "🇺🇸 US crude oil exports rose to 5.2 million barrels a day last week, a record high. https://t.co/d7B2gnLFNS",
-      "date": "2026-04-15T21:10Z",
-      "date_display": "15 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's speaker of parliament and key member of negotiation team Mohammad-Bagher Ghalibaf claims that...",
-      "description": "Iran's speaker of parliament and key member of negotiation team Mohammad-Bagher Ghalibaf claims that the US should withdraw from its 'Israel First' mistake. https://t.co/5bmJmELfIM",
-      "date": "2026-04-15T21:00Z",
-      "date_display": "15 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli military chief Eyal Zamir says that strikes in Iran 'stripped them of their defensive capabi...",
-      "description": "Israeli military chief Eyal Zamir says that strikes in Iran 'stripped them of their defensive capabilities and weakened them' and that 'we must not allow them any achievements on the nuclear issue, in Hormuz and in other matters on the table'.",
-      "date": "2026-04-15T20:10Z",
-      "date_display": "15 Apr 20:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "IMF projection for economic growth in 2026.\n\n🇪🇬 Egypt: 4.2%\n🇴🇲 Oman: 3.5%\n🇮🇱 Israel: 3.5%\n🇹🇷...",
-      "description": "IMF projection for economic growth in 2026.\n\n🇪🇬 Egypt: 4.2%\n🇴🇲 Oman: 3.5%\n🇮🇱 Israel: 3.5%\n🇹🇷 Turkey: 3.4%\n🇸🇦 Saudi Arabia: 3.1%\n🇦🇪 UAE: 3.1%\n🇯🇴 Jordan: 2.7%\n🇧🇭 Bahrain: -0.5%\n🇰🇼 Kuwait: -0.6%\n🇮🇷 Iran: -6.1%\n🇮🇶 Iraq: -6.8%\n🇶🇦 Qatar: -8.6%",
-      "date": "2026-04-15T19:40Z",
-      "date_display": "15 Apr 19:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump post about China and Iran war. https://t.co/jnBxWIG0Gf",
-      "description": "Trump post about China and Iran war. https://t.co/jnBxWIG0Gf",
-      "date": "2026-04-15T11:50Z",
-      "date_display": "15 Apr 11:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran used Chinese spy satellite to 'target US military bases across the Middle East during the recen...",
-      "description": "Iran used Chinese spy satellite to 'target US military bases across the Middle East during the recent war', according to Financial Times investigation.",
-      "date": "2026-04-15T10:10Z",
-      "date_display": "15 Apr 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇳 India's wholesale inflation rate rose to 3.88%, the highest in over three years.",
-      "description": "🇮🇳 India's wholesale inflation rate rose to 3.88%, the highest in over three years.",
-      "date": "2026-04-15T09:50Z",
-      "date_display": "15 Apr 09:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US military is 'sending thousands of additional troops into the Middle East in the coming days',...",
-      "description": "The US military is 'sending thousands of additional troops into the Middle East in the coming days', according to Washington Post report.",
-      "date": "2026-04-15T09:30Z",
-      "date_display": "15 Apr 09:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi Arabia is set to provide Pakistan with $3 billion in support, as Pakistan prepares to repay $3...",
-      "description": "Saudi Arabia is set to provide Pakistan with $3 billion in support, as Pakistan prepares to repay $3.5 billion loan to the UAE.",
-      "date": "2026-04-15T06:10Z",
-      "date_display": "15 Apr 06:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
+      "description": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
+      "date": "2026-04-18T02:30Z",
+      "date_display": "18 Apr 02:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran has denied two of President Trump's key claims today.\n\nTehran denied agreeing to the transfer o...",
+      "description": "Iran has denied two of President Trump's key claims today.\n\nTehran denied agreeing to the transfer of enriched uranium out of the country, and said it would continue to limit number of ships crossing through the Strait of Hormuz.",
+      "date": "2026-04-17T22:30Z",
+      "date_display": "17 Apr 22:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Speaker of Parliament and key part of negotiating team Mohammad-Bagher Ghalibaf says that Tru...",
+      "description": "Iran's Speaker of Parliament and key part of negotiating team Mohammad-Bagher Ghalibaf says that Trump 'made seven claims in one hour, all seven of which were false'.",
+      "date": "2026-04-17T22:30Z",
+      "date_display": "17 Apr 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US official says that the aircraft carrier USS Gerald Ford is now operating in the Red Sea, accordin...",
+      "description": "US official says that the aircraft carrier USS Gerald Ford is now operating in the Red Sea, according to CNN report. https://t.co/A5GPdkOz6z",
+      "date": "2026-04-17T22:20Z",
+      "date_display": "17 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump says that NATO was 'absolutely useless when we needed them'.",
+      "description": "Trump says that NATO was 'absolutely useless when we needed them'.",
+      "date": "2026-04-17T22:20Z",
+      "date_display": "17 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump says he would like to thank Pakistan and 'its great prime minister and its great, great field ...",
+      "description": "Trump says he would like to thank Pakistan and 'its great prime minister and its great, great field marshal' for their contributions to US-Iran deal.",
+      "date": "2026-04-17T22:20Z",
+      "date_display": "17 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Iran will never have a nuclear weapon and the US will extract enriched uranium in pa...",
+      "description": "Trump says that Iran will never have a nuclear weapon and the US will extract enriched uranium in partnership with Iranians, with lots of 'excavators'.",
+      "date": "2026-04-17T22:10Z",
+      "date_display": "17 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Iran's uranium will be brought to the United States of America",
+      "description": "Trump says that Iran's uranium will be brought to the United States of America",
+      "date": "2026-04-17T22:10Z",
+      "date_display": "17 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump tells ABC News he will 'prohibit' Netanyahu from bombing Lebanon and will tell Netanyahu 'he c...",
+      "description": "Trump tells ABC News he will 'prohibit' Netanyahu from bombing Lebanon and will tell Netanyahu 'he cannot do it'.",
+      "date": "2026-04-17T21:30Z",
+      "date_display": "17 Apr 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump tells ABC News he thinks he can trust the Iranian side.",
+      "description": "Trump tells ABC News he thinks he can trust the Iranian side.",
+      "date": "2026-04-17T21:10Z",
+      "date_display": "17 Apr 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran told mediators it will 'continue to limit the number of ships allowed to cross the Strait of Ho...",
+      "description": "Iran told mediators it will 'continue to limit the number of ships allowed to cross the Strait of Hormuz' and that it will also charge tolls for the 'remaining period of the cease-fire', according to Wall Street Journal report.",
+      "date": "2026-04-17T21:10Z",
+      "date_display": "17 Apr 21:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iraq is resuming southern oil exports after a halt that lasted over a month, according to Reuters re...",
+      "description": "Iraq is resuming southern oil exports after a halt that lasted over a month, according to Reuters report.",
+      "date": "2026-04-17T20:30Z",
+      "date_display": "17 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Netanyahu was 'shocked' by Trump's statement that Israel was 'prohibited' from bombing Lebanon, acco...",
+      "description": "Netanyahu was 'shocked' by Trump's statement that Israel was 'prohibited' from bombing Lebanon, according to Axios report.",
+      "date": "2026-04-17T20:20Z",
+      "date_display": "17 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Crude oil price down 10%, now trading at $85.",
+      "description": "Crude oil price down 10%, now trading at $85.",
+      "date": "2026-04-17T20:10Z",
+      "date_display": "17 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "S&amp;P 500 closes at new record high of 7,125.",
+      "description": "S&amp;P 500 closes at new record high of 7,125.",
+      "date": "2026-04-17T20:10Z",
+      "date_display": "17 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US share market has now added over $7.5 trillion in market value since the 30th of March.",
+      "description": "US share market has now added over $7.5 trillion in market value since the 30th of March.",
+      "date": "2026-04-17T20:10Z",
+      "date_display": "17 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iranian foreign ministry says option of transferring its enriched uranium to another country is unac...",
+      "description": "Iranian foreign ministry says option of transferring its enriched uranium to another country is unacceptable.",
+      "date": "2026-04-17T20:00Z",
+      "date_display": "17 Apr 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Iran has agreed to 'stop backing all proxy groups like Hezbollah and Hamas', and has...",
+      "description": "Trump says that Iran has agreed to 'stop backing all proxy groups like Hezbollah and Hamas', and has 'agreed to everything', according to CBS News report.",
+      "date": "2026-04-17T20:00Z",
+      "date_display": "17 Apr 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Indian oil refiners paid for Iranian oil using Chinese yuan, according to Reuters report.",
+      "description": "Indian oil refiners paid for Iranian oil using Chinese yuan, according to Reuters report.",
+      "date": "2026-04-17T09:00Z",
+      "date_display": "17 Apr 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇲🇾 Malaysia's economy grew by 5.3% in the first quarter of 2026.",
+      "description": "🇲🇾 Malaysia's economy grew by 5.3% in the first quarter of 2026.",
+      "date": "2026-04-17T04:50Z",
+      "date_display": "17 Apr 04:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
       "description": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
@@ -253,166 +413,6 @@
       "date_display": "16 Apr 20:10 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "US officials have told their European counterparts that some weapons delivers 'are ​likely to be del...",
-      "description": "US officials have told their European counterparts that some weapons delivers 'are ​likely to be delayed ​as the Iran war continues to ⁠draw on weapons stocks', according to Reuters report.",
-      "date": "2026-04-16T20:00Z",
-      "date_display": "16 Apr 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "International Energy Agency chief says that Europe has 'maybe six weeks' of jet fuel left, says curr...",
-      "description": "International Energy Agency chief says that Europe has 'maybe six weeks' of jet fuel left, says current shock is 'the largest energy crisis we have ever faced', according to AP report.",
-      "date": "2026-04-16T11:00Z",
-      "date_display": "16 Apr 11:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Aluminium prices have hit a four-year high as Middle East deliveries continue to be disrupted.",
-      "description": "Aluminium prices have hit a four-year high as Middle East deliveries continue to be disrupted.",
-      "date": "2026-04-16T09:00Z",
-      "date_display": "16 Apr 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's foreign minister calls on Iran to allow for 'normal navigation' in the Strait of Hormuz.",
-      "description": "China's foreign minister calls on Iran to allow for 'normal navigation' in the Strait of Hormuz.",
-      "date": "2026-04-16T03:20Z",
-      "date_display": "16 Apr 03:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇨🇳 China's economy grows at 5%, exceeding market expectations and accelerating compared to previou...",
-      "description": "🇨🇳 China's economy grows at 5%, exceeding market expectations and accelerating compared to previous quarter.",
-      "date": "2026-04-16T03:20Z",
-      "date_display": "16 Apr 03:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Pentagon has approached automakers General Motors and Ford about shifting some capacity to 'make...",
-      "description": "The Pentagon has approached automakers General Motors and Ford about shifting some capacity to 'make arms and military supplies', according to Wall Street Journal.",
-      "date": "2026-04-15T23:20Z",
-      "date_display": "15 Apr 23:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Lebanon says there are efforts to reach a ceasefire with Israel 'soon', according to Financial Times...",
-      "description": "Lebanon says there are efforts to reach a ceasefire with Israel 'soon', according to Financial Times report.",
-      "date": "2026-04-15T21:40Z",
-      "date_display": "15 Apr 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 US crude oil exports rose to 5.2 million barrels a day last week, a record high. https://t.co/d...",
-      "description": "🇺🇸 US crude oil exports rose to 5.2 million barrels a day last week, a record high. https://t.co/d7B2gnLFNS",
-      "date": "2026-04-15T21:10Z",
-      "date_display": "15 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's speaker of parliament and key member of negotiation team Mohammad-Bagher Ghalibaf claims that...",
-      "description": "Iran's speaker of parliament and key member of negotiation team Mohammad-Bagher Ghalibaf claims that the US should withdraw from its 'Israel First' mistake. https://t.co/5bmJmELfIM",
-      "date": "2026-04-15T21:00Z",
-      "date_display": "15 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US military says 'ten vessels have now been turned around and ZERO ships have broken through since t...",
-      "description": "US military says 'ten vessels have now been turned around and ZERO ships have broken through since the start of the U.S. blockade'.",
-      "date": "2026-04-15T20:40Z",
-      "date_display": "15 Apr 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Israeli military chief Eyal Zamir says that strikes in Iran 'stripped them of their defensive capabi...",
-      "description": "Israeli military chief Eyal Zamir says that strikes in Iran 'stripped them of their defensive capabilities and weakened them' and that 'we must not allow them any achievements on the nuclear issue, in Hormuz and in other matters on the table'.",
-      "date": "2026-04-15T20:10Z",
-      "date_display": "15 Apr 20:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "S&amp;P 500 closes at record high of 7,019 https://t.co/XCj2RjNS0h",
-      "description": "S&amp;P 500 closes at record high of 7,019 https://t.co/XCj2RjNS0h",
-      "date": "2026-04-15T20:10Z",
-      "date_display": "15 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "IMF projection for economic growth in 2026.\n\n🇪🇬 Egypt: 4.2%\n🇴🇲 Oman: 3.5%\n🇮🇱 Israel: 3.5%\n🇹🇷...",
-      "description": "IMF projection for economic growth in 2026.\n\n🇪🇬 Egypt: 4.2%\n🇴🇲 Oman: 3.5%\n🇮🇱 Israel: 3.5%\n🇹🇷 Turkey: 3.4%\n🇸🇦 Saudi Arabia: 3.1%\n🇦🇪 UAE: 3.1%\n🇯🇴 Jordan: 2.7%\n🇧🇭 Bahrain: -0.5%\n🇰🇼 Kuwait: -0.6%\n🇮🇷 Iran: -6.1%\n🇮🇶 Iraq: -6.8%\n🇶🇦 Qatar: -8.6%",
-      "date": "2026-04-15T19:40Z",
-      "date_display": "15 Apr 19:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Tesla share price is up 7.7% so far today. https://t.co/79wWqpicHu",
-      "description": "Tesla share price is up 7.7% so far today. https://t.co/79wWqpicHu",
-      "date": "2026-04-15T19:30Z",
-      "date_display": "15 Apr 19:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump post about China and Iran war. https://t.co/jnBxWIG0Gf",
-      "description": "Trump post about China and Iran war. https://t.co/jnBxWIG0Gf",
-      "date": "2026-04-15T11:50Z",
-      "date_display": "15 Apr 11:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran used Chinese spy satellite to 'target US military bases across the Middle East during the recen...",
-      "description": "Iran used Chinese spy satellite to 'target US military bases across the Middle East during the recent war', according to Financial Times investigation.",
-      "date": "2026-04-15T10:10Z",
-      "date_display": "15 Apr 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇳 India's wholesale inflation rate rose to 3.88%, the highest in over three years.",
-      "description": "🇮🇳 India's wholesale inflation rate rose to 3.88%, the highest in over three years.",
-      "date": "2026-04-15T09:50Z",
-      "date_display": "15 Apr 09:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US military is 'sending thousands of additional troops into the Middle East in the coming days',...",
-      "description": "The US military is 'sending thousands of additional troops into the Middle East in the coming days', according to Washington Post report.",
-      "date": "2026-04-15T09:30Z",
-      "date_display": "15 Apr 09:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli military issues evacuation order for large parts of southern Lebanon. https://t.co/lEXUOg1ek...",
-      "description": "Israeli military issues evacuation order for large parts of southern Lebanon. https://t.co/lEXUOg1eku",
-      "date": "2026-04-15T09:00Z",
-      "date_display": "15 Apr 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Saudi Arabia is set to provide Pakistan with $3 billion in support, as Pakistan prepares to repay $3...",
-      "description": "Saudi Arabia is set to provide Pakistan with $3 billion in support, as Pakistan prepares to repay $3.5 billion loan to the UAE.",
-      "date": "2026-04-15T06:10Z",
-      "date_display": "15 Apr 06:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

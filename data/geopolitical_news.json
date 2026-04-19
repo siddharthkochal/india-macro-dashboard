@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-18T03:37Z",
+  "fetched_at": "2026-04-19T03:55Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 33,
+  "india_relevant_items": 35,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,102 @@
     "latest_oil_headline": "Crude oil price down 10%, now trading at $85."
   },
   "india_headlines": [
+    {
+      "title": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
+      "description": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
+      "date": "2026-04-18T23:00Z",
+      "date_display": "18 Apr 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Speaker of Parliament Mohammad-Bagher Ghalibaf says there are differences with the US over th...",
+      "description": "Iran's Speaker of Parliament Mohammad-Bagher Ghalibaf says there are differences with the US over the nuclear file and the Strait of Hormuz. https://t.co/2JQHdNaJc0",
+      "date": "2026-04-18T22:20Z",
+      "date_display": "18 Apr 22:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US intelligence assessment is that Iran retains around 40% of its prewar stockpile of drones, accord...",
+      "description": "US intelligence assessment is that Iran retains around 40% of its prewar stockpile of drones, according to NY Times report.",
+      "date": "2026-04-18T22:00Z",
+      "date_display": "18 Apr 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran’s Revolutionary Guard Corps says the Strait of Hormuz will remain shut until the United States ...",
+      "description": "Iran’s Revolutionary Guard Corps says the Strait of Hormuz will remain shut until the United States ends its blockade.",
+      "date": "2026-04-18T21:10Z",
+      "date_display": "18 Apr 21:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran is now informing commercial vessels that the Strait of Hormuz is 'completely closed again'.",
+      "description": "Iran is now informing commercial vessels that the Strait of Hormuz is 'completely closed again'.",
+      "date": "2026-04-18T21:00Z",
+      "date_display": "18 Apr 21:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The US military says 'the blockade has completely halted economic trade going into and out of Iran b...",
+      "description": "The US military says 'the blockade has completely halted economic trade going into and out of Iran by sea'.",
+      "date": "2026-04-18T20:40Z",
+      "date_display": "18 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The US military is making preparations to 'board Iran-linked oil tankers and seize commercial ships ...",
+      "description": "The US military is making preparations to 'board Iran-linked oil tankers and seize commercial ships in international waters', according to Wall Street Journal report.",
+      "date": "2026-04-18T20:20Z",
+      "date_display": "18 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reports of gunfire targeting an oil tanker and commercial ship trying to cross the Strait of Hormuz.",
+      "description": "Reports of gunfire targeting an oil tanker and commercial ship trying to cross the Strait of Hormuz.",
+      "date": "2026-04-18T10:50Z",
+      "date_display": "18 Apr 10:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's deputy foreign minister says President Trump 'talks too much' and 'said contradictory things ...",
+      "description": "Iran's deputy foreign minister says President Trump 'talks too much' and 'said contradictory things within the same statement'.",
+      "date": "2026-04-18T10:40Z",
+      "date_display": "18 Apr 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Around 20 ships set to cross the Strait of Hormuz were 'were turning back toward Oman after Iran’s m...",
+      "description": "Around 20 ships set to cross the Strait of Hormuz were 'were turning back toward Oman after Iran’s military said that the waterway was closed', according to Wall Street Journal report.",
+      "date": "2026-04-18T10:30Z",
+      "date_display": "18 Apr 10:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "In effect, the Iranian military has closed the Strait of Hormuz again, saying the US must lift the b...",
+      "description": "In effect, the Iranian military has closed the Strait of Hormuz again, saying the US must lift the blockade before the Strait is re-opened.",
+      "date": "2026-04-18T09:00Z",
+      "date_display": "18 Apr 09:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media says the Strait of Hormuz is back under 'strict management and control' of the m...",
+      "description": "Iranian state media says the Strait of Hormuz is back under 'strict management and control' of the military.",
+      "date": "2026-04-18T08:30Z",
+      "date_display": "18 Apr 08:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
       "description": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
@@ -75,105 +171,121 @@
       "date_display": "17 Apr 21:10 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "Iraq is resuming southern oil exports after a halt that lasted over a month, according to Reuters re...",
-      "description": "Iraq is resuming southern oil exports after a halt that lasted over a month, according to Reuters report.",
-      "date": "2026-04-17T20:30Z",
-      "date_display": "17 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Crude oil price down 10%, now trading at $85.",
-      "description": "Crude oil price down 10%, now trading at $85.",
-      "date": "2026-04-17T20:10Z",
-      "date_display": "17 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian foreign ministry says option of transferring its enriched uranium to another country is unac...",
-      "description": "Iranian foreign ministry says option of transferring its enriched uranium to another country is unacceptable.",
-      "date": "2026-04-17T20:00Z",
-      "date_display": "17 Apr 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran has agreed to 'stop backing all proxy groups like Hezbollah and Hamas', and has...",
-      "description": "Trump says that Iran has agreed to 'stop backing all proxy groups like Hezbollah and Hamas', and has 'agreed to everything', according to CBS News report.",
-      "date": "2026-04-17T20:00Z",
-      "date_display": "17 Apr 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Indian oil refiners paid for Iranian oil using Chinese yuan, according to Reuters report.",
-      "description": "Indian oil refiners paid for Iranian oil using Chinese yuan, according to Reuters report.",
-      "date": "2026-04-17T09:00Z",
-      "date_display": "17 Apr 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
-      "description": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
-      "date": "2026-04-17T00:30Z",
-      "date_display": "17 Apr 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says, 'tell that to the Pope', after journalist asks about Iran's plans for executions. https:...",
-      "description": "Trump says, 'tell that to the Pope', after journalist asks about Iran's plans for executions. https://t.co/ABaekEEq6b",
-      "date": "2026-04-16T21:40Z",
-      "date_display": "16 Apr 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel-Hezbollah ceasefire has come into effect.",
-      "description": "Israel-Hezbollah ceasefire has come into effect.",
-      "date": "2026-04-16T21:10Z",
-      "date_display": "16 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli airstrikes on several targets across southern Lebanon.",
-      "description": "Israeli airstrikes on several targets across southern Lebanon.",
-      "date": "2026-04-16T20:50Z",
-      "date_display": "16 Apr 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's foreign ministry says it welcomes the ceasefire announced between Israel and Lebanon.",
-      "description": "Iran's foreign ministry says it welcomes the ceasefire announced between Israel and Lebanon.",
-      "date": "2026-04-16T20:30Z",
-      "date_display": "16 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5...",
-      "description": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5.",
-      "date": "2026-04-16T20:10Z",
-      "date_display": "16 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US officials have told their European counterparts that some weapons delivers 'are ​likely to be del...",
-      "description": "US officials have told their European counterparts that some weapons delivers 'are ​likely to be delayed ​as the Iran war continues to ⁠draw on weapons stocks', according to Reuters report.",
-      "date": "2026-04-16T20:00Z",
-      "date_display": "16 Apr 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
+      "description": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
+      "date": "2026-04-18T23:00Z",
+      "date_display": "18 Apr 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Speaker of Parliament Mohammad-Bagher Ghalibaf says there are differences with the US over th...",
+      "description": "Iran's Speaker of Parliament Mohammad-Bagher Ghalibaf says there are differences with the US over the nuclear file and the Strait of Hormuz. https://t.co/2JQHdNaJc0",
+      "date": "2026-04-18T22:20Z",
+      "date_display": "18 Apr 22:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US intelligence assessment is that Iran retains around 40% of its prewar stockpile of drones, accord...",
+      "description": "US intelligence assessment is that Iran retains around 40% of its prewar stockpile of drones, according to NY Times report.",
+      "date": "2026-04-18T22:00Z",
+      "date_display": "18 Apr 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran’s Revolutionary Guard Corps says the Strait of Hormuz will remain shut until the United States ...",
+      "description": "Iran’s Revolutionary Guard Corps says the Strait of Hormuz will remain shut until the United States ends its blockade.",
+      "date": "2026-04-18T21:10Z",
+      "date_display": "18 Apr 21:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran is now informing commercial vessels that the Strait of Hormuz is 'completely closed again'.",
+      "description": "Iran is now informing commercial vessels that the Strait of Hormuz is 'completely closed again'.",
+      "date": "2026-04-18T21:00Z",
+      "date_display": "18 Apr 21:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The US military says 'the blockade has completely halted economic trade going into and out of Iran b...",
+      "description": "The US military says 'the blockade has completely halted economic trade going into and out of Iran by sea'.",
+      "date": "2026-04-18T20:40Z",
+      "date_display": "18 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US official says the war could resume in the coming days if there is no breakthrough in peace talks,...",
+      "description": "US official says the war could resume in the coming days if there is no breakthrough in peace talks, according to Axios report.",
+      "date": "2026-04-18T20:30Z",
+      "date_display": "18 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The US military is making preparations to 'board Iran-linked oil tankers and seize commercial ships ...",
+      "description": "The US military is making preparations to 'board Iran-linked oil tankers and seize commercial ships in international waters', according to Wall Street Journal report.",
+      "date": "2026-04-18T20:20Z",
+      "date_display": "18 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reports of gunfire targeting an oil tanker and commercial ship trying to cross the Strait of Hormuz.",
+      "description": "Reports of gunfire targeting an oil tanker and commercial ship trying to cross the Strait of Hormuz.",
+      "date": "2026-04-18T10:50Z",
+      "date_display": "18 Apr 10:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's deputy foreign minister says President Trump 'talks too much' and 'said contradictory things ...",
+      "description": "Iran's deputy foreign minister says President Trump 'talks too much' and 'said contradictory things within the same statement'.",
+      "date": "2026-04-18T10:40Z",
+      "date_display": "18 Apr 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Around 20 ships set to cross the Strait of Hormuz were 'were turning back toward Oman after Iran’s m...",
+      "description": "Around 20 ships set to cross the Strait of Hormuz were 'were turning back toward Oman after Iran’s military said that the waterway was closed', according to Wall Street Journal report.",
+      "date": "2026-04-18T10:30Z",
+      "date_display": "18 Apr 10:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "In effect, the Iranian military has closed the Strait of Hormuz again, saying the US must lift the b...",
+      "description": "In effect, the Iranian military has closed the Strait of Hormuz again, saying the US must lift the blockade before the Strait is re-opened.",
+      "date": "2026-04-18T09:00Z",
+      "date_display": "18 Apr 09:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media says the Strait of Hormuz is back under 'strict management and control' of the m...",
+      "description": "Iranian state media says the Strait of Hormuz is back under 'strict management and control' of the military.",
+      "date": "2026-04-18T08:30Z",
+      "date_display": "18 Apr 08:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Japan to set to supply Australia with warships in $7 billion deal, the biggest since Tokyo ended its...",
+      "description": "Japan to set to supply Australia with warships in $7 billion deal, the biggest since Tokyo ended its military export ban in 2014.",
+      "date": "2026-04-18T08:00Z",
+      "date_display": "18 Apr 08:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
       "description": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
@@ -299,118 +411,6 @@
       "description": "US share market has now added over $7.5 trillion in market value since the 30th of March.",
       "date": "2026-04-17T20:10Z",
       "date_display": "17 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iranian foreign ministry says option of transferring its enriched uranium to another country is unac...",
-      "description": "Iranian foreign ministry says option of transferring its enriched uranium to another country is unacceptable.",
-      "date": "2026-04-17T20:00Z",
-      "date_display": "17 Apr 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran has agreed to 'stop backing all proxy groups like Hezbollah and Hamas', and has...",
-      "description": "Trump says that Iran has agreed to 'stop backing all proxy groups like Hezbollah and Hamas', and has 'agreed to everything', according to CBS News report.",
-      "date": "2026-04-17T20:00Z",
-      "date_display": "17 Apr 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Indian oil refiners paid for Iranian oil using Chinese yuan, according to Reuters report.",
-      "description": "Indian oil refiners paid for Iranian oil using Chinese yuan, according to Reuters report.",
-      "date": "2026-04-17T09:00Z",
-      "date_display": "17 Apr 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇲🇾 Malaysia's economy grew by 5.3% in the first quarter of 2026.",
-      "description": "🇲🇾 Malaysia's economy grew by 5.3% in the first quarter of 2026.",
-      "date": "2026-04-17T04:50Z",
-      "date_display": "17 Apr 04:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
-      "description": "Lebanon's military claims Israel has violated ceasefire with new strikes.",
-      "date": "2026-04-17T00:30Z",
-      "date_display": "17 Apr 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Mamdani is 'destroying New York'. https://t.co/XuYeEuo4ho",
-      "description": "Trump says that Mamdani is 'destroying New York'. https://t.co/XuYeEuo4ho",
-      "date": "2026-04-16T22:00Z",
-      "date_display": "16 Apr 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says, 'tell that to the Pope', after journalist asks about Iran's plans for executions. https:...",
-      "description": "Trump says, 'tell that to the Pope', after journalist asks about Iran's plans for executions. https://t.co/ABaekEEq6b",
-      "date": "2026-04-16T21:40Z",
-      "date_display": "16 Apr 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel-Hezbollah ceasefire has come into effect.",
-      "description": "Israel-Hezbollah ceasefire has come into effect.",
-      "date": "2026-04-16T21:10Z",
-      "date_display": "16 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Pope Leo XIV says 'woe to those who manipulate religion and the very name of God for their own milit...",
-      "description": "Pope Leo XIV says 'woe to those who manipulate religion and the very name of God for their own military, economic and political gain, dragging that which is sacred into darkness and filth'. https://t.co/AaX2sHMODO",
-      "date": "2026-04-16T21:00Z",
-      "date_display": "16 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Israeli airstrikes on several targets across southern Lebanon.",
-      "description": "Israeli airstrikes on several targets across southern Lebanon.",
-      "date": "2026-04-16T20:50Z",
-      "date_display": "16 Apr 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's foreign ministry says it welcomes the ceasefire announced between Israel and Lebanon.",
-      "description": "Iran's foreign ministry says it welcomes the ceasefire announced between Israel and Lebanon.",
-      "date": "2026-04-16T20:30Z",
-      "date_display": "16 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5...",
-      "description": "Brent crude oil prices are up 3.5%, trading at $98.2, while US crude is up 2.5% and trading at $93.5.",
-      "date": "2026-04-16T20:10Z",
-      "date_display": "16 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Pope Leo XIV says the world is 'being ravaged by a handful of tyrants'. https://t.co/falq6aaomJ",
-      "description": "Pope Leo XIV says the world is 'being ravaged by a handful of tyrants'. https://t.co/falq6aaomJ",
-      "date": "2026-04-16T20:10Z",
-      "date_display": "16 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Netflix founder and chairman Reed Hastings set to step down from the board. https://t.co/VEEFcrYNcL",
-      "description": "Netflix founder and chairman Reed Hastings set to step down from the board. https://t.co/VEEFcrYNcL",
-      "date": "2026-04-16T20:10Z",
-      "date_display": "16 Apr 20:10 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

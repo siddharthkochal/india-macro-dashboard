@@ -1,17 +1,121 @@
 {
-  "fetched_at": "2026-04-19T03:55Z",
+  "fetched_at": "2026-04-20T03:58Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 35,
+  "india_relevant_items": 38,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "up",
-    "latest_oil_headline": "Crude oil price down 10%, now trading at $85."
+    "price_direction": "down",
+    "latest_oil_headline": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices."
   },
   "india_headlines": [
+    {
+      "title": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
+      "description": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
+      "date": "2026-04-20T02:00Z",
+      "date_display": "20 Apr 02:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Japanese companies are being forced to 'cut back on production and scramble for alternative supply s...",
+      "description": "Japanese companies are being forced to 'cut back on production and scramble for alternative supply sources' for aluminium due to Iran war, according to Bloomberg report.",
+      "date": "2026-04-20T00:50Z",
+      "date_display": "20 Apr 00:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil is now up 8% so far today amid rising US-Iran tensions.",
+      "description": "US crude oil is now up 8% so far today amid rising US-Iran tensions.",
+      "date": "2026-04-20T00:10Z",
+      "date_display": "20 Apr 00:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price is now up over 7.5% and trading at over $90.",
+      "description": "US crude oil price is now up over 7.5% and trading at over $90.",
+      "date": "2026-04-19T23:30Z",
+      "date_display": "19 Apr 23:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's military says it will retaliate against the 'maritime armed robbery' by the United States.",
+      "description": "Iran's military says it will retaliate against the 'maritime armed robbery' by the United States.",
+      "date": "2026-04-19T23:10Z",
+      "date_display": "19 Apr 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices surge by 7%",
+      "description": "Oil prices surge by 7%",
+      "date": "2026-04-19T22:20Z",
+      "date_display": "19 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media says that the military will soon retaliate against the US military over seizure ...",
+      "description": "Iranian state media says that the military will soon retaliate against the US military over seizure of Iran-flagged commercial vessel.",
+      "date": "2026-04-19T22:20Z",
+      "date_display": "19 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it has targeted US military vessels with drones.",
+      "description": "Iran says it has targeted US military vessels with drones.",
+      "date": "2026-04-19T22:20Z",
+      "date_display": "19 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US military says it intercepted an  Iranian-flagged cargo ship that was attempting to 'sail toward a...",
+      "description": "US military says it intercepted an  Iranian-flagged cargo ship that was attempting to 'sail toward an Iranian port', when it failed to comply, several rounds were fired into its engine room, disabling its propulsion and Marines 'later boarded the non-compliant vessel, which remains in U.S. custody'.",
+      "date": "2026-04-19T21:10Z",
+      "date_display": "19 Apr 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says US military struck an Iranian cargo ship that refused to adhere to instructions. https://...",
+      "description": "Trump says US military struck an Iranian cargo ship that refused to adhere to instructions. https://t.co/9VVTY7Y5jX",
+      "date": "2026-04-19T20:50Z",
+      "date_display": "19 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "No tankers have been able to cross the Strait of Hormuz today, according to CNN.",
+      "description": "No tankers have been able to cross the Strait of Hormuz today, according to CNN.",
+      "date": "2026-04-19T20:50Z",
+      "date_display": "19 Apr 20:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian Revolutionary Guards say they are replenishing missile and drone launch platforms at a faste...",
+      "description": "Iranian Revolutionary Guards say they are replenishing missile and drone launch platforms at a faster rate than before the war.",
+      "date": "2026-04-19T10:30Z",
+      "date_display": "19 Apr 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's president says that Trump does not have the justification to deprive Iran of its 'nuclear rig...",
+      "description": "Iran's president says that Trump does not have the justification to deprive Iran of its 'nuclear rights'.",
+      "date": "2026-04-19T09:20Z",
+      "date_display": "19 Apr 09:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
       "description": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
@@ -67,113 +171,137 @@
       "date_display": "18 Apr 20:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Reports of gunfire targeting an oil tanker and commercial ship trying to cross the Strait of Hormuz.",
-      "description": "Reports of gunfire targeting an oil tanker and commercial ship trying to cross the Strait of Hormuz.",
-      "date": "2026-04-18T10:50Z",
-      "date_display": "18 Apr 10:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's deputy foreign minister says President Trump 'talks too much' and 'said contradictory things ...",
-      "description": "Iran's deputy foreign minister says President Trump 'talks too much' and 'said contradictory things within the same statement'.",
-      "date": "2026-04-18T10:40Z",
-      "date_display": "18 Apr 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Around 20 ships set to cross the Strait of Hormuz were 'were turning back toward Oman after Iran’s m...",
-      "description": "Around 20 ships set to cross the Strait of Hormuz were 'were turning back toward Oman after Iran’s military said that the waterway was closed', according to Wall Street Journal report.",
-      "date": "2026-04-18T10:30Z",
-      "date_display": "18 Apr 10:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "In effect, the Iranian military has closed the Strait of Hormuz again, saying the US must lift the b...",
-      "description": "In effect, the Iranian military has closed the Strait of Hormuz again, saying the US must lift the blockade before the Strait is re-opened.",
-      "date": "2026-04-18T09:00Z",
-      "date_display": "18 Apr 09:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media says the Strait of Hormuz is back under 'strict management and control' of the m...",
-      "description": "Iranian state media says the Strait of Hormuz is back under 'strict management and control' of the military.",
-      "date": "2026-04-18T08:30Z",
-      "date_display": "18 Apr 08:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
-      "description": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
-      "date": "2026-04-18T02:30Z",
-      "date_display": "18 Apr 02:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran has denied two of President Trump's key claims today.\n\nTehran denied agreeing to the transfer o...",
-      "description": "Iran has denied two of President Trump's key claims today.\n\nTehran denied agreeing to the transfer of enriched uranium out of the country, and said it would continue to limit number of ships crossing through the Strait of Hormuz.",
-      "date": "2026-04-17T22:30Z",
-      "date_display": "17 Apr 22:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's Speaker of Parliament and key part of negotiating team Mohammad-Bagher Ghalibaf says that Tru...",
-      "description": "Iran's Speaker of Parliament and key part of negotiating team Mohammad-Bagher Ghalibaf says that Trump 'made seven claims in one hour, all seven of which were false'.",
-      "date": "2026-04-17T22:30Z",
-      "date_display": "17 Apr 22:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says he would like to thank Pakistan and 'its great prime minister and its great, great field ...",
-      "description": "Trump says he would like to thank Pakistan and 'its great prime minister and its great, great field marshal' for their contributions to US-Iran deal.",
-      "date": "2026-04-17T22:20Z",
-      "date_display": "17 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran will never have a nuclear weapon and the US will extract enriched uranium in pa...",
-      "description": "Trump says that Iran will never have a nuclear weapon and the US will extract enriched uranium in partnership with Iranians, with lots of 'excavators'.",
-      "date": "2026-04-17T22:10Z",
-      "date_display": "17 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran's uranium will be brought to the United States of America",
-      "description": "Trump says that Iran's uranium will be brought to the United States of America",
-      "date": "2026-04-17T22:10Z",
-      "date_display": "17 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump tells ABC News he thinks he can trust the Iranian side.",
-      "description": "Trump tells ABC News he thinks he can trust the Iranian side.",
-      "date": "2026-04-17T21:10Z",
-      "date_display": "17 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran told mediators it will 'continue to limit the number of ships allowed to cross the Strait of Ho...",
-      "description": "Iran told mediators it will 'continue to limit the number of ships allowed to cross the Strait of Hormuz' and that it will also charge tolls for the 'remaining period of the cease-fire', according to Wall Street Journal report.",
-      "date": "2026-04-17T21:10Z",
-      "date_display": "17 Apr 21:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Zinc prices have risen to their highest since 2022.",
+      "description": "Zinc prices have risen to their highest since 2022.",
+      "date": "2026-04-20T03:20Z",
+      "date_display": "20 Apr 03:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
+      "description": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
+      "date": "2026-04-20T02:00Z",
+      "date_display": "20 Apr 02:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Japanese companies are being forced to 'cut back on production and scramble for alternative supply s...",
+      "description": "Japanese companies are being forced to 'cut back on production and scramble for alternative supply sources' for aluminium due to Iran war, according to Bloomberg report.",
+      "date": "2026-04-20T00:50Z",
+      "date_display": "20 Apr 00:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil is now up 8% so far today amid rising US-Iran tensions.",
+      "description": "US crude oil is now up 8% so far today amid rising US-Iran tensions.",
+      "date": "2026-04-20T00:10Z",
+      "date_display": "20 Apr 00:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price is now up over 7.5% and trading at over $90.",
+      "description": "US crude oil price is now up over 7.5% and trading at over $90.",
+      "date": "2026-04-19T23:30Z",
+      "date_display": "19 Apr 23:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's military says it will retaliate against the 'maritime armed robbery' by the United States.",
+      "description": "Iran's military says it will retaliate against the 'maritime armed robbery' by the United States.",
+      "date": "2026-04-19T23:10Z",
+      "date_display": "19 Apr 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Several reports from Syria that Israeli military aircraft are flying over the country, heading east.",
+      "description": "Several reports from Syria that Israeli military aircraft are flying over the country, heading east.",
+      "date": "2026-04-19T22:30Z",
+      "date_display": "19 Apr 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Oil prices surge by 7%",
+      "description": "Oil prices surge by 7%",
+      "date": "2026-04-19T22:20Z",
+      "date_display": "19 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media says that the military will soon retaliate against the US military over seizure ...",
+      "description": "Iranian state media says that the military will soon retaliate against the US military over seizure of Iran-flagged commercial vessel.",
+      "date": "2026-04-19T22:20Z",
+      "date_display": "19 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it has targeted US military vessels with drones.",
+      "description": "Iran says it has targeted US military vessels with drones.",
+      "date": "2026-04-19T22:20Z",
+      "date_display": "19 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US military says it intercepted an  Iranian-flagged cargo ship that was attempting to 'sail toward a...",
+      "description": "US military says it intercepted an  Iranian-flagged cargo ship that was attempting to 'sail toward an Iranian port', when it failed to comply, several rounds were fired into its engine room, disabling its propulsion and Marines 'later boarded the non-compliant vessel, which remains in U.S. custody'.",
+      "date": "2026-04-19T21:10Z",
+      "date_display": "19 Apr 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says US military struck an Iranian cargo ship that refused to adhere to instructions. https://...",
+      "description": "Trump says US military struck an Iranian cargo ship that refused to adhere to instructions. https://t.co/9VVTY7Y5jX",
+      "date": "2026-04-19T20:50Z",
+      "date_display": "19 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "No tankers have been able to cross the Strait of Hormuz today, according to CNN.",
+      "description": "No tankers have been able to cross the Strait of Hormuz today, according to CNN.",
+      "date": "2026-04-19T20:50Z",
+      "date_display": "19 Apr 20:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian Revolutionary Guards say they are replenishing missile and drone launch platforms at a faste...",
+      "description": "Iranian Revolutionary Guards say they are replenishing missile and drone launch platforms at a faster rate than before the war.",
+      "date": "2026-04-19T10:30Z",
+      "date_display": "19 Apr 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's president says that Trump does not have the justification to deprive Iran of its 'nuclear rig...",
+      "description": "Iran's president says that Trump does not have the justification to deprive Iran of its 'nuclear rights'.",
+      "date": "2026-04-19T09:20Z",
+      "date_display": "19 Apr 09:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Israel is a great ally of the United States. https://t.co/6XrVuhndsz",
+      "description": "Trump says that Israel is a great ally of the United States. https://t.co/6XrVuhndsz",
+      "date": "2026-04-19T04:00Z",
+      "date_display": "19 Apr 04:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
       "description": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
@@ -283,134 +411,6 @@
       "description": "Japan to set to supply Australia with warships in $7 billion deal, the biggest since Tokyo ended its military export ban in 2014.",
       "date": "2026-04-18T08:00Z",
       "date_display": "18 Apr 08:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
-      "description": "Trump's post about the Strait of Hormuz and meeting with China's president. https://t.co/TeWM4hfhlG",
-      "date": "2026-04-18T02:30Z",
-      "date_display": "18 Apr 02:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran has denied two of President Trump's key claims today.\n\nTehran denied agreeing to the transfer o...",
-      "description": "Iran has denied two of President Trump's key claims today.\n\nTehran denied agreeing to the transfer of enriched uranium out of the country, and said it would continue to limit number of ships crossing through the Strait of Hormuz.",
-      "date": "2026-04-17T22:30Z",
-      "date_display": "17 Apr 22:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's Speaker of Parliament and key part of negotiating team Mohammad-Bagher Ghalibaf says that Tru...",
-      "description": "Iran's Speaker of Parliament and key part of negotiating team Mohammad-Bagher Ghalibaf says that Trump 'made seven claims in one hour, all seven of which were false'.",
-      "date": "2026-04-17T22:30Z",
-      "date_display": "17 Apr 22:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US official says that the aircraft carrier USS Gerald Ford is now operating in the Red Sea, accordin...",
-      "description": "US official says that the aircraft carrier USS Gerald Ford is now operating in the Red Sea, according to CNN report. https://t.co/A5GPdkOz6z",
-      "date": "2026-04-17T22:20Z",
-      "date_display": "17 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says that NATO was 'absolutely useless when we needed them'.",
-      "description": "Trump says that NATO was 'absolutely useless when we needed them'.",
-      "date": "2026-04-17T22:20Z",
-      "date_display": "17 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says he would like to thank Pakistan and 'its great prime minister and its great, great field ...",
-      "description": "Trump says he would like to thank Pakistan and 'its great prime minister and its great, great field marshal' for their contributions to US-Iran deal.",
-      "date": "2026-04-17T22:20Z",
-      "date_display": "17 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran will never have a nuclear weapon and the US will extract enriched uranium in pa...",
-      "description": "Trump says that Iran will never have a nuclear weapon and the US will extract enriched uranium in partnership with Iranians, with lots of 'excavators'.",
-      "date": "2026-04-17T22:10Z",
-      "date_display": "17 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran's uranium will be brought to the United States of America",
-      "description": "Trump says that Iran's uranium will be brought to the United States of America",
-      "date": "2026-04-17T22:10Z",
-      "date_display": "17 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump tells ABC News he will 'prohibit' Netanyahu from bombing Lebanon and will tell Netanyahu 'he c...",
-      "description": "Trump tells ABC News he will 'prohibit' Netanyahu from bombing Lebanon and will tell Netanyahu 'he cannot do it'.",
-      "date": "2026-04-17T21:30Z",
-      "date_display": "17 Apr 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump tells ABC News he thinks he can trust the Iranian side.",
-      "description": "Trump tells ABC News he thinks he can trust the Iranian side.",
-      "date": "2026-04-17T21:10Z",
-      "date_display": "17 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran told mediators it will 'continue to limit the number of ships allowed to cross the Strait of Ho...",
-      "description": "Iran told mediators it will 'continue to limit the number of ships allowed to cross the Strait of Hormuz' and that it will also charge tolls for the 'remaining period of the cease-fire', according to Wall Street Journal report.",
-      "date": "2026-04-17T21:10Z",
-      "date_display": "17 Apr 21:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iraq is resuming southern oil exports after a halt that lasted over a month, according to Reuters re...",
-      "description": "Iraq is resuming southern oil exports after a halt that lasted over a month, according to Reuters report.",
-      "date": "2026-04-17T20:30Z",
-      "date_display": "17 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Netanyahu was 'shocked' by Trump's statement that Israel was 'prohibited' from bombing Lebanon, acco...",
-      "description": "Netanyahu was 'shocked' by Trump's statement that Israel was 'prohibited' from bombing Lebanon, according to Axios report.",
-      "date": "2026-04-17T20:20Z",
-      "date_display": "17 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Crude oil price down 10%, now trading at $85.",
-      "description": "Crude oil price down 10%, now trading at $85.",
-      "date": "2026-04-17T20:10Z",
-      "date_display": "17 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "S&amp;P 500 closes at new record high of 7,125.",
-      "description": "S&amp;P 500 closes at new record high of 7,125.",
-      "date": "2026-04-17T20:10Z",
-      "date_display": "17 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US share market has now added over $7.5 trillion in market value since the 30th of March.",
-      "description": "US share market has now added over $7.5 trillion in market value since the 30th of March.",
-      "date": "2026-04-17T20:10Z",
-      "date_display": "17 Apr 20:10 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

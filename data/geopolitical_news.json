@@ -1,17 +1,89 @@
 {
-  "fetched_at": "2026-04-20T03:58Z",
+  "fetched_at": "2026-04-21T03:52Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 38,
+  "india_relevant_items": 37,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "down",
+    "price_direction": "up",
     "latest_oil_headline": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices."
   },
   "india_headlines": [
+    {
+      "title": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
+      "description": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
+      "date": "2026-04-21T01:00Z",
+      "date_display": "21 Apr 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that if Iran doesn't negotiate, 'they are going to see problems like they've never seen b...",
+      "description": "Trump says that if Iran doesn't negotiate, 'they are going to see problems like they've never seen before', according to CNN report.",
+      "date": "2026-04-21T00:10Z",
+      "date_display": "21 Apr 00:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump tells Bloomberg it is 'highly unlikely' he will extend ceasefire with Iran.",
+      "description": "Trump tells Bloomberg it is 'highly unlikely' he will extend ceasefire with Iran.",
+      "date": "2026-04-20T21:50Z",
+      "date_display": "20 Apr 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's chief negotiator Ghalibaf says the country won't negotiate under the 'shadow of threats' and ...",
+      "description": "Iran's chief negotiator Ghalibaf says the country won't negotiate under the 'shadow of threats' and Trump is trying to impose a siege so Iran can 'surrender'.",
+      "date": "2026-04-20T21:50Z",
+      "date_display": "20 Apr 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump 'isn't inclined' to extend ceasefire when it expires, according to Wall Street Journ...",
+      "description": "President Trump 'isn't inclined' to extend ceasefire when it expires, according to Wall Street Journal report.",
+      "date": "2026-04-20T20:30Z",
+      "date_display": "20 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israel's shekel has hit a 30-year high against the US dollar.",
+      "description": "Israel's shekel has hit a 30-year high against the US dollar.",
+      "date": "2026-04-20T20:30Z",
+      "date_display": "20 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian foreign ministry says the country has not received a serious offer with regards to lifting s...",
+      "description": "Iranian foreign ministry says the country has not received a serious offer with regards to lifting sanctions",
+      "date": "2026-04-20T07:50Z",
+      "date_display": "20 Apr 07:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's foreign ministry says there are no current plans of further talks with the United States",
+      "description": "Iran's foreign ministry says there are no current plans of further talks with the United States",
+      "date": "2026-04-20T07:40Z",
+      "date_display": "20 Apr 07:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China says it is concerned over US interception and seizing of Iranian ship.",
+      "description": "China says it is concerned over US interception and seizing of Iranian ship.",
+      "date": "2026-04-20T07:30Z",
+      "date_display": "20 Apr 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
       "description": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
@@ -99,81 +171,145 @@
       "date_display": "19 Apr 20:50 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "Iranian Revolutionary Guards say they are replenishing missile and drone launch platforms at a faste...",
-      "description": "Iranian Revolutionary Guards say they are replenishing missile and drone launch platforms at a faster rate than before the war.",
-      "date": "2026-04-19T10:30Z",
-      "date_display": "19 Apr 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's president says that Trump does not have the justification to deprive Iran of its 'nuclear rig...",
-      "description": "Iran's president says that Trump does not have the justification to deprive Iran of its 'nuclear rights'.",
-      "date": "2026-04-19T09:20Z",
-      "date_display": "19 Apr 09:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
-      "description": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
-      "date": "2026-04-18T23:00Z",
-      "date_display": "18 Apr 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's Speaker of Parliament Mohammad-Bagher Ghalibaf says there are differences with the US over th...",
-      "description": "Iran's Speaker of Parliament Mohammad-Bagher Ghalibaf says there are differences with the US over the nuclear file and the Strait of Hormuz. https://t.co/2JQHdNaJc0",
-      "date": "2026-04-18T22:20Z",
-      "date_display": "18 Apr 22:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US intelligence assessment is that Iran retains around 40% of its prewar stockpile of drones, accord...",
-      "description": "US intelligence assessment is that Iran retains around 40% of its prewar stockpile of drones, according to NY Times report.",
-      "date": "2026-04-18T22:00Z",
-      "date_display": "18 Apr 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran’s Revolutionary Guard Corps says the Strait of Hormuz will remain shut until the United States ...",
-      "description": "Iran’s Revolutionary Guard Corps says the Strait of Hormuz will remain shut until the United States ends its blockade.",
-      "date": "2026-04-18T21:10Z",
-      "date_display": "18 Apr 21:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran is now informing commercial vessels that the Strait of Hormuz is 'completely closed again'.",
-      "description": "Iran is now informing commercial vessels that the Strait of Hormuz is 'completely closed again'.",
-      "date": "2026-04-18T21:00Z",
-      "date_display": "18 Apr 21:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US military says 'the blockade has completely halted economic trade going into and out of Iran b...",
-      "description": "The US military says 'the blockade has completely halted economic trade going into and out of Iran by sea'.",
-      "date": "2026-04-18T20:40Z",
-      "date_display": "18 Apr 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US military is making preparations to 'board Iran-linked oil tankers and seize commercial ships ...",
-      "description": "The US military is making preparations to 'board Iran-linked oil tankers and seize commercial ships in international waters', according to Wall Street Journal report.",
-      "date": "2026-04-18T20:20Z",
-      "date_display": "18 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
+      "description": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
+      "date": "2026-04-21T01:00Z",
+      "date_display": "21 Apr 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that if Iran doesn't negotiate, 'they are going to see problems like they've never seen b...",
+      "description": "Trump says that if Iran doesn't negotiate, 'they are going to see problems like they've never seen before', according to CNN report.",
+      "date": "2026-04-21T00:10Z",
+      "date_display": "21 Apr 00:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US government debt nears $39 trillion, according to Treasury data.\n\nThat is up from $37 trillion in ...",
+      "description": "US government debt nears $39 trillion, according to Treasury data.\n\nThat is up from $37 trillion in August and $38 trillion in October, which was during a federal government shutdown. \n\nThe Treasury added the most recent $1 trillion in debt in just 71 days, the fastest accumulation outside of the COVID pandemic.\n\nNearly $5 trillion in debt has been added since since January, 2024.\n\nFurthermore, interest payments are now the fastest-growing line in the federal budget. \n\nIn absolute terms, they have surpassed spending on both Medicare and national defense.",
+      "date": "2026-04-20T23:50Z",
+      "date_display": "20 Apr 23:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The BBC says it has found a 'consistent pattern of spikes just hours, or sometimes minutes' in finan...",
+      "description": "The BBC says it has found a 'consistent pattern of spikes just hours, or sometimes minutes' in financial markets before a 'social media post or media interview' by President Trump.",
+      "date": "2026-04-20T23:40Z",
+      "date_display": "20 Apr 23:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "JD Vance and Gavin Newsom are tied at 19% chance of winning the 2028 Presidential Election, followed...",
+      "description": "JD Vance and Gavin Newsom are tied at 19% chance of winning the 2028 Presidential Election, followed by Marco Rubio at 15%, according to @Kalshi prediction market. https://t.co/3BkvscVsJU",
+      "date": "2026-04-20T23:10Z",
+      "date_display": "20 Apr 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump tells Bloomberg it is 'highly unlikely' he will extend ceasefire with Iran.",
+      "description": "Trump tells Bloomberg it is 'highly unlikely' he will extend ceasefire with Iran.",
+      "date": "2026-04-20T21:50Z",
+      "date_display": "20 Apr 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's chief negotiator Ghalibaf says the country won't negotiate under the 'shadow of threats' and ...",
+      "description": "Iran's chief negotiator Ghalibaf says the country won't negotiate under the 'shadow of threats' and Trump is trying to impose a siege so Iran can 'surrender'.",
+      "date": "2026-04-20T21:50Z",
+      "date_display": "20 Apr 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Amazon is set to invest up to $25 billion in Anthropic. https://t.co/sUqn7VQqeJ",
+      "description": "Amazon is set to invest up to $25 billion in Anthropic. https://t.co/sUqn7VQqeJ",
+      "date": "2026-04-20T21:00Z",
+      "date_display": "20 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Apple CEO Tim Cook is stepping down, will be replaced by John Ternus in September.",
+      "description": "Apple CEO Tim Cook is stepping down, will be replaced by John Ternus in September.",
+      "date": "2026-04-20T20:50Z",
+      "date_display": "20 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "President Trump 'isn't inclined' to extend ceasefire when it expires, according to Wall Street Journ...",
+      "description": "President Trump 'isn't inclined' to extend ceasefire when it expires, according to Wall Street Journal report.",
+      "date": "2026-04-20T20:30Z",
+      "date_display": "20 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israel's shekel has hit a 30-year high against the US dollar.",
+      "description": "Israel's shekel has hit a 30-year high against the US dollar.",
+      "date": "2026-04-20T20:30Z",
+      "date_display": "20 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "7.4 magnitude earthquake off the north-eastern coast of Japan, with tsunami warnings issued.",
+      "description": "7.4 magnitude earthquake off the north-eastern coast of Japan, with tsunami warnings issued.",
+      "date": "2026-04-20T08:40Z",
+      "date_display": "20 Apr 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Rising wave heights reported off shore of northern Japan after 7.4 magnitude quake.",
+      "description": "Rising wave heights reported off shore of northern Japan after 7.4 magnitude quake.",
+      "date": "2026-04-20T08:40Z",
+      "date_display": "20 Apr 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iranian foreign ministry says the country has not received a serious offer with regards to lifting s...",
+      "description": "Iranian foreign ministry says the country has not received a serious offer with regards to lifting sanctions",
+      "date": "2026-04-20T07:50Z",
+      "date_display": "20 Apr 07:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's foreign ministry says there are no current plans of further talks with the United States",
+      "description": "Iran's foreign ministry says there are no current plans of further talks with the United States",
+      "date": "2026-04-20T07:40Z",
+      "date_display": "20 Apr 07:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China says it is concerned over US interception and seizing of Iranian ship.",
+      "description": "China says it is concerned over US interception and seizing of Iranian ship.",
+      "date": "2026-04-20T07:30Z",
+      "date_display": "20 Apr 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israeli military has warned residents against returning to southern Lebanon villages.",
+      "description": "Israeli military has warned residents against returning to southern Lebanon villages.",
+      "date": "2026-04-20T05:20Z",
+      "date_display": "20 Apr 05:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Zinc prices have risen to their highest since 2022.",
       "description": "Zinc prices have risen to their highest since 2022.",
@@ -277,142 +413,6 @@
       "date_display": "19 Apr 20:50 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "Iranian Revolutionary Guards say they are replenishing missile and drone launch platforms at a faste...",
-      "description": "Iranian Revolutionary Guards say they are replenishing missile and drone launch platforms at a faster rate than before the war.",
-      "date": "2026-04-19T10:30Z",
-      "date_display": "19 Apr 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's president says that Trump does not have the justification to deprive Iran of its 'nuclear rig...",
-      "description": "Iran's president says that Trump does not have the justification to deprive Iran of its 'nuclear rights'.",
-      "date": "2026-04-19T09:20Z",
-      "date_display": "19 Apr 09:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Israel is a great ally of the United States. https://t.co/6XrVuhndsz",
-      "description": "Trump says that Israel is a great ally of the United States. https://t.co/6XrVuhndsz",
-      "date": "2026-04-19T04:00Z",
-      "date_display": "19 Apr 04:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
-      "description": "Iran's deputy foreign minister says that no enriched uranium will be sent to the United States.",
-      "date": "2026-04-18T23:00Z",
-      "date_display": "18 Apr 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's Speaker of Parliament Mohammad-Bagher Ghalibaf says there are differences with the US over th...",
-      "description": "Iran's Speaker of Parliament Mohammad-Bagher Ghalibaf says there are differences with the US over the nuclear file and the Strait of Hormuz. https://t.co/2JQHdNaJc0",
-      "date": "2026-04-18T22:20Z",
-      "date_display": "18 Apr 22:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US intelligence assessment is that Iran retains around 40% of its prewar stockpile of drones, accord...",
-      "description": "US intelligence assessment is that Iran retains around 40% of its prewar stockpile of drones, according to NY Times report.",
-      "date": "2026-04-18T22:00Z",
-      "date_display": "18 Apr 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran’s Revolutionary Guard Corps says the Strait of Hormuz will remain shut until the United States ...",
-      "description": "Iran’s Revolutionary Guard Corps says the Strait of Hormuz will remain shut until the United States ends its blockade.",
-      "date": "2026-04-18T21:10Z",
-      "date_display": "18 Apr 21:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran is now informing commercial vessels that the Strait of Hormuz is 'completely closed again'.",
-      "description": "Iran is now informing commercial vessels that the Strait of Hormuz is 'completely closed again'.",
-      "date": "2026-04-18T21:00Z",
-      "date_display": "18 Apr 21:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US military says 'the blockade has completely halted economic trade going into and out of Iran b...",
-      "description": "The US military says 'the blockade has completely halted economic trade going into and out of Iran by sea'.",
-      "date": "2026-04-18T20:40Z",
-      "date_display": "18 Apr 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US official says the war could resume in the coming days if there is no breakthrough in peace talks,...",
-      "description": "US official says the war could resume in the coming days if there is no breakthrough in peace talks, according to Axios report.",
-      "date": "2026-04-18T20:30Z",
-      "date_display": "18 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The US military is making preparations to 'board Iran-linked oil tankers and seize commercial ships ...",
-      "description": "The US military is making preparations to 'board Iran-linked oil tankers and seize commercial ships in international waters', according to Wall Street Journal report.",
-      "date": "2026-04-18T20:20Z",
-      "date_display": "18 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reports of gunfire targeting an oil tanker and commercial ship trying to cross the Strait of Hormuz.",
-      "description": "Reports of gunfire targeting an oil tanker and commercial ship trying to cross the Strait of Hormuz.",
-      "date": "2026-04-18T10:50Z",
-      "date_display": "18 Apr 10:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's deputy foreign minister says President Trump 'talks too much' and 'said contradictory things ...",
-      "description": "Iran's deputy foreign minister says President Trump 'talks too much' and 'said contradictory things within the same statement'.",
-      "date": "2026-04-18T10:40Z",
-      "date_display": "18 Apr 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Around 20 ships set to cross the Strait of Hormuz were 'were turning back toward Oman after Iran’s m...",
-      "description": "Around 20 ships set to cross the Strait of Hormuz were 'were turning back toward Oman after Iran’s military said that the waterway was closed', according to Wall Street Journal report.",
-      "date": "2026-04-18T10:30Z",
-      "date_display": "18 Apr 10:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "In effect, the Iranian military has closed the Strait of Hormuz again, saying the US must lift the b...",
-      "description": "In effect, the Iranian military has closed the Strait of Hormuz again, saying the US must lift the blockade before the Strait is re-opened.",
-      "date": "2026-04-18T09:00Z",
-      "date_display": "18 Apr 09:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media says the Strait of Hormuz is back under 'strict management and control' of the m...",
-      "description": "Iranian state media says the Strait of Hormuz is back under 'strict management and control' of the military.",
-      "date": "2026-04-18T08:30Z",
-      "date_display": "18 Apr 08:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Japan to set to supply Australia with warships in $7 billion deal, the biggest since Tokyo ended its...",
-      "description": "Japan to set to supply Australia with warships in $7 billion deal, the biggest since Tokyo ended its military export ban in 2014.",
-      "date": "2026-04-18T08:00Z",
-      "date_display": "18 Apr 08:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

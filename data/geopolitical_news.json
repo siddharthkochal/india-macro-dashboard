@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-21T03:52Z",
+  "fetched_at": "2026-04-22T03:48Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,129 @@
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices."
+    "latest_oil_headline": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran."
   },
   "india_headlines": [
+    {
+      "title": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
+      "description": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
+      "date": "2026-04-22T00:00Z",
+      "date_display": "22 Apr 00:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran threatens to break the blockade 'by force' if the US continues to impose it.",
+      "description": "Iran threatens to break the blockade 'by force' if the US continues to impose it.",
+      "date": "2026-04-21T22:10Z",
+      "date_display": "21 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Pakistan's Prime Minister thanks President Trump for 'graciously accepting our request to extend the...",
+      "description": "Pakistan's Prime Minister thanks President Trump for 'graciously accepting our request to extend the ceasefire'.",
+      "date": "2026-04-21T21:30Z",
+      "date_display": "21 Apr 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it did not ask for an extension of the ceasefire.",
+      "description": "Iran says it did not ask for an extension of the ceasefire.",
+      "date": "2026-04-21T21:20Z",
+      "date_display": "21 Apr 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it will announce its position on ceasefire at a later date.",
+      "description": "Iran says it will announce its position on ceasefire at a later date.",
+      "date": "2026-04-21T20:40Z",
+      "date_display": "21 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran.",
+      "description": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran.",
+      "date": "2026-04-21T20:30Z",
+      "date_display": "21 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump announces extension of ceasefire https://t.co/CTXyUGg7z4",
+      "description": "Trump announces extension of ceasefire https://t.co/CTXyUGg7z4",
+      "date": "2026-04-21T20:20Z",
+      "date_display": "21 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says Iran's leadership is 'seriously fractured'.",
+      "description": "Trump says Iran's leadership is 'seriously fractured'.",
+      "date": "2026-04-21T20:20Z",
+      "date_display": "21 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US Vice President JD Vance has cancelled his trip to Pakistan.",
+      "description": "US Vice President JD Vance has cancelled his trip to Pakistan.",
+      "date": "2026-04-21T20:20Z",
+      "date_display": "21 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says Iran violated the ceasefire numerous times https://t.co/uYF38uWN47",
+      "description": "Trump says Iran violated the ceasefire numerous times https://t.co/uYF38uWN47",
+      "date": "2026-04-21T11:40Z",
+      "date_display": "21 Apr 11:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Only 12 ships crossed the Strait of Hormuz over past 24 hours, according to NBC News citing MarineTr...",
+      "description": "Only 12 ships crossed the Strait of Hormuz over past 24 hours, according to NBC News citing MarineTraffic data.",
+      "date": "2026-04-21T11:10Z",
+      "date_display": "21 Apr 11:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Up to half of the 'nearly 1,000 drone attacks' that targeted Saudi Arabia originated from Iraq, and ...",
+      "description": "Up to half of the 'nearly 1,000 drone attacks' that targeted Saudi Arabia originated from Iraq, and were launched by pro-Iranian militias, according to Wall Street Journal report.",
+      "date": "2026-04-21T09:30Z",
+      "date_display": "21 Apr 09:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Japan's government has removed restrictions on selling arms to other countries, opening the way for ...",
+      "description": "Japan's government has removed restrictions on selling arms to other countries, opening the way for export of weapons such as warships and missiles. https://t.co/rnKKuCgq6H",
+      "date": "2026-04-21T08:40Z",
+      "date_display": "21 Apr 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media says no delegations have left for Pakistan, amid expected peace talks with the United ...",
+      "description": "Iranian media says no delegations have left for Pakistan, amid expected peace talks with the United States, at this point.",
+      "date": "2026-04-21T08:10Z",
+      "date_display": "21 Apr 08:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "White House says it is close to a 'good deal' with Iran but that Trump has options he can still use,...",
+      "description": "White House says it is close to a 'good deal' with Iran but that Trump has options he can still use, according to Fox News report.",
+      "date": "2026-04-21T05:20Z",
+      "date_display": "21 Apr 05:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
       "description": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
@@ -51,129 +171,153 @@
       "date_display": "20 Apr 20:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Israel's shekel has hit a 30-year high against the US dollar.",
-      "description": "Israel's shekel has hit a 30-year high against the US dollar.",
-      "date": "2026-04-20T20:30Z",
-      "date_display": "20 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian foreign ministry says the country has not received a serious offer with regards to lifting s...",
-      "description": "Iranian foreign ministry says the country has not received a serious offer with regards to lifting sanctions",
-      "date": "2026-04-20T07:50Z",
-      "date_display": "20 Apr 07:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's foreign ministry says there are no current plans of further talks with the United States",
-      "description": "Iran's foreign ministry says there are no current plans of further talks with the United States",
-      "date": "2026-04-20T07:40Z",
-      "date_display": "20 Apr 07:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China says it is concerned over US interception and seizing of Iranian ship.",
-      "description": "China says it is concerned over US interception and seizing of Iranian ship.",
-      "date": "2026-04-20T07:30Z",
-      "date_display": "20 Apr 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
-      "description": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
-      "date": "2026-04-20T02:00Z",
-      "date_display": "20 Apr 02:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Japanese companies are being forced to 'cut back on production and scramble for alternative supply s...",
-      "description": "Japanese companies are being forced to 'cut back on production and scramble for alternative supply sources' for aluminium due to Iran war, according to Bloomberg report.",
-      "date": "2026-04-20T00:50Z",
-      "date_display": "20 Apr 00:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil is now up 8% so far today amid rising US-Iran tensions.",
-      "description": "US crude oil is now up 8% so far today amid rising US-Iran tensions.",
-      "date": "2026-04-20T00:10Z",
-      "date_display": "20 Apr 00:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price is now up over 7.5% and trading at over $90.",
-      "description": "US crude oil price is now up over 7.5% and trading at over $90.",
-      "date": "2026-04-19T23:30Z",
-      "date_display": "19 Apr 23:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's military says it will retaliate against the 'maritime armed robbery' by the United States.",
-      "description": "Iran's military says it will retaliate against the 'maritime armed robbery' by the United States.",
-      "date": "2026-04-19T23:10Z",
-      "date_display": "19 Apr 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices surge by 7%",
-      "description": "Oil prices surge by 7%",
-      "date": "2026-04-19T22:20Z",
-      "date_display": "19 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media says that the military will soon retaliate against the US military over seizure ...",
-      "description": "Iranian state media says that the military will soon retaliate against the US military over seizure of Iran-flagged commercial vessel.",
-      "date": "2026-04-19T22:20Z",
-      "date_display": "19 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says it has targeted US military vessels with drones.",
-      "description": "Iran says it has targeted US military vessels with drones.",
-      "date": "2026-04-19T22:20Z",
-      "date_display": "19 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US military says it intercepted an  Iranian-flagged cargo ship that was attempting to 'sail toward a...",
-      "description": "US military says it intercepted an  Iranian-flagged cargo ship that was attempting to 'sail toward an Iranian port', when it failed to comply, several rounds were fired into its engine room, disabling its propulsion and Marines 'later boarded the non-compliant vessel, which remains in U.S. custody'.",
-      "date": "2026-04-19T21:10Z",
-      "date_display": "19 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says US military struck an Iranian cargo ship that refused to adhere to instructions. https://...",
-      "description": "Trump says US military struck an Iranian cargo ship that refused to adhere to instructions. https://t.co/9VVTY7Y5jX",
-      "date": "2026-04-19T20:50Z",
-      "date_display": "19 Apr 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "No tankers have been able to cross the Strait of Hormuz today, according to CNN.",
-      "description": "No tankers have been able to cross the Strait of Hormuz today, according to CNN.",
-      "date": "2026-04-19T20:50Z",
-      "date_display": "19 Apr 20:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "US Secretary of Defense says that members of the military will no longer need to get the flu shot.",
+      "description": "US Secretary of Defense says that members of the military will no longer need to get the flu shot.",
+      "date": "2026-04-22T03:30Z",
+      "date_display": "22 Apr 03:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
+      "description": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
+      "date": "2026-04-22T00:00Z",
+      "date_display": "22 Apr 00:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran threatens to break the blockade 'by force' if the US continues to impose it.",
+      "description": "Iran threatens to break the blockade 'by force' if the US continues to impose it.",
+      "date": "2026-04-21T22:10Z",
+      "date_display": "21 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Pakistan's Prime Minister thanks President Trump for 'graciously accepting our request to extend the...",
+      "description": "Pakistan's Prime Minister thanks President Trump for 'graciously accepting our request to extend the ceasefire'.",
+      "date": "2026-04-21T21:30Z",
+      "date_display": "21 Apr 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it did not ask for an extension of the ceasefire.",
+      "description": "Iran says it did not ask for an extension of the ceasefire.",
+      "date": "2026-04-21T21:20Z",
+      "date_display": "21 Apr 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "German airline Lufthansa has cut 20,000 flights from its schedule through to October in an attempt t...",
+      "description": "German airline Lufthansa has cut 20,000 flights from its schedule through to October in an attempt to save fuel. https://t.co/xsVVRxIk3V",
+      "date": "2026-04-21T21:00Z",
+      "date_display": "21 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iran says it will announce its position on ceasefire at a later date.",
+      "description": "Iran says it will announce its position on ceasefire at a later date.",
+      "date": "2026-04-21T20:40Z",
+      "date_display": "21 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran.",
+      "description": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran.",
+      "date": "2026-04-21T20:30Z",
+      "date_display": "21 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump announces extension of ceasefire https://t.co/CTXyUGg7z4",
+      "description": "Trump announces extension of ceasefire https://t.co/CTXyUGg7z4",
+      "date": "2026-04-21T20:20Z",
+      "date_display": "21 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says Iran's leadership is 'seriously fractured'.",
+      "description": "Trump says Iran's leadership is 'seriously fractured'.",
+      "date": "2026-04-21T20:20Z",
+      "date_display": "21 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US stock market loses over $400 billion in value in today's trading.",
+      "description": "US stock market loses over $400 billion in value in today's trading.",
+      "date": "2026-04-21T20:20Z",
+      "date_display": "21 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US Vice President JD Vance has cancelled his trip to Pakistan.",
+      "description": "US Vice President JD Vance has cancelled his trip to Pakistan.",
+      "date": "2026-04-21T20:20Z",
+      "date_display": "21 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says Iran violated the ceasefire numerous times https://t.co/uYF38uWN47",
+      "description": "Trump says Iran violated the ceasefire numerous times https://t.co/uYF38uWN47",
+      "date": "2026-04-21T11:40Z",
+      "date_display": "21 Apr 11:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Only 12 ships crossed the Strait of Hormuz over past 24 hours, according to NBC News citing MarineTr...",
+      "description": "Only 12 ships crossed the Strait of Hormuz over past 24 hours, according to NBC News citing MarineTraffic data.",
+      "date": "2026-04-21T11:10Z",
+      "date_display": "21 Apr 11:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Up to half of the 'nearly 1,000 drone attacks' that targeted Saudi Arabia originated from Iraq, and ...",
+      "description": "Up to half of the 'nearly 1,000 drone attacks' that targeted Saudi Arabia originated from Iraq, and were launched by pro-Iranian militias, according to Wall Street Journal report.",
+      "date": "2026-04-21T09:30Z",
+      "date_display": "21 Apr 09:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Japan's government has removed restrictions on selling arms to other countries, opening the way for ...",
+      "description": "Japan's government has removed restrictions on selling arms to other countries, opening the way for export of weapons such as warships and missiles. https://t.co/rnKKuCgq6H",
+      "date": "2026-04-21T08:40Z",
+      "date_display": "21 Apr 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media says no delegations have left for Pakistan, amid expected peace talks with the United ...",
+      "description": "Iranian media says no delegations have left for Pakistan, amid expected peace talks with the United States, at this point.",
+      "date": "2026-04-21T08:10Z",
+      "date_display": "21 Apr 08:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "White House says it is close to a 'good deal' with Iran but that Trump has options he can still use,...",
+      "description": "White House says it is close to a 'good deal' with Iran but that Trump has options he can still use, according to Fox News report.",
+      "date": "2026-04-21T05:20Z",
+      "date_display": "21 Apr 05:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
       "description": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
@@ -269,150 +413,6 @@
       "date_display": "20 Apr 08:40 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "Rising wave heights reported off shore of northern Japan after 7.4 magnitude quake.",
-      "description": "Rising wave heights reported off shore of northern Japan after 7.4 magnitude quake.",
-      "date": "2026-04-20T08:40Z",
-      "date_display": "20 Apr 08:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iranian foreign ministry says the country has not received a serious offer with regards to lifting s...",
-      "description": "Iranian foreign ministry says the country has not received a serious offer with regards to lifting sanctions",
-      "date": "2026-04-20T07:50Z",
-      "date_display": "20 Apr 07:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's foreign ministry says there are no current plans of further talks with the United States",
-      "description": "Iran's foreign ministry says there are no current plans of further talks with the United States",
-      "date": "2026-04-20T07:40Z",
-      "date_display": "20 Apr 07:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China says it is concerned over US interception and seizing of Iranian ship.",
-      "description": "China says it is concerned over US interception and seizing of Iranian ship.",
-      "date": "2026-04-20T07:30Z",
-      "date_display": "20 Apr 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli military has warned residents against returning to southern Lebanon villages.",
-      "description": "Israeli military has warned residents against returning to southern Lebanon villages.",
-      "date": "2026-04-20T05:20Z",
-      "date_display": "20 Apr 05:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Zinc prices have risen to their highest since 2022.",
-      "description": "Zinc prices have risen to their highest since 2022.",
-      "date": "2026-04-20T03:20Z",
-      "date_display": "20 Apr 03:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
-      "description": "🇯🇵 Japan's Nikkei 225 index is up over 1%, despite surging oil prices.",
-      "date": "2026-04-20T02:00Z",
-      "date_display": "20 Apr 02:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Japanese companies are being forced to 'cut back on production and scramble for alternative supply s...",
-      "description": "Japanese companies are being forced to 'cut back on production and scramble for alternative supply sources' for aluminium due to Iran war, according to Bloomberg report.",
-      "date": "2026-04-20T00:50Z",
-      "date_display": "20 Apr 00:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil is now up 8% so far today amid rising US-Iran tensions.",
-      "description": "US crude oil is now up 8% so far today amid rising US-Iran tensions.",
-      "date": "2026-04-20T00:10Z",
-      "date_display": "20 Apr 00:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price is now up over 7.5% and trading at over $90.",
-      "description": "US crude oil price is now up over 7.5% and trading at over $90.",
-      "date": "2026-04-19T23:30Z",
-      "date_display": "19 Apr 23:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's military says it will retaliate against the 'maritime armed robbery' by the United States.",
-      "description": "Iran's military says it will retaliate against the 'maritime armed robbery' by the United States.",
-      "date": "2026-04-19T23:10Z",
-      "date_display": "19 Apr 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Several reports from Syria that Israeli military aircraft are flying over the country, heading east.",
-      "description": "Several reports from Syria that Israeli military aircraft are flying over the country, heading east.",
-      "date": "2026-04-19T22:30Z",
-      "date_display": "19 Apr 22:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Oil prices surge by 7%",
-      "description": "Oil prices surge by 7%",
-      "date": "2026-04-19T22:20Z",
-      "date_display": "19 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media says that the military will soon retaliate against the US military over seizure ...",
-      "description": "Iranian state media says that the military will soon retaliate against the US military over seizure of Iran-flagged commercial vessel.",
-      "date": "2026-04-19T22:20Z",
-      "date_display": "19 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says it has targeted US military vessels with drones.",
-      "description": "Iran says it has targeted US military vessels with drones.",
-      "date": "2026-04-19T22:20Z",
-      "date_display": "19 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US military says it intercepted an  Iranian-flagged cargo ship that was attempting to 'sail toward a...",
-      "description": "US military says it intercepted an  Iranian-flagged cargo ship that was attempting to 'sail toward an Iranian port', when it failed to comply, several rounds were fired into its engine room, disabling its propulsion and Marines 'later boarded the non-compliant vessel, which remains in U.S. custody'.",
-      "date": "2026-04-19T21:10Z",
-      "date_display": "19 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says US military struck an Iranian cargo ship that refused to adhere to instructions. https://...",
-      "description": "Trump says US military struck an Iranian cargo ship that refused to adhere to instructions. https://t.co/9VVTY7Y5jX",
-      "date": "2026-04-19T20:50Z",
-      "date_display": "19 Apr 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "No tankers have been able to cross the Strait of Hormuz today, according to CNN.",
-      "description": "No tankers have been able to cross the Strait of Hormuz today, according to CNN.",
-      "date": "2026-04-19T20:50Z",
-      "date_display": "19 Apr 20:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ]
 }

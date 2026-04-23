@@ -1,17 +1,97 @@
 {
-  "fetched_at": "2026-04-22T03:48Z",
+  "fetched_at": "2026-04-23T03:55Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 37,
+  "india_relevant_items": 36,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran."
+    "latest_oil_headline": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz."
   },
   "india_headlines": [
+    {
+      "title": "Blasts heard across parts of Iran due to air defense exercises.",
+      "description": "Blasts heard across parts of Iran due to air defense exercises.",
+      "date": "2026-04-23T00:40Z",
+      "date_display": "23 Apr 00:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The US military has 'intercepted at least three Iranian-flagged tankers in ‌Asian waters', according...",
+      "description": "The US military has 'intercepted at least three Iranian-flagged tankers in ‌Asian waters', according to Reuters report.",
+      "date": "2026-04-22T22:20Z",
+      "date_display": "22 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump administration asked ​FIFA to replace Iran with Italy (which failed to qualify) at the upcomin...",
+      "description": "Trump administration asked ​FIFA to replace Iran with Italy (which failed to qualify) at the upcoming ‌World Cup, according to Financial Times report.",
+      "date": "2026-04-22T22:10Z",
+      "date_display": "22 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that the blockade worries Iran more than bombing, according to Fox News report.",
+      "description": "Trump says that the blockade worries Iran more than bombing, according to Fox News report.",
+      "date": "2026-04-22T21:20Z",
+      "date_display": "22 Apr 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz.",
+      "description": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz.",
+      "date": "2026-04-22T21:10Z",
+      "date_display": "22 Apr 21:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump gave a deadline until Sunday for Iran to present a unified proposal, according to Is...",
+      "description": "President Trump gave a deadline until Sunday for Iran to present a unified proposal, according to Israel's Channel 12.",
+      "date": "2026-04-22T21:00Z",
+      "date_display": "22 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The Pentagon has told Congress it 'could take six months to fully clear the Strait of Hormuz of mine...",
+      "description": "The Pentagon has told Congress it 'could take six months to fully clear the Strait of Hormuz of mines deployed by the Iranian military', according to Washington Post report.",
+      "date": "2026-04-22T21:00Z",
+      "date_display": "22 Apr 21:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian Revolutionary Guards say they have seized two vessels in the Strait of Hormuz .",
+      "description": "Iranian Revolutionary Guards say they have seized two vessels in the Strait of Hormuz .",
+      "date": "2026-04-22T10:10Z",
+      "date_display": "22 Apr 10:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UK maritime monitor says that an Iranian Revolutionary Guards gun-boat fired on a commercial vessel ...",
+      "description": "UK maritime monitor says that an Iranian Revolutionary Guards gun-boat fired on a commercial vessel in the Strait of Hormuz.",
+      "date": "2026-04-22T05:10Z",
+      "date_display": "22 Apr 05:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Iran is 'collapsing financially' https://t.co/bLOnTJQASd",
+      "description": "Trump says that Iran is 'collapsing financially' https://t.co/bLOnTJQASd",
+      "date": "2026-04-22T03:50Z",
+      "date_display": "22 Apr 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
       "description": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
@@ -91,89 +171,105 @@
       "date_display": "21 Apr 11:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "Blasts heard across parts of Iran due to air defense exercises.",
+      "description": "Blasts heard across parts of Iran due to air defense exercises.",
+      "date": "2026-04-23T00:40Z",
+      "date_display": "23 Apr 00:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
     },
     {
-      "title": "Only 12 ships crossed the Strait of Hormuz over past 24 hours, according to NBC News citing MarineTr...",
-      "description": "Only 12 ships crossed the Strait of Hormuz over past 24 hours, according to NBC News citing MarineTraffic data.",
-      "date": "2026-04-21T11:10Z",
-      "date_display": "21 Apr 11:10 UTC",
+      "title": "The US military has 'intercepted at least three Iranian-flagged tankers in ‌Asian waters', according...",
+      "description": "The US military has 'intercepted at least three Iranian-flagged tankers in ‌Asian waters', according to Reuters report.",
+      "date": "2026-04-22T22:20Z",
+      "date_display": "22 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump administration asked ​FIFA to replace Iran with Italy (which failed to qualify) at the upcomin...",
+      "description": "Trump administration asked ​FIFA to replace Iran with Italy (which failed to qualify) at the upcoming ‌World Cup, according to Financial Times report.",
+      "date": "2026-04-22T22:10Z",
+      "date_display": "22 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US Secretary of the Navy John C. Phelan has stepped down. https://t.co/bo3vcEIQ0X",
+      "description": "US Secretary of the Navy John C. Phelan has stepped down. https://t.co/bo3vcEIQ0X",
+      "date": "2026-04-22T21:40Z",
+      "date_display": "22 Apr 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump says that the blockade worries Iran more than bombing, according to Fox News report.",
+      "description": "Trump says that the blockade worries Iran more than bombing, according to Fox News report.",
+      "date": "2026-04-22T21:20Z",
+      "date_display": "22 Apr 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz.",
+      "description": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz.",
+      "date": "2026-04-22T21:10Z",
+      "date_display": "22 Apr 21:10 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "Up to half of the 'nearly 1,000 drone attacks' that targeted Saudi Arabia originated from Iraq, and ...",
-      "description": "Up to half of the 'nearly 1,000 drone attacks' that targeted Saudi Arabia originated from Iraq, and were launched by pro-Iranian militias, according to Wall Street Journal report.",
-      "date": "2026-04-21T09:30Z",
-      "date_display": "21 Apr 09:30 UTC",
+      "title": "Tesla share price rises by 4% after beating expectations for earnings in Q1 2026.",
+      "description": "Tesla share price rises by 4% after beating expectations for earnings in Q1 2026.",
+      "date": "2026-04-22T21:00Z",
+      "date_display": "22 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "President Trump gave a deadline until Sunday for Iran to present a unified proposal, according to Is...",
+      "description": "President Trump gave a deadline until Sunday for Iran to present a unified proposal, according to Israel's Channel 12.",
+      "date": "2026-04-22T21:00Z",
+      "date_display": "22 Apr 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Japan's government has removed restrictions on selling arms to other countries, opening the way for ...",
-      "description": "Japan's government has removed restrictions on selling arms to other countries, opening the way for export of weapons such as warships and missiles. https://t.co/rnKKuCgq6H",
-      "date": "2026-04-21T08:40Z",
-      "date_display": "21 Apr 08:40 UTC",
-      "severity": "medium",
+      "title": "The Pentagon has told Congress it 'could take six months to fully clear the Strait of Hormuz of mine...",
+      "description": "The Pentagon has told Congress it 'could take six months to fully clear the Strait of Hormuz of mines deployed by the Iranian military', according to Washington Post report.",
+      "date": "2026-04-22T21:00Z",
+      "date_display": "22 Apr 21:00 UTC",
+      "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "Iranian media says no delegations have left for Pakistan, amid expected peace talks with the United ...",
-      "description": "Iranian media says no delegations have left for Pakistan, amid expected peace talks with the United States, at this point.",
-      "date": "2026-04-21T08:10Z",
-      "date_display": "21 Apr 08:10 UTC",
-      "severity": "medium",
+      "title": "Iranian Revolutionary Guards say they have seized two vessels in the Strait of Hormuz .",
+      "description": "Iranian Revolutionary Guards say they have seized two vessels in the Strait of Hormuz .",
+      "date": "2026-04-22T10:10Z",
+      "date_display": "22 Apr 10:10 UTC",
+      "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "White House says it is close to a 'good deal' with Iran but that Trump has options he can still use,...",
-      "description": "White House says it is close to a 'good deal' with Iran but that Trump has options he can still use, according to Fox News report.",
-      "date": "2026-04-21T05:20Z",
-      "date_display": "21 Apr 05:20 UTC",
-      "severity": "medium",
+      "title": "UK maritime monitor says that an Iranian Revolutionary Guards gun-boat fired on a commercial vessel ...",
+      "description": "UK maritime monitor says that an Iranian Revolutionary Guards gun-boat fired on a commercial vessel in the Strait of Hormuz.",
+      "date": "2026-04-22T05:10Z",
+      "date_display": "22 Apr 05:10 UTC",
+      "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
-      "description": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
-      "date": "2026-04-21T01:00Z",
-      "date_display": "21 Apr 01:00 UTC",
+      "title": "Trump says that Iran is 'collapsing financially' https://t.co/bLOnTJQASd",
+      "description": "Trump says that Iran is 'collapsing financially' https://t.co/bLOnTJQASd",
+      "date": "2026-04-22T03:50Z",
+      "date_display": "22 Apr 03:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
-    {
-      "title": "Trump says that if Iran doesn't negotiate, 'they are going to see problems like they've never seen b...",
-      "description": "Trump says that if Iran doesn't negotiate, 'they are going to see problems like they've never seen before', according to CNN report.",
-      "date": "2026-04-21T00:10Z",
-      "date_display": "21 Apr 00:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump tells Bloomberg it is 'highly unlikely' he will extend ceasefire with Iran.",
-      "description": "Trump tells Bloomberg it is 'highly unlikely' he will extend ceasefire with Iran.",
-      "date": "2026-04-20T21:50Z",
-      "date_display": "20 Apr 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's chief negotiator Ghalibaf says the country won't negotiate under the 'shadow of threats' and ...",
-      "description": "Iran's chief negotiator Ghalibaf says the country won't negotiate under the 'shadow of threats' and Trump is trying to impose a siege so Iran can 'surrender'.",
-      "date": "2026-04-20T21:50Z",
-      "date_display": "20 Apr 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump 'isn't inclined' to extend ceasefire when it expires, according to Wall Street Journ...",
-      "description": "President Trump 'isn't inclined' to extend ceasefire when it expires, according to Wall Street Journal report.",
-      "date": "2026-04-20T20:30Z",
-      "date_display": "20 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
     {
       "title": "US Secretary of Defense says that members of the military will no longer need to get the flu shot.",
       "description": "US Secretary of Defense says that members of the military will no longer need to get the flu shot.",
@@ -317,102 +413,6 @@
       "date_display": "21 Apr 05:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
-      "description": "US Vice President JD Vance set to travel to Pakistan for Iran talks, according to Axios report.",
-      "date": "2026-04-21T01:00Z",
-      "date_display": "21 Apr 01:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that if Iran doesn't negotiate, 'they are going to see problems like they've never seen b...",
-      "description": "Trump says that if Iran doesn't negotiate, 'they are going to see problems like they've never seen before', according to CNN report.",
-      "date": "2026-04-21T00:10Z",
-      "date_display": "21 Apr 00:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US government debt nears $39 trillion, according to Treasury data.\n\nThat is up from $37 trillion in ...",
-      "description": "US government debt nears $39 trillion, according to Treasury data.\n\nThat is up from $37 trillion in August and $38 trillion in October, which was during a federal government shutdown. \n\nThe Treasury added the most recent $1 trillion in debt in just 71 days, the fastest accumulation outside of the COVID pandemic.\n\nNearly $5 trillion in debt has been added since since January, 2024.\n\nFurthermore, interest payments are now the fastest-growing line in the federal budget. \n\nIn absolute terms, they have surpassed spending on both Medicare and national defense.",
-      "date": "2026-04-20T23:50Z",
-      "date_display": "20 Apr 23:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The BBC says it has found a 'consistent pattern of spikes just hours, or sometimes minutes' in finan...",
-      "description": "The BBC says it has found a 'consistent pattern of spikes just hours, or sometimes minutes' in financial markets before a 'social media post or media interview' by President Trump.",
-      "date": "2026-04-20T23:40Z",
-      "date_display": "20 Apr 23:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "JD Vance and Gavin Newsom are tied at 19% chance of winning the 2028 Presidential Election, followed...",
-      "description": "JD Vance and Gavin Newsom are tied at 19% chance of winning the 2028 Presidential Election, followed by Marco Rubio at 15%, according to @Kalshi prediction market. https://t.co/3BkvscVsJU",
-      "date": "2026-04-20T23:10Z",
-      "date_display": "20 Apr 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump tells Bloomberg it is 'highly unlikely' he will extend ceasefire with Iran.",
-      "description": "Trump tells Bloomberg it is 'highly unlikely' he will extend ceasefire with Iran.",
-      "date": "2026-04-20T21:50Z",
-      "date_display": "20 Apr 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's chief negotiator Ghalibaf says the country won't negotiate under the 'shadow of threats' and ...",
-      "description": "Iran's chief negotiator Ghalibaf says the country won't negotiate under the 'shadow of threats' and Trump is trying to impose a siege so Iran can 'surrender'.",
-      "date": "2026-04-20T21:50Z",
-      "date_display": "20 Apr 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Amazon is set to invest up to $25 billion in Anthropic. https://t.co/sUqn7VQqeJ",
-      "description": "Amazon is set to invest up to $25 billion in Anthropic. https://t.co/sUqn7VQqeJ",
-      "date": "2026-04-20T21:00Z",
-      "date_display": "20 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Apple CEO Tim Cook is stepping down, will be replaced by John Ternus in September.",
-      "description": "Apple CEO Tim Cook is stepping down, will be replaced by John Ternus in September.",
-      "date": "2026-04-20T20:50Z",
-      "date_display": "20 Apr 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "President Trump 'isn't inclined' to extend ceasefire when it expires, according to Wall Street Journ...",
-      "description": "President Trump 'isn't inclined' to extend ceasefire when it expires, according to Wall Street Journal report.",
-      "date": "2026-04-20T20:30Z",
-      "date_display": "20 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel's shekel has hit a 30-year high against the US dollar.",
-      "description": "Israel's shekel has hit a 30-year high against the US dollar.",
-      "date": "2026-04-20T20:30Z",
-      "date_display": "20 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "7.4 magnitude earthquake off the north-eastern coast of Japan, with tsunami warnings issued.",
-      "description": "7.4 magnitude earthquake off the north-eastern coast of Japan, with tsunami warnings issued.",
-      "date": "2026-04-20T08:40Z",
-      "date_display": "20 Apr 08:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

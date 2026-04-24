@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-04-23T03:55Z",
+  "fetched_at": "2026-04-24T03:58Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 36,
+  "india_relevant_items": 35,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz."
+    "latest_oil_headline": "Oil prices up over 4%, as US-Iran diplomatic efforts stall."
   },
   "india_headlines": [
+    {
+      "title": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'c...",
+      "description": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'couldn’t fully execute contingency plans to defend Taiwan from a Chinese invasion if it occurred in the near term', according to Wall Street Journal report. https://t.co/w3jPD4KFcU",
+      "date": "2026-04-23T21:00Z",
+      "date_display": "23 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says he would never use a nuclear weapon against Iran.",
+      "description": "Trump says he would never use a nuclear weapon against Iran.",
+      "date": "2026-04-23T20:30Z",
+      "date_display": "23 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices up over 4%, as US-Iran diplomatic efforts stall.",
+      "description": "Oil prices up over 4%, as US-Iran diplomatic efforts stall.",
+      "date": "2026-04-23T20:30Z",
+      "date_display": "23 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran has deployed additional mines in the Strait of Hormuz, according to Axios report.",
+      "description": "Iran has deployed additional mines in the Strait of Hormuz, according to Axios report.",
+      "date": "2026-04-23T20:20Z",
+      "date_display": "23 Apr 20:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says regarding Iran, 'We have never had so much ammunition. Our ships are loaded. Locked and l...",
+      "description": "Trump says regarding Iran, 'We have never had so much ammunition. Our ships are loaded. Locked and loaded. They’re ready to go.'",
+      "date": "2026-04-23T20:20Z",
+      "date_display": "23 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices up 2% as US-Iran diplomatic efforts continue to stall.",
+      "description": "Oil prices up 2% as US-Iran diplomatic efforts continue to stall.",
+      "date": "2026-04-23T08:50Z",
+      "date_display": "23 Apr 08:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Blasts heard across parts of Iran due to air defense exercises.",
       "description": "Blasts heard across parts of Iran due to air defense exercises.",
@@ -123,57 +171,97 @@
       "date_display": "21 Apr 21:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Iran says it will announce its position on ceasefire at a later date.",
-      "description": "Iran says it will announce its position on ceasefire at a later date.",
-      "date": "2026-04-21T20:40Z",
-      "date_display": "21 Apr 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran.",
-      "description": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran.",
-      "date": "2026-04-21T20:30Z",
-      "date_display": "21 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump announces extension of ceasefire https://t.co/CTXyUGg7z4",
-      "description": "Trump announces extension of ceasefire https://t.co/CTXyUGg7z4",
-      "date": "2026-04-21T20:20Z",
-      "date_display": "21 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says Iran's leadership is 'seriously fractured'.",
-      "description": "Trump says Iran's leadership is 'seriously fractured'.",
-      "date": "2026-04-21T20:20Z",
-      "date_display": "21 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Vice President JD Vance has cancelled his trip to Pakistan.",
-      "description": "US Vice President JD Vance has cancelled his trip to Pakistan.",
-      "date": "2026-04-21T20:20Z",
-      "date_display": "21 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says Iran violated the ceasefire numerous times https://t.co/uYF38uWN47",
-      "description": "Trump says Iran violated the ceasefire numerous times https://t.co/uYF38uWN47",
-      "date": "2026-04-21T11:40Z",
-      "date_display": "21 Apr 11:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Trump says there is a 'great chance' of peace between Lebanon and Israel happening this year.",
+      "description": "Trump says there is a 'great chance' of peace between Lebanon and Israel happening this year.",
+      "date": "2026-04-23T22:20Z",
+      "date_display": "23 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'c...",
+      "description": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'couldn’t fully execute contingency plans to defend Taiwan from a Chinese invasion if it occurred in the near term', according to Wall Street Journal report. https://t.co/w3jPD4KFcU",
+      "date": "2026-04-23T21:00Z",
+      "date_display": "23 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Meta is planning to lay off around 8,000 employees, equivalent to 10% of its workforce, according to...",
+      "description": "Meta is planning to lay off around 8,000 employees, equivalent to 10% of its workforce, according to AFP report. https://t.co/OCqsBcSCE1",
+      "date": "2026-04-23T20:40Z",
+      "date_display": "23 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump says he would never use a nuclear weapon against Iran.",
+      "description": "Trump says he would never use a nuclear weapon against Iran.",
+      "date": "2026-04-23T20:30Z",
+      "date_display": "23 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices up over 4%, as US-Iran diplomatic efforts stall.",
+      "description": "Oil prices up over 4%, as US-Iran diplomatic efforts stall.",
+      "date": "2026-04-23T20:30Z",
+      "date_display": "23 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Intel share price has surged by over 13% after beating earnings expectations.",
+      "description": "Intel share price has surged by over 13% after beating earnings expectations.",
+      "date": "2026-04-23T20:20Z",
+      "date_display": "23 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iran has deployed additional mines in the Strait of Hormuz, according to Axios report.",
+      "description": "Iran has deployed additional mines in the Strait of Hormuz, according to Axios report.",
+      "date": "2026-04-23T20:20Z",
+      "date_display": "23 Apr 20:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says regarding Iran, 'We have never had so much ammunition. Our ships are loaded. Locked and l...",
+      "description": "Trump says regarding Iran, 'We have never had so much ammunition. Our ships are loaded. Locked and loaded. They’re ready to go.'",
+      "date": "2026-04-23T20:20Z",
+      "date_display": "23 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices up 2% as US-Iran diplomatic efforts continue to stall.",
+      "description": "Oil prices up 2% as US-Iran diplomatic efforts continue to stall.",
+      "date": "2026-04-23T08:50Z",
+      "date_display": "23 Apr 08:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Sales of electric vehicles in the European Union rose by 49% in March compared with a year prior. ht...",
+      "description": "Sales of electric vehicles in the European Union rose by 49% in March compared with a year prior. https://t.co/n1KtvjGzbI",
+      "date": "2026-04-23T06:50Z",
+      "date_display": "23 Apr 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇰🇷 South Korea's economy grew by 1.7% in the first quarter of 2026, the fastest pace in five years...",
+      "description": "🇰🇷 South Korea's economy grew by 1.7% in the first quarter of 2026, the fastest pace in five years.",
+      "date": "2026-04-23T05:10Z",
+      "date_display": "23 Apr 05:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Blasts heard across parts of Iran due to air defense exercises.",
       "description": "Blasts heard across parts of Iran due to air defense exercises.",
@@ -323,94 +411,6 @@
       "description": "Iran says it will announce its position on ceasefire at a later date.",
       "date": "2026-04-21T20:40Z",
       "date_display": "21 Apr 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran.",
-      "description": "Oil prices are still up over 3% for the day, despite Trump extending ceasefire with Iran.",
-      "date": "2026-04-21T20:30Z",
-      "date_display": "21 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump announces extension of ceasefire https://t.co/CTXyUGg7z4",
-      "description": "Trump announces extension of ceasefire https://t.co/CTXyUGg7z4",
-      "date": "2026-04-21T20:20Z",
-      "date_display": "21 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says Iran's leadership is 'seriously fractured'.",
-      "description": "Trump says Iran's leadership is 'seriously fractured'.",
-      "date": "2026-04-21T20:20Z",
-      "date_display": "21 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US stock market loses over $400 billion in value in today's trading.",
-      "description": "US stock market loses over $400 billion in value in today's trading.",
-      "date": "2026-04-21T20:20Z",
-      "date_display": "21 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US Vice President JD Vance has cancelled his trip to Pakistan.",
-      "description": "US Vice President JD Vance has cancelled his trip to Pakistan.",
-      "date": "2026-04-21T20:20Z",
-      "date_display": "21 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says Iran violated the ceasefire numerous times https://t.co/uYF38uWN47",
-      "description": "Trump says Iran violated the ceasefire numerous times https://t.co/uYF38uWN47",
-      "date": "2026-04-21T11:40Z",
-      "date_display": "21 Apr 11:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Only 12 ships crossed the Strait of Hormuz over past 24 hours, according to NBC News citing MarineTr...",
-      "description": "Only 12 ships crossed the Strait of Hormuz over past 24 hours, according to NBC News citing MarineTraffic data.",
-      "date": "2026-04-21T11:10Z",
-      "date_display": "21 Apr 11:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Up to half of the 'nearly 1,000 drone attacks' that targeted Saudi Arabia originated from Iraq, and ...",
-      "description": "Up to half of the 'nearly 1,000 drone attacks' that targeted Saudi Arabia originated from Iraq, and were launched by pro-Iranian militias, according to Wall Street Journal report.",
-      "date": "2026-04-21T09:30Z",
-      "date_display": "21 Apr 09:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Japan's government has removed restrictions on selling arms to other countries, opening the way for ...",
-      "description": "Japan's government has removed restrictions on selling arms to other countries, opening the way for export of weapons such as warships and missiles. https://t.co/rnKKuCgq6H",
-      "date": "2026-04-21T08:40Z",
-      "date_display": "21 Apr 08:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media says no delegations have left for Pakistan, amid expected peace talks with the United ...",
-      "description": "Iranian media says no delegations have left for Pakistan, amid expected peace talks with the United States, at this point.",
-      "date": "2026-04-21T08:10Z",
-      "date_display": "21 Apr 08:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "White House says it is close to a 'good deal' with Iran but that Trump has options he can still use,...",
-      "description": "White House says it is close to a 'good deal' with Iran but that Trump has options he can still use, according to Fox News report.",
-      "date": "2026-04-21T05:20Z",
-      "date_display": "21 Apr 05:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

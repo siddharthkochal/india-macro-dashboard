@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-24T03:58Z",
+  "fetched_at": "2026-04-25T03:40Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 35,
+  "india_relevant_items": 39,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,54 @@
     "latest_oil_headline": "Oil prices up over 4%, as US-Iran diplomatic efforts stall."
   },
   "india_headlines": [
+    {
+      "title": "The US navy has intercepted an Iranian-flagged vessel.",
+      "description": "The US navy has intercepted an Iranian-flagged vessel.",
+      "date": "2026-04-25T01:10Z",
+      "date_display": "25 Apr 01:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says there are still significant missile capabilities it has not used yet.",
+      "description": "Iran says there are still significant missile capabilities it has not used yet.",
+      "date": "2026-04-25T00:40Z",
+      "date_display": "25 Apr 00:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reports of large Ukrainian drone attack on Russian targets.",
+      "description": "Reports of large Ukrainian drone attack on Russian targets.",
+      "date": "2026-04-25T00:30Z",
+      "date_display": "25 Apr 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media says no decision has been taken on whether the country will engage in another round of...",
+      "description": "Iranian media says no decision has been taken on whether the country will engage in another round of talks with the United States. https://t.co/YhPYcgcZPQ",
+      "date": "2026-04-24T21:00Z",
+      "date_display": "24 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media says the Revolutionary Guards have seized another ship.",
+      "description": "Iranian media says the Revolutionary Guards have seized another ship.",
+      "date": "2026-04-24T20:30Z",
+      "date_display": "24 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Chances of US-Iran nuclear deal before July has fallen back to 36%, according to @Kalshi prediction ...",
+      "description": "Chances of US-Iran nuclear deal before July has fallen back to 36%, according to @Kalshi prediction market. https://t.co/mlC1Y5aypj",
+      "date": "2026-04-24T20:30Z",
+      "date_display": "24 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'c...",
       "description": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'couldn’t fully execute contingency plans to defend Taiwan from a Chinese invasion if it occurred in the near term', according to Wall Street Journal report. https://t.co/w3jPD4KFcU",
@@ -123,57 +171,65 @@
       "date_display": "22 Apr 10:10 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "UK maritime monitor says that an Iranian Revolutionary Guards gun-boat fired on a commercial vessel ...",
-      "description": "UK maritime monitor says that an Iranian Revolutionary Guards gun-boat fired on a commercial vessel in the Strait of Hormuz.",
-      "date": "2026-04-22T05:10Z",
-      "date_display": "22 Apr 05:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran is 'collapsing financially' https://t.co/bLOnTJQASd",
-      "description": "Trump says that Iran is 'collapsing financially' https://t.co/bLOnTJQASd",
-      "date": "2026-04-22T03:50Z",
-      "date_display": "22 Apr 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
-      "description": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
-      "date": "2026-04-22T00:00Z",
-      "date_display": "22 Apr 00:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran threatens to break the blockade 'by force' if the US continues to impose it.",
-      "description": "Iran threatens to break the blockade 'by force' if the US continues to impose it.",
-      "date": "2026-04-21T22:10Z",
-      "date_display": "21 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Pakistan's Prime Minister thanks President Trump for 'graciously accepting our request to extend the...",
-      "description": "Pakistan's Prime Minister thanks President Trump for 'graciously accepting our request to extend the ceasefire'.",
-      "date": "2026-04-21T21:30Z",
-      "date_display": "21 Apr 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says it did not ask for an extension of the ceasefire.",
-      "description": "Iran says it did not ask for an extension of the ceasefire.",
-      "date": "2026-04-21T21:20Z",
-      "date_display": "21 Apr 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "The US navy has intercepted an Iranian-flagged vessel.",
+      "description": "The US navy has intercepted an Iranian-flagged vessel.",
+      "date": "2026-04-25T01:10Z",
+      "date_display": "25 Apr 01:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says there are still significant missile capabilities it has not used yet.",
+      "description": "Iran says there are still significant missile capabilities it has not used yet.",
+      "date": "2026-04-25T00:40Z",
+      "date_display": "25 Apr 00:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reports of large Ukrainian drone attack on Russian targets.",
+      "description": "Reports of large Ukrainian drone attack on Russian targets.",
+      "date": "2026-04-25T00:30Z",
+      "date_display": "25 Apr 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Venezuela and Colombia announce military cooperation against border mafias.",
+      "description": "Venezuela and Colombia announce military cooperation against border mafias.",
+      "date": "2026-04-24T23:10Z",
+      "date_display": "24 Apr 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iranian media says no decision has been taken on whether the country will engage in another round of...",
+      "description": "Iranian media says no decision has been taken on whether the country will engage in another round of talks with the United States. https://t.co/YhPYcgcZPQ",
+      "date": "2026-04-24T21:00Z",
+      "date_display": "24 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media says the Revolutionary Guards have seized another ship.",
+      "description": "Iranian media says the Revolutionary Guards have seized another ship.",
+      "date": "2026-04-24T20:30Z",
+      "date_display": "24 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Chances of US-Iran nuclear deal before July has fallen back to 36%, according to @Kalshi prediction ...",
+      "description": "Chances of US-Iran nuclear deal before July has fallen back to 36%, according to @Kalshi prediction market. https://t.co/mlC1Y5aypj",
+      "date": "2026-04-24T20:30Z",
+      "date_display": "24 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Trump says there is a 'great chance' of peace between Lebanon and Israel happening this year.",
       "description": "Trump says there is a 'great chance' of peace between Lebanon and Israel happening this year.",
@@ -355,62 +411,6 @@
       "description": "Trump says that Iran is 'collapsing financially' https://t.co/bLOnTJQASd",
       "date": "2026-04-22T03:50Z",
       "date_display": "22 Apr 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Secretary of Defense says that members of the military will no longer need to get the flu shot.",
-      "description": "US Secretary of Defense says that members of the military will no longer need to get the flu shot.",
-      "date": "2026-04-22T03:30Z",
-      "date_display": "22 Apr 03:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
-      "description": "Trump attacks Wall Street Journal and defends his record on Iran. https://t.co/pcNO7DRQUm",
-      "date": "2026-04-22T00:00Z",
-      "date_display": "22 Apr 00:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran threatens to break the blockade 'by force' if the US continues to impose it.",
-      "description": "Iran threatens to break the blockade 'by force' if the US continues to impose it.",
-      "date": "2026-04-21T22:10Z",
-      "date_display": "21 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Pakistan's Prime Minister thanks President Trump for 'graciously accepting our request to extend the...",
-      "description": "Pakistan's Prime Minister thanks President Trump for 'graciously accepting our request to extend the ceasefire'.",
-      "date": "2026-04-21T21:30Z",
-      "date_display": "21 Apr 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says it did not ask for an extension of the ceasefire.",
-      "description": "Iran says it did not ask for an extension of the ceasefire.",
-      "date": "2026-04-21T21:20Z",
-      "date_display": "21 Apr 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "German airline Lufthansa has cut 20,000 flights from its schedule through to October in an attempt t...",
-      "description": "German airline Lufthansa has cut 20,000 flights from its schedule through to October in an attempt to save fuel. https://t.co/xsVVRxIk3V",
-      "date": "2026-04-21T21:00Z",
-      "date_display": "21 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iran says it will announce its position on ceasefire at a later date.",
-      "description": "Iran says it will announce its position on ceasefire at a later date.",
-      "date": "2026-04-21T20:40Z",
-      "date_display": "21 Apr 20:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

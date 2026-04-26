@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-04-25T03:40Z",
+  "fetched_at": "2026-04-26T04:03Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 39,
+  "india_relevant_items": 32,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices up over 4%, as US-Iran diplomatic efforts stall."
+    "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\n..."
   },
   "india_headlines": [
+    {
+      "title": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war...",
+      "description": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war'. https://t.co/5WiXB9YE0U",
+      "date": "2026-04-25T23:00Z",
+      "date_display": "25 Apr 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\n...",
+      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\nCrude oil: +64%\nEuropean gas: +59%",
+      "date": "2026-04-25T22:00Z",
+      "date_display": "25 Apr 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "New Israeli strikes on targets inside Lebanon.",
+      "description": "New Israeli strikes on targets inside Lebanon.",
+      "date": "2026-04-25T21:00Z",
+      "date_display": "25 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "The US navy has intercepted an Iranian-flagged vessel.",
       "description": "The US navy has intercepted an Iranian-flagged vessel.",
@@ -147,33 +171,97 @@
       "date_display": "22 Apr 21:10 UTC",
       "severity": "critical",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "Trump posts photo of suspect. https://t.co/K4vc7oJm0o",
+      "description": "Trump posts photo of suspect. https://t.co/K4vc7oJm0o",
+      "date": "2026-04-26T02:50Z",
+      "date_display": "26 Apr 02:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
     },
     {
-      "title": "President Trump gave a deadline until Sunday for Iran to present a unified proposal, according to Is...",
-      "description": "President Trump gave a deadline until Sunday for Iran to present a unified proposal, according to Israel's Channel 12.",
-      "date": "2026-04-22T21:00Z",
-      "date_display": "22 Apr 21:00 UTC",
+      "title": "Trump identifies shooter as Cole Thomas Allen, from California, who was armed with multiple weapons.",
+      "description": "Trump identifies shooter as Cole Thomas Allen, from California, who was armed with multiple weapons.",
+      "date": "2026-04-26T02:50Z",
+      "date_display": "26 Apr 02:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Suspect in White House Correspondents Dinner shooting is reportedly alive and in custody.",
+      "description": "Suspect in White House Correspondents Dinner shooting is reportedly alive and in custody.",
+      "date": "2026-04-26T02:00Z",
+      "date_display": "26 Apr 02:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump post about incident at White House Correspondents Dinner https://t.co/OpyFzog67N",
+      "description": "Trump post about incident at White House Correspondents Dinner https://t.co/OpyFzog67N",
+      "date": "2026-04-26T01:40Z",
+      "date_display": "26 Apr 01:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Confirmation that Trump and JD Vance are safe and unharmed after shooting at White House Corresponde...",
+      "description": "Confirmation that Trump and JD Vance are safe and unharmed after shooting at White House Correspondents Dinner venue.",
+      "date": "2026-04-26T01:10Z",
+      "date_display": "26 Apr 01:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Suspected shooter has been killed in lobby of the White House Correspondents Dinner event...",
+      "description": "<b>BREAKING:</b> Suspected shooter has been killed in lobby of the White House Correspondents Dinner event",
+      "date": "2026-04-26T01:00Z",
+      "date_display": "26 Apr 01:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump rushed off the stage during the White House Correspondents Dinner due to shooting, w...",
+      "description": "<b>BREAKING:</b> Trump rushed off the stage during the White House Correspondents Dinner due to shooting, with suspect shot dead.",
+      "date": "2026-04-26T00:50Z",
+      "date_display": "26 Apr 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war...",
+      "description": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war'. https://t.co/5WiXB9YE0U",
+      "date": "2026-04-25T23:00Z",
+      "date_display": "25 Apr 23:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "The Pentagon has told Congress it 'could take six months to fully clear the Strait of Hormuz of mine...",
-      "description": "The Pentagon has told Congress it 'could take six months to fully clear the Strait of Hormuz of mines deployed by the Iranian military', according to Washington Post report.",
-      "date": "2026-04-22T21:00Z",
-      "date_display": "22 Apr 21:00 UTC",
-      "severity": "critical",
+      "title": "Germany's Chancellor Merz says the conflict between the US and Israel is a 'completely unnecessary w...",
+      "description": "Germany's Chancellor Merz says the conflict between the US and Israel is a 'completely unnecessary war'. https://t.co/iEwVa9uHAN",
+      "date": "2026-04-25T22:10Z",
+      "date_display": "25 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\n...",
+      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\nCrude oil: +64%\nEuropean gas: +59%",
+      "date": "2026-04-25T22:00Z",
+      "date_display": "25 Apr 22:00 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Iranian Revolutionary Guards say they have seized two vessels in the Strait of Hormuz .",
-      "description": "Iranian Revolutionary Guards say they have seized two vessels in the Strait of Hormuz .",
-      "date": "2026-04-22T10:10Z",
-      "date_display": "22 Apr 10:10 UTC",
-      "severity": "critical",
+      "title": "New Israeli strikes on targets inside Lebanon.",
+      "description": "New Israeli strikes on targets inside Lebanon.",
+      "date": "2026-04-25T21:00Z",
+      "date_display": "25 Apr 21:00 UTC",
+      "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "The US navy has intercepted an Iranian-flagged vessel.",
       "description": "The US navy has intercepted an Iranian-flagged vessel.",
@@ -323,94 +411,6 @@
       "description": "Blasts heard across parts of Iran due to air defense exercises.",
       "date": "2026-04-23T00:40Z",
       "date_display": "23 Apr 00:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US military has 'intercepted at least three Iranian-flagged tankers in ‌Asian waters', according...",
-      "description": "The US military has 'intercepted at least three Iranian-flagged tankers in ‌Asian waters', according to Reuters report.",
-      "date": "2026-04-22T22:20Z",
-      "date_display": "22 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump administration asked ​FIFA to replace Iran with Italy (which failed to qualify) at the upcomin...",
-      "description": "Trump administration asked ​FIFA to replace Iran with Italy (which failed to qualify) at the upcoming ‌World Cup, according to Financial Times report.",
-      "date": "2026-04-22T22:10Z",
-      "date_display": "22 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Secretary of the Navy John C. Phelan has stepped down. https://t.co/bo3vcEIQ0X",
-      "description": "US Secretary of the Navy John C. Phelan has stepped down. https://t.co/bo3vcEIQ0X",
-      "date": "2026-04-22T21:40Z",
-      "date_display": "22 Apr 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says that the blockade worries Iran more than bombing, according to Fox News report.",
-      "description": "Trump says that the blockade worries Iran more than bombing, according to Fox News report.",
-      "date": "2026-04-22T21:20Z",
-      "date_display": "22 Apr 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz.",
-      "description": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz.",
-      "date": "2026-04-22T21:10Z",
-      "date_display": "22 Apr 21:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Tesla share price rises by 4% after beating expectations for earnings in Q1 2026.",
-      "description": "Tesla share price rises by 4% after beating expectations for earnings in Q1 2026.",
-      "date": "2026-04-22T21:00Z",
-      "date_display": "22 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "President Trump gave a deadline until Sunday for Iran to present a unified proposal, according to Is...",
-      "description": "President Trump gave a deadline until Sunday for Iran to present a unified proposal, according to Israel's Channel 12.",
-      "date": "2026-04-22T21:00Z",
-      "date_display": "22 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Pentagon has told Congress it 'could take six months to fully clear the Strait of Hormuz of mine...",
-      "description": "The Pentagon has told Congress it 'could take six months to fully clear the Strait of Hormuz of mines deployed by the Iranian military', according to Washington Post report.",
-      "date": "2026-04-22T21:00Z",
-      "date_display": "22 Apr 21:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian Revolutionary Guards say they have seized two vessels in the Strait of Hormuz .",
-      "description": "Iranian Revolutionary Guards say they have seized two vessels in the Strait of Hormuz .",
-      "date": "2026-04-22T10:10Z",
-      "date_display": "22 Apr 10:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UK maritime monitor says that an Iranian Revolutionary Guards gun-boat fired on a commercial vessel ...",
-      "description": "UK maritime monitor says that an Iranian Revolutionary Guards gun-boat fired on a commercial vessel in the Strait of Hormuz.",
-      "date": "2026-04-22T05:10Z",
-      "date_display": "22 Apr 05:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran is 'collapsing financially' https://t.co/bLOnTJQASd",
-      "description": "Trump says that Iran is 'collapsing financially' https://t.co/bLOnTJQASd",
-      "date": "2026-04-22T03:50Z",
-      "date_display": "22 Apr 03:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

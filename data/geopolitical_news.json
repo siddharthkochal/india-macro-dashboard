@@ -1,17 +1,49 @@
 {
-  "fetched_at": "2026-04-26T04:03Z",
+  "fetched_at": "2026-04-27T04:08Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 32,
+  "india_relevant_items": 31,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\n..."
+    "latest_oil_headline": "Oil prices rise by over 2% in early trading."
   },
   "india_headlines": [
+    {
+      "title": "Iran has made a new proposal to the United States, according to Axios report.",
+      "description": "Iran has made a new proposal to the United States, according to Axios report.",
+      "date": "2026-04-27T03:50Z",
+      "date_display": "27 Apr 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices rise by over 2% in early trading.",
+      "description": "Oil prices rise by over 2% in early trading.",
+      "date": "2026-04-26T22:10Z",
+      "date_display": "26 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The chances of a US recession this year have fall down to 24%, according to @Kalshi prediction marke...",
+      "description": "The chances of a US recession this year have fall down to 24%, according to @Kalshi prediction market. https://t.co/2AI7bqMbQx",
+      "date": "2026-04-26T21:30Z",
+      "date_display": "26 Apr 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reuters reports that US-Iran talks are now at a 'standstill' and both sides are showing 'little will...",
+      "description": "Reuters reports that US-Iran talks are now at a 'standstill' and both sides are showing 'little willingness to soften their terms'.",
+      "date": "2026-04-26T09:00Z",
+      "date_display": "26 Apr 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war...",
       "description": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war'. https://t.co/5WiXB9YE0U",
@@ -139,41 +171,57 @@
       "date_display": "23 Apr 00:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "The US military has 'intercepted at least three Iranian-flagged tankers in ‌Asian waters', according...",
-      "description": "The US military has 'intercepted at least three Iranian-flagged tankers in ‌Asian waters', according to Reuters report.",
-      "date": "2026-04-22T22:20Z",
-      "date_display": "22 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump administration asked ​FIFA to replace Iran with Italy (which failed to qualify) at the upcomin...",
-      "description": "Trump administration asked ​FIFA to replace Iran with Italy (which failed to qualify) at the upcoming ‌World Cup, according to Financial Times report.",
-      "date": "2026-04-22T22:10Z",
-      "date_display": "22 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that the blockade worries Iran more than bombing, according to Fox News report.",
-      "description": "Trump says that the blockade worries Iran more than bombing, according to Fox News report.",
-      "date": "2026-04-22T21:20Z",
-      "date_display": "22 Apr 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz.",
-      "description": "Oil prices up over 3% today amid attacks on vessels in the Strait of Hormuz.",
-      "date": "2026-04-22T21:10Z",
-      "date_display": "22 Apr 21:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Iran has made a new proposal to the United States, according to Axios report.",
+      "description": "Iran has made a new proposal to the United States, according to Axios report.",
+      "date": "2026-04-27T03:50Z",
+      "date_display": "27 Apr 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices rise by over 2% in early trading.",
+      "description": "Oil prices rise by over 2% in early trading.",
+      "date": "2026-04-26T22:10Z",
+      "date_display": "26 Apr 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The chances of a US recession this year have fall down to 24%, according to @Kalshi prediction marke...",
+      "description": "The chances of a US recession this year have fall down to 24%, according to @Kalshi prediction market. https://t.co/2AI7bqMbQx",
+      "date": "2026-04-26T21:30Z",
+      "date_display": "26 Apr 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "6.1 magnitude earthquake near Hokkaido, Japan.",
+      "description": "6.1 magnitude earthquake near Hokkaido, Japan.",
+      "date": "2026-04-26T21:10Z",
+      "date_display": "26 Apr 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Mali confirms its defense minister Sadio Camara has been assassinated.",
+      "description": "Mali confirms its defense minister Sadio Camara has been assassinated.",
+      "date": "2026-04-26T21:00Z",
+      "date_display": "26 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Reuters reports that US-Iran talks are now at a 'standstill' and both sides are showing 'little will...",
+      "description": "Reuters reports that US-Iran talks are now at a 'standstill' and both sides are showing 'little willingness to soften their terms'.",
+      "date": "2026-04-26T09:00Z",
+      "date_display": "26 Apr 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Trump posts photo of suspect. https://t.co/K4vc7oJm0o",
       "description": "Trump posts photo of suspect. https://t.co/K4vc7oJm0o",
@@ -365,54 +413,6 @@
       "date_display": "23 Apr 20:20 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "Iran has deployed additional mines in the Strait of Hormuz, according to Axios report.",
-      "description": "Iran has deployed additional mines in the Strait of Hormuz, according to Axios report.",
-      "date": "2026-04-23T20:20Z",
-      "date_display": "23 Apr 20:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says regarding Iran, 'We have never had so much ammunition. Our ships are loaded. Locked and l...",
-      "description": "Trump says regarding Iran, 'We have never had so much ammunition. Our ships are loaded. Locked and loaded. They’re ready to go.'",
-      "date": "2026-04-23T20:20Z",
-      "date_display": "23 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices up 2% as US-Iran diplomatic efforts continue to stall.",
-      "description": "Oil prices up 2% as US-Iran diplomatic efforts continue to stall.",
-      "date": "2026-04-23T08:50Z",
-      "date_display": "23 Apr 08:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Sales of electric vehicles in the European Union rose by 49% in March compared with a year prior. ht...",
-      "description": "Sales of electric vehicles in the European Union rose by 49% in March compared with a year prior. https://t.co/n1KtvjGzbI",
-      "date": "2026-04-23T06:50Z",
-      "date_display": "23 Apr 06:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇰🇷 South Korea's economy grew by 1.7% in the first quarter of 2026, the fastest pace in five years...",
-      "description": "🇰🇷 South Korea's economy grew by 1.7% in the first quarter of 2026, the fastest pace in five years.",
-      "date": "2026-04-23T05:10Z",
-      "date_display": "23 Apr 05:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Blasts heard across parts of Iran due to air defense exercises.",
-      "description": "Blasts heard across parts of Iran due to air defense exercises.",
-      "date": "2026-04-23T00:40Z",
-      "date_display": "23 Apr 00:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

@@ -1,17 +1,97 @@
 {
-  "fetched_at": "2026-04-27T04:08Z",
+  "fetched_at": "2026-04-28T04:23Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 31,
+  "india_relevant_items": 30,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices rise by over 2% in early trading."
+    "latest_oil_headline": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5."
   },
   "india_headlines": [
+    {
+      "title": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
+      "description": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
+      "date": "2026-04-28T02:10Z",
+      "date_display": "28 Apr 02:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US Secretary of State Marco Rubio says the Strait of Hormuz is like an 'economic nuclear weapon' tha...",
+      "description": "US Secretary of State Marco Rubio says the Strait of Hormuz is like an 'economic nuclear weapon' that Iran is using against the world.",
+      "date": "2026-04-27T23:40Z",
+      "date_display": "27 Apr 23:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US Treasury Secretary says Iranian Revolutionary Guards leaders are 'trapped like drowning rats' and...",
+      "description": "US Treasury Secretary says Iranian Revolutionary Guards leaders are 'trapped like drowning rats' and that 'gasoline shortages in Iran next!'",
+      "date": "2026-04-27T23:30Z",
+      "date_display": "27 Apr 23:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Germany's Chancellor Friedrich Merz says that the United States is being 'humiliated' by the leaders...",
+      "description": "Germany's Chancellor Friedrich Merz says that the United States is being 'humiliated' by the leadership of Iran.",
+      "date": "2026-04-27T22:20Z",
+      "date_display": "27 Apr 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump is skeptical regarding Iran's recent offer to open the Strait of Hormuz, according to Wall Str...",
+      "description": "Trump is skeptical regarding Iran's recent offer to open the Strait of Hormuz, according to Wall Street Journal report.",
+      "date": "2026-04-27T22:20Z",
+      "date_display": "27 Apr 22:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $108.2",
+      "description": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $108.2",
+      "date": "2026-04-27T21:10Z",
+      "date_display": "27 Apr 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israel says it has launched a wave of strikes on Hezbollah targets in Lebanon.",
+      "description": "Israel says it has launched a wave of strikes on Hezbollah targets in Lebanon.",
+      "date": "2026-04-27T11:40Z",
+      "date_display": "27 Apr 11:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China has blocked Meta's $2 billion purchase of AI firm Manus.",
+      "description": "China has blocked Meta's $2 billion purchase of AI firm Manus.",
+      "date": "2026-04-27T10:40Z",
+      "date_display": "27 Apr 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price up over 2.5%, hits $108.",
+      "description": "Brent crude oil price up over 2.5%, hits $108.",
+      "date": "2026-04-27T09:00Z",
+      "date_display": "27 Apr 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Pakistani official says that messages are continuing to be exchanged between the US and Iran.",
+      "description": "Pakistani official says that messages are continuing to be exchanged between the US and Iran.",
+      "date": "2026-04-27T07:20Z",
+      "date_display": "27 Apr 07:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Iran has made a new proposal to the United States, according to Axios report.",
       "description": "Iran has made a new proposal to the United States, according to Axios report.",
@@ -91,89 +171,121 @@
       "date_display": "25 Apr 00:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "Iranian media says no decision has been taken on whether the country will engage in another round of...",
-      "description": "Iranian media says no decision has been taken on whether the country will engage in another round of talks with the United States. https://t.co/YhPYcgcZPQ",
-      "date": "2026-04-24T21:00Z",
-      "date_display": "24 Apr 21:00 UTC",
+      "title": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
+      "description": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
+      "date": "2026-04-28T02:10Z",
+      "date_display": "28 Apr 02:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Iranian media says the Revolutionary Guards have seized another ship.",
-      "description": "Iranian media says the Revolutionary Guards have seized another ship.",
-      "date": "2026-04-24T20:30Z",
-      "date_display": "24 Apr 20:30 UTC",
+      "title": "US Secretary of State Marco Rubio says Israel and Lebanon are both 'victims of Hezbollah'.",
+      "description": "US Secretary of State Marco Rubio says Israel and Lebanon are both 'victims of Hezbollah'.",
+      "date": "2026-04-28T00:30Z",
+      "date_display": "28 Apr 00:30 UTC",
       "severity": "medium",
-      "is_india_relevant": true
+      "is_india_relevant": false
     },
     {
-      "title": "Chances of US-Iran nuclear deal before July has fallen back to 36%, according to @Kalshi prediction ...",
-      "description": "Chances of US-Iran nuclear deal before July has fallen back to 36%, according to @Kalshi prediction market. https://t.co/mlC1Y5aypj",
-      "date": "2026-04-24T20:30Z",
-      "date_display": "24 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'c...",
-      "description": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'couldn’t fully execute contingency plans to defend Taiwan from a Chinese invasion if it occurred in the near term', according to Wall Street Journal report. https://t.co/w3jPD4KFcU",
-      "date": "2026-04-23T21:00Z",
-      "date_display": "23 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says he would never use a nuclear weapon against Iran.",
-      "description": "Trump says he would never use a nuclear weapon against Iran.",
-      "date": "2026-04-23T20:30Z",
-      "date_display": "23 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices up over 4%, as US-Iran diplomatic efforts stall.",
-      "description": "Oil prices up over 4%, as US-Iran diplomatic efforts stall.",
-      "date": "2026-04-23T20:30Z",
-      "date_display": "23 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran has deployed additional mines in the Strait of Hormuz, according to Axios report.",
-      "description": "Iran has deployed additional mines in the Strait of Hormuz, according to Axios report.",
-      "date": "2026-04-23T20:20Z",
-      "date_display": "23 Apr 20:20 UTC",
+      "title": "US Secretary of State Marco Rubio says the Strait of Hormuz is like an 'economic nuclear weapon' tha...",
+      "description": "US Secretary of State Marco Rubio says the Strait of Hormuz is like an 'economic nuclear weapon' that Iran is using against the world.",
+      "date": "2026-04-27T23:40Z",
+      "date_display": "27 Apr 23:40 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "Trump says regarding Iran, 'We have never had so much ammunition. Our ships are loaded. Locked and l...",
-      "description": "Trump says regarding Iran, 'We have never had so much ammunition. Our ships are loaded. Locked and loaded. They’re ready to go.'",
-      "date": "2026-04-23T20:20Z",
-      "date_display": "23 Apr 20:20 UTC",
+      "title": "US Treasury Secretary says Iranian Revolutionary Guards leaders are 'trapped like drowning rats' and...",
+      "description": "US Treasury Secretary says Iranian Revolutionary Guards leaders are 'trapped like drowning rats' and that 'gasoline shortages in Iran next!'",
+      "date": "2026-04-27T23:30Z",
+      "date_display": "27 Apr 23:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Oil prices up 2% as US-Iran diplomatic efforts continue to stall.",
-      "description": "Oil prices up 2% as US-Iran diplomatic efforts continue to stall.",
-      "date": "2026-04-23T08:50Z",
-      "date_display": "23 Apr 08:50 UTC",
+      "title": "Germany's Chancellor Friedrich Merz says that the United States is being 'humiliated' by the leaders...",
+      "description": "Germany's Chancellor Friedrich Merz says that the United States is being 'humiliated' by the leadership of Iran.",
+      "date": "2026-04-27T22:20Z",
+      "date_display": "27 Apr 22:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Blasts heard across parts of Iran due to air defense exercises.",
-      "description": "Blasts heard across parts of Iran due to air defense exercises.",
-      "date": "2026-04-23T00:40Z",
-      "date_display": "23 Apr 00:40 UTC",
+      "title": "Trump is skeptical regarding Iran's recent offer to open the Strait of Hormuz, according to Wall Str...",
+      "description": "Trump is skeptical regarding Iran's recent offer to open the Strait of Hormuz, according to Wall Street Journal report.",
+      "date": "2026-04-27T22:20Z",
+      "date_display": "27 Apr 22:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $108.2",
+      "description": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $108.2",
+      "date": "2026-04-27T21:10Z",
+      "date_display": "27 Apr 21:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "King Charles and Queen Camilla have arrived to the White House. https://t.co/3qFHjmdEhk",
+      "description": "King Charles and Queen Camilla have arrived to the White House. https://t.co/3qFHjmdEhk",
+      "date": "2026-04-27T21:00Z",
+      "date_display": "27 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "NVIDIA market value\n\nThree years ago: $0.69 trillion\n\nNow: $5.26 trillion https://t.co/3WmpFGSluw",
+      "description": "NVIDIA market value\n\nThree years ago: $0.69 trillion\n\nNow: $5.26 trillion https://t.co/3WmpFGSluw",
+      "date": "2026-04-27T20:50Z",
+      "date_display": "27 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Israel says it has launched a wave of strikes on Hezbollah targets in Lebanon.",
+      "description": "Israel says it has launched a wave of strikes on Hezbollah targets in Lebanon.",
+      "date": "2026-04-27T11:40Z",
+      "date_display": "27 Apr 11:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China has blocked Meta's $2 billion purchase of AI firm Manus.",
+      "description": "China has blocked Meta's $2 billion purchase of AI firm Manus.",
+      "date": "2026-04-27T10:40Z",
+      "date_display": "27 Apr 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price up over 2.5%, hits $108.",
+      "description": "Brent crude oil price up over 2.5%, hits $108.",
+      "date": "2026-04-27T09:00Z",
+      "date_display": "27 Apr 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Germany's consumer confidence has hit the lowest in over three years.",
+      "description": "Germany's consumer confidence has hit the lowest in over three years.",
+      "date": "2026-04-27T08:50Z",
+      "date_display": "27 Apr 08:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Pakistani official says that messages are continuing to be exchanged between the US and Iran.",
+      "description": "Pakistani official says that messages are continuing to be exchanged between the US and Iran.",
+      "date": "2026-04-27T07:20Z",
+      "date_display": "27 Apr 07:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Iran has made a new proposal to the United States, according to Axios report.",
       "description": "Iran has made a new proposal to the United States, according to Axios report.",
@@ -301,118 +413,6 @@
       "date_display": "25 Apr 22:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "New Israeli strikes on targets inside Lebanon.",
-      "description": "New Israeli strikes on targets inside Lebanon.",
-      "date": "2026-04-25T21:00Z",
-      "date_display": "25 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US navy has intercepted an Iranian-flagged vessel.",
-      "description": "The US navy has intercepted an Iranian-flagged vessel.",
-      "date": "2026-04-25T01:10Z",
-      "date_display": "25 Apr 01:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says there are still significant missile capabilities it has not used yet.",
-      "description": "Iran says there are still significant missile capabilities it has not used yet.",
-      "date": "2026-04-25T00:40Z",
-      "date_display": "25 Apr 00:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reports of large Ukrainian drone attack on Russian targets.",
-      "description": "Reports of large Ukrainian drone attack on Russian targets.",
-      "date": "2026-04-25T00:30Z",
-      "date_display": "25 Apr 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Venezuela and Colombia announce military cooperation against border mafias.",
-      "description": "Venezuela and Colombia announce military cooperation against border mafias.",
-      "date": "2026-04-24T23:10Z",
-      "date_display": "24 Apr 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iranian media says no decision has been taken on whether the country will engage in another round of...",
-      "description": "Iranian media says no decision has been taken on whether the country will engage in another round of talks with the United States. https://t.co/YhPYcgcZPQ",
-      "date": "2026-04-24T21:00Z",
-      "date_display": "24 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media says the Revolutionary Guards have seized another ship.",
-      "description": "Iranian media says the Revolutionary Guards have seized another ship.",
-      "date": "2026-04-24T20:30Z",
-      "date_display": "24 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Chances of US-Iran nuclear deal before July has fallen back to 36%, according to @Kalshi prediction ...",
-      "description": "Chances of US-Iran nuclear deal before July has fallen back to 36%, according to @Kalshi prediction market. https://t.co/mlC1Y5aypj",
-      "date": "2026-04-24T20:30Z",
-      "date_display": "24 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says there is a 'great chance' of peace between Lebanon and Israel happening this year.",
-      "description": "Trump says there is a 'great chance' of peace between Lebanon and Israel happening this year.",
-      "date": "2026-04-23T22:20Z",
-      "date_display": "23 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'c...",
-      "description": "The US military 'burned through so many munitions in Iran' that some officials assess that the US 'couldn’t fully execute contingency plans to defend Taiwan from a Chinese invasion if it occurred in the near term', according to Wall Street Journal report. https://t.co/w3jPD4KFcU",
-      "date": "2026-04-23T21:00Z",
-      "date_display": "23 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Meta is planning to lay off around 8,000 employees, equivalent to 10% of its workforce, according to...",
-      "description": "Meta is planning to lay off around 8,000 employees, equivalent to 10% of its workforce, according to AFP report. https://t.co/OCqsBcSCE1",
-      "date": "2026-04-23T20:40Z",
-      "date_display": "23 Apr 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says he would never use a nuclear weapon against Iran.",
-      "description": "Trump says he would never use a nuclear weapon against Iran.",
-      "date": "2026-04-23T20:30Z",
-      "date_display": "23 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices up over 4%, as US-Iran diplomatic efforts stall.",
-      "description": "Oil prices up over 4%, as US-Iran diplomatic efforts stall.",
-      "date": "2026-04-23T20:30Z",
-      "date_display": "23 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Intel share price has surged by over 13% after beating earnings expectations.",
-      "description": "Intel share price has surged by over 13% after beating earnings expectations.",
-      "date": "2026-04-23T20:20Z",
-      "date_display": "23 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

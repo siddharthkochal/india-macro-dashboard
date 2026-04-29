@@ -1,17 +1,89 @@
 {
-  "fetched_at": "2026-04-28T04:23Z",
+  "fetched_at": "2026-04-29T04:09Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 30,
+  "india_relevant_items": 29,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5."
+    "latest_oil_headline": "BREAKING: US crude oil up over 4.5%, now trading at $101."
   },
   "india_headlines": [
+    {
+      "title": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Stree...",
+      "description": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Street Journal report.",
+      "date": "2026-04-29T01:30Z",
+      "date_display": "29 Apr 01:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Resolution to prevent President Trump from launching strikes on Cuba has been rejected in the US Sen...",
+      "description": "Resolution to prevent President Trump from launching strikes on Cuba has been rejected in the US Senate.",
+      "date": "2026-04-28T23:10Z",
+      "date_display": "28 Apr 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil up over 4.5%, now trading at $101.",
+      "description": "<b>BREAKING:</b> US crude oil up over 4.5%, now trading at $101.",
+      "date": "2026-04-28T11:30Z",
+      "date_display": "28 Apr 11:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "First shipment of liquified natural gas has crossed the Strait of Hormuz since the war began, accord...",
+      "description": "First shipment of liquified natural gas has crossed the Strait of Hormuz since the war began, according to Bloomberg report.",
+      "date": "2026-04-28T09:30Z",
+      "date_display": "28 Apr 09:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price up over 3%, now trading at $99.5.",
+      "description": "US crude oil price up over 3%, now trading at $99.5.",
+      "date": "2026-04-28T09:10Z",
+      "date_display": "28 Apr 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Ukrainian drone attack strikes Russia's Tuapse oil refinery and export depot.",
+      "description": "Ukrainian drone attack strikes Russia's Tuapse oil refinery and export depot.",
+      "date": "2026-04-28T07:40Z",
+      "date_display": "28 Apr 07:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian oil tankers are 'clustering' just short of the US blockade line, according to Bloomberg repo...",
+      "description": "Iranian oil tankers are 'clustering' just short of the US blockade line, according to Bloomberg report.",
+      "date": "2026-04-28T07:10Z",
+      "date_display": "28 Apr 07:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil up 2%, now trading at $110.",
+      "description": "Brent crude oil up 2%, now trading at $110.",
+      "date": "2026-04-28T06:50Z",
+      "date_display": "28 Apr 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $110.7",
+      "description": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $110.7",
+      "date": "2026-04-28T06:50Z",
+      "date_display": "28 Apr 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
       "description": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
@@ -99,81 +171,129 @@
       "date_display": "27 Apr 03:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices rise by over 2% in early trading.",
-      "description": "Oil prices rise by over 2% in early trading.",
-      "date": "2026-04-26T22:10Z",
-      "date_display": "26 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The chances of a US recession this year have fall down to 24%, according to @Kalshi prediction marke...",
-      "description": "The chances of a US recession this year have fall down to 24%, according to @Kalshi prediction market. https://t.co/2AI7bqMbQx",
-      "date": "2026-04-26T21:30Z",
-      "date_display": "26 Apr 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reuters reports that US-Iran talks are now at a 'standstill' and both sides are showing 'little will...",
-      "description": "Reuters reports that US-Iran talks are now at a 'standstill' and both sides are showing 'little willingness to soften their terms'.",
-      "date": "2026-04-26T09:00Z",
-      "date_display": "26 Apr 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war...",
-      "description": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war'. https://t.co/5WiXB9YE0U",
-      "date": "2026-04-25T23:00Z",
-      "date_display": "25 Apr 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\n...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\nCrude oil: +64%\nEuropean gas: +59%",
-      "date": "2026-04-25T22:00Z",
-      "date_display": "25 Apr 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "New Israeli strikes on targets inside Lebanon.",
-      "description": "New Israeli strikes on targets inside Lebanon.",
-      "date": "2026-04-25T21:00Z",
-      "date_display": "25 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US navy has intercepted an Iranian-flagged vessel.",
-      "description": "The US navy has intercepted an Iranian-flagged vessel.",
-      "date": "2026-04-25T01:10Z",
-      "date_display": "25 Apr 01:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says there are still significant missile capabilities it has not used yet.",
-      "description": "Iran says there are still significant missile capabilities it has not used yet.",
-      "date": "2026-04-25T00:40Z",
-      "date_display": "25 Apr 00:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reports of large Ukrainian drone attack on Russian targets.",
-      "description": "Reports of large Ukrainian drone attack on Russian targets.",
-      "date": "2026-04-25T00:30Z",
-      "date_display": "25 Apr 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Stree...",
+      "description": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Street Journal report.",
+      "date": "2026-04-29T01:30Z",
+      "date_display": "29 Apr 01:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Resolution to prevent President Trump from launching strikes on Cuba has been rejected in the US Sen...",
+      "description": "Resolution to prevent President Trump from launching strikes on Cuba has been rejected in the US Senate.",
+      "date": "2026-04-28T23:10Z",
+      "date_display": "28 Apr 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "New version of US passports will feature a photo of President Trump inside, according to Washington ...",
+      "description": "New version of US passports will feature a photo of President Trump inside, according to Washington Post.",
+      "date": "2026-04-28T21:00Z",
+      "date_display": "28 Apr 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump's approval rating has fallen to 34%, the lowest of his second term, according to Reuters/Ipsos...",
+      "description": "Trump's approval rating has fallen to 34%, the lowest of his second term, according to Reuters/Ipsos poll.",
+      "date": "2026-04-28T20:50Z",
+      "date_display": "28 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Arrest warrant has been issued for the former Director of the FBI James Comey",
+      "description": "<b>BREAKING:</b> Arrest warrant has been issued for the former Director of the FBI James Comey",
+      "date": "2026-04-28T20:40Z",
+      "date_display": "28 Apr 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "White House post with the caption 'Two Kings'. https://t.co/SLKjwJJKAB",
+      "description": "White House post with the caption 'Two Kings'. https://t.co/SLKjwJJKAB",
+      "date": "2026-04-28T20:30Z",
+      "date_display": "28 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The share price of Robinhood has fallen by over 7% after it released its earnings report. https://t....",
+      "description": "The share price of Robinhood has fallen by over 7% after it released its earnings report. https://t.co/NxbpjnjVyB",
+      "date": "2026-04-28T20:30Z",
+      "date_display": "28 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US crude oil up over 4.5%, now trading at $101.",
+      "description": "<b>BREAKING:</b> US crude oil up over 4.5%, now trading at $101.",
+      "date": "2026-04-28T11:30Z",
+      "date_display": "28 Apr 11:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "First shipment of liquified natural gas has crossed the Strait of Hormuz since the war began, accord...",
+      "description": "First shipment of liquified natural gas has crossed the Strait of Hormuz since the war began, according to Bloomberg report.",
+      "date": "2026-04-28T09:30Z",
+      "date_display": "28 Apr 09:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israeli military issues evacuation orders to the residents of 16 villages in southern Lebanon.",
+      "description": "Israeli military issues evacuation orders to the residents of 16 villages in southern Lebanon.",
+      "date": "2026-04-28T09:30Z",
+      "date_display": "28 Apr 09:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US crude oil price up over 3%, now trading at $99.5.",
+      "description": "US crude oil price up over 3%, now trading at $99.5.",
+      "date": "2026-04-28T09:10Z",
+      "date_display": "28 Apr 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Ukrainian drone attack strikes Russia's Tuapse oil refinery and export depot.",
+      "description": "Ukrainian drone attack strikes Russia's Tuapse oil refinery and export depot.",
+      "date": "2026-04-28T07:40Z",
+      "date_display": "28 Apr 07:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian oil tankers are 'clustering' just short of the US blockade line, according to Bloomberg repo...",
+      "description": "Iranian oil tankers are 'clustering' just short of the US blockade line, according to Bloomberg report.",
+      "date": "2026-04-28T07:10Z",
+      "date_display": "28 Apr 07:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil up 2%, now trading at $110.",
+      "description": "Brent crude oil up 2%, now trading at $110.",
+      "date": "2026-04-28T06:50Z",
+      "date_display": "28 Apr 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $110.7",
+      "description": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $110.7",
+      "date": "2026-04-28T06:50Z",
+      "date_display": "28 Apr 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
       "description": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
@@ -291,126 +411,6 @@
       "description": "Iran has made a new proposal to the United States, according to Axios report.",
       "date": "2026-04-27T03:50Z",
       "date_display": "27 Apr 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices rise by over 2% in early trading.",
-      "description": "Oil prices rise by over 2% in early trading.",
-      "date": "2026-04-26T22:10Z",
-      "date_display": "26 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The chances of a US recession this year have fall down to 24%, according to @Kalshi prediction marke...",
-      "description": "The chances of a US recession this year have fall down to 24%, according to @Kalshi prediction market. https://t.co/2AI7bqMbQx",
-      "date": "2026-04-26T21:30Z",
-      "date_display": "26 Apr 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "6.1 magnitude earthquake near Hokkaido, Japan.",
-      "description": "6.1 magnitude earthquake near Hokkaido, Japan.",
-      "date": "2026-04-26T21:10Z",
-      "date_display": "26 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Mali confirms its defense minister Sadio Camara has been assassinated.",
-      "description": "Mali confirms its defense minister Sadio Camara has been assassinated.",
-      "date": "2026-04-26T21:00Z",
-      "date_display": "26 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Reuters reports that US-Iran talks are now at a 'standstill' and both sides are showing 'little will...",
-      "description": "Reuters reports that US-Iran talks are now at a 'standstill' and both sides are showing 'little willingness to soften their terms'.",
-      "date": "2026-04-26T09:00Z",
-      "date_display": "26 Apr 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump posts photo of suspect. https://t.co/K4vc7oJm0o",
-      "description": "Trump posts photo of suspect. https://t.co/K4vc7oJm0o",
-      "date": "2026-04-26T02:50Z",
-      "date_display": "26 Apr 02:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump identifies shooter as Cole Thomas Allen, from California, who was armed with multiple weapons.",
-      "description": "Trump identifies shooter as Cole Thomas Allen, from California, who was armed with multiple weapons.",
-      "date": "2026-04-26T02:50Z",
-      "date_display": "26 Apr 02:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Suspect in White House Correspondents Dinner shooting is reportedly alive and in custody.",
-      "description": "Suspect in White House Correspondents Dinner shooting is reportedly alive and in custody.",
-      "date": "2026-04-26T02:00Z",
-      "date_display": "26 Apr 02:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump post about incident at White House Correspondents Dinner https://t.co/OpyFzog67N",
-      "description": "Trump post about incident at White House Correspondents Dinner https://t.co/OpyFzog67N",
-      "date": "2026-04-26T01:40Z",
-      "date_display": "26 Apr 01:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Confirmation that Trump and JD Vance are safe and unharmed after shooting at White House Corresponde...",
-      "description": "Confirmation that Trump and JD Vance are safe and unharmed after shooting at White House Correspondents Dinner venue.",
-      "date": "2026-04-26T01:10Z",
-      "date_display": "26 Apr 01:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Suspected shooter has been killed in lobby of the White House Correspondents Dinner event...",
-      "description": "<b>BREAKING:</b> Suspected shooter has been killed in lobby of the White House Correspondents Dinner event",
-      "date": "2026-04-26T01:00Z",
-      "date_display": "26 Apr 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump rushed off the stage during the White House Correspondents Dinner due to shooting, w...",
-      "description": "<b>BREAKING:</b> Trump rushed off the stage during the White House Correspondents Dinner due to shooting, with suspect shot dead.",
-      "date": "2026-04-26T00:50Z",
-      "date_display": "26 Apr 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war...",
-      "description": "Germany's Chancellor Merz says the conflict between the US and Iran is a 'completely unnecessary war'. https://t.co/5WiXB9YE0U",
-      "date": "2026-04-25T23:00Z",
-      "date_display": "25 Apr 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Germany's Chancellor Merz says the conflict between the US and Israel is a 'completely unnecessary w...",
-      "description": "Germany's Chancellor Merz says the conflict between the US and Israel is a 'completely unnecessary war'. https://t.co/iEwVa9uHAN",
-      "date": "2026-04-25T22:10Z",
-      "date_display": "25 Apr 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\n...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +82%\nBrent crude oil: +73%\nCrude oil: +64%\nEuropean gas: +59%",
-      "date": "2026-04-25T22:00Z",
-      "date_display": "25 Apr 22:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

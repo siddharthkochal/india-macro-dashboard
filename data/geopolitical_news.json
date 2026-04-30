@@ -1,17 +1,113 @@
 {
-  "fetched_at": "2026-04-29T04:09Z",
+  "fetched_at": "2026-04-30T04:11Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 29,
+  "india_relevant_items": 34,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: US crude oil up over 4.5%, now trading at $101."
+    "latest_oil_headline": "US crude oil now up 8.5%, as energy prices continue to surge."
   },
   "india_headlines": [
+    {
+      "title": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
+      "description": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
+      "date": "2026-04-30T03:50Z",
+      "date_display": "30 Apr 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,377 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,377 per US Dollar.",
+      "date": "2026-04-30T03:40Z",
+      "date_display": "30 Apr 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The Trump administration is 'asking other countries to join a new international coalition' to help o...",
+      "description": "The Trump administration is 'asking other countries to join a new international coalition' to help open the Strait of Hormuz, according to Wall Street Journal report.",
+      "date": "2026-04-30T00:00Z",
+      "date_display": "30 Apr 00:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil now up 8.5%, as energy prices continue to surge.",
+      "description": "US crude oil now up 8.5%, as energy prices continue to surge.",
+      "date": "2026-04-29T23:00Z",
+      "date_display": "29 Apr 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude, now trading at over $120, is at the highest price since mid-2022.",
+      "description": "Brent crude, now trading at over $120, is at the highest price since mid-2022.",
+      "date": "2026-04-29T21:30Z",
+      "date_display": "29 Apr 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US military says the blockade means there are now '41 tankers with 69 million barrels of oil that th...",
+      "description": "US military says the blockade means there are now '41 tankers with 69 million barrels of oil that the Iranian regime can't sell', with a value of over $6 billion.",
+      "date": "2026-04-29T21:20Z",
+      "date_display": "29 Apr 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil price up 8%, hits $120.",
+      "description": "<b>BREAKING:</b> Brent crude oil price up 8%, hits $120.",
+      "date": "2026-04-29T20:50Z",
+      "date_display": "29 Apr 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "TODAY\n\nUS crude oil: +8%\nBrent crude oil: +8%\nEuropean natural gas: +9%\nHeating oil: +5.7%\nGasoline:...",
+      "description": "TODAY\n\nUS crude oil: +8%\nBrent crude oil: +8%\nEuropean natural gas: +9%\nHeating oil: +5.7%\nGasoline: +5.3%",
+      "date": "2026-04-29T20:50Z",
+      "date_display": "29 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price of Brent crude oil\n\nTen days ago: $94\n\nNow: $120",
+      "description": "Price of Brent crude oil\n\nTen days ago: $94\n\nNow: $120",
+      "date": "2026-04-29T20:50Z",
+      "date_display": "29 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's rial has hit a new record low against the US Dollar.",
+      "description": "Iran's rial has hit a new record low against the US Dollar.",
+      "date": "2026-04-29T10:00Z",
+      "date_display": "29 Apr 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil hits $115, the highest since 2022.",
+      "description": "<b>BREAKING:</b> Brent crude oil hits $115, the highest since 2022.",
+      "date": "2026-04-29T09:00Z",
+      "date_display": "29 Apr 09:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump post about Iran. https://t.co/9OUUeH9VK5",
+      "description": "Trump post about Iran. https://t.co/9OUUeH9VK5",
+      "date": "2026-04-29T08:30Z",
+      "date_display": "29 Apr 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Stree...",
       "description": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Street Journal report.",
@@ -75,105 +171,153 @@
       "date_display": "28 Apr 06:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $110.7",
-      "description": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $110.7",
-      "date": "2026-04-28T06:50Z",
-      "date_display": "28 Apr 06:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
-      "description": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
-      "date": "2026-04-28T02:10Z",
-      "date_display": "28 Apr 02:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Secretary of State Marco Rubio says the Strait of Hormuz is like an 'economic nuclear weapon' tha...",
-      "description": "US Secretary of State Marco Rubio says the Strait of Hormuz is like an 'economic nuclear weapon' that Iran is using against the world.",
-      "date": "2026-04-27T23:40Z",
-      "date_display": "27 Apr 23:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Treasury Secretary says Iranian Revolutionary Guards leaders are 'trapped like drowning rats' and...",
-      "description": "US Treasury Secretary says Iranian Revolutionary Guards leaders are 'trapped like drowning rats' and that 'gasoline shortages in Iran next!'",
-      "date": "2026-04-27T23:30Z",
-      "date_display": "27 Apr 23:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Germany's Chancellor Friedrich Merz says that the United States is being 'humiliated' by the leaders...",
-      "description": "Germany's Chancellor Friedrich Merz says that the United States is being 'humiliated' by the leadership of Iran.",
-      "date": "2026-04-27T22:20Z",
-      "date_display": "27 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump is skeptical regarding Iran's recent offer to open the Strait of Hormuz, according to Wall Str...",
-      "description": "Trump is skeptical regarding Iran's recent offer to open the Strait of Hormuz, according to Wall Street Journal report.",
-      "date": "2026-04-27T22:20Z",
-      "date_display": "27 Apr 22:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $108.2",
-      "description": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $108.2",
-      "date": "2026-04-27T21:10Z",
-      "date_display": "27 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel says it has launched a wave of strikes on Hezbollah targets in Lebanon.",
-      "description": "Israel says it has launched a wave of strikes on Hezbollah targets in Lebanon.",
-      "date": "2026-04-27T11:40Z",
-      "date_display": "27 Apr 11:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China has blocked Meta's $2 billion purchase of AI firm Manus.",
-      "description": "China has blocked Meta's $2 billion purchase of AI firm Manus.",
-      "date": "2026-04-27T10:40Z",
-      "date_display": "27 Apr 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price up over 2.5%, hits $108.",
-      "description": "Brent crude oil price up over 2.5%, hits $108.",
-      "date": "2026-04-27T09:00Z",
-      "date_display": "27 Apr 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Pakistani official says that messages are continuing to be exchanged between the US and Iran.",
-      "description": "Pakistani official says that messages are continuing to be exchanged between the US and Iran.",
-      "date": "2026-04-27T07:20Z",
-      "date_display": "27 Apr 07:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran has made a new proposal to the United States, according to Axios report.",
-      "description": "Iran has made a new proposal to the United States, according to Axios report.",
-      "date": "2026-04-27T03:50Z",
-      "date_display": "27 Apr 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
+      "description": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
+      "date": "2026-04-30T03:50Z",
+      "date_display": "30 Apr 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,377 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,377 per US Dollar.",
+      "date": "2026-04-30T03:40Z",
+      "date_display": "30 Apr 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇯🇵 Japan's 10-year government bond yield rises to 2.52%, the highest since 1997.",
+      "description": "<b>BREAKING:</b> 🇯🇵 Japan's 10-year government bond yield rises to 2.52%, the highest since 1997.",
+      "date": "2026-04-30T03:30Z",
+      "date_display": "30 Apr 03:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Trump administration is 'asking other countries to join a new international coalition' to help o...",
+      "description": "The Trump administration is 'asking other countries to join a new international coalition' to help open the Strait of Hormuz, according to Wall Street Journal report.",
+      "date": "2026-04-30T00:00Z",
+      "date_display": "30 Apr 00:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil now up 8.5%, as energy prices continue to surge.",
+      "description": "US crude oil now up 8.5%, as energy prices continue to surge.",
+      "date": "2026-04-29T23:00Z",
+      "date_display": "29 Apr 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump told Netanyahu that Israeli military should only take 'surgical' action in Lebanon, according ...",
+      "description": "Trump told Netanyahu that Israeli military should only take 'surgical' action in Lebanon, according to Axios report.",
+      "date": "2026-04-29T21:40Z",
+      "date_display": "29 Apr 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Brent crude, now trading at over $120, is at the highest price since mid-2022.",
+      "description": "Brent crude, now trading at over $120, is at the highest price since mid-2022.",
+      "date": "2026-04-29T21:30Z",
+      "date_display": "29 Apr 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US military says the blockade means there are now '41 tankers with 69 million barrels of oil that th...",
+      "description": "US military says the blockade means there are now '41 tankers with 69 million barrels of oil that the Iranian regime can't sell', with a value of over $6 billion.",
+      "date": "2026-04-29T21:20Z",
+      "date_display": "29 Apr 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil price up 8%, hits $120.",
+      "description": "<b>BREAKING:</b> Brent crude oil price up 8%, hits $120.",
+      "date": "2026-04-29T20:50Z",
+      "date_display": "29 Apr 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "TODAY\n\nUS crude oil: +8%\nBrent crude oil: +8%\nEuropean natural gas: +9%\nHeating oil: +5.7%\nGasoline:...",
+      "description": "TODAY\n\nUS crude oil: +8%\nBrent crude oil: +8%\nEuropean natural gas: +9%\nHeating oil: +5.7%\nGasoline: +5.3%",
+      "date": "2026-04-29T20:50Z",
+      "date_display": "29 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price of Brent crude oil\n\nTen days ago: $94\n\nNow: $120",
+      "description": "Price of Brent crude oil\n\nTen days ago: $94\n\nNow: $120",
+      "date": "2026-04-29T20:50Z",
+      "date_display": "29 Apr 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Meta share price down over 5% despite beating revenue expectations. https://t.co/9VEbov3eBD",
+      "description": "Meta share price down over 5% despite beating revenue expectations. https://t.co/9VEbov3eBD",
+      "date": "2026-04-29T20:40Z",
+      "date_display": "29 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Alphabet share price surges by over 5% after beating expectations and reporting $109.9 billion in re...",
+      "description": "Alphabet share price surges by over 5% after beating expectations and reporting $109.9 billion in revenue for Q1 2026.",
+      "date": "2026-04-29T20:10Z",
+      "date_display": "29 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iran's rial has hit a new record low against the US Dollar.",
+      "description": "Iran's rial has hit a new record low against the US Dollar.",
+      "date": "2026-04-29T10:00Z",
+      "date_display": "29 Apr 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UK 10-year government bond yields surge to above 5%, the highest since 2008.",
+      "description": "UK 10-year government bond yields surge to above 5%, the highest since 2008.",
+      "date": "2026-04-29T09:30Z",
+      "date_display": "29 Apr 09:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Brent crude oil hits $115, the highest since 2022.",
+      "description": "<b>BREAKING:</b> Brent crude oil hits $115, the highest since 2022.",
+      "date": "2026-04-29T09:00Z",
+      "date_display": "29 Apr 09:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump post about Iran. https://t.co/9OUUeH9VK5",
+      "description": "Trump post about Iran. https://t.co/9OUUeH9VK5",
+      "date": "2026-04-29T08:30Z",
+      "date_display": "29 Apr 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UK ambassador to the United States says that Washington's 'special relationship' is 'probably' with ...",
+      "description": "UK ambassador to the United States says that Washington's 'special relationship' is 'probably' with Israel, rather than with the UK, according to leaked comments.",
+      "date": "2026-04-29T03:50Z",
+      "date_display": "29 Apr 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Stree...",
       "description": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Street Journal report.",
@@ -267,150 +411,6 @@
       "description": "Ukrainian drone attack strikes Russia's Tuapse oil refinery and export depot.",
       "date": "2026-04-28T07:40Z",
       "date_display": "28 Apr 07:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian oil tankers are 'clustering' just short of the US blockade line, according to Bloomberg repo...",
-      "description": "Iranian oil tankers are 'clustering' just short of the US blockade line, according to Bloomberg report.",
-      "date": "2026-04-28T07:10Z",
-      "date_display": "28 Apr 07:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil up 2%, now trading at $110.",
-      "description": "Brent crude oil up 2%, now trading at $110.",
-      "date": "2026-04-28T06:50Z",
-      "date_display": "28 Apr 06:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $110.7",
-      "description": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $110.7",
-      "date": "2026-04-28T06:50Z",
-      "date_display": "28 Apr 06:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
-      "description": "Oil prices rise by 1%, with US crude oil trading at $97.5 and Brent crude oil at $109.5.",
-      "date": "2026-04-28T02:10Z",
-      "date_display": "28 Apr 02:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Secretary of State Marco Rubio says Israel and Lebanon are both 'victims of Hezbollah'.",
-      "description": "US Secretary of State Marco Rubio says Israel and Lebanon are both 'victims of Hezbollah'.",
-      "date": "2026-04-28T00:30Z",
-      "date_display": "28 Apr 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US Secretary of State Marco Rubio says the Strait of Hormuz is like an 'economic nuclear weapon' tha...",
-      "description": "US Secretary of State Marco Rubio says the Strait of Hormuz is like an 'economic nuclear weapon' that Iran is using against the world.",
-      "date": "2026-04-27T23:40Z",
-      "date_display": "27 Apr 23:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Treasury Secretary says Iranian Revolutionary Guards leaders are 'trapped like drowning rats' and...",
-      "description": "US Treasury Secretary says Iranian Revolutionary Guards leaders are 'trapped like drowning rats' and that 'gasoline shortages in Iran next!'",
-      "date": "2026-04-27T23:30Z",
-      "date_display": "27 Apr 23:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Germany's Chancellor Friedrich Merz says that the United States is being 'humiliated' by the leaders...",
-      "description": "Germany's Chancellor Friedrich Merz says that the United States is being 'humiliated' by the leadership of Iran.",
-      "date": "2026-04-27T22:20Z",
-      "date_display": "27 Apr 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump is skeptical regarding Iran's recent offer to open the Strait of Hormuz, according to Wall Str...",
-      "description": "Trump is skeptical regarding Iran's recent offer to open the Strait of Hormuz, according to Wall Street Journal report.",
-      "date": "2026-04-27T22:20Z",
-      "date_display": "27 Apr 22:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $108.2",
-      "description": "Price of Brent crude oil\n\nOne week ago: $93.8\n\nNow: $108.2",
-      "date": "2026-04-27T21:10Z",
-      "date_display": "27 Apr 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "King Charles and Queen Camilla have arrived to the White House. https://t.co/3qFHjmdEhk",
-      "description": "King Charles and Queen Camilla have arrived to the White House. https://t.co/3qFHjmdEhk",
-      "date": "2026-04-27T21:00Z",
-      "date_display": "27 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "NVIDIA market value\n\nThree years ago: $0.69 trillion\n\nNow: $5.26 trillion https://t.co/3WmpFGSluw",
-      "description": "NVIDIA market value\n\nThree years ago: $0.69 trillion\n\nNow: $5.26 trillion https://t.co/3WmpFGSluw",
-      "date": "2026-04-27T20:50Z",
-      "date_display": "27 Apr 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Israel says it has launched a wave of strikes on Hezbollah targets in Lebanon.",
-      "description": "Israel says it has launched a wave of strikes on Hezbollah targets in Lebanon.",
-      "date": "2026-04-27T11:40Z",
-      "date_display": "27 Apr 11:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China has blocked Meta's $2 billion purchase of AI firm Manus.",
-      "description": "China has blocked Meta's $2 billion purchase of AI firm Manus.",
-      "date": "2026-04-27T10:40Z",
-      "date_display": "27 Apr 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price up over 2.5%, hits $108.",
-      "description": "Brent crude oil price up over 2.5%, hits $108.",
-      "date": "2026-04-27T09:00Z",
-      "date_display": "27 Apr 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Germany's consumer confidence has hit the lowest in over three years.",
-      "description": "Germany's consumer confidence has hit the lowest in over three years.",
-      "date": "2026-04-27T08:50Z",
-      "date_display": "27 Apr 08:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Pakistani official says that messages are continuing to be exchanged between the US and Iran.",
-      "description": "Pakistani official says that messages are continuing to be exchanged between the US and Iran.",
-      "date": "2026-04-27T07:20Z",
-      "date_display": "27 Apr 07:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran has made a new proposal to the United States, according to Axios report.",
-      "description": "Iran has made a new proposal to the United States, according to Axios report.",
-      "date": "2026-04-27T03:50Z",
-      "date_display": "27 Apr 03:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

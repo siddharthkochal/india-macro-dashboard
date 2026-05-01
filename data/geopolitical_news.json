@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-04-30T04:11Z",
+  "fetched_at": "2026-05-01T04:36Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 34,
+  "india_relevant_items": 33,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,54 @@
     "latest_oil_headline": "US crude oil now up 8.5%, as energy prices continue to surge."
   },
   "india_headlines": [
+    {
+      "title": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend ...",
+      "description": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend it during Iranian missile and drone attacks, according to Financial Times report.",
+      "date": "2026-04-30T20:40Z",
+      "date_display": "30 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media reports that air defenses are activated and engaging reconnaissance drones in Iranian ...",
+      "description": "Iranian media reports that air defenses are activated and engaging reconnaissance drones in Iranian airspace.",
+      "date": "2026-04-30T20:30Z",
+      "date_display": "30 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The UAE has called on its citizens to depart Iran, Iraq and Lebanon immediately.",
+      "description": "The UAE has called on its citizens to depart Iran, Iraq and Lebanon immediately.",
+      "date": "2026-04-30T20:20Z",
+      "date_display": "30 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that the blockade on Iran has been '100% effective'.",
+      "description": "Trump says that the blockade on Iran has been '100% effective'.",
+      "date": "2026-04-30T20:20Z",
+      "date_display": "30 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The 'true price tag' of the Iran war is 'closer to $50 billion' according to US officials in CBS New...",
+      "description": "The 'true price tag' of the Iran war is 'closer to $50 billion' according to US officials in CBS News report.",
+      "date": "2026-04-30T20:00Z",
+      "date_display": "30 Apr 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israeli strikes on targets in southern Lebanon.",
+      "description": "Israeli strikes on targets in southern Lebanon.",
+      "date": "2026-04-30T07:50Z",
+      "date_display": "30 Apr 07:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
       "description": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
@@ -123,57 +171,89 @@
       "date_display": "28 Apr 23:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil up over 4.5%, now trading at $101.",
-      "description": "<b>BREAKING:</b> US crude oil up over 4.5%, now trading at $101.",
-      "date": "2026-04-28T11:30Z",
-      "date_display": "28 Apr 11:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "First shipment of liquified natural gas has crossed the Strait of Hormuz since the war began, accord...",
-      "description": "First shipment of liquified natural gas has crossed the Strait of Hormuz since the war began, according to Bloomberg report.",
-      "date": "2026-04-28T09:30Z",
-      "date_display": "28 Apr 09:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price up over 3%, now trading at $99.5.",
-      "description": "US crude oil price up over 3%, now trading at $99.5.",
-      "date": "2026-04-28T09:10Z",
-      "date_display": "28 Apr 09:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Ukrainian drone attack strikes Russia's Tuapse oil refinery and export depot.",
-      "description": "Ukrainian drone attack strikes Russia's Tuapse oil refinery and export depot.",
-      "date": "2026-04-28T07:40Z",
-      "date_display": "28 Apr 07:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian oil tankers are 'clustering' just short of the US blockade line, according to Bloomberg repo...",
-      "description": "Iranian oil tankers are 'clustering' just short of the US blockade line, according to Bloomberg report.",
-      "date": "2026-04-28T07:10Z",
-      "date_display": "28 Apr 07:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil up 2%, now trading at $110.",
-      "description": "Brent crude oil up 2%, now trading at $110.",
-      "date": "2026-04-28T06:50Z",
-      "date_display": "28 Apr 06:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend ...",
+      "description": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend it during Iranian missile and drone attacks, according to Financial Times report.",
+      "date": "2026-04-30T20:40Z",
+      "date_display": "30 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Apple beats expectations and reports $111 billion in revenue in the first quarter of 2026.",
+      "description": "Apple beats expectations and reports $111 billion in revenue in the first quarter of 2026.",
+      "date": "2026-04-30T20:40Z",
+      "date_display": "30 Apr 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iranian media reports that air defenses are activated and engaging reconnaissance drones in Iranian ...",
+      "description": "Iranian media reports that air defenses are activated and engaging reconnaissance drones in Iranian airspace.",
+      "date": "2026-04-30T20:30Z",
+      "date_display": "30 Apr 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The UAE has called on its citizens to depart Iran, Iraq and Lebanon immediately.",
+      "description": "The UAE has called on its citizens to depart Iran, Iraq and Lebanon immediately.",
+      "date": "2026-04-30T20:20Z",
+      "date_display": "30 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that the blockade on Iran has been '100% effective'.",
+      "description": "Trump says that the blockade on Iran has been '100% effective'.",
+      "date": "2026-04-30T20:20Z",
+      "date_display": "30 Apr 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US share market records best month since 2020 as S&amp;P 500 closes at record high.",
+      "description": "US share market records best month since 2020 as S&amp;P 500 closes at record high.",
+      "date": "2026-04-30T20:10Z",
+      "date_display": "30 Apr 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The 'true price tag' of the Iran war is 'closer to $50 billion' according to US officials in CBS New...",
+      "description": "The 'true price tag' of the Iran war is 'closer to $50 billion' according to US officials in CBS News report.",
+      "date": "2026-04-30T20:00Z",
+      "date_display": "30 Apr 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Alphabet share price has surged by over 9% so far today and added over $400 billion in market value....",
+      "description": "Alphabet share price has surged by over 9% so far today and added over $400 billion in market value. https://t.co/8lmQO5negu",
+      "date": "2026-04-30T19:50Z",
+      "date_display": "30 Apr 19:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump says he 'probably will' withdraw US troops out of Italy and Spain.",
+      "description": "Trump says he 'probably will' withdraw US troops out of Italy and Spain.",
+      "date": "2026-04-30T19:40Z",
+      "date_display": "30 Apr 19:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Israeli strikes on targets in southern Lebanon.",
+      "description": "Israeli strikes on targets in southern Lebanon.",
+      "date": "2026-04-30T07:50Z",
+      "date_display": "30 Apr 07:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
       "description": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
@@ -331,86 +411,6 @@
       "description": "Resolution to prevent President Trump from launching strikes on Cuba has been rejected in the US Senate.",
       "date": "2026-04-28T23:10Z",
       "date_display": "28 Apr 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "New version of US passports will feature a photo of President Trump inside, according to Washington ...",
-      "description": "New version of US passports will feature a photo of President Trump inside, according to Washington Post.",
-      "date": "2026-04-28T21:00Z",
-      "date_display": "28 Apr 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump's approval rating has fallen to 34%, the lowest of his second term, according to Reuters/Ipsos...",
-      "description": "Trump's approval rating has fallen to 34%, the lowest of his second term, according to Reuters/Ipsos poll.",
-      "date": "2026-04-28T20:50Z",
-      "date_display": "28 Apr 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Arrest warrant has been issued for the former Director of the FBI James Comey",
-      "description": "<b>BREAKING:</b> Arrest warrant has been issued for the former Director of the FBI James Comey",
-      "date": "2026-04-28T20:40Z",
-      "date_display": "28 Apr 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "White House post with the caption 'Two Kings'. https://t.co/SLKjwJJKAB",
-      "description": "White House post with the caption 'Two Kings'. https://t.co/SLKjwJJKAB",
-      "date": "2026-04-28T20:30Z",
-      "date_display": "28 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The share price of Robinhood has fallen by over 7% after it released its earnings report. https://t....",
-      "description": "The share price of Robinhood has fallen by over 7% after it released its earnings report. https://t.co/NxbpjnjVyB",
-      "date": "2026-04-28T20:30Z",
-      "date_display": "28 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US crude oil up over 4.5%, now trading at $101.",
-      "description": "<b>BREAKING:</b> US crude oil up over 4.5%, now trading at $101.",
-      "date": "2026-04-28T11:30Z",
-      "date_display": "28 Apr 11:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "First shipment of liquified natural gas has crossed the Strait of Hormuz since the war began, accord...",
-      "description": "First shipment of liquified natural gas has crossed the Strait of Hormuz since the war began, according to Bloomberg report.",
-      "date": "2026-04-28T09:30Z",
-      "date_display": "28 Apr 09:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli military issues evacuation orders to the residents of 16 villages in southern Lebanon.",
-      "description": "Israeli military issues evacuation orders to the residents of 16 villages in southern Lebanon.",
-      "date": "2026-04-28T09:30Z",
-      "date_display": "28 Apr 09:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US crude oil price up over 3%, now trading at $99.5.",
-      "description": "US crude oil price up over 3%, now trading at $99.5.",
-      "date": "2026-04-28T09:10Z",
-      "date_display": "28 Apr 09:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Ukrainian drone attack strikes Russia's Tuapse oil refinery and export depot.",
-      "description": "Ukrainian drone attack strikes Russia's Tuapse oil refinery and export depot.",
-      "date": "2026-04-28T07:40Z",
-      "date_display": "28 Apr 07:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

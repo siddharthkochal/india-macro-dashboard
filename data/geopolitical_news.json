@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-01T04:36Z",
+  "fetched_at": "2026-05-02T04:00Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 33,
+  "india_relevant_items": 29,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "US crude oil now up 8.5%, as energy prices continue to surge."
   },
   "india_headlines": [
+    {
+      "title": "US State Department approves military sales to Israel, Qatar, Kuwait and the UAE totaling over $8.6 ...",
+      "description": "US State Department approves military sales to Israel, Qatar, Kuwait and the UAE totaling over $8.6 billion.",
+      "date": "2026-05-01T23:10Z",
+      "date_display": "01 May 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says regarding Iran, 'we will not leave early and have the problem arise again. We will get th...",
+      "description": "Trump says regarding Iran, 'we will not leave early and have the problem arise again. We will get this thing done properly'.",
+      "date": "2026-05-01T21:00Z",
+      "date_display": "01 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media reports that Iran has sent latest proposal to the United States via Pakistani mediator...",
+      "description": "Iranian media reports that Iran has sent latest proposal to the United States via Pakistani mediators.",
+      "date": "2026-05-01T12:40Z",
+      "date_display": "01 May 12:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend ...",
       "description": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend it during Iranian missile and drone attacks, according to Financial Times report.",
@@ -147,33 +171,73 @@
       "date_display": "29 Apr 09:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Trump post about Iran. https://t.co/9OUUeH9VK5",
-      "description": "Trump post about Iran. https://t.co/9OUUeH9VK5",
-      "date": "2026-04-29T08:30Z",
-      "date_display": "29 Apr 08:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Stree...",
-      "description": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Street Journal report.",
-      "date": "2026-04-29T01:30Z",
-      "date_display": "29 Apr 01:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Resolution to prevent President Trump from launching strikes on Cuba has been rejected in the US Sen...",
-      "description": "Resolution to prevent President Trump from launching strikes on Cuba has been rejected in the US Senate.",
-      "date": "2026-04-28T23:10Z",
-      "date_display": "28 Apr 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Trump says that the US will be taking over Cuba 'almost immediately'.",
+      "description": "Trump says that the US will be taking over Cuba 'almost immediately'.",
+      "date": "2026-05-02T00:30Z",
+      "date_display": "02 May 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US State Department approves military sales to Israel, Qatar, Kuwait and the UAE totaling over $8.6 ...",
+      "description": "US State Department approves military sales to Israel, Qatar, Kuwait and the UAE totaling over $8.6 billion.",
+      "date": "2026-05-01T23:10Z",
+      "date_display": "01 May 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US is set to order withdrawal of 5,000 troops from Germany",
+      "description": "<b>BREAKING:</b> US is set to order withdrawal of 5,000 troops from Germany",
+      "date": "2026-05-01T21:40Z",
+      "date_display": "01 May 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "GameStop is preparing an offer to buy eBay, according to Wall Street Journal report. https://t.co/g0...",
+      "description": "GameStop is preparing an offer to buy eBay, according to Wall Street Journal report. https://t.co/g0sAzas896",
+      "date": "2026-05-01T21:40Z",
+      "date_display": "01 May 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The S&amp;P 500 closes at new record high, has added over $8 trillion in market value over past mont...",
+      "description": "The S&amp;P 500 closes at new record high, has added over $8 trillion in market value over past month.",
+      "date": "2026-05-01T21:00Z",
+      "date_display": "01 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump says regarding Iran, 'we will not leave early and have the problem arise again. We will get th...",
+      "description": "Trump says regarding Iran, 'we will not leave early and have the problem arise again. We will get this thing done properly'.",
+      "date": "2026-05-01T21:00Z",
+      "date_display": "01 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media reports that Iran has sent latest proposal to the United States via Pakistani mediator...",
+      "description": "Iranian media reports that Iran has sent latest proposal to the United States via Pakistani mediators.",
+      "date": "2026-05-01T12:40Z",
+      "date_display": "01 May 12:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Japan spent around $34.5 billion yesterday in currency intervention to prop up the Yen, according to...",
+      "description": "Japan spent around $34.5 billion yesterday in currency intervention to prop up the Yen, according to Bloomberg report.",
+      "date": "2026-05-01T10:10Z",
+      "date_display": "01 May 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend ...",
       "description": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend it during Iranian missile and drone attacks, according to Financial Times report.",
@@ -349,70 +413,6 @@
       "date_display": "29 Apr 20:40 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "Alphabet share price surges by over 5% after beating expectations and reporting $109.9 billion in re...",
-      "description": "Alphabet share price surges by over 5% after beating expectations and reporting $109.9 billion in revenue for Q1 2026.",
-      "date": "2026-04-29T20:10Z",
-      "date_display": "29 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iran's rial has hit a new record low against the US Dollar.",
-      "description": "Iran's rial has hit a new record low against the US Dollar.",
-      "date": "2026-04-29T10:00Z",
-      "date_display": "29 Apr 10:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UK 10-year government bond yields surge to above 5%, the highest since 2008.",
-      "description": "UK 10-year government bond yields surge to above 5%, the highest since 2008.",
-      "date": "2026-04-29T09:30Z",
-      "date_display": "29 Apr 09:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Brent crude oil hits $115, the highest since 2022.",
-      "description": "<b>BREAKING:</b> Brent crude oil hits $115, the highest since 2022.",
-      "date": "2026-04-29T09:00Z",
-      "date_display": "29 Apr 09:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump post about Iran. https://t.co/9OUUeH9VK5",
-      "description": "Trump post about Iran. https://t.co/9OUUeH9VK5",
-      "date": "2026-04-29T08:30Z",
-      "date_display": "29 Apr 08:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UK ambassador to the United States says that Washington's 'special relationship' is 'probably' with ...",
-      "description": "UK ambassador to the United States says that Washington's 'special relationship' is 'probably' with Israel, rather than with the UK, according to leaked comments.",
-      "date": "2026-04-29T03:50Z",
-      "date_display": "29 Apr 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Stree...",
-      "description": "President Trump is comfortable with an indefinite blockade of Iranian ports, according to Wall Street Journal report.",
-      "date": "2026-04-29T01:30Z",
-      "date_display": "29 Apr 01:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Resolution to prevent President Trump from launching strikes on Cuba has been rejected in the US Sen...",
-      "description": "Resolution to prevent President Trump from launching strikes on Cuba has been rejected in the US Senate.",
-      "date": "2026-04-28T23:10Z",
-      "date_display": "28 Apr 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

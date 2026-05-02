@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-01T04:36Z",
+  "fetched_at": "2026-05-02T04:00Z",
   "source": "Yahoo Finance (free, no API key)",
   "prices": {
     "brent": {
@@ -7,8 +7,8 @@
       "name": "Brent Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_85",
-      "current_value": 111.2,
-      "change_from_prev": -6.83,
+      "current_value": 108.83,
+      "change_from_prev": -5.18,
       "direction": "down",
       "signal": "bearish",
       "series": [
@@ -50,23 +50,23 @@
         },
         {
           "date": "Apr-26",
-          "value": 118.03
+          "value": 114.01
         },
         {
           "date": "May-26",
-          "value": 111.2
+          "value": 108.17
         }
       ],
-      "fetched_at": "2026-05-01T04:36Z"
+      "fetched_at": "2026-05-02T04:00Z"
     },
     "wti": {
       "symbol": "CL=F",
       "name": "WTI Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_80",
-      "current_value": 105.2,
-      "change_from_prev": 0.13,
-      "direction": "up",
+      "current_value": 102.5,
+      "change_from_prev": -2.57,
+      "direction": "down",
       "signal": "bearish",
       "series": [
         {
@@ -111,18 +111,18 @@
         },
         {
           "date": "May-26",
-          "value": 105.2
+          "value": 101.94
         }
       ],
-      "fetched_at": "2026-05-01T04:36Z"
+      "fetched_at": "2026-05-02T04:00Z"
     },
     "gold": {
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/troy oz",
       "india_impact": "negative_via_import_demand",
-      "current_value": 4632.8,
-      "change_from_prev": 18.1,
+      "current_value": 4625.6,
+      "change_from_prev": 10.9,
       "direction": "up",
       "signal": "bearish",
       "series": [
@@ -168,19 +168,19 @@
         },
         {
           "date": "May-26",
-          "value": 4632.8
+          "value": 4629.9
         }
       ],
-      "fetched_at": "2026-05-01T04:36Z"
+      "fetched_at": "2026-05-02T04:00Z"
     },
     "inr": {
       "symbol": "USDINR=X",
       "name": "USD/INR",
       "unit": "INR per USD",
       "india_impact": "higher_is_bearish_for_india",
-      "current_value": 94.88,
-      "change_from_prev": -0.04,
-      "direction": "down",
+      "current_value": 94.91,
+      "change_from_prev": 0.15,
+      "direction": "up",
       "signal": "bearish",
       "series": [
         {
@@ -236,20 +236,24 @@
           "value": 94.92
         },
         {
+          "date": "Apr-26",
+          "value": 94.76
+        },
+        {
           "date": "May-26",
-          "value": 94.88
+          "value": 94.91
         }
       ],
-      "fetched_at": "2026-05-01T04:36Z"
+      "fetched_at": "2026-05-02T04:00Z"
     },
     "ovx": {
       "symbol": "^OVX",
       "name": "CBOE Oil Volatility",
       "unit": "index",
       "india_impact": "above_40_signals_supply_risk",
-      "current_value": 75.08,
-      "change_from_prev": 0.0,
-      "direction": "flat",
+      "current_value": 75.4,
+      "change_from_prev": 0.32,
+      "direction": "up",
       "signal": "bearish",
       "series": [
         {
@@ -305,22 +309,22 @@
           "value": 75.08
         },
         {
-          "date": "Apr-26",
-          "value": 75.08
+          "date": "May-26",
+          "value": 75.4
         }
       ],
-      "fetched_at": "2026-05-01T04:36Z"
+      "fetched_at": "2026-05-02T04:00Z"
     }
   },
   "india_oil_alert": {
     "severity": "critical",
     "alerts": [
-      "Brent at $111/barrel \u2014 severe import bill pressure for India",
+      "Brent at $109/barrel \u2014 severe import bill pressure for India",
       "Oil volatility index (OVX) at 75 \u2014 elevated supply disruption risk (Strait of Hormuz?)",
-      "USD/INR at 94.88 \u2014 weak rupee amplifies oil import cost in INR terms"
+      "USD/INR at 94.91 \u2014 weak rupee amplifies oil import cost in INR terms"
     ],
-    "brent": 111.2,
-    "inr": 94.88,
-    "ovx": 75.08
+    "brent": 108.83,
+    "inr": 94.91,
+    "ovx": 75.4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T04:28Z",
+  "fetched_at": "2026-05-04T04:28Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +110%\nHeating oil: +86%\nBrent crude oil: +77%\n..."
   },
   "india_headlines": [
+    {
+      "title": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a questio...",
+      "description": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a question of 'when'.",
+      "date": "2026-05-03T21:10Z",
+      "date_display": "03 May 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump post about escorting ships through Strait of Hormuz https://t.co/97AloUxBUq",
+      "description": "Trump post about escorting ships through Strait of Hormuz https://t.co/97AloUxBUq",
+      "date": "2026-05-03T20:50Z",
+      "date_display": "03 May 20:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China's government debt as share of GDP.\n\n2005: 25%\n\n2025: 99% https://t.co/QrhPvd86w6",
+      "description": "China's government debt as share of GDP.\n\n2005: 25%\n\n2025: 99% https://t.co/QrhPvd86w6",
+      "date": "2026-05-03T10:50Z",
+      "date_display": "03 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Iranian proposal 'set a one-month deadline for negotiations on a deal to reopen the Strait of Hormuz...",
       "description": "Iranian proposal 'set a one-month deadline for negotiations on a deal to reopen the Strait of Hormuz, end the U.S. naval blockade and permanently end the war in Iran and in Lebanon', according to Axios report.",
@@ -147,33 +171,73 @@
       "date_display": "29 Apr 23:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude, now trading at over $120, is at the highest price since mid-2022.",
-      "description": "Brent crude, now trading at over $120, is at the highest price since mid-2022.",
-      "date": "2026-04-29T21:30Z",
-      "date_display": "29 Apr 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US military says the blockade means there are now '41 tankers with 69 million barrels of oil that th...",
-      "description": "US military says the blockade means there are now '41 tankers with 69 million barrels of oil that the Iranian regime can't sell', with a value of over $6 billion.",
-      "date": "2026-04-29T21:20Z",
-      "date_display": "29 Apr 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil price up 8%, hits $120.",
-      "description": "<b>BREAKING:</b> Brent crude oil price up 8%, hits $120.",
-      "date": "2026-04-29T20:50Z",
-      "date_display": "29 Apr 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Mass shooting at campground in Edmond, Oklahoma, with reports at least 15 people are wounded.",
+      "description": "Mass shooting at campground in Edmond, Oklahoma, with reports at least 15 people are wounded.",
+      "date": "2026-05-04T03:10Z",
+      "date_display": "04 May 03:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "GameStop is set to make an offer to buy eBay for $56 billion, according to Wall Street Journal repor...",
+      "description": "GameStop is set to make an offer to buy eBay for $56 billion, according to Wall Street Journal report.",
+      "date": "2026-05-03T23:30Z",
+      "date_display": "03 May 23:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Sirens sound in northern Israel, air defenses activated.",
+      "description": "Sirens sound in northern Israel, air defenses activated.",
+      "date": "2026-05-03T22:30Z",
+      "date_display": "03 May 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Democratic Party now has a 80% chance of winning the US House of Representatives, according to p...",
+      "description": "The Democratic Party now has a 80% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/UqibNmx7Uo",
+      "date": "2026-05-03T22:00Z",
+      "date_display": "03 May 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a questio...",
+      "description": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a question of 'when'.",
+      "date": "2026-05-03T21:10Z",
+      "date_display": "03 May 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump post about escorting ships through Strait of Hormuz https://t.co/97AloUxBUq",
+      "description": "Trump post about escorting ships through Strait of Hormuz https://t.co/97AloUxBUq",
+      "date": "2026-05-03T20:50Z",
+      "date_display": "03 May 20:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China's government debt as share of GDP.\n\n2005: 25%\n\n2025: 99% https://t.co/QrhPvd86w6",
+      "description": "China's government debt as share of GDP.\n\n2005: 25%\n\n2025: 99% https://t.co/QrhPvd86w6",
+      "date": "2026-05-03T10:50Z",
+      "date_display": "03 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israel's defense ministry says it has approved plan to purchase new F-35 and F-15 fighter jets from ...",
+      "description": "Israel's defense ministry says it has approved plan to purchase new F-35 and F-15 fighter jets from the United States. https://t.co/YH82VIvbJv",
+      "date": "2026-05-03T08:20Z",
+      "date_display": "03 May 08:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Iranian proposal 'set a one-month deadline for negotiations on a deal to reopen the Strait of Hormuz...",
       "description": "Iranian proposal 'set a one-month deadline for negotiations on a deal to reopen the Strait of Hormuz, end the U.S. naval blockade and permanently end the war in Iran and in Lebanon', according to Axios report.",
@@ -347,70 +411,6 @@
       "description": "Alphabet share price has surged by over 9% so far today and added over $400 billion in market value. https://t.co/8lmQO5negu",
       "date": "2026-04-30T19:50Z",
       "date_display": "30 Apr 19:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says he 'probably will' withdraw US troops out of Italy and Spain.",
-      "description": "Trump says he 'probably will' withdraw US troops out of Italy and Spain.",
-      "date": "2026-04-30T19:40Z",
-      "date_display": "30 Apr 19:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Israeli strikes on targets in southern Lebanon.",
-      "description": "Israeli strikes on targets in southern Lebanon.",
-      "date": "2026-04-30T07:50Z",
-      "date_display": "30 Apr 07:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
-      "description": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
-      "date": "2026-04-30T03:50Z",
-      "date_display": "30 Apr 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,377 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,377 per US Dollar.",
-      "date": "2026-04-30T03:40Z",
-      "date_display": "30 Apr 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇯🇵 Japan's 10-year government bond yield rises to 2.52%, the highest since 1997.",
-      "description": "<b>BREAKING:</b> 🇯🇵 Japan's 10-year government bond yield rises to 2.52%, the highest since 1997.",
-      "date": "2026-04-30T03:30Z",
-      "date_display": "30 Apr 03:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Trump administration is 'asking other countries to join a new international coalition' to help o...",
-      "description": "The Trump administration is 'asking other countries to join a new international coalition' to help open the Strait of Hormuz, according to Wall Street Journal report.",
-      "date": "2026-04-30T00:00Z",
-      "date_display": "30 Apr 00:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil now up 8.5%, as energy prices continue to surge.",
-      "description": "US crude oil now up 8.5%, as energy prices continue to surge.",
-      "date": "2026-04-29T23:00Z",
-      "date_display": "29 Apr 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump told Netanyahu that Israeli military should only take 'surgical' action in Lebanon, according ...",
-      "description": "Trump told Netanyahu that Israeli military should only take 'surgical' action in Lebanon, according to Axios report.",
-      "date": "2026-04-29T21:40Z",
-      "date_display": "29 Apr 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

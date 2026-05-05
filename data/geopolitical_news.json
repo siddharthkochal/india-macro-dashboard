@@ -1,17 +1,129 @@
 {
-  "fetched_at": "2026-05-04T04:28Z",
+  "fetched_at": "2026-05-05T03:57Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 28,
+  "india_relevant_items": 32,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +110%\nHeating oil: +86%\nBrent crude oil: +77%\n..."
+    "latest_oil_headline": "Brent crude oil price up 5%, trading at $113."
   },
   "india_headlines": [
+    {
+      "title": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
+      "description": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
+      "date": "2026-05-05T03:40Z",
+      "date_display": "05 May 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "21 people killed in fireworks factory explosion in China.",
+      "description": "21 people killed in fireworks factory explosion in China.",
+      "date": "2026-05-05T02:30Z",
+      "date_display": "05 May 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's foreign minister says, 'there is no military solution to a political crisis' and says Trump's...",
+      "description": "Iran's foreign minister says, 'there is no military solution to a political crisis' and says Trump's 'Project Freedom is Project Deadlock'.",
+      "date": "2026-05-04T22:20Z",
+      "date_display": "04 May 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reuters reports that US intelligence assess that 'the time Iran would ​need to build a nuclear weapo...",
+      "description": "Reuters reports that US intelligence assess that 'the time Iran would ​need to build a nuclear weapon has not changed since last summer'.",
+      "date": "2026-05-04T21:40Z",
+      "date_display": "04 May 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price up 5%, trading at $113.",
+      "description": "Brent crude oil price up 5%, trading at $113.",
+      "date": "2026-05-04T21:30Z",
+      "date_display": "04 May 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israeli Hayom reports the US and Israel are considering strikes on Iranian missile and energy facili...",
+      "description": "Israeli Hayom reports the US and Israel are considering strikes on Iranian missile and energy facilities in retaliation over Iranian attack on the UAE.",
+      "date": "2026-05-04T21:10Z",
+      "date_display": "04 May 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Saudi Arabia says it condemns in 'strongest terms' Iranian attacks on the UAE.",
+      "description": "Saudi Arabia says it condemns in 'strongest terms' Iranian attacks on the UAE.",
+      "date": "2026-05-04T21:10Z",
+      "date_display": "04 May 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UAE says it shot down 15 missiles and 4 drones fired from Iran today.",
+      "description": "UAE says it shot down 15 missiles and 4 drones fired from Iran today.",
+      "date": "2026-05-04T20:50Z",
+      "date_display": "04 May 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US military says that two US-flagged merchant vessels have 'successfully transited through the Strai...",
+      "description": "US military says that two US-flagged merchant vessels have 'successfully transited through the Strait of Hormuz'.",
+      "date": "2026-05-04T12:30Z",
+      "date_display": "04 May 12:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil tanker has been struck by two Iranian drones off the coast of Oman.",
+      "description": "Oil tanker has been struck by two Iranian drones off the coast of Oman.",
+      "date": "2026-05-04T11:40Z",
+      "date_display": "04 May 11:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US official denies Iranian claims that a warship was struck by Iranian missiles, according to Axios ...",
+      "description": "US official denies Iranian claims that a warship was struck by Iranian missiles, according to Axios report.",
+      "date": "2026-05-04T10:50Z",
+      "date_display": "04 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media claims two missiles were fired at a US Navy vessel that was trying to pass through the...",
+      "description": "Iranian media claims two missiles were fired at a US Navy vessel that was trying to pass through the Strait of Hormuz.",
+      "date": "2026-05-04T10:40Z",
+      "date_display": "04 May 10:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Turkey's annual inflation rate has risen to 32.37% in April, the highest rate in six months.",
+      "description": "Turkey's annual inflation rate has risen to 32.37% in April, the highest rate in six months.",
+      "date": "2026-05-04T09:20Z",
+      "date_display": "04 May 09:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it is ready to 'respond to US threats' in the Strait of Hormuz and says that 'shipping com...",
+      "description": "Iran says it is ready to 'respond to US threats' in the Strait of Hormuz and says that 'shipping companies well know that ensuring their security requires coordination' with Iranian authorities.",
+      "date": "2026-05-04T09:00Z",
+      "date_display": "04 May 09:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a questio...",
       "description": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a question of 'when'.",
@@ -59,121 +171,137 @@
       "date_display": "02 May 21:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "Iranian media reports that Tehran has sent the US a plan to end war on 'all fronts'.",
-      "description": "Iranian media reports that Tehran has sent the US a plan to end war on 'all fronts'.",
-      "date": "2026-05-02T21:20Z",
-      "date_display": "02 May 21:20 UTC",
+      "title": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
+      "description": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
+      "date": "2026-05-05T03:40Z",
+      "date_display": "05 May 03:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "US State Department approves military sales to Israel, Qatar, Kuwait and the UAE totaling over $8.6 ...",
-      "description": "US State Department approves military sales to Israel, Qatar, Kuwait and the UAE totaling over $8.6 billion.",
-      "date": "2026-05-01T23:10Z",
-      "date_display": "01 May 23:10 UTC",
+      "title": "21 people killed in fireworks factory explosion in China.",
+      "description": "21 people killed in fireworks factory explosion in China.",
+      "date": "2026-05-05T02:30Z",
+      "date_display": "05 May 02:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Trump says regarding Iran, 'we will not leave early and have the problem arise again. We will get th...",
-      "description": "Trump says regarding Iran, 'we will not leave early and have the problem arise again. We will get this thing done properly'.",
-      "date": "2026-05-01T21:00Z",
-      "date_display": "01 May 21:00 UTC",
+      "title": "Iran's foreign minister says, 'there is no military solution to a political crisis' and says Trump's...",
+      "description": "Iran's foreign minister says, 'there is no military solution to a political crisis' and says Trump's 'Project Freedom is Project Deadlock'.",
+      "date": "2026-05-04T22:20Z",
+      "date_display": "04 May 22:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Iranian media reports that Iran has sent latest proposal to the United States via Pakistani mediator...",
-      "description": "Iranian media reports that Iran has sent latest proposal to the United States via Pakistani mediators.",
-      "date": "2026-05-01T12:40Z",
-      "date_display": "01 May 12:40 UTC",
+      "title": "Reuters reports that US intelligence assess that 'the time Iran would ​need to build a nuclear weapo...",
+      "description": "Reuters reports that US intelligence assess that 'the time Iran would ​need to build a nuclear weapon has not changed since last summer'.",
+      "date": "2026-05-04T21:40Z",
+      "date_display": "04 May 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend ...",
-      "description": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend it during Iranian missile and drone attacks, according to Financial Times report.",
-      "date": "2026-04-30T20:40Z",
-      "date_display": "30 Apr 20:40 UTC",
+      "title": "Brent crude oil price up 5%, trading at $113.",
+      "description": "Brent crude oil price up 5%, trading at $113.",
+      "date": "2026-05-04T21:30Z",
+      "date_display": "04 May 21:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Iranian media reports that air defenses are activated and engaging reconnaissance drones in Iranian ...",
-      "description": "Iranian media reports that air defenses are activated and engaging reconnaissance drones in Iranian airspace.",
-      "date": "2026-04-30T20:30Z",
-      "date_display": "30 Apr 20:30 UTC",
+      "title": "Israeli Hayom reports the US and Israel are considering strikes on Iranian missile and energy facili...",
+      "description": "Israeli Hayom reports the US and Israel are considering strikes on Iranian missile and energy facilities in retaliation over Iranian attack on the UAE.",
+      "date": "2026-05-04T21:10Z",
+      "date_display": "04 May 21:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "The UAE has called on its citizens to depart Iran, Iraq and Lebanon immediately.",
-      "description": "The UAE has called on its citizens to depart Iran, Iraq and Lebanon immediately.",
-      "date": "2026-04-30T20:20Z",
-      "date_display": "30 Apr 20:20 UTC",
+      "title": "Saudi Arabia says it condemns in 'strongest terms' Iranian attacks on the UAE.",
+      "description": "Saudi Arabia says it condemns in 'strongest terms' Iranian attacks on the UAE.",
+      "date": "2026-05-04T21:10Z",
+      "date_display": "04 May 21:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Trump says that the blockade on Iran has been '100% effective'.",
-      "description": "Trump says that the blockade on Iran has been '100% effective'.",
-      "date": "2026-04-30T20:20Z",
-      "date_display": "30 Apr 20:20 UTC",
+      "title": "UAE says it shot down 15 missiles and 4 drones fired from Iran today.",
+      "description": "UAE says it shot down 15 missiles and 4 drones fired from Iran today.",
+      "date": "2026-05-04T20:50Z",
+      "date_display": "04 May 20:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "The 'true price tag' of the Iran war is 'closer to $50 billion' according to US officials in CBS New...",
-      "description": "The 'true price tag' of the Iran war is 'closer to $50 billion' according to US officials in CBS News report.",
-      "date": "2026-04-30T20:00Z",
-      "date_display": "30 Apr 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli strikes on targets in southern Lebanon.",
-      "description": "Israeli strikes on targets in southern Lebanon.",
-      "date": "2026-04-30T07:50Z",
-      "date_display": "30 Apr 07:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
-      "description": "US war against Iran has cost $25 billion so far, according to Pentagon official.",
-      "date": "2026-04-30T03:50Z",
-      "date_display": "30 Apr 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,377 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,377 per US Dollar.",
-      "date": "2026-04-30T03:40Z",
-      "date_display": "30 Apr 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Trump administration is 'asking other countries to join a new international coalition' to help o...",
-      "description": "The Trump administration is 'asking other countries to join a new international coalition' to help open the Strait of Hormuz, according to Wall Street Journal report.",
-      "date": "2026-04-30T00:00Z",
-      "date_display": "30 Apr 00:00 UTC",
+      "title": "US military says that two US-flagged merchant vessels have 'successfully transited through the Strai...",
+      "description": "US military says that two US-flagged merchant vessels have 'successfully transited through the Strait of Hormuz'.",
+      "date": "2026-05-04T12:30Z",
+      "date_display": "04 May 12:30 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "US crude oil now up 8.5%, as energy prices continue to surge.",
-      "description": "US crude oil now up 8.5%, as energy prices continue to surge.",
-      "date": "2026-04-29T23:00Z",
-      "date_display": "29 Apr 23:00 UTC",
+      "title": "Oil tanker has been struck by two Iranian drones off the coast of Oman.",
+      "description": "Oil tanker has been struck by two Iranian drones off the coast of Oman.",
+      "date": "2026-05-04T11:40Z",
+      "date_display": "04 May 11:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "US official denies Iranian claims that a warship was struck by Iranian missiles, according to Axios ...",
+      "description": "US official denies Iranian claims that a warship was struck by Iranian missiles, according to Axios report.",
+      "date": "2026-05-04T10:50Z",
+      "date_display": "04 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media claims two missiles were fired at a US Navy vessel that was trying to pass through the...",
+      "description": "Iranian media claims two missiles were fired at a US Navy vessel that was trying to pass through the Strait of Hormuz.",
+      "date": "2026-05-04T10:40Z",
+      "date_display": "04 May 10:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Turkey's annual inflation rate has risen to 32.37% in April, the highest rate in six months.",
+      "description": "Turkey's annual inflation rate has risen to 32.37% in April, the highest rate in six months.",
+      "date": "2026-05-04T09:20Z",
+      "date_display": "04 May 09:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The family behind Samsung has completed its payment of an $8 billion inheritance tax bill, the bigge...",
+      "description": "The family behind Samsung has completed its payment of an $8 billion inheritance tax bill, the biggest in South Korea's history, after the death of its late chairman Lee Kun-hee, who died in 2020. https://t.co/fgl5Uo5wyT",
+      "date": "2026-05-04T09:20Z",
+      "date_display": "04 May 09:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iran says it is ready to 'respond to US threats' in the Strait of Hormuz and says that 'shipping com...",
+      "description": "Iran says it is ready to 'respond to US threats' in the Strait of Hormuz and says that 'shipping companies well know that ensuring their security requires coordination' with Iranian authorities.",
+      "date": "2026-05-04T09:00Z",
+      "date_display": "04 May 09:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Police say at least 10 people taken to hospital after shooting at campground in Edmond, Oklahoma.",
+      "description": "Police say at least 10 people taken to hospital after shooting at campground in Edmond, Oklahoma.",
+      "date": "2026-05-04T04:50Z",
+      "date_display": "04 May 04:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Mass shooting at campground in Edmond, Oklahoma, with reports at least 15 people are wounded.",
       "description": "Mass shooting at campground in Edmond, Oklahoma, with reports at least 15 people are wounded.",
@@ -284,134 +412,6 @@
       "date": "2026-05-02T06:10Z",
       "date_display": "02 May 06:10 UTC",
       "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says that the US will be taking over Cuba 'almost immediately'.",
-      "description": "Trump says that the US will be taking over Cuba 'almost immediately'.",
-      "date": "2026-05-02T00:30Z",
-      "date_display": "02 May 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US State Department approves military sales to Israel, Qatar, Kuwait and the UAE totaling over $8.6 ...",
-      "description": "US State Department approves military sales to Israel, Qatar, Kuwait and the UAE totaling over $8.6 billion.",
-      "date": "2026-05-01T23:10Z",
-      "date_display": "01 May 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US is set to order withdrawal of 5,000 troops from Germany",
-      "description": "<b>BREAKING:</b> US is set to order withdrawal of 5,000 troops from Germany",
-      "date": "2026-05-01T21:40Z",
-      "date_display": "01 May 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "GameStop is preparing an offer to buy eBay, according to Wall Street Journal report. https://t.co/g0...",
-      "description": "GameStop is preparing an offer to buy eBay, according to Wall Street Journal report. https://t.co/g0sAzas896",
-      "date": "2026-05-01T21:40Z",
-      "date_display": "01 May 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The S&amp;P 500 closes at new record high, has added over $8 trillion in market value over past mont...",
-      "description": "The S&amp;P 500 closes at new record high, has added over $8 trillion in market value over past month.",
-      "date": "2026-05-01T21:00Z",
-      "date_display": "01 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says regarding Iran, 'we will not leave early and have the problem arise again. We will get th...",
-      "description": "Trump says regarding Iran, 'we will not leave early and have the problem arise again. We will get this thing done properly'.",
-      "date": "2026-05-01T21:00Z",
-      "date_display": "01 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media reports that Iran has sent latest proposal to the United States via Pakistani mediator...",
-      "description": "Iranian media reports that Iran has sent latest proposal to the United States via Pakistani mediators.",
-      "date": "2026-05-01T12:40Z",
-      "date_display": "01 May 12:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Japan spent around $34.5 billion yesterday in currency intervention to prop up the Yen, according to...",
-      "description": "Japan spent around $34.5 billion yesterday in currency intervention to prop up the Yen, according to Bloomberg report.",
-      "date": "2026-05-01T10:10Z",
-      "date_display": "01 May 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend ...",
-      "description": "Israel sent 'sophisticated weapons systems - including an advanced laser' to the UAE to help defend it during Iranian missile and drone attacks, according to Financial Times report.",
-      "date": "2026-04-30T20:40Z",
-      "date_display": "30 Apr 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Apple beats expectations and reports $111 billion in revenue in the first quarter of 2026.",
-      "description": "Apple beats expectations and reports $111 billion in revenue in the first quarter of 2026.",
-      "date": "2026-04-30T20:40Z",
-      "date_display": "30 Apr 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iranian media reports that air defenses are activated and engaging reconnaissance drones in Iranian ...",
-      "description": "Iranian media reports that air defenses are activated and engaging reconnaissance drones in Iranian airspace.",
-      "date": "2026-04-30T20:30Z",
-      "date_display": "30 Apr 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The UAE has called on its citizens to depart Iran, Iraq and Lebanon immediately.",
-      "description": "The UAE has called on its citizens to depart Iran, Iraq and Lebanon immediately.",
-      "date": "2026-04-30T20:20Z",
-      "date_display": "30 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that the blockade on Iran has been '100% effective'.",
-      "description": "Trump says that the blockade on Iran has been '100% effective'.",
-      "date": "2026-04-30T20:20Z",
-      "date_display": "30 Apr 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US share market records best month since 2020 as S&amp;P 500 closes at record high.",
-      "description": "US share market records best month since 2020 as S&amp;P 500 closes at record high.",
-      "date": "2026-04-30T20:10Z",
-      "date_display": "30 Apr 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The 'true price tag' of the Iran war is 'closer to $50 billion' according to US officials in CBS New...",
-      "description": "The 'true price tag' of the Iran war is 'closer to $50 billion' according to US officials in CBS News report.",
-      "date": "2026-04-30T20:00Z",
-      "date_display": "30 Apr 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Alphabet share price has surged by over 9% so far today and added over $400 billion in market value....",
-      "description": "Alphabet share price has surged by over 9% so far today and added over $400 billion in market value. https://t.co/8lmQO5negu",
-      "date": "2026-04-30T19:50Z",
-      "date_display": "30 Apr 19:50 UTC",
-      "severity": "medium",
       "is_india_relevant": false
     }
   ]

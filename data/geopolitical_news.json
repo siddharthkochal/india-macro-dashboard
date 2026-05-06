@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-05T03:57Z",
+  "fetched_at": "2026-05-06T04:23Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 32,
+  "india_relevant_items": 31,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,54 @@
     "latest_oil_headline": "Brent crude oil price up 5%, trading at $113."
   },
   "india_headlines": [
+    {
+      "title": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
+      "description": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
+      "date": "2026-05-05T21:40Z",
+      "date_display": "05 May 21:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US Defense Secretary Pete Hegseth says Iran has been harassing ships for too long in the Strait of H...",
+      "description": "US Defense Secretary Pete Hegseth says Iran has been harassing ships for too long in the Strait of Hormuz",
+      "date": "2026-05-05T12:20Z",
+      "date_display": "05 May 12:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US Defense Secretary Pete Hegseth says Iran has no control over the Strait of Hormuz",
+      "description": "US Defense Secretary Pete Hegseth says Iran has no control over the Strait of Hormuz",
+      "date": "2026-05-05T12:20Z",
+      "date_display": "05 May 12:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "CNN reports that Israel is discussing potential new strikes in Iran with the United States.",
+      "description": "CNN reports that Israel is discussing potential new strikes in Iran with the United States.",
+      "date": "2026-05-05T11:30Z",
+      "date_display": "05 May 11:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Shipping executives have been 'left confused' over US plans to guide ships through Strait of Hormuz,...",
+      "description": "Shipping executives have been 'left confused' over US plans to guide ships through Strait of Hormuz, according to Financial Times report.",
+      "date": "2026-05-05T10:30Z",
+      "date_display": "05 May 10:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Several commercial ships in Iranian port of Dayyer are on fire, the cause is not yet known.",
+      "description": "Several commercial ships in Iranian port of Dayyer are on fire, the cause is not yet known.",
+      "date": "2026-05-05T05:50Z",
+      "date_display": "05 May 05:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
       "description": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
@@ -123,57 +171,89 @@
       "date_display": "04 May 09:00 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a questio...",
-      "description": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a question of 'when'.",
-      "date": "2026-05-03T21:10Z",
-      "date_display": "03 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump post about escorting ships through Strait of Hormuz https://t.co/97AloUxBUq",
-      "description": "Trump post about escorting ships through Strait of Hormuz https://t.co/97AloUxBUq",
-      "date": "2026-05-03T20:50Z",
-      "date_display": "03 May 20:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's government debt as share of GDP.\n\n2005: 25%\n\n2025: 99% https://t.co/QrhPvd86w6",
-      "description": "China's government debt as share of GDP.\n\n2005: 25%\n\n2025: 99% https://t.co/QrhPvd86w6",
-      "date": "2026-05-03T10:50Z",
-      "date_display": "03 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian proposal 'set a one-month deadline for negotiations on a deal to reopen the Strait of Hormuz...",
-      "description": "Iranian proposal 'set a one-month deadline for negotiations on a deal to reopen the Strait of Hormuz, end the U.S. naval blockade and permanently end the war in Iran and in Lebanon', according to Axios report.",
-      "date": "2026-05-03T01:00Z",
-      "date_display": "03 May 01:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says there is a 'possibility' of resuming strikes against Iran.",
-      "description": "Trump says there is a 'possibility' of resuming strikes against Iran.",
-      "date": "2026-05-02T22:40Z",
-      "date_display": "02 May 22:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +110%\nHeating oil: +86%\nBrent crude oil: +77%\n...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +110%\nHeating oil: +86%\nBrent crude oil: +77%\nCrude oil: +77%\nEuropean gas: +62%",
-      "date": "2026-05-02T21:30Z",
-      "date_display": "02 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Vivek Ramaswamy has won the Republican primary for Governor of Ohio. https://t.co/DcYIeApyZW",
+      "description": "Vivek Ramaswamy has won the Republican primary for Governor of Ohio. https://t.co/DcYIeApyZW",
+      "date": "2026-05-06T00:30Z",
+      "date_display": "06 May 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "JD Vance leads chances of winning the 2028 Presidential Election with 19%, followed by Gavin Newsom ...",
+      "description": "JD Vance leads chances of winning the 2028 Presidential Election with 19%, followed by Gavin Newsom at 17% and Marco Rubio at 16%, according to @Kalshi prediction market. https://t.co/Rgq2X8meZq",
+      "date": "2026-05-05T22:00Z",
+      "date_display": "05 May 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "AMD share price has now surged by over 11.5% after announcing results. https://t.co/AP0krouc3f",
+      "description": "AMD share price has now surged by over 11.5% after announcing results. https://t.co/AP0krouc3f",
+      "date": "2026-05-05T22:00Z",
+      "date_display": "05 May 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
+      "description": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
+      "date": "2026-05-05T21:40Z",
+      "date_display": "05 May 21:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US Defense Secretary Pete Hegseth says Iran has been harassing ships for too long in the Strait of H...",
+      "description": "US Defense Secretary Pete Hegseth says Iran has been harassing ships for too long in the Strait of Hormuz",
+      "date": "2026-05-05T12:20Z",
+      "date_display": "05 May 12:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US Defense Secretary Pete Hegseth says Iran has no control over the Strait of Hormuz",
+      "description": "US Defense Secretary Pete Hegseth says Iran has no control over the Strait of Hormuz",
+      "date": "2026-05-05T12:20Z",
+      "date_display": "05 May 12:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "CNN reports that Israel is discussing potential new strikes in Iran with the United States.",
+      "description": "CNN reports that Israel is discussing potential new strikes in Iran with the United States.",
+      "date": "2026-05-05T11:30Z",
+      "date_display": "05 May 11:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Shipping executives have been 'left confused' over US plans to guide ships through Strait of Hormuz,...",
+      "description": "Shipping executives have been 'left confused' over US plans to guide ships through Strait of Hormuz, according to Financial Times report.",
+      "date": "2026-05-05T10:30Z",
+      "date_display": "05 May 10:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Several commercial ships in Iranian port of Dayyer are on fire, the cause is not yet known.",
+      "description": "Several commercial ships in Iranian port of Dayyer are on fire, the cause is not yet known.",
+      "date": "2026-05-05T05:50Z",
+      "date_display": "05 May 05:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia reports annual GDP growth of 5.61% in first quarter of 2026, the fastest rate since 2...",
+      "description": "🇮🇩 Indonesia reports annual GDP growth of 5.61% in first quarter of 2026, the fastest rate since 2022.",
+      "date": "2026-05-05T05:20Z",
+      "date_display": "05 May 05:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
       "description": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
@@ -332,86 +412,6 @@
       "date": "2026-05-03T22:00Z",
       "date_display": "03 May 22:00 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a questio...",
-      "description": "Israeli officials tell Channel 14 that resuming fighting against Iran is a 'necessity' and a question of 'when'.",
-      "date": "2026-05-03T21:10Z",
-      "date_display": "03 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump post about escorting ships through Strait of Hormuz https://t.co/97AloUxBUq",
-      "description": "Trump post about escorting ships through Strait of Hormuz https://t.co/97AloUxBUq",
-      "date": "2026-05-03T20:50Z",
-      "date_display": "03 May 20:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's government debt as share of GDP.\n\n2005: 25%\n\n2025: 99% https://t.co/QrhPvd86w6",
-      "description": "China's government debt as share of GDP.\n\n2005: 25%\n\n2025: 99% https://t.co/QrhPvd86w6",
-      "date": "2026-05-03T10:50Z",
-      "date_display": "03 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel's defense ministry says it has approved plan to purchase new F-35 and F-15 fighter jets from ...",
-      "description": "Israel's defense ministry says it has approved plan to purchase new F-35 and F-15 fighter jets from the United States. https://t.co/YH82VIvbJv",
-      "date": "2026-05-03T08:20Z",
-      "date_display": "03 May 08:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iranian proposal 'set a one-month deadline for negotiations on a deal to reopen the Strait of Hormuz...",
-      "description": "Iranian proposal 'set a one-month deadline for negotiations on a deal to reopen the Strait of Hormuz, end the U.S. naval blockade and permanently end the war in Iran and in Lebanon', according to Axios report.",
-      "date": "2026-05-03T01:00Z",
-      "date_display": "03 May 01:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says there is a 'possibility' of resuming strikes against Iran.",
-      "description": "Trump says there is a 'possibility' of resuming strikes against Iran.",
-      "date": "2026-05-02T22:40Z",
-      "date_display": "02 May 22:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +110%\nHeating oil: +86%\nBrent crude oil: +77%\n...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +110%\nHeating oil: +86%\nBrent crude oil: +77%\nCrude oil: +77%\nEuropean gas: +62%",
-      "date": "2026-05-02T21:30Z",
-      "date_display": "02 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media reports that Tehran has sent the US a plan to end war on 'all fronts'.",
-      "description": "Iranian media reports that Tehran has sent the US a plan to end war on 'all fronts'.",
-      "date": "2026-05-02T21:20Z",
-      "date_display": "02 May 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Spirit Airlines has shut down",
-      "description": "<b>BREAKING:</b> Spirit Airlines has shut down",
-      "date": "2026-05-02T07:30Z",
-      "date_display": "02 May 07:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Spirit Airlines will shut down permanently at 3 am ET",
-      "description": "<b>BREAKING:</b> Spirit Airlines will shut down permanently at 3 am ET",
-      "date": "2026-05-02T06:10Z",
-      "date_display": "02 May 06:10 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

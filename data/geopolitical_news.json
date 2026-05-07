@@ -1,17 +1,105 @@
 {
-  "fetched_at": "2026-05-06T04:23Z",
+  "fetched_at": "2026-05-07T04:14Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 31,
+  "india_relevant_items": 37,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Brent crude oil price up 5%, trading at $113."
+    "latest_oil_headline": "US crude oil is up 1% amid uncertainty over US-Iran talks progress."
   },
   "india_headlines": [
+    {
+      "title": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
+      "description": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
+      "date": "2026-05-07T00:40Z",
+      "date_display": "07 May 00:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump's Project Freedom, which lasted 48 hours,  was a 'bust' according to CNN report, add...",
+      "description": "President Trump's Project Freedom, which lasted 48 hours,  was a 'bust' according to CNN report, adding that out of the 1,600 stuck in the Strait of Hormuz, 'only two ships were guided through'. https://t.co/jSZQryPbJ7",
+      "date": "2026-05-06T22:30Z",
+      "date_display": "06 May 22:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil is up 1% amid uncertainty over US-Iran talks progress.",
+      "description": "US crude oil is up 1% amid uncertainty over US-Iran talks progress.",
+      "date": "2026-05-06T22:20Z",
+      "date_display": "06 May 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China's AI giant DeepSeek is nearing a $45 billion valuation, according to Financial Times report. h...",
+      "description": "China's AI giant DeepSeek is nearing a $45 billion valuation, according to Financial Times report. https://t.co/xuKccfJr1q",
+      "date": "2026-05-06T21:50Z",
+      "date_display": "06 May 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Post by Iran's Speaker of Parliament and chief negotiator. https://t.co/fDj7tAQyNP",
+      "description": "Post by Iran's Speaker of Parliament and chief negotiator. https://t.co/fDj7tAQyNP",
+      "date": "2026-05-06T21:30Z",
+      "date_display": "06 May 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump post about progress with Iran. https://t.co/Sv9RVARad5",
+      "description": "Trump post about progress with Iran. https://t.co/Sv9RVARad5",
+      "date": "2026-05-06T11:50Z",
+      "date_display": "06 May 11:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price is now down by over 12%. \n\nBrent crude is down over 10%.",
+      "description": "US crude oil price is now down by over 12%. \n\nBrent crude is down over 10%.",
+      "date": "2026-05-06T11:00Z",
+      "date_display": "06 May 11:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports that the Iranian Revolutionary Guards is saying safe passage through...",
+      "description": "<b>BREAKING:</b> Iranian media reports that the Iranian Revolutionary Guards is saying safe passage through the Strait of Hormuz will be ensured",
+      "date": "2026-05-06T11:00Z",
+      "date_display": "06 May 11:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "WTI plunges over 10% on US-Iran deal hopes\n\nhttps://t.co/F1CciUjDom",
+      "description": "WTI plunges over 10% on US-Iran deal hopes\n\nhttps://t.co/F1CciUjDom",
+      "date": "2026-05-06T10:50Z",
+      "date_display": "06 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil price plunges by over 10% on reports of advanced talks between US and Iran....",
+      "description": "<b>BREAKING:</b> US crude oil price plunges by over 10% on reports of advanced talks between US and Iran.",
+      "date": "2026-05-06T10:50Z",
+      "date_display": "06 May 10:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "United States and Iran are closing in on agreement on a 'one-page memorandum to end the war in the G...",
+      "description": "United States and Iran are closing in on agreement on a 'one-page memorandum to end the war in the Gulf', according to Reuters report.",
+      "date": "2026-05-06T10:30Z",
+      "date_display": "06 May 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
       "description": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
@@ -83,97 +171,113 @@
       "date_display": "04 May 22:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Reuters reports that US intelligence assess that 'the time Iran would ​need to build a nuclear weapo...",
-      "description": "Reuters reports that US intelligence assess that 'the time Iran would ​need to build a nuclear weapon has not changed since last summer'.",
-      "date": "2026-05-04T21:40Z",
-      "date_display": "04 May 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price up 5%, trading at $113.",
-      "description": "Brent crude oil price up 5%, trading at $113.",
-      "date": "2026-05-04T21:30Z",
-      "date_display": "04 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli Hayom reports the US and Israel are considering strikes on Iranian missile and energy facili...",
-      "description": "Israeli Hayom reports the US and Israel are considering strikes on Iranian missile and energy facilities in retaliation over Iranian attack on the UAE.",
-      "date": "2026-05-04T21:10Z",
-      "date_display": "04 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi Arabia says it condemns in 'strongest terms' Iranian attacks on the UAE.",
-      "description": "Saudi Arabia says it condemns in 'strongest terms' Iranian attacks on the UAE.",
-      "date": "2026-05-04T21:10Z",
-      "date_display": "04 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UAE says it shot down 15 missiles and 4 drones fired from Iran today.",
-      "description": "UAE says it shot down 15 missiles and 4 drones fired from Iran today.",
-      "date": "2026-05-04T20:50Z",
-      "date_display": "04 May 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US military says that two US-flagged merchant vessels have 'successfully transited through the Strai...",
-      "description": "US military says that two US-flagged merchant vessels have 'successfully transited through the Strait of Hormuz'.",
-      "date": "2026-05-04T12:30Z",
-      "date_display": "04 May 12:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil tanker has been struck by two Iranian drones off the coast of Oman.",
-      "description": "Oil tanker has been struck by two Iranian drones off the coast of Oman.",
-      "date": "2026-05-04T11:40Z",
-      "date_display": "04 May 11:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US official denies Iranian claims that a warship was struck by Iranian missiles, according to Axios ...",
-      "description": "US official denies Iranian claims that a warship was struck by Iranian missiles, according to Axios report.",
-      "date": "2026-05-04T10:50Z",
-      "date_display": "04 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media claims two missiles were fired at a US Navy vessel that was trying to pass through the...",
-      "description": "Iranian media claims two missiles were fired at a US Navy vessel that was trying to pass through the Strait of Hormuz.",
-      "date": "2026-05-04T10:40Z",
-      "date_display": "04 May 10:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Turkey's annual inflation rate has risen to 32.37% in April, the highest rate in six months.",
-      "description": "Turkey's annual inflation rate has risen to 32.37% in April, the highest rate in six months.",
-      "date": "2026-05-04T09:20Z",
-      "date_display": "04 May 09:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says it is ready to 'respond to US threats' in the Strait of Hormuz and says that 'shipping com...",
-      "description": "Iran says it is ready to 'respond to US threats' in the Strait of Hormuz and says that 'shipping companies well know that ensuring their security requires coordination' with Iranian authorities.",
-      "date": "2026-05-04T09:00Z",
-      "date_display": "04 May 09:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
+      "description": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
+      "date": "2026-05-07T00:40Z",
+      "date_display": "07 May 00:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump's Project Freedom, which lasted 48 hours,  was a 'bust' according to CNN report, add...",
+      "description": "President Trump's Project Freedom, which lasted 48 hours,  was a 'bust' according to CNN report, adding that out of the 1,600 stuck in the Strait of Hormuz, 'only two ships were guided through'. https://t.co/jSZQryPbJ7",
+      "date": "2026-05-06T22:30Z",
+      "date_display": "06 May 22:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil is up 1% amid uncertainty over US-Iran talks progress.",
+      "description": "US crude oil is up 1% amid uncertainty over US-Iran talks progress.",
+      "date": "2026-05-06T22:20Z",
+      "date_display": "06 May 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China's AI giant DeepSeek is nearing a $45 billion valuation, according to Financial Times report. h...",
+      "description": "China's AI giant DeepSeek is nearing a $45 billion valuation, according to Financial Times report. https://t.co/xuKccfJr1q",
+      "date": "2026-05-06T21:50Z",
+      "date_display": "06 May 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Post by Iran's Speaker of Parliament and chief negotiator. https://t.co/fDj7tAQyNP",
+      "description": "Post by Iran's Speaker of Parliament and chief negotiator. https://t.co/fDj7tAQyNP",
+      "date": "2026-05-06T21:30Z",
+      "date_display": "06 May 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Over $1 trillion in market value was added to the US stock market today, as S&amp;P 500 sets new rec...",
+      "description": "Over $1 trillion in market value was added to the US stock market today, as S&amp;P 500 sets new record. https://t.co/phKelaDKRL",
+      "date": "2026-05-06T21:20Z",
+      "date_display": "06 May 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "PSG beats Bayern Munich and advances to Champions League final against Arsenal.",
+      "description": "PSG beats Bayern Munich and advances to Champions League final against Arsenal.",
+      "date": "2026-05-06T21:10Z",
+      "date_display": "06 May 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump post about progress with Iran. https://t.co/Sv9RVARad5",
+      "description": "Trump post about progress with Iran. https://t.co/Sv9RVARad5",
+      "date": "2026-05-06T11:50Z",
+      "date_display": "06 May 11:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price is now down by over 12%. \n\nBrent crude is down over 10%.",
+      "description": "US crude oil price is now down by over 12%. \n\nBrent crude is down over 10%.",
+      "date": "2026-05-06T11:00Z",
+      "date_display": "06 May 11:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports that the Iranian Revolutionary Guards is saying safe passage through...",
+      "description": "<b>BREAKING:</b> Iranian media reports that the Iranian Revolutionary Guards is saying safe passage through the Strait of Hormuz will be ensured",
+      "date": "2026-05-06T11:00Z",
+      "date_display": "06 May 11:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "WTI plunges over 10% on US-Iran deal hopes\n\nhttps://t.co/F1CciUjDom",
+      "description": "WTI plunges over 10% on US-Iran deal hopes\n\nhttps://t.co/F1CciUjDom",
+      "date": "2026-05-06T10:50Z",
+      "date_display": "06 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil price plunges by over 10% on reports of advanced talks between US and Iran....",
+      "description": "<b>BREAKING:</b> US crude oil price plunges by over 10% on reports of advanced talks between US and Iran.",
+      "date": "2026-05-06T10:50Z",
+      "date_display": "06 May 10:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "United States and Iran are closing in on agreement on a 'one-page memorandum to end the war in the G...",
+      "description": "United States and Iran are closing in on agreement on a 'one-page memorandum to end the war in the Gulf', according to Reuters report.",
+      "date": "2026-05-06T10:30Z",
+      "date_display": "06 May 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Vivek Ramaswamy has won the Republican primary for Governor of Ohio. https://t.co/DcYIeApyZW",
       "description": "Vivek Ramaswamy has won the Republican primary for Governor of Ohio. https://t.co/DcYIeApyZW",
@@ -309,110 +413,6 @@
       "date_display": "04 May 21:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "UAE says it shot down 15 missiles and 4 drones fired from Iran today.",
-      "description": "UAE says it shot down 15 missiles and 4 drones fired from Iran today.",
-      "date": "2026-05-04T20:50Z",
-      "date_display": "04 May 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US military says that two US-flagged merchant vessels have 'successfully transited through the Strai...",
-      "description": "US military says that two US-flagged merchant vessels have 'successfully transited through the Strait of Hormuz'.",
-      "date": "2026-05-04T12:30Z",
-      "date_display": "04 May 12:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil tanker has been struck by two Iranian drones off the coast of Oman.",
-      "description": "Oil tanker has been struck by two Iranian drones off the coast of Oman.",
-      "date": "2026-05-04T11:40Z",
-      "date_display": "04 May 11:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US official denies Iranian claims that a warship was struck by Iranian missiles, according to Axios ...",
-      "description": "US official denies Iranian claims that a warship was struck by Iranian missiles, according to Axios report.",
-      "date": "2026-05-04T10:50Z",
-      "date_display": "04 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media claims two missiles were fired at a US Navy vessel that was trying to pass through the...",
-      "description": "Iranian media claims two missiles were fired at a US Navy vessel that was trying to pass through the Strait of Hormuz.",
-      "date": "2026-05-04T10:40Z",
-      "date_display": "04 May 10:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Turkey's annual inflation rate has risen to 32.37% in April, the highest rate in six months.",
-      "description": "Turkey's annual inflation rate has risen to 32.37% in April, the highest rate in six months.",
-      "date": "2026-05-04T09:20Z",
-      "date_display": "04 May 09:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The family behind Samsung has completed its payment of an $8 billion inheritance tax bill, the bigge...",
-      "description": "The family behind Samsung has completed its payment of an $8 billion inheritance tax bill, the biggest in South Korea's history, after the death of its late chairman Lee Kun-hee, who died in 2020. https://t.co/fgl5Uo5wyT",
-      "date": "2026-05-04T09:20Z",
-      "date_display": "04 May 09:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iran says it is ready to 'respond to US threats' in the Strait of Hormuz and says that 'shipping com...",
-      "description": "Iran says it is ready to 'respond to US threats' in the Strait of Hormuz and says that 'shipping companies well know that ensuring their security requires coordination' with Iranian authorities.",
-      "date": "2026-05-04T09:00Z",
-      "date_display": "04 May 09:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Police say at least 10 people taken to hospital after shooting at campground in Edmond, Oklahoma.",
-      "description": "Police say at least 10 people taken to hospital after shooting at campground in Edmond, Oklahoma.",
-      "date": "2026-05-04T04:50Z",
-      "date_display": "04 May 04:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Mass shooting at campground in Edmond, Oklahoma, with reports at least 15 people are wounded.",
-      "description": "Mass shooting at campground in Edmond, Oklahoma, with reports at least 15 people are wounded.",
-      "date": "2026-05-04T03:10Z",
-      "date_display": "04 May 03:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "GameStop is set to make an offer to buy eBay for $56 billion, according to Wall Street Journal repor...",
-      "description": "GameStop is set to make an offer to buy eBay for $56 billion, according to Wall Street Journal report.",
-      "date": "2026-05-03T23:30Z",
-      "date_display": "03 May 23:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Sirens sound in northern Israel, air defenses activated.",
-      "description": "Sirens sound in northern Israel, air defenses activated.",
-      "date": "2026-05-03T22:30Z",
-      "date_display": "03 May 22:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Democratic Party now has a 80% chance of winning the US House of Representatives, according to p...",
-      "description": "The Democratic Party now has a 80% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/UqibNmx7Uo",
-      "date": "2026-05-03T22:00Z",
-      "date_display": "03 May 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

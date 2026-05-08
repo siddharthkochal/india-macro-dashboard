@@ -1,17 +1,145 @@
 {
-  "fetched_at": "2026-05-07T04:14Z",
+  "fetched_at": "2026-05-08T03:59Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 37,
+  "india_relevant_items": 41,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "US crude oil is up 1% amid uncertainty over US-Iran talks progress."
+    "latest_oil_headline": "Oil prices are down over 2% as US and Iran discuss framework for peace deal."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Air defenses activated in the UAE",
+      "description": "<b>BREAKING:</b> Air defenses activated in the UAE",
+      "date": "2026-05-08T03:20Z",
+      "date_display": "08 May 03:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that today's strikes on Iran were 'just a love tap'.",
+      "description": "Trump says that today's strikes on Iran were 'just a love tap'.",
+      "date": "2026-05-07T22:40Z",
+      "date_display": "07 May 22:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it targeted facilities that were responsible for 'unprovoked Iranian atta...",
+      "description": "<b>BREAKING:</b> US military says it targeted facilities that were responsible for 'unprovoked Iranian attacks'",
+      "date": "2026-05-07T21:50Z",
+      "date_display": "07 May 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Ongoing US strikes on targets on Iran's southern coast",
+      "description": "<b>BREAKING:</b> Ongoing US strikes on targets on Iran's southern coast",
+      "date": "2026-05-07T21:30Z",
+      "date_display": "07 May 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian military claims that the US and some regional countries struck Iranian targets near Hormuz.",
+      "description": "Iranian military claims that the US and some regional countries struck Iranian targets near Hormuz.",
+      "date": "2026-05-07T21:20Z",
+      "date_display": "07 May 21:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media reports that the Iranian Navy attacked three US destroyer vessels.",
+      "description": "Iranian media reports that the Iranian Navy attacked three US destroyer vessels.",
+      "date": "2026-05-07T21:10Z",
+      "date_display": "07 May 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US trade court rules against Trump’s 10% global tariff",
+      "description": "<b>BREAKING:</b> US trade court rules against Trump’s 10% global tariff",
+      "date": "2026-05-07T21:10Z",
+      "date_display": "07 May 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts are still being heard in Tehran and southern Iranian city of Bandar Abbas",
+      "description": "<b>BREAKING:</b> Blasts are still being heard in Tehran and southern Iranian city of Bandar Abbas",
+      "date": "2026-05-07T20:50Z",
+      "date_display": "07 May 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media reports air defense activity in Tehran.",
+      "description": "Iranian media reports air defense activity in Tehran.",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US and Iran have exchanged fire in the Strait of Hormuz, according to Israel Hayom.",
+      "description": "<b>BREAKING:</b> US and Iran have exchanged fire in the Strait of Hormuz, according to Israel Hayom.",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports that Iran fired a missile at a US vessel that was in the Strait of H...",
+      "description": "<b>BREAKING:</b> Iranian media reports that Iran fired a missile at a US vessel that was in the Strait of Hormuz",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media reports there have been 'scattered attacks' along Iran's coast",
+      "description": "<b>BREAKING:</b> Iranian state media reports there have been 'scattered attacks' along Iran's coast",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The US military conducted strikes on Iran’s Qeshm Port and Bandar Abbas, according to Fox ...",
+      "description": "<b>BREAKING:</b> The US military conducted strikes on Iran’s Qeshm Port and Bandar Abbas, according to Fox News.",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are down over 2% as US and Iran discuss framework for peace deal.",
+      "description": "Oil prices are down over 2% as US and Iran discuss framework for peace deal.",
+      "date": "2026-05-07T10:00Z",
+      "date_display": "07 May 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Chinese media outlet Caixin reports that a Chinese oil tanker was attacked in the Strait of Hormuz e...",
+      "description": "Chinese media outlet Caixin reports that a Chinese oil tanker was attacked in the Strait of Hormuz earlier this week.",
+      "date": "2026-05-07T08:40Z",
+      "date_display": "07 May 08:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump reversed his plans on 'Project Freedom' after Saudi Arabia did not allow the US military to fl...",
+      "description": "Trump reversed his plans on 'Project Freedom' after Saudi Arabia did not allow the US military to fly aircraft from Prince Sultan Airbase or permit flying through Saudi airspace to support the effort, according to NBC News report. https://t.co/tUB8YYaQNg",
+      "date": "2026-05-07T04:10Z",
+      "date_display": "07 May 04:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
       "description": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
@@ -43,137 +171,161 @@
       "date_display": "06 May 21:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "Post by Iran's Speaker of Parliament and chief negotiator. https://t.co/fDj7tAQyNP",
-      "description": "Post by Iran's Speaker of Parliament and chief negotiator. https://t.co/fDj7tAQyNP",
-      "date": "2026-05-06T21:30Z",
-      "date_display": "06 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump post about progress with Iran. https://t.co/Sv9RVARad5",
-      "description": "Trump post about progress with Iran. https://t.co/Sv9RVARad5",
-      "date": "2026-05-06T11:50Z",
-      "date_display": "06 May 11:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price is now down by over 12%. \n\nBrent crude is down over 10%.",
-      "description": "US crude oil price is now down by over 12%. \n\nBrent crude is down over 10%.",
-      "date": "2026-05-06T11:00Z",
-      "date_display": "06 May 11:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that the Iranian Revolutionary Guards is saying safe passage through...",
-      "description": "<b>BREAKING:</b> Iranian media reports that the Iranian Revolutionary Guards is saying safe passage through the Strait of Hormuz will be ensured",
-      "date": "2026-05-06T11:00Z",
-      "date_display": "06 May 11:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "WTI plunges over 10% on US-Iran deal hopes\n\nhttps://t.co/F1CciUjDom",
-      "description": "WTI plunges over 10% on US-Iran deal hopes\n\nhttps://t.co/F1CciUjDom",
-      "date": "2026-05-06T10:50Z",
-      "date_display": "06 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price plunges by over 10% on reports of advanced talks between US and Iran....",
-      "description": "<b>BREAKING:</b> US crude oil price plunges by over 10% on reports of advanced talks between US and Iran.",
-      "date": "2026-05-06T10:50Z",
-      "date_display": "06 May 10:50 UTC",
+      "title": "BREAKING: Air defenses activated in the UAE",
+      "description": "<b>BREAKING:</b> Air defenses activated in the UAE",
+      "date": "2026-05-08T03:20Z",
+      "date_display": "08 May 03:20 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "United States and Iran are closing in on agreement on a 'one-page memorandum to end the war in the G...",
-      "description": "United States and Iran are closing in on agreement on a 'one-page memorandum to end the war in the Gulf', according to Reuters report.",
-      "date": "2026-05-06T10:30Z",
-      "date_display": "06 May 10:30 UTC",
+      "title": "Trump says that today's strikes on Iran were 'just a love tap'.",
+      "description": "Trump says that today's strikes on Iran were 'just a love tap'.",
+      "date": "2026-05-07T22:40Z",
+      "date_display": "07 May 22:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
-      "description": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
-      "date": "2026-05-05T21:40Z",
-      "date_display": "05 May 21:40 UTC",
+      "title": "BREAKING: US military says it targeted facilities that were responsible for 'unprovoked Iranian atta...",
+      "description": "<b>BREAKING:</b> US military says it targeted facilities that were responsible for 'unprovoked Iranian attacks'",
+      "date": "2026-05-07T21:50Z",
+      "date_display": "07 May 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Ongoing US strikes on targets on Iran's southern coast",
+      "description": "<b>BREAKING:</b> Ongoing US strikes on targets on Iran's southern coast",
+      "date": "2026-05-07T21:30Z",
+      "date_display": "07 May 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian military claims that the US and some regional countries struck Iranian targets near Hormuz.",
+      "description": "Iranian military claims that the US and some regional countries struck Iranian targets near Hormuz.",
+      "date": "2026-05-07T21:20Z",
+      "date_display": "07 May 21:20 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "US Defense Secretary Pete Hegseth says Iran has been harassing ships for too long in the Strait of H...",
-      "description": "US Defense Secretary Pete Hegseth says Iran has been harassing ships for too long in the Strait of Hormuz",
-      "date": "2026-05-05T12:20Z",
-      "date_display": "05 May 12:20 UTC",
+      "title": "Iranian media reports that the Iranian Navy attacked three US destroyer vessels.",
+      "description": "Iranian media reports that the Iranian Navy attacked three US destroyer vessels.",
+      "date": "2026-05-07T21:10Z",
+      "date_display": "07 May 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US trade court rules against Trump’s 10% global tariff",
+      "description": "<b>BREAKING:</b> US trade court rules against Trump’s 10% global tariff",
+      "date": "2026-05-07T21:10Z",
+      "date_display": "07 May 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts are still being heard in Tehran and southern Iranian city of Bandar Abbas",
+      "description": "<b>BREAKING:</b> Blasts are still being heard in Tehran and southern Iranian city of Bandar Abbas",
+      "date": "2026-05-07T20:50Z",
+      "date_display": "07 May 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media reports air defense activity in Tehran.",
+      "description": "Iranian media reports air defense activity in Tehran.",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US and Iran have exchanged fire in the Strait of Hormuz, according to Israel Hayom.",
+      "description": "<b>BREAKING:</b> US and Iran have exchanged fire in the Strait of Hormuz, according to Israel Hayom.",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "US Defense Secretary Pete Hegseth says Iran has no control over the Strait of Hormuz",
-      "description": "US Defense Secretary Pete Hegseth says Iran has no control over the Strait of Hormuz",
-      "date": "2026-05-05T12:20Z",
-      "date_display": "05 May 12:20 UTC",
+      "title": "BREAKING: Iranian media reports that Iran fired a missile at a US vessel that was in the Strait of H...",
+      "description": "<b>BREAKING:</b> Iranian media reports that Iran fired a missile at a US vessel that was in the Strait of Hormuz",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "CNN reports that Israel is discussing potential new strikes in Iran with the United States.",
-      "description": "CNN reports that Israel is discussing potential new strikes in Iran with the United States.",
-      "date": "2026-05-05T11:30Z",
-      "date_display": "05 May 11:30 UTC",
+      "title": "BREAKING: Iranian state media reports there have been 'scattered attacks' along Iran's coast",
+      "description": "<b>BREAKING:</b> Iranian state media reports there have been 'scattered attacks' along Iran's coast",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The US military conducted strikes on Iran’s Qeshm Port and Bandar Abbas, according to Fox ...",
+      "description": "<b>BREAKING:</b> The US military conducted strikes on Iran’s Qeshm Port and Bandar Abbas, according to Fox News.",
+      "date": "2026-05-07T20:40Z",
+      "date_display": "07 May 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "KLM flight attendant has been hospitalized after being in contact with hantavirus cruise ship passen...",
+      "description": "KLM flight attendant has been hospitalized after being in contact with hantavirus cruise ship passenger who eventually died.",
+      "date": "2026-05-07T10:40Z",
+      "date_display": "07 May 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Chinese court sentences former defense ministers Wei Fenghe and Li Shangfu to death with t...",
+      "description": "<b>BREAKING:</b> Chinese court sentences former defense ministers Wei Fenghe and Li Shangfu to death with two-year reprieve over corruption charges",
+      "date": "2026-05-07T10:40Z",
+      "date_display": "07 May 10:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Oil prices are down over 2% as US and Iran discuss framework for peace deal.",
+      "description": "Oil prices are down over 2% as US and Iran discuss framework for peace deal.",
+      "date": "2026-05-07T10:00Z",
+      "date_display": "07 May 10:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Shipping executives have been 'left confused' over US plans to guide ships through Strait of Hormuz,...",
-      "description": "Shipping executives have been 'left confused' over US plans to guide ships through Strait of Hormuz, according to Financial Times report.",
-      "date": "2026-05-05T10:30Z",
-      "date_display": "05 May 10:30 UTC",
+      "title": "US Secretary of State Marco Rubio has arrived at the Vatican, in an effort to mend ties after tensio...",
+      "description": "US Secretary of State Marco Rubio has arrived at the Vatican, in an effort to mend ties after tensions between the Pope and President Trump. https://t.co/SLlOw7vVjw",
+      "date": "2026-05-07T09:50Z",
+      "date_display": "07 May 09:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Chinese media outlet Caixin reports that a Chinese oil tanker was attacked in the Strait of Hormuz e...",
+      "description": "Chinese media outlet Caixin reports that a Chinese oil tanker was attacked in the Strait of Hormuz earlier this week.",
+      "date": "2026-05-07T08:40Z",
+      "date_display": "07 May 08:40 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "Several commercial ships in Iranian port of Dayyer are on fire, the cause is not yet known.",
-      "description": "Several commercial ships in Iranian port of Dayyer are on fire, the cause is not yet known.",
-      "date": "2026-05-05T05:50Z",
-      "date_display": "05 May 05:50 UTC",
+      "title": "Trump reversed his plans on 'Project Freedom' after Saudi Arabia did not allow the US military to fl...",
+      "description": "Trump reversed his plans on 'Project Freedom' after Saudi Arabia did not allow the US military to fly aircraft from Prince Sultan Airbase or permit flying through Saudi airspace to support the effort, according to NBC News report. https://t.co/tUB8YYaQNg",
+      "date": "2026-05-07T04:10Z",
+      "date_display": "07 May 04:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
-    {
-      "title": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
-      "description": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
-      "date": "2026-05-05T03:40Z",
-      "date_display": "05 May 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "21 people killed in fireworks factory explosion in China.",
-      "description": "21 people killed in fireworks factory explosion in China.",
-      "date": "2026-05-05T02:30Z",
-      "date_display": "05 May 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's foreign minister says, 'there is no military solution to a political crisis' and says Trump's...",
-      "description": "Iran's foreign minister says, 'there is no military solution to a political crisis' and says Trump's 'Project Freedom is Project Deadlock'.",
-      "date": "2026-05-04T22:20Z",
-      "date_display": "04 May 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
     {
       "title": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
       "description": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
@@ -259,158 +411,6 @@
       "description": "WTI plunges over 10% on US-Iran deal hopes\n\nhttps://t.co/F1CciUjDom",
       "date": "2026-05-06T10:50Z",
       "date_display": "06 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price plunges by over 10% on reports of advanced talks between US and Iran....",
-      "description": "<b>BREAKING:</b> US crude oil price plunges by over 10% on reports of advanced talks between US and Iran.",
-      "date": "2026-05-06T10:50Z",
-      "date_display": "06 May 10:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "United States and Iran are closing in on agreement on a 'one-page memorandum to end the war in the G...",
-      "description": "United States and Iran are closing in on agreement on a 'one-page memorandum to end the war in the Gulf', according to Reuters report.",
-      "date": "2026-05-06T10:30Z",
-      "date_display": "06 May 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Vivek Ramaswamy has won the Republican primary for Governor of Ohio. https://t.co/DcYIeApyZW",
-      "description": "Vivek Ramaswamy has won the Republican primary for Governor of Ohio. https://t.co/DcYIeApyZW",
-      "date": "2026-05-06T00:30Z",
-      "date_display": "06 May 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "JD Vance leads chances of winning the 2028 Presidential Election with 19%, followed by Gavin Newsom ...",
-      "description": "JD Vance leads chances of winning the 2028 Presidential Election with 19%, followed by Gavin Newsom at 17% and Marco Rubio at 16%, according to @Kalshi prediction market. https://t.co/Rgq2X8meZq",
-      "date": "2026-05-05T22:00Z",
-      "date_display": "05 May 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "AMD share price has now surged by over 11.5% after announcing results. https://t.co/AP0krouc3f",
-      "description": "AMD share price has now surged by over 11.5% after announcing results. https://t.co/AP0krouc3f",
-      "date": "2026-05-05T22:00Z",
-      "date_display": "05 May 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
-      "description": "Around 1,600 ships remained stranded in the Strait of Hormuz, according to New York Times report.",
-      "date": "2026-05-05T21:40Z",
-      "date_display": "05 May 21:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Defense Secretary Pete Hegseth says Iran has been harassing ships for too long in the Strait of H...",
-      "description": "US Defense Secretary Pete Hegseth says Iran has been harassing ships for too long in the Strait of Hormuz",
-      "date": "2026-05-05T12:20Z",
-      "date_display": "05 May 12:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Defense Secretary Pete Hegseth says Iran has no control over the Strait of Hormuz",
-      "description": "US Defense Secretary Pete Hegseth says Iran has no control over the Strait of Hormuz",
-      "date": "2026-05-05T12:20Z",
-      "date_display": "05 May 12:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "CNN reports that Israel is discussing potential new strikes in Iran with the United States.",
-      "description": "CNN reports that Israel is discussing potential new strikes in Iran with the United States.",
-      "date": "2026-05-05T11:30Z",
-      "date_display": "05 May 11:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Shipping executives have been 'left confused' over US plans to guide ships through Strait of Hormuz,...",
-      "description": "Shipping executives have been 'left confused' over US plans to guide ships through Strait of Hormuz, according to Financial Times report.",
-      "date": "2026-05-05T10:30Z",
-      "date_display": "05 May 10:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Several commercial ships in Iranian port of Dayyer are on fire, the cause is not yet known.",
-      "description": "Several commercial ships in Iranian port of Dayyer are on fire, the cause is not yet known.",
-      "date": "2026-05-05T05:50Z",
-      "date_display": "05 May 05:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia reports annual GDP growth of 5.61% in first quarter of 2026, the fastest rate since 2...",
-      "description": "🇮🇩 Indonesia reports annual GDP growth of 5.61% in first quarter of 2026, the fastest rate since 2022.",
-      "date": "2026-05-05T05:20Z",
-      "date_display": "05 May 05:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
-      "description": "Philippines annual inflation rises to 7.2%, the highest in over three years.",
-      "date": "2026-05-05T03:40Z",
-      "date_display": "05 May 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "21 people killed in fireworks factory explosion in China.",
-      "description": "21 people killed in fireworks factory explosion in China.",
-      "date": "2026-05-05T02:30Z",
-      "date_display": "05 May 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's foreign minister says, 'there is no military solution to a political crisis' and says Trump's...",
-      "description": "Iran's foreign minister says, 'there is no military solution to a political crisis' and says Trump's 'Project Freedom is Project Deadlock'.",
-      "date": "2026-05-04T22:20Z",
-      "date_display": "04 May 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reuters reports that US intelligence assess that 'the time Iran would ​need to build a nuclear weapo...",
-      "description": "Reuters reports that US intelligence assess that 'the time Iran would ​need to build a nuclear weapon has not changed since last summer'.",
-      "date": "2026-05-04T21:40Z",
-      "date_display": "04 May 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price up 5%, trading at $113.",
-      "description": "Brent crude oil price up 5%, trading at $113.",
-      "date": "2026-05-04T21:30Z",
-      "date_display": "04 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli Hayom reports the US and Israel are considering strikes on Iranian missile and energy facili...",
-      "description": "Israeli Hayom reports the US and Israel are considering strikes on Iranian missile and energy facilities in retaliation over Iranian attack on the UAE.",
-      "date": "2026-05-04T21:10Z",
-      "date_display": "04 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi Arabia says it condemns in 'strongest terms' Iranian attacks on the UAE.",
-      "description": "Saudi Arabia says it condemns in 'strongest terms' Iranian attacks on the UAE.",
-      "date": "2026-05-04T21:10Z",
-      "date_display": "04 May 21:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

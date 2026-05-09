@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-05-08T03:59Z",
+  "fetched_at": "2026-05-09T04:03Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 41,
+  "india_relevant_items": 39,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "up",
-    "latest_oil_headline": "Oil prices are down over 2% as US and Iran discuss framework for peace deal."
+    "price_direction": "down",
+    "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\n..."
   },
   "india_headlines": [
+    {
+      "title": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf r...",
+      "description": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf region due to the Iran war, according to Yahoo Finance report. https://t.co/Ke1nxDCeR0",
+      "date": "2026-05-09T03:30Z",
+      "date_display": "09 May 03:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\n...",
+      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\nCrude oil: +66%\nEuropean gas: +56%\nCoal: +23%",
+      "date": "2026-05-09T03:00Z",
+      "date_display": "09 May 03:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Massive oil spill, estimated in the tens of thousands of barrels of oil, reported off Iran...",
+      "description": "<b>BREAKING:</b> Massive oil spill, estimated in the tens of thousands of barrels of oil, reported off Iran's Kharg Island.",
+      "date": "2026-05-09T00:20Z",
+      "date_display": "09 May 00:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "CIA assessment is that that Iran would ‌'not suffer severe economic pressure from a U.S. blockade of...",
+      "description": "CIA assessment is that that Iran would ‌'not suffer severe economic pressure from a U.S. blockade of Iranian ports for about another four months', according to Reuters report.",
+      "date": "2026-05-08T22:40Z",
+      "date_display": "08 May 22:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Adviser to Iranian Supreme Leader says control of Strait of Hormuz 'represents an opportunity as pre...",
+      "description": "Adviser to Iranian Supreme Leader says control of Strait of Hormuz 'represents an opportunity as precious as an atomic bomb'.",
+      "date": "2026-05-08T21:20Z",
+      "date_display": "08 May 21:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: State media says that Iran has seized an oil tanker",
+      "description": "<b>BREAKING:</b> State media says that Iran has seized an oil tanker",
+      "date": "2026-05-08T10:00Z",
+      "date_display": "08 May 10:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Air defenses activated in the UAE",
       "description": "<b>BREAKING:</b> Air defenses activated in the UAE",
@@ -123,57 +171,81 @@
       "date_display": "07 May 10:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Chinese media outlet Caixin reports that a Chinese oil tanker was attacked in the Strait of Hormuz e...",
-      "description": "Chinese media outlet Caixin reports that a Chinese oil tanker was attacked in the Strait of Hormuz earlier this week.",
-      "date": "2026-05-07T08:40Z",
-      "date_display": "07 May 08:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump reversed his plans on 'Project Freedom' after Saudi Arabia did not allow the US military to fl...",
-      "description": "Trump reversed his plans on 'Project Freedom' after Saudi Arabia did not allow the US military to fly aircraft from Prince Sultan Airbase or permit flying through Saudi airspace to support the effort, according to NBC News report. https://t.co/tUB8YYaQNg",
-      "date": "2026-05-07T04:10Z",
-      "date_display": "07 May 04:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
-      "description": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
-      "date": "2026-05-07T00:40Z",
-      "date_display": "07 May 00:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump's Project Freedom, which lasted 48 hours,  was a 'bust' according to CNN report, add...",
-      "description": "President Trump's Project Freedom, which lasted 48 hours,  was a 'bust' according to CNN report, adding that out of the 1,600 stuck in the Strait of Hormuz, 'only two ships were guided through'. https://t.co/jSZQryPbJ7",
-      "date": "2026-05-06T22:30Z",
-      "date_display": "06 May 22:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil is up 1% amid uncertainty over US-Iran talks progress.",
-      "description": "US crude oil is up 1% amid uncertainty over US-Iran talks progress.",
-      "date": "2026-05-06T22:20Z",
-      "date_display": "06 May 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's AI giant DeepSeek is nearing a $45 billion valuation, according to Financial Times report. h...",
-      "description": "China's AI giant DeepSeek is nearing a $45 billion valuation, according to Financial Times report. https://t.co/xuKccfJr1q",
-      "date": "2026-05-06T21:50Z",
-      "date_display": "06 May 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf r...",
+      "description": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf region due to the Iran war, according to Yahoo Finance report. https://t.co/Ke1nxDCeR0",
+      "date": "2026-05-09T03:30Z",
+      "date_display": "09 May 03:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\n...",
+      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\nCrude oil: +66%\nEuropean gas: +56%\nCoal: +23%",
+      "date": "2026-05-09T03:00Z",
+      "date_display": "09 May 03:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Massive oil spill, estimated in the tens of thousands of barrels of oil, reported off Iran...",
+      "description": "<b>BREAKING:</b> Massive oil spill, estimated in the tens of thousands of barrels of oil, reported off Iran's Kharg Island.",
+      "date": "2026-05-09T00:20Z",
+      "date_display": "09 May 00:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "CIA assessment is that that Iran would ‌'not suffer severe economic pressure from a U.S. blockade of...",
+      "description": "CIA assessment is that that Iran would ‌'not suffer severe economic pressure from a U.S. blockade of Iranian ports for about another four months', according to Reuters report.",
+      "date": "2026-05-08T22:40Z",
+      "date_display": "08 May 22:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "World Health Organization says number of confirmed Hantavirus cases have reached six, with another t...",
+      "description": "World Health Organization says number of confirmed Hantavirus cases have reached six, with another two cases probable.",
+      "date": "2026-05-08T22:00Z",
+      "date_display": "08 May 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Apple and Intel have reached an agreement for Intel to produce some of the chips needed for Apple de...",
+      "description": "Apple and Intel have reached an agreement for Intel to produce some of the chips needed for Apple devices, according to Wall Street Journal report. https://t.co/1AMICg7xIe",
+      "date": "2026-05-08T21:20Z",
+      "date_display": "08 May 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Adviser to Iranian Supreme Leader says control of Strait of Hormuz 'represents an opportunity as pre...",
+      "description": "Adviser to Iranian Supreme Leader says control of Strait of Hormuz 'represents an opportunity as precious as an atomic bomb'.",
+      "date": "2026-05-08T21:20Z",
+      "date_display": "08 May 21:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: State media says that Iran has seized an oil tanker",
+      "description": "<b>BREAKING:</b> State media says that Iran has seized an oil tanker",
+      "date": "2026-05-08T10:00Z",
+      "date_display": "08 May 10:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UK PM Starmer says he won't resign following local election results.",
+      "description": "UK PM Starmer says he won't resign following local election results.",
+      "date": "2026-05-08T08:40Z",
+      "date_display": "08 May 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Air defenses activated in the UAE",
       "description": "<b>BREAKING:</b> Air defenses activated in the UAE",
@@ -340,78 +412,6 @@
       "date": "2026-05-06T22:30Z",
       "date_display": "06 May 22:30 UTC",
       "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil is up 1% amid uncertainty over US-Iran talks progress.",
-      "description": "US crude oil is up 1% amid uncertainty over US-Iran talks progress.",
-      "date": "2026-05-06T22:20Z",
-      "date_display": "06 May 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's AI giant DeepSeek is nearing a $45 billion valuation, according to Financial Times report. h...",
-      "description": "China's AI giant DeepSeek is nearing a $45 billion valuation, according to Financial Times report. https://t.co/xuKccfJr1q",
-      "date": "2026-05-06T21:50Z",
-      "date_display": "06 May 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Post by Iran's Speaker of Parliament and chief negotiator. https://t.co/fDj7tAQyNP",
-      "description": "Post by Iran's Speaker of Parliament and chief negotiator. https://t.co/fDj7tAQyNP",
-      "date": "2026-05-06T21:30Z",
-      "date_display": "06 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Over $1 trillion in market value was added to the US stock market today, as S&amp;P 500 sets new rec...",
-      "description": "Over $1 trillion in market value was added to the US stock market today, as S&amp;P 500 sets new record. https://t.co/phKelaDKRL",
-      "date": "2026-05-06T21:20Z",
-      "date_display": "06 May 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "PSG beats Bayern Munich and advances to Champions League final against Arsenal.",
-      "description": "PSG beats Bayern Munich and advances to Champions League final against Arsenal.",
-      "date": "2026-05-06T21:10Z",
-      "date_display": "06 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump post about progress with Iran. https://t.co/Sv9RVARad5",
-      "description": "Trump post about progress with Iran. https://t.co/Sv9RVARad5",
-      "date": "2026-05-06T11:50Z",
-      "date_display": "06 May 11:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price is now down by over 12%. \n\nBrent crude is down over 10%.",
-      "description": "US crude oil price is now down by over 12%. \n\nBrent crude is down over 10%.",
-      "date": "2026-05-06T11:00Z",
-      "date_display": "06 May 11:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that the Iranian Revolutionary Guards is saying safe passage through...",
-      "description": "<b>BREAKING:</b> Iranian media reports that the Iranian Revolutionary Guards is saying safe passage through the Strait of Hormuz will be ensured",
-      "date": "2026-05-06T11:00Z",
-      "date_display": "06 May 11:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "WTI plunges over 10% on US-Iran deal hopes\n\nhttps://t.co/F1CciUjDom",
-      "description": "WTI plunges over 10% on US-Iran deal hopes\n\nhttps://t.co/F1CciUjDom",
-      "date": "2026-05-06T10:50Z",
-      "date_display": "06 May 10:50 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

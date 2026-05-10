@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-09T04:03Z",
+  "fetched_at": "2026-05-10T04:32Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,49 @@
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\n..."
+    "latest_oil_headline": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101"
   },
   "india_headlines": [
+    {
+      "title": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders...",
+      "description": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders'.",
+      "date": "2026-05-09T21:30Z",
+      "date_display": "09 May 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101",
+      "description": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101",
+      "date": "2026-05-09T21:20Z",
+      "date_display": "09 May 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The UK is deploying the warship HMS Dragon in preparation for effort to secure shipping in Strait of...",
+      "description": "The UK is deploying the warship HMS Dragon in preparation for effort to secure shipping in Strait of Hormuz 'when conditions allow'. https://t.co/1mts7yYRzm",
+      "date": "2026-05-09T21:10Z",
+      "date_display": "09 May 21:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media  calls for taking control of the undersea cables in the Strait of Horm...",
+      "description": "<b>BREAKING:</b> Iranian state media  calls for taking control of the undersea cables in the Strait of Hormuz and charging fees",
+      "date": "2026-05-09T20:40Z",
+      "date_display": "09 May 20:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Bahrain announces it has uncovered a spying network linked to the Iranian Revolutionary Guards.",
+      "description": "Bahrain announces it has uncovered a spying network linked to the Iranian Revolutionary Guards.",
+      "date": "2026-05-09T09:00Z",
+      "date_display": "09 May 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf r...",
       "description": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf region due to the Iran war, according to Yahoo Finance report. https://t.co/Ke1nxDCeR0",
@@ -131,49 +171,49 @@
       "date_display": "07 May 20:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US and Iran have exchanged fire in the Strait of Hormuz, according to Israel Hayom.",
-      "description": "<b>BREAKING:</b> US and Iran have exchanged fire in the Strait of Hormuz, according to Israel Hayom.",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that Iran fired a missile at a US vessel that was in the Strait of H...",
-      "description": "<b>BREAKING:</b> Iranian media reports that Iran fired a missile at a US vessel that was in the Strait of Hormuz",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian state media reports there have been 'scattered attacks' along Iran's coast",
-      "description": "<b>BREAKING:</b> Iranian state media reports there have been 'scattered attacks' along Iran's coast",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The US military conducted strikes on Iran’s Qeshm Port and Bandar Abbas, according to Fox ...",
-      "description": "<b>BREAKING:</b> The US military conducted strikes on Iran’s Qeshm Port and Bandar Abbas, according to Fox News.",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are down over 2% as US and Iran discuss framework for peace deal.",
-      "description": "Oil prices are down over 2% as US and Iran discuss framework for peace deal.",
-      "date": "2026-05-07T10:00Z",
-      "date_display": "07 May 10:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders...",
+      "description": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders'.",
+      "date": "2026-05-09T21:30Z",
+      "date_display": "09 May 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101",
+      "description": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101",
+      "date": "2026-05-09T21:20Z",
+      "date_display": "09 May 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The UK is deploying the warship HMS Dragon in preparation for effort to secure shipping in Strait of...",
+      "description": "The UK is deploying the warship HMS Dragon in preparation for effort to secure shipping in Strait of Hormuz 'when conditions allow'. https://t.co/1mts7yYRzm",
+      "date": "2026-05-09T21:10Z",
+      "date_display": "09 May 21:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media  calls for taking control of the undersea cables in the Strait of Horm...",
+      "description": "<b>BREAKING:</b> Iranian state media  calls for taking control of the undersea cables in the Strait of Hormuz and charging fees",
+      "date": "2026-05-09T20:40Z",
+      "date_display": "09 May 20:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Bahrain announces it has uncovered a spying network linked to the Iranian Revolutionary Guards.",
+      "description": "Bahrain announces it has uncovered a spying network linked to the Iranian Revolutionary Guards.",
+      "date": "2026-05-09T09:00Z",
+      "date_display": "09 May 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf r...",
       "description": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf region due to the Iran war, according to Yahoo Finance report. https://t.co/Ke1nxDCeR0",
@@ -372,46 +412,6 @@
       "date": "2026-05-07T10:00Z",
       "date_display": "07 May 10:00 UTC",
       "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US Secretary of State Marco Rubio has arrived at the Vatican, in an effort to mend ties after tensio...",
-      "description": "US Secretary of State Marco Rubio has arrived at the Vatican, in an effort to mend ties after tensions between the Pope and President Trump. https://t.co/SLlOw7vVjw",
-      "date": "2026-05-07T09:50Z",
-      "date_display": "07 May 09:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Chinese media outlet Caixin reports that a Chinese oil tanker was attacked in the Strait of Hormuz e...",
-      "description": "Chinese media outlet Caixin reports that a Chinese oil tanker was attacked in the Strait of Hormuz earlier this week.",
-      "date": "2026-05-07T08:40Z",
-      "date_display": "07 May 08:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump reversed his plans on 'Project Freedom' after Saudi Arabia did not allow the US military to fl...",
-      "description": "Trump reversed his plans on 'Project Freedom' after Saudi Arabia did not allow the US military to fly aircraft from Prince Sultan Airbase or permit flying through Saudi airspace to support the effort, according to NBC News report. https://t.co/tUB8YYaQNg",
-      "date": "2026-05-07T04:10Z",
-      "date_display": "07 May 04:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
-      "description": "🇯🇵 Japan's Nikkei 225 surges by 4% amid hopes of US-Iran deal.",
-      "date": "2026-05-07T00:40Z",
-      "date_display": "07 May 00:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump's Project Freedom, which lasted 48 hours,  was a 'bust' according to CNN report, add...",
-      "description": "President Trump's Project Freedom, which lasted 48 hours,  was a 'bust' according to CNN report, adding that out of the 1,600 stuck in the Strait of Hormuz, 'only two ships were guided through'. https://t.co/jSZQryPbJ7",
-      "date": "2026-05-06T22:30Z",
-      "date_display": "06 May 22:30 UTC",
-      "severity": "critical",
       "is_india_relevant": true
     }
   ]

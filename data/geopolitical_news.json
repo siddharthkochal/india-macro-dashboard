@@ -1,17 +1,105 @@
 {
-  "fetched_at": "2026-05-10T04:32Z",
+  "fetched_at": "2026-05-11T04:44Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 39,
+  "india_relevant_items": 41,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "down",
-    "latest_oil_headline": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101"
+    "price_direction": "up",
+    "latest_oil_headline": "US crude oil prices surged by 5% after US and Iran reject each other's proposals."
   },
   "india_headlines": [
+    {
+      "title": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
+      "description": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
+      "date": "2026-05-11T04:20Z",
+      "date_display": "11 May 04:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil prices up 4% after US and Iran reject each other's proposals.",
+      "description": "US crude oil prices up 4% after US and Iran reject each other's proposals.",
+      "date": "2026-05-11T00:50Z",
+      "date_display": "11 May 00:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices up over 3% after US and Iran reject each other's proposals",
+      "description": "<b>BREAKING:</b> Oil prices up over 3% after US and Iran reject each other's proposals",
+      "date": "2026-05-10T22:10Z",
+      "date_display": "10 May 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran demanded war reparations, removal of sanctions, unfreezing of assets and control over...",
+      "description": "<b>BREAKING:</b> Iran demanded war reparations, removal of sanctions, unfreezing of assets and control over the Strait of Hormuz as part of its rejection of US proposal, according to state media.",
+      "date": "2026-05-10T21:20Z",
+      "date_display": "10 May 21:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media says that Trump's rejection of Iranian proposal 'does not matter at all' and tha...",
+      "description": "Iranian state media says that Trump's rejection of Iranian proposal 'does not matter at all' and that he 'generally dislikes reality, which is why he is constantly being defeated by Iran'.",
+      "date": "2026-05-10T21:00Z",
+      "date_display": "10 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says Iranian response to US proposal is 'totally unacceptable' https://t.co/gSVce8Vw...",
+      "description": "<b>BREAKING:</b> Trump says Iranian response to US proposal is 'totally unacceptable' https://t.co/gSVce8Vwfx",
+      "date": "2026-05-10T20:30Z",
+      "date_display": "10 May 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran rejects dismantling its nuclear facilities, according to Wall Street Journal report....",
+      "description": "<b>BREAKING:</b> Iran rejects dismantling its nuclear facilities, according to Wall Street Journal report.",
+      "date": "2026-05-10T20:30Z",
+      "date_display": "10 May 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nSulfur: +90%\nUrea: +59%\nBitumen: +40%\nCotton: +31%\nRubbe...",
+      "description": "Price increase since 1st of January, 2026.\n\nSulfur: +90%\nUrea: +59%\nBitumen: +40%\nCotton: +31%\nRubber: +23%\nRice: +23%\nWool: +22%\nWheat: +20%\nPalm oil: +12%",
+      "date": "2026-05-10T08:30Z",
+      "date_display": "10 May 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "North Korea has updated its constitution to require a retaliatory nuclear strike if leader Kim Jong ...",
+      "description": "North Korea has updated its constitution to require a retaliatory nuclear strike if leader Kim Jong Un is assassinated by a foreign enemy, according to report by The Telegraph. https://t.co/ZySMVzRjw4",
+      "date": "2026-05-10T08:30Z",
+      "date_display": "10 May 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Saudi Aramco reports revenue of $115 billion in first quarter of 2026. https://t.co/NtTrfbcyw0",
+      "description": "Saudi Aramco reports revenue of $115 billion in first quarter of 2026. https://t.co/NtTrfbcyw0",
+      "date": "2026-05-10T06:00Z",
+      "date_display": "10 May 06:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israel set up a 'clandestine military outpost in the Iraqi desert' which was used to 'support its ai...",
+      "description": "Israel set up a 'clandestine military outpost in the Iraqi desert' which was used to 'support its air campaign against Iran', according to Wall Street Journal report.",
+      "date": "2026-05-10T04:30Z",
+      "date_display": "10 May 04:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders...",
       "description": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders'.",
@@ -83,97 +171,121 @@
       "date_display": "08 May 22:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Adviser to Iranian Supreme Leader says control of Strait of Hormuz 'represents an opportunity as pre...",
-      "description": "Adviser to Iranian Supreme Leader says control of Strait of Hormuz 'represents an opportunity as precious as an atomic bomb'.",
-      "date": "2026-05-08T21:20Z",
-      "date_display": "08 May 21:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: State media says that Iran has seized an oil tanker",
-      "description": "<b>BREAKING:</b> State media says that Iran has seized an oil tanker",
-      "date": "2026-05-08T10:00Z",
-      "date_display": "08 May 10:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Air defenses activated in the UAE",
-      "description": "<b>BREAKING:</b> Air defenses activated in the UAE",
-      "date": "2026-05-08T03:20Z",
-      "date_display": "08 May 03:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that today's strikes on Iran were 'just a love tap'.",
-      "description": "Trump says that today's strikes on Iran were 'just a love tap'.",
-      "date": "2026-05-07T22:40Z",
-      "date_display": "07 May 22:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it targeted facilities that were responsible for 'unprovoked Iranian atta...",
-      "description": "<b>BREAKING:</b> US military says it targeted facilities that were responsible for 'unprovoked Iranian attacks'",
-      "date": "2026-05-07T21:50Z",
-      "date_display": "07 May 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Ongoing US strikes on targets on Iran's southern coast",
-      "description": "<b>BREAKING:</b> Ongoing US strikes on targets on Iran's southern coast",
-      "date": "2026-05-07T21:30Z",
-      "date_display": "07 May 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian military claims that the US and some regional countries struck Iranian targets near Hormuz.",
-      "description": "Iranian military claims that the US and some regional countries struck Iranian targets near Hormuz.",
-      "date": "2026-05-07T21:20Z",
-      "date_display": "07 May 21:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media reports that the Iranian Navy attacked three US destroyer vessels.",
-      "description": "Iranian media reports that the Iranian Navy attacked three US destroyer vessels.",
-      "date": "2026-05-07T21:10Z",
-      "date_display": "07 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US trade court rules against Trump’s 10% global tariff",
-      "description": "<b>BREAKING:</b> US trade court rules against Trump’s 10% global tariff",
-      "date": "2026-05-07T21:10Z",
-      "date_display": "07 May 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts are still being heard in Tehran and southern Iranian city of Bandar Abbas",
-      "description": "<b>BREAKING:</b> Blasts are still being heard in Tehran and southern Iranian city of Bandar Abbas",
-      "date": "2026-05-07T20:50Z",
-      "date_display": "07 May 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media reports air defense activity in Tehran.",
-      "description": "Iranian media reports air defense activity in Tehran.",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
+      "description": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
+      "date": "2026-05-11T04:20Z",
+      "date_display": "11 May 04:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil prices up 4% after US and Iran reject each other's proposals.",
+      "description": "US crude oil prices up 4% after US and Iran reject each other's proposals.",
+      "date": "2026-05-11T00:50Z",
+      "date_display": "11 May 00:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Netanyahu says that he wants to wean Israel off US financial military aid, 'down to zero'.",
+      "description": "Netanyahu says that he wants to wean Israel off US financial military aid, 'down to zero'.",
+      "date": "2026-05-10T22:50Z",
+      "date_display": "10 May 22:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Oil prices up over 3% after US and Iran reject each other's proposals",
+      "description": "<b>BREAKING:</b> Oil prices up over 3% after US and Iran reject each other's proposals",
+      "date": "2026-05-10T22:10Z",
+      "date_display": "10 May 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran demanded war reparations, removal of sanctions, unfreezing of assets and control over...",
+      "description": "<b>BREAKING:</b> Iran demanded war reparations, removal of sanctions, unfreezing of assets and control over the Strait of Hormuz as part of its rejection of US proposal, according to state media.",
+      "date": "2026-05-10T21:20Z",
+      "date_display": "10 May 21:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media says that Trump's rejection of Iranian proposal 'does not matter at all' and tha...",
+      "description": "Iranian state media says that Trump's rejection of Iranian proposal 'does not matter at all' and that he 'generally dislikes reality, which is why he is constantly being defeated by Iran'.",
+      "date": "2026-05-10T21:00Z",
+      "date_display": "10 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says Iranian response to US proposal is 'totally unacceptable' https://t.co/gSVce8Vw...",
+      "description": "<b>BREAKING:</b> Trump says Iranian response to US proposal is 'totally unacceptable' https://t.co/gSVce8Vwfx",
+      "date": "2026-05-10T20:30Z",
+      "date_display": "10 May 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran rejects dismantling its nuclear facilities, according to Wall Street Journal report....",
+      "description": "<b>BREAKING:</b> Iran rejects dismantling its nuclear facilities, according to Wall Street Journal report.",
+      "date": "2026-05-10T20:30Z",
+      "date_display": "10 May 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Commercial vessel in Qatar's territorial waters has been targeted by a drone.",
+      "description": "Commercial vessel in Qatar's territorial waters has been targeted by a drone.",
+      "date": "2026-05-10T10:20Z",
+      "date_display": "10 May 10:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Passengers have started getting off cruise ship impacted by hantavirus, with the ship now ...",
+      "description": "<b>BREAKING:</b> Passengers have started getting off cruise ship impacted by hantavirus, with the ship now at Spain’s Canary Islands.",
+      "date": "2026-05-10T09:30Z",
+      "date_display": "10 May 09:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nSulfur: +90%\nUrea: +59%\nBitumen: +40%\nCotton: +31%\nRubbe...",
+      "description": "Price increase since 1st of January, 2026.\n\nSulfur: +90%\nUrea: +59%\nBitumen: +40%\nCotton: +31%\nRubber: +23%\nRice: +23%\nWool: +22%\nWheat: +20%\nPalm oil: +12%",
+      "date": "2026-05-10T08:30Z",
+      "date_display": "10 May 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "North Korea has updated its constitution to require a retaliatory nuclear strike if leader Kim Jong ...",
+      "description": "North Korea has updated its constitution to require a retaliatory nuclear strike if leader Kim Jong Un is assassinated by a foreign enemy, according to report by The Telegraph. https://t.co/ZySMVzRjw4",
+      "date": "2026-05-10T08:30Z",
+      "date_display": "10 May 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Saudi Aramco reports revenue of $115 billion in first quarter of 2026. https://t.co/NtTrfbcyw0",
+      "description": "Saudi Aramco reports revenue of $115 billion in first quarter of 2026. https://t.co/NtTrfbcyw0",
+      "date": "2026-05-10T06:00Z",
+      "date_display": "10 May 06:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israel set up a 'clandestine military outpost in the Iraqi desert' which was used to 'support its ai...",
+      "description": "Israel set up a 'clandestine military outpost in the Iraqi desert' which was used to 'support its air campaign against Iran', according to Wall Street Journal report.",
+      "date": "2026-05-10T04:30Z",
+      "date_display": "10 May 04:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders...",
       "description": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders'.",
@@ -299,118 +411,6 @@
       "description": "Trump says that today's strikes on Iran were 'just a love tap'.",
       "date": "2026-05-07T22:40Z",
       "date_display": "07 May 22:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it targeted facilities that were responsible for 'unprovoked Iranian atta...",
-      "description": "<b>BREAKING:</b> US military says it targeted facilities that were responsible for 'unprovoked Iranian attacks'",
-      "date": "2026-05-07T21:50Z",
-      "date_display": "07 May 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Ongoing US strikes on targets on Iran's southern coast",
-      "description": "<b>BREAKING:</b> Ongoing US strikes on targets on Iran's southern coast",
-      "date": "2026-05-07T21:30Z",
-      "date_display": "07 May 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian military claims that the US and some regional countries struck Iranian targets near Hormuz.",
-      "description": "Iranian military claims that the US and some regional countries struck Iranian targets near Hormuz.",
-      "date": "2026-05-07T21:20Z",
-      "date_display": "07 May 21:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media reports that the Iranian Navy attacked three US destroyer vessels.",
-      "description": "Iranian media reports that the Iranian Navy attacked three US destroyer vessels.",
-      "date": "2026-05-07T21:10Z",
-      "date_display": "07 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US trade court rules against Trump’s 10% global tariff",
-      "description": "<b>BREAKING:</b> US trade court rules against Trump’s 10% global tariff",
-      "date": "2026-05-07T21:10Z",
-      "date_display": "07 May 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts are still being heard in Tehran and southern Iranian city of Bandar Abbas",
-      "description": "<b>BREAKING:</b> Blasts are still being heard in Tehran and southern Iranian city of Bandar Abbas",
-      "date": "2026-05-07T20:50Z",
-      "date_display": "07 May 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian media reports air defense activity in Tehran.",
-      "description": "Iranian media reports air defense activity in Tehran.",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US and Iran have exchanged fire in the Strait of Hormuz, according to Israel Hayom.",
-      "description": "<b>BREAKING:</b> US and Iran have exchanged fire in the Strait of Hormuz, according to Israel Hayom.",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that Iran fired a missile at a US vessel that was in the Strait of H...",
-      "description": "<b>BREAKING:</b> Iranian media reports that Iran fired a missile at a US vessel that was in the Strait of Hormuz",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian state media reports there have been 'scattered attacks' along Iran's coast",
-      "description": "<b>BREAKING:</b> Iranian state media reports there have been 'scattered attacks' along Iran's coast",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The US military conducted strikes on Iran’s Qeshm Port and Bandar Abbas, according to Fox ...",
-      "description": "<b>BREAKING:</b> The US military conducted strikes on Iran’s Qeshm Port and Bandar Abbas, according to Fox News.",
-      "date": "2026-05-07T20:40Z",
-      "date_display": "07 May 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "KLM flight attendant has been hospitalized after being in contact with hantavirus cruise ship passen...",
-      "description": "KLM flight attendant has been hospitalized after being in contact with hantavirus cruise ship passenger who eventually died.",
-      "date": "2026-05-07T10:40Z",
-      "date_display": "07 May 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Chinese court sentences former defense ministers Wei Fenghe and Li Shangfu to death with t...",
-      "description": "<b>BREAKING:</b> Chinese court sentences former defense ministers Wei Fenghe and Li Shangfu to death with two-year reprieve over corruption charges",
-      "date": "2026-05-07T10:40Z",
-      "date_display": "07 May 10:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Oil prices are down over 2% as US and Iran discuss framework for peace deal.",
-      "description": "Oil prices are down over 2% as US and Iran discuss framework for peace deal.",
-      "date": "2026-05-07T10:00Z",
-      "date_display": "07 May 10:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

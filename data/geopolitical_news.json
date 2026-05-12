@@ -1,17 +1,73 @@
 {
-  "fetched_at": "2026-05-11T04:44Z",
+  "fetched_at": "2026-05-12T04:23Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 41,
+  "india_relevant_items": 40,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "US crude oil prices surged by 5% after US and Iran reject each other's proposals."
+    "latest_oil_headline": "Oil prices are up 3% as US-Iran peace efforts stall."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: President Trump is now 'more seriously considering a resumption of major combat operations...",
+      "description": "<b>BREAKING:</b> President Trump is now 'more seriously considering a resumption of major combat operations' against Iran than he was in recent weeks, according to CNN.",
+      "date": "2026-05-12T00:40Z",
+      "date_display": "12 May 00:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israel's Channel 12 reports that Trump is inclined towards resuming military activity agai...",
+      "description": "<b>BREAKING:</b> Israel's Channel 12 reports that Trump is inclined towards resuming military activity against Iran",
+      "date": "2026-05-11T21:00Z",
+      "date_display": "11 May 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are up 3% as US-Iran peace efforts stall.",
+      "description": "Oil prices are up 3% as US-Iran peace efforts stall.",
+      "date": "2026-05-11T21:00Z",
+      "date_display": "11 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Speaker of Parliament and chief negotiator says the longer it takes to 'accept the rights of ...",
+      "description": "Iran's Speaker of Parliament and chief negotiator says the longer it takes to 'accept the rights of the Iranian people', the 'more American taxpayers will pay for it'. https://t.co/ZsN5OBWhnQ",
+      "date": "2026-05-11T21:00Z",
+      "date_display": "11 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "India's PM Narendra Modi has asked Indians to stop buying gold for a year, as it is putting strain o...",
+      "description": "India's PM Narendra Modi has asked Indians to stop buying gold for a year, as it is putting strain on the country's foreign exchange reserves. https://t.co/jjVNDKnLmC",
+      "date": "2026-05-11T10:40Z",
+      "date_display": "11 May 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian foreign ministry spokesperson says 'whenever we are forced to fight, we will fight'.",
+      "description": "Iranian foreign ministry spokesperson says 'whenever we are forced to fight, we will fight'.",
+      "date": "2026-05-11T08:50Z",
+      "date_display": "11 May 08:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it has executed a man accused of spying for the US and Israel.",
+      "description": "Iran says it has executed a man accused of spying for the US and Israel.",
+      "date": "2026-05-11T06:30Z",
+      "date_display": "11 May 06:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
       "description": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
@@ -115,65 +171,97 @@
       "date_display": "09 May 21:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "The UK is deploying the warship HMS Dragon in preparation for effort to secure shipping in Strait of...",
-      "description": "The UK is deploying the warship HMS Dragon in preparation for effort to secure shipping in Strait of Hormuz 'when conditions allow'. https://t.co/1mts7yYRzm",
-      "date": "2026-05-09T21:10Z",
-      "date_display": "09 May 21:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian state media  calls for taking control of the undersea cables in the Strait of Horm...",
-      "description": "<b>BREAKING:</b> Iranian state media  calls for taking control of the undersea cables in the Strait of Hormuz and charging fees",
-      "date": "2026-05-09T20:40Z",
-      "date_display": "09 May 20:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Bahrain announces it has uncovered a spying network linked to the Iranian Revolutionary Guards.",
-      "description": "Bahrain announces it has uncovered a spying network linked to the Iranian Revolutionary Guards.",
-      "date": "2026-05-09T09:00Z",
-      "date_display": "09 May 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf r...",
-      "description": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf region due to the Iran war, according to Yahoo Finance report. https://t.co/Ke1nxDCeR0",
-      "date": "2026-05-09T03:30Z",
-      "date_display": "09 May 03:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\n...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\nCrude oil: +66%\nEuropean gas: +56%\nCoal: +23%",
-      "date": "2026-05-09T03:00Z",
-      "date_display": "09 May 03:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Massive oil spill, estimated in the tens of thousands of barrels of oil, reported off Iran...",
-      "description": "<b>BREAKING:</b> Massive oil spill, estimated in the tens of thousands of barrels of oil, reported off Iran's Kharg Island.",
-      "date": "2026-05-09T00:20Z",
-      "date_display": "09 May 00:20 UTC",
+      "title": "BREAKING: President Trump is now 'more seriously considering a resumption of major combat operations...",
+      "description": "<b>BREAKING:</b> President Trump is now 'more seriously considering a resumption of major combat operations' against Iran than he was in recent weeks, according to CNN.",
+      "date": "2026-05-12T00:40Z",
+      "date_display": "12 May 00:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "CIA assessment is that that Iran would ‌'not suffer severe economic pressure from a U.S. blockade of...",
-      "description": "CIA assessment is that that Iran would ‌'not suffer severe economic pressure from a U.S. blockade of Iranian ports for about another four months', according to Reuters report.",
-      "date": "2026-05-08T22:40Z",
-      "date_display": "08 May 22:40 UTC",
+      "title": "BREAKING: Number of Labour MPs who are calling for UK PM Keir Starmer to resign have reached 70, inc...",
+      "description": "<b>BREAKING:</b> Number of Labour MPs who are calling for UK PM Keir Starmer to resign have reached 70, including Home Secretary Shabana Mahmood, according to BBC. https://t.co/sUNHKWI2F1",
+      "date": "2026-05-11T21:30Z",
+      "date_display": "11 May 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Israel's Channel 12 reports that Trump is inclined towards resuming military activity agai...",
+      "description": "<b>BREAKING:</b> Israel's Channel 12 reports that Trump is inclined towards resuming military activity against Iran",
+      "date": "2026-05-11T21:00Z",
+      "date_display": "11 May 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are up 3% as US-Iran peace efforts stall.",
+      "description": "Oil prices are up 3% as US-Iran peace efforts stall.",
+      "date": "2026-05-11T21:00Z",
+      "date_display": "11 May 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "Iran's Speaker of Parliament and chief negotiator says the longer it takes to 'accept the rights of ...",
+      "description": "Iran's Speaker of Parliament and chief negotiator says the longer it takes to 'accept the rights of the Iranian people', the 'more American taxpayers will pay for it'. https://t.co/ZsN5OBWhnQ",
+      "date": "2026-05-11T21:00Z",
+      "date_display": "11 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Broadcasters of Spain, Slovenia and Ireland will boycott Eurovision for this year.",
+      "description": "Broadcasters of Spain, Slovenia and Ireland will boycott Eurovision for this year.",
+      "date": "2026-05-11T11:30Z",
+      "date_display": "11 May 11:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: UK MP Catherine West sends out letter to colleagues asking for support in electing a new l...",
+      "description": "<b>BREAKING:</b> UK MP Catherine West sends out letter to colleagues asking for support in electing a new leader for the Labour Party, replacing PM Keir Starmer. https://t.co/RUz2SrPg9s",
+      "date": "2026-05-11T11:20Z",
+      "date_display": "11 May 11:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "ITV journalist Robert Peston reports that British MP Catherine West is preparing to challenge Prime ...",
+      "description": "ITV journalist Robert Peston reports that British MP Catherine West is preparing to challenge Prime Minister Keir Starmer for leadership of the Labour Party. https://t.co/kCmg7WRniX",
+      "date": "2026-05-11T10:50Z",
+      "date_display": "11 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "India's PM Narendra Modi has asked Indians to stop buying gold for a year, as it is putting strain o...",
+      "description": "India's PM Narendra Modi has asked Indians to stop buying gold for a year, as it is putting strain on the country's foreign exchange reserves. https://t.co/jjVNDKnLmC",
+      "date": "2026-05-11T10:40Z",
+      "date_display": "11 May 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian foreign ministry spokesperson says 'whenever we are forced to fight, we will fight'.",
+      "description": "Iranian foreign ministry spokesperson says 'whenever we are forced to fight, we will fight'.",
+      "date": "2026-05-11T08:50Z",
+      "date_display": "11 May 08:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it has executed a man accused of spying for the US and Israel.",
+      "description": "Iran says it has executed a man accused of spying for the US and Israel.",
+      "date": "2026-05-11T06:30Z",
+      "date_display": "11 May 06:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
       "description": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
@@ -323,94 +411,6 @@
       "description": "Bahrain announces it has uncovered a spying network linked to the Iranian Revolutionary Guards.",
       "date": "2026-05-09T09:00Z",
       "date_display": "09 May 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf r...",
-      "description": "A shortage of Diet Coke in India is being linked to disruptions to aluminium exports from the Gulf region due to the Iran war, according to Yahoo Finance report. https://t.co/Ke1nxDCeR0",
-      "date": "2026-05-09T03:30Z",
-      "date_display": "09 May 03:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\n...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +103%\nHeating oil: +84%\nBrent crude oil: +66%\nCrude oil: +66%\nEuropean gas: +56%\nCoal: +23%",
-      "date": "2026-05-09T03:00Z",
-      "date_display": "09 May 03:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Massive oil spill, estimated in the tens of thousands of barrels of oil, reported off Iran...",
-      "description": "<b>BREAKING:</b> Massive oil spill, estimated in the tens of thousands of barrels of oil, reported off Iran's Kharg Island.",
-      "date": "2026-05-09T00:20Z",
-      "date_display": "09 May 00:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "CIA assessment is that that Iran would ‌'not suffer severe economic pressure from a U.S. blockade of...",
-      "description": "CIA assessment is that that Iran would ‌'not suffer severe economic pressure from a U.S. blockade of Iranian ports for about another four months', according to Reuters report.",
-      "date": "2026-05-08T22:40Z",
-      "date_display": "08 May 22:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "World Health Organization says number of confirmed Hantavirus cases have reached six, with another t...",
-      "description": "World Health Organization says number of confirmed Hantavirus cases have reached six, with another two cases probable.",
-      "date": "2026-05-08T22:00Z",
-      "date_display": "08 May 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Apple and Intel have reached an agreement for Intel to produce some of the chips needed for Apple de...",
-      "description": "Apple and Intel have reached an agreement for Intel to produce some of the chips needed for Apple devices, according to Wall Street Journal report. https://t.co/1AMICg7xIe",
-      "date": "2026-05-08T21:20Z",
-      "date_display": "08 May 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Adviser to Iranian Supreme Leader says control of Strait of Hormuz 'represents an opportunity as pre...",
-      "description": "Adviser to Iranian Supreme Leader says control of Strait of Hormuz 'represents an opportunity as precious as an atomic bomb'.",
-      "date": "2026-05-08T21:20Z",
-      "date_display": "08 May 21:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: State media says that Iran has seized an oil tanker",
-      "description": "<b>BREAKING:</b> State media says that Iran has seized an oil tanker",
-      "date": "2026-05-08T10:00Z",
-      "date_display": "08 May 10:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UK PM Starmer says he won't resign following local election results.",
-      "description": "UK PM Starmer says he won't resign following local election results.",
-      "date": "2026-05-08T08:40Z",
-      "date_display": "08 May 08:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Air defenses activated in the UAE",
-      "description": "<b>BREAKING:</b> Air defenses activated in the UAE",
-      "date": "2026-05-08T03:20Z",
-      "date_display": "08 May 03:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that today's strikes on Iran were 'just a love tap'.",
-      "description": "Trump says that today's strikes on Iran were 'just a love tap'.",
-      "date": "2026-05-07T22:40Z",
-      "date_display": "07 May 22:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

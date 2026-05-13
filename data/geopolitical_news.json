@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-12T04:23Z",
+  "fetched_at": "2026-05-13T04:30Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 40,
+  "india_relevant_items": 37,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,70 @@
     "latest_oil_headline": "Oil prices are up 3% as US-Iran peace efforts stall."
   },
   "india_headlines": [
+    {
+      "title": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
+      "description": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
+      "date": "2026-05-13T03:20Z",
+      "date_display": "13 May 03:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The UK is preparing to contribute a warship, drones and jets to multinational mission to secure the ...",
+      "description": "The UK is preparing to contribute a warship, drones and jets to multinational mission to secure the Strait of Hormuz, according to BBC report. https://t.co/4S1sZKSLls",
+      "date": "2026-05-12T21:10Z",
+      "date_display": "12 May 21:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi Arabia carried out retaliatory strikes against Iran during the war, according to Reu...",
+      "description": "<b>BREAKING:</b> Saudi Arabia carried out retaliatory strikes against Iran during the war, according to Reuters report.",
+      "date": "2026-05-12T20:50Z",
+      "date_display": "12 May 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US inflation has risen to 3.8% in April, above expectations.",
+      "description": "<b>BREAKING:</b> US inflation has risen to 3.8% in April, above expectations.",
+      "date": "2026-05-12T12:40Z",
+      "date_display": "12 May 12:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Qatar's Prime Minister says that Iran should not use the Strait of Hormuz to 'blackmail' Gulf countr...",
+      "description": "Qatar's Prime Minister says that Iran should not use the Strait of Hormuz to 'blackmail' Gulf countries.",
+      "date": "2026-05-12T10:40Z",
+      "date_display": "12 May 10:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,500 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,500 per US Dollar.",
+      "date": "2026-05-12T05:30Z",
+      "date_display": "12 May 05:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump has invited Elon Musk, Tim Cook and Larry Fink to join him on trip to China later this week, a...",
+      "description": "Trump has invited Elon Musk, Tim Cook and Larry Fink to join him on trip to China later this week, according to CNBC report.",
+      "date": "2026-05-12T05:30Z",
+      "date_display": "12 May 05:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The oil market will take until next year to normalize if Strait of Hormuz continues to be disrupted,...",
+      "description": "The oil market will take until next year to normalize if Strait of Hormuz continues to be disrupted, according to Saudi Aramco CEO.",
+      "date": "2026-05-12T05:30Z",
+      "date_display": "12 May 05:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: President Trump is now 'more seriously considering a resumption of major combat operations...",
       "description": "<b>BREAKING:</b> President Trump is now 'more seriously considering a resumption of major combat operations' against Iran than he was in recent weeks, according to CNN.",
@@ -107,73 +171,97 @@
       "date_display": "10 May 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says Iranian response to US proposal is 'totally unacceptable' https://t.co/gSVce8Vw...",
-      "description": "<b>BREAKING:</b> Trump says Iranian response to US proposal is 'totally unacceptable' https://t.co/gSVce8Vwfx",
-      "date": "2026-05-10T20:30Z",
-      "date_display": "10 May 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran rejects dismantling its nuclear facilities, according to Wall Street Journal report....",
-      "description": "<b>BREAKING:</b> Iran rejects dismantling its nuclear facilities, according to Wall Street Journal report.",
-      "date": "2026-05-10T20:30Z",
-      "date_display": "10 May 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nSulfur: +90%\nUrea: +59%\nBitumen: +40%\nCotton: +31%\nRubbe...",
-      "description": "Price increase since 1st of January, 2026.\n\nSulfur: +90%\nUrea: +59%\nBitumen: +40%\nCotton: +31%\nRubber: +23%\nRice: +23%\nWool: +22%\nWheat: +20%\nPalm oil: +12%",
-      "date": "2026-05-10T08:30Z",
-      "date_display": "10 May 08:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "North Korea has updated its constitution to require a retaliatory nuclear strike if leader Kim Jong ...",
-      "description": "North Korea has updated its constitution to require a retaliatory nuclear strike if leader Kim Jong Un is assassinated by a foreign enemy, according to report by The Telegraph. https://t.co/ZySMVzRjw4",
-      "date": "2026-05-10T08:30Z",
-      "date_display": "10 May 08:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi Aramco reports revenue of $115 billion in first quarter of 2026. https://t.co/NtTrfbcyw0",
-      "description": "Saudi Aramco reports revenue of $115 billion in first quarter of 2026. https://t.co/NtTrfbcyw0",
-      "date": "2026-05-10T06:00Z",
-      "date_display": "10 May 06:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel set up a 'clandestine military outpost in the Iraqi desert' which was used to 'support its ai...",
-      "description": "Israel set up a 'clandestine military outpost in the Iraqi desert' which was used to 'support its air campaign against Iran', according to Wall Street Journal report.",
-      "date": "2026-05-10T04:30Z",
-      "date_display": "10 May 04:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders...",
-      "description": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders'.",
-      "date": "2026-05-09T21:30Z",
-      "date_display": "09 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101",
-      "description": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101",
-      "date": "2026-05-09T21:20Z",
-      "date_display": "09 May 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
+      "description": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
+      "date": "2026-05-13T03:20Z",
+      "date_display": "13 May 03:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The UK is preparing to contribute a warship, drones and jets to multinational mission to secure the ...",
+      "description": "The UK is preparing to contribute a warship, drones and jets to multinational mission to secure the Strait of Hormuz, according to BBC report. https://t.co/4S1sZKSLls",
+      "date": "2026-05-12T21:10Z",
+      "date_display": "12 May 21:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi Arabia carried out retaliatory strikes against Iran during the war, according to Reu...",
+      "description": "<b>BREAKING:</b> Saudi Arabia carried out retaliatory strikes against Iran during the war, according to Reuters report.",
+      "date": "2026-05-12T20:50Z",
+      "date_display": "12 May 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US inflation has risen to 3.8% in April, above expectations.",
+      "description": "<b>BREAKING:</b> US inflation has risen to 3.8% in April, above expectations.",
+      "date": "2026-05-12T12:40Z",
+      "date_display": "12 May 12:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Cuba is asking for help. https://t.co/o27hZm0BYu",
+      "description": "Trump says that Cuba is asking for help. https://t.co/o27hZm0BYu",
+      "date": "2026-05-12T12:20Z",
+      "date_display": "12 May 12:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Qatar's Prime Minister says that Iran should not use the Strait of Hormuz to 'blackmail' Gulf countr...",
+      "description": "Qatar's Prime Minister says that Iran should not use the Strait of Hormuz to 'blackmail' Gulf countries.",
+      "date": "2026-05-12T10:40Z",
+      "date_display": "12 May 10:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Number of Labour MPs who are calling for UK PM Keir Starmer to resign have reached 78, acc...",
+      "description": "<b>BREAKING:</b> Number of Labour MPs who are calling for UK PM Keir Starmer to resign have reached 78, according to BBC. https://t.co/3HGCxWWX4i",
+      "date": "2026-05-12T09:20Z",
+      "date_display": "12 May 09:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,500 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,500 per US Dollar.",
+      "date": "2026-05-12T05:30Z",
+      "date_display": "12 May 05:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The Republican Party now has a 56% chance of winning the US Senate, compared to 44% for the Democrat...",
+      "description": "The Republican Party now has a 56% chance of winning the US Senate, compared to 44% for the Democrats, according to prediction market @Kalshi. https://t.co/8NnxGOGoHK",
+      "date": "2026-05-12T05:30Z",
+      "date_display": "12 May 05:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump has invited Elon Musk, Tim Cook and Larry Fink to join him on trip to China later this week, a...",
+      "description": "Trump has invited Elon Musk, Tim Cook and Larry Fink to join him on trip to China later this week, according to CNBC report.",
+      "date": "2026-05-12T05:30Z",
+      "date_display": "12 May 05:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The oil market will take until next year to normalize if Strait of Hormuz continues to be disrupted,...",
+      "description": "The oil market will take until next year to normalize if Strait of Hormuz continues to be disrupted, according to Saudi Aramco CEO.",
+      "date": "2026-05-12T05:30Z",
+      "date_display": "12 May 05:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: President Trump is now 'more seriously considering a resumption of major combat operations...",
       "description": "<b>BREAKING:</b> President Trump is now 'more seriously considering a resumption of major combat operations' against Iran than he was in recent weeks, according to CNN.",
@@ -324,94 +412,6 @@
       "date": "2026-05-10T20:30Z",
       "date_display": "10 May 20:30 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Commercial vessel in Qatar's territorial waters has been targeted by a drone.",
-      "description": "Commercial vessel in Qatar's territorial waters has been targeted by a drone.",
-      "date": "2026-05-10T10:20Z",
-      "date_display": "10 May 10:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Passengers have started getting off cruise ship impacted by hantavirus, with the ship now ...",
-      "description": "<b>BREAKING:</b> Passengers have started getting off cruise ship impacted by hantavirus, with the ship now at Spain’s Canary Islands.",
-      "date": "2026-05-10T09:30Z",
-      "date_display": "10 May 09:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nSulfur: +90%\nUrea: +59%\nBitumen: +40%\nCotton: +31%\nRubbe...",
-      "description": "Price increase since 1st of January, 2026.\n\nSulfur: +90%\nUrea: +59%\nBitumen: +40%\nCotton: +31%\nRubber: +23%\nRice: +23%\nWool: +22%\nWheat: +20%\nPalm oil: +12%",
-      "date": "2026-05-10T08:30Z",
-      "date_display": "10 May 08:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "North Korea has updated its constitution to require a retaliatory nuclear strike if leader Kim Jong ...",
-      "description": "North Korea has updated its constitution to require a retaliatory nuclear strike if leader Kim Jong Un is assassinated by a foreign enemy, according to report by The Telegraph. https://t.co/ZySMVzRjw4",
-      "date": "2026-05-10T08:30Z",
-      "date_display": "10 May 08:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi Aramco reports revenue of $115 billion in first quarter of 2026. https://t.co/NtTrfbcyw0",
-      "description": "Saudi Aramco reports revenue of $115 billion in first quarter of 2026. https://t.co/NtTrfbcyw0",
-      "date": "2026-05-10T06:00Z",
-      "date_display": "10 May 06:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel set up a 'clandestine military outpost in the Iraqi desert' which was used to 'support its ai...",
-      "description": "Israel set up a 'clandestine military outpost in the Iraqi desert' which was used to 'support its air campaign against Iran', according to Wall Street Journal report.",
-      "date": "2026-05-10T04:30Z",
-      "date_display": "10 May 04:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders...",
-      "description": "Iranian Revolutionary Guards say missiles and drones are locked onto US targets and 'awaiting orders'.",
-      "date": "2026-05-09T21:30Z",
-      "date_display": "09 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101",
-      "description": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $101",
-      "date": "2026-05-09T21:20Z",
-      "date_display": "09 May 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The UK is deploying the warship HMS Dragon in preparation for effort to secure shipping in Strait of...",
-      "description": "The UK is deploying the warship HMS Dragon in preparation for effort to secure shipping in Strait of Hormuz 'when conditions allow'. https://t.co/1mts7yYRzm",
-      "date": "2026-05-09T21:10Z",
-      "date_display": "09 May 21:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian state media  calls for taking control of the undersea cables in the Strait of Horm...",
-      "description": "<b>BREAKING:</b> Iranian state media  calls for taking control of the undersea cables in the Strait of Hormuz and charging fees",
-      "date": "2026-05-09T20:40Z",
-      "date_display": "09 May 20:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Bahrain announces it has uncovered a spying network linked to the Iranian Revolutionary Guards.",
-      "description": "Bahrain announces it has uncovered a spying network linked to the Iranian Revolutionary Guards.",
-      "date": "2026-05-09T09:00Z",
-      "date_display": "09 May 09:00 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

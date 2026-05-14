@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-13T04:30Z",
+  "fetched_at": "2026-05-14T04:29Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 37,
+  "india_relevant_items": 36,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "Oil prices are up 3% as US-Iran peace efforts stall."
   },
   "india_headlines": [
+    {
+      "title": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that...",
+      "description": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that suggests high likelihood of war between rising and established powers, during their summit. https://t.co/5knKZGhJEJ",
+      "date": "2026-05-14T03:50Z",
+      "date_display": "14 May 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Saudi fighter jets bombed Iran-affiliated militias in Iraq during the conflict, according to Reuters...",
+      "description": "Saudi fighter jets bombed Iran-affiliated militias in Iraq during the conflict, according to Reuters report. https://t.co/IulcirFbgM",
+      "date": "2026-05-13T21:00Z",
+      "date_display": "13 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UAE denies reports that Netanyahu visited the country during the conflict with Iran.",
+      "description": "UAE denies reports that Netanyahu visited the country during the conflict with Iran.",
+      "date": "2026-05-13T20:50Z",
+      "date_display": "13 May 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
       "description": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
@@ -147,33 +171,65 @@
       "date_display": "11 May 00:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices up over 3% after US and Iran reject each other's proposals",
-      "description": "<b>BREAKING:</b> Oil prices up over 3% after US and Iran reject each other's proposals",
-      "date": "2026-05-10T22:10Z",
-      "date_display": "10 May 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran demanded war reparations, removal of sanctions, unfreezing of assets and control over...",
-      "description": "<b>BREAKING:</b> Iran demanded war reparations, removal of sanctions, unfreezing of assets and control over the Strait of Hormuz as part of its rejection of US proposal, according to state media.",
-      "date": "2026-05-10T21:20Z",
-      "date_display": "10 May 21:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media says that Trump's rejection of Iranian proposal 'does not matter at all' and tha...",
-      "description": "Iranian state media says that Trump's rejection of Iranian proposal 'does not matter at all' and that he 'generally dislikes reality, which is why he is constantly being defeated by Iran'.",
-      "date": "2026-05-10T21:00Z",
-      "date_display": "10 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that...",
+      "description": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that suggests high likelihood of war between rising and established powers, during their summit. https://t.co/5knKZGhJEJ",
+      "date": "2026-05-14T03:50Z",
+      "date_display": "14 May 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says Xi Jinping is his 'friend' and calls him a 'great leader'. https://t.co/brftoylG20",
+      "description": "Trump says Xi Jinping is his 'friend' and calls him a 'great leader'. https://t.co/brftoylG20",
+      "date": "2026-05-14T02:50Z",
+      "date_display": "14 May 02:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump meets Xi Jinping at Beijing's Great Hall of the People",
+      "description": "<b>BREAKING:</b> Trump meets Xi Jinping at Beijing's Great Hall of the People",
+      "date": "2026-05-14T02:20Z",
+      "date_display": "14 May 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Saudi fighter jets bombed Iran-affiliated militias in Iraq during the conflict, according to Reuters...",
+      "description": "Saudi fighter jets bombed Iran-affiliated militias in Iraq during the conflict, according to Reuters report. https://t.co/IulcirFbgM",
+      "date": "2026-05-13T21:00Z",
+      "date_display": "13 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UAE denies reports that Netanyahu visited the country during the conflict with Iran.",
+      "description": "UAE denies reports that Netanyahu visited the country during the conflict with Iran.",
+      "date": "2026-05-13T20:50Z",
+      "date_display": "13 May 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: UK Health Minister Wes Streeting is preparing to resign and trigger leadership contest aga...",
+      "description": "<b>BREAKING:</b> UK Health Minister Wes Streeting is preparing to resign and trigger leadership contest against PM Keir Starmer, according to The Times. https://t.co/rPjda13OfA",
+      "date": "2026-05-13T10:20Z",
+      "date_display": "13 May 10:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇯🇵 Japan has posted a $219 billion current account surplus, the biggest on record, as exports grew...",
+      "description": "🇯🇵 Japan has posted a $219 billion current account surplus, the biggest on record, as exports grew by over 11%.",
+      "date": "2026-05-13T05:00Z",
+      "date_display": "13 May 05:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
       "description": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
@@ -356,62 +412,6 @@
       "date": "2026-05-11T04:20Z",
       "date_display": "11 May 04:20 UTC",
       "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil prices up 4% after US and Iran reject each other's proposals.",
-      "description": "US crude oil prices up 4% after US and Iran reject each other's proposals.",
-      "date": "2026-05-11T00:50Z",
-      "date_display": "11 May 00:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Netanyahu says that he wants to wean Israel off US financial military aid, 'down to zero'.",
-      "description": "Netanyahu says that he wants to wean Israel off US financial military aid, 'down to zero'.",
-      "date": "2026-05-10T22:50Z",
-      "date_display": "10 May 22:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Oil prices up over 3% after US and Iran reject each other's proposals",
-      "description": "<b>BREAKING:</b> Oil prices up over 3% after US and Iran reject each other's proposals",
-      "date": "2026-05-10T22:10Z",
-      "date_display": "10 May 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran demanded war reparations, removal of sanctions, unfreezing of assets and control over...",
-      "description": "<b>BREAKING:</b> Iran demanded war reparations, removal of sanctions, unfreezing of assets and control over the Strait of Hormuz as part of its rejection of US proposal, according to state media.",
-      "date": "2026-05-10T21:20Z",
-      "date_display": "10 May 21:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media says that Trump's rejection of Iranian proposal 'does not matter at all' and tha...",
-      "description": "Iranian state media says that Trump's rejection of Iranian proposal 'does not matter at all' and that he 'generally dislikes reality, which is why he is constantly being defeated by Iran'.",
-      "date": "2026-05-10T21:00Z",
-      "date_display": "10 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says Iranian response to US proposal is 'totally unacceptable' https://t.co/gSVce8Vw...",
-      "description": "<b>BREAKING:</b> Trump says Iranian response to US proposal is 'totally unacceptable' https://t.co/gSVce8Vwfx",
-      "date": "2026-05-10T20:30Z",
-      "date_display": "10 May 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran rejects dismantling its nuclear facilities, according to Wall Street Journal report....",
-      "description": "<b>BREAKING:</b> Iran rejects dismantling its nuclear facilities, according to Wall Street Journal report.",
-      "date": "2026-05-10T20:30Z",
-      "date_display": "10 May 20:30 UTC",
-      "severity": "high",
       "is_india_relevant": true
     }
   ]

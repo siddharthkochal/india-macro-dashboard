@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-14T04:29Z",
+  "fetched_at": "2026-05-15T04:35Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 36,
+  "india_relevant_items": 34,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,54 @@
     "latest_oil_headline": "Oil prices are up 3% as US-Iran peace efforts stall."
   },
   "india_headlines": [
+    {
+      "title": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
+      "description": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
+      "date": "2026-05-15T00:30Z",
+      "date_display": "15 May 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Chances of US-Iran nuclear deal before the end of the year fall to 52% according to @Kalshi predicti...",
+      "description": "Chances of US-Iran nuclear deal before the end of the year fall to 52% according to @Kalshi prediction market. https://t.co/7xlnsPSxS3",
+      "date": "2026-05-14T21:50Z",
+      "date_display": "14 May 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's foreign minister claims that the UAE was involved in military operations against his country.",
+      "description": "Iran's foreign minister claims that the UAE was involved in military operations against his country.",
+      "date": "2026-05-14T09:50Z",
+      "date_display": "14 May 09:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: White House says that the United States and China agreed Iran cannot have a nuclear weapon...",
+      "description": "<b>BREAKING:</b> White House says that the United States and China agreed Iran cannot have a nuclear weapon",
+      "date": "2026-05-14T09:10Z",
+      "date_display": "14 May 09:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Xi Jinping told Trump that if the issue of Taiwan is 'mishandled', the US and China 'could collide o...",
+      "description": "Xi Jinping told Trump that if the issue of Taiwan is 'mishandled', the US and China 'could collide or even come into conflict, pushing the entire China-US relationship into a highly perilous situation'. https://t.co/s7mx5YfD33",
+      "date": "2026-05-14T07:30Z",
+      "date_display": "14 May 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UK maritime agency reports incident northeast of the UAE's coast, where a vessel was boarded by 'una...",
+      "description": "UK maritime agency reports incident northeast of the UAE's coast, where a vessel was boarded by 'unauthorised personnel' and is now headed into Iranian waters.",
+      "date": "2026-05-14T07:30Z",
+      "date_display": "14 May 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that...",
       "description": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that suggests high likelihood of war between rising and established powers, during their summit. https://t.co/5knKZGhJEJ",
@@ -123,57 +171,73 @@
       "date_display": "11 May 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Iran's Speaker of Parliament and chief negotiator says the longer it takes to 'accept the rights of ...",
-      "description": "Iran's Speaker of Parliament and chief negotiator says the longer it takes to 'accept the rights of the Iranian people', the 'more American taxpayers will pay for it'. https://t.co/ZsN5OBWhnQ",
-      "date": "2026-05-11T21:00Z",
-      "date_display": "11 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "India's PM Narendra Modi has asked Indians to stop buying gold for a year, as it is putting strain o...",
-      "description": "India's PM Narendra Modi has asked Indians to stop buying gold for a year, as it is putting strain on the country's foreign exchange reserves. https://t.co/jjVNDKnLmC",
-      "date": "2026-05-11T10:40Z",
-      "date_display": "11 May 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian foreign ministry spokesperson says 'whenever we are forced to fight, we will fight'.",
-      "description": "Iranian foreign ministry spokesperson says 'whenever we are forced to fight, we will fight'.",
-      "date": "2026-05-11T08:50Z",
-      "date_display": "11 May 08:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says it has executed a man accused of spying for the US and Israel.",
-      "description": "Iran says it has executed a man accused of spying for the US and Israel.",
-      "date": "2026-05-11T06:30Z",
-      "date_display": "11 May 06:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
-      "description": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
-      "date": "2026-05-11T04:20Z",
-      "date_display": "11 May 04:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil prices up 4% after US and Iran reject each other's proposals.",
-      "description": "US crude oil prices up 4% after US and Iran reject each other's proposals.",
-      "date": "2026-05-11T00:50Z",
-      "date_display": "11 May 00:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
+      "description": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
+      "date": "2026-05-15T00:30Z",
+      "date_display": "15 May 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Chances of US-Iran nuclear deal before the end of the year fall to 52% according to @Kalshi predicti...",
+      "description": "Chances of US-Iran nuclear deal before the end of the year fall to 52% according to @Kalshi prediction market. https://t.co/7xlnsPSxS3",
+      "date": "2026-05-14T21:50Z",
+      "date_display": "14 May 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The CIA Director John Ratcliffe visited Cuba earlier today",
+      "description": "<b>BREAKING:</b> The CIA Director John Ratcliffe visited Cuba earlier today",
+      "date": "2026-05-14T21:20Z",
+      "date_display": "14 May 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Wes Streeting has resigned as UK Health Secretary, amid possible challenge against UK PM K...",
+      "description": "<b>BREAKING:</b> Wes Streeting has resigned as UK Health Secretary, amid possible challenge against UK PM Keir Starmer. https://t.co/xmTdSixLve",
+      "date": "2026-05-14T12:20Z",
+      "date_display": "14 May 12:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iran's foreign minister claims that the UAE was involved in military operations against his country.",
+      "description": "Iran's foreign minister claims that the UAE was involved in military operations against his country.",
+      "date": "2026-05-14T09:50Z",
+      "date_display": "14 May 09:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: White House says that the United States and China agreed Iran cannot have a nuclear weapon...",
+      "description": "<b>BREAKING:</b> White House says that the United States and China agreed Iran cannot have a nuclear weapon",
+      "date": "2026-05-14T09:10Z",
+      "date_display": "14 May 09:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Xi Jinping told Trump that if the issue of Taiwan is 'mishandled', the US and China 'could collide o...",
+      "description": "Xi Jinping told Trump that if the issue of Taiwan is 'mishandled', the US and China 'could collide or even come into conflict, pushing the entire China-US relationship into a highly perilous situation'. https://t.co/s7mx5YfD33",
+      "date": "2026-05-14T07:30Z",
+      "date_display": "14 May 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UK maritime agency reports incident northeast of the UAE's coast, where a vessel was boarded by 'una...",
+      "description": "UK maritime agency reports incident northeast of the UAE's coast, where a vessel was boarded by 'unauthorised personnel' and is now headed into Iranian waters.",
+      "date": "2026-05-14T07:30Z",
+      "date_display": "14 May 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that...",
       "description": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that suggests high likelihood of war between rising and established powers, during their summit. https://t.co/5knKZGhJEJ",
@@ -347,70 +411,6 @@
       "description": "Oil prices are up 3% as US-Iran peace efforts stall.",
       "date": "2026-05-11T21:00Z",
       "date_display": "11 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's Speaker of Parliament and chief negotiator says the longer it takes to 'accept the rights of ...",
-      "description": "Iran's Speaker of Parliament and chief negotiator says the longer it takes to 'accept the rights of the Iranian people', the 'more American taxpayers will pay for it'. https://t.co/ZsN5OBWhnQ",
-      "date": "2026-05-11T21:00Z",
-      "date_display": "11 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Broadcasters of Spain, Slovenia and Ireland will boycott Eurovision for this year.",
-      "description": "Broadcasters of Spain, Slovenia and Ireland will boycott Eurovision for this year.",
-      "date": "2026-05-11T11:30Z",
-      "date_display": "11 May 11:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: UK MP Catherine West sends out letter to colleagues asking for support in electing a new l...",
-      "description": "<b>BREAKING:</b> UK MP Catherine West sends out letter to colleagues asking for support in electing a new leader for the Labour Party, replacing PM Keir Starmer. https://t.co/RUz2SrPg9s",
-      "date": "2026-05-11T11:20Z",
-      "date_display": "11 May 11:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "ITV journalist Robert Peston reports that British MP Catherine West is preparing to challenge Prime ...",
-      "description": "ITV journalist Robert Peston reports that British MP Catherine West is preparing to challenge Prime Minister Keir Starmer for leadership of the Labour Party. https://t.co/kCmg7WRniX",
-      "date": "2026-05-11T10:50Z",
-      "date_display": "11 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "India's PM Narendra Modi has asked Indians to stop buying gold for a year, as it is putting strain o...",
-      "description": "India's PM Narendra Modi has asked Indians to stop buying gold for a year, as it is putting strain on the country's foreign exchange reserves. https://t.co/jjVNDKnLmC",
-      "date": "2026-05-11T10:40Z",
-      "date_display": "11 May 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian foreign ministry spokesperson says 'whenever we are forced to fight, we will fight'.",
-      "description": "Iranian foreign ministry spokesperson says 'whenever we are forced to fight, we will fight'.",
-      "date": "2026-05-11T08:50Z",
-      "date_display": "11 May 08:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says it has executed a man accused of spying for the US and Israel.",
-      "description": "Iran says it has executed a man accused of spying for the US and Israel.",
-      "date": "2026-05-11T06:30Z",
-      "date_display": "11 May 06:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
-      "description": "US crude oil prices surged by 5% after US and Iran reject each other's proposals.",
-      "date": "2026-05-11T04:20Z",
-      "date_display": "11 May 04:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-15T04:35Z",
+  "fetched_at": "2026-05-16T04:09Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 34,
+  "india_relevant_items": 35,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,38 @@
     "latest_oil_headline": "Oil prices are up 3% as US-Iran peace efforts stall."
   },
   "india_headlines": [
+    {
+      "title": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', a...",
+      "description": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', adding China is '59 miles away' from Taiwan, while the 'we are 9,500 miles away' and that is a 'difficult problem'. https://t.co/qILuvciLL1",
+      "date": "2026-05-16T00:20Z",
+      "date_display": "16 May 00:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China's foreign minister calls for the Strait of Hormuz to be reopened as soon as possible. https://...",
+      "description": "China's foreign minister calls for the Strait of Hormuz to be reopened as soon as possible. https://t.co/Yl5DaEjaXb",
+      "date": "2026-05-15T22:00Z",
+      "date_display": "15 May 22:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Jerome Powell's tenure as Federal Reserve Chair officially ends after 8 years. https://t.co/j41Ed7TH...",
+      "description": "Jerome Powell's tenure as Federal Reserve Chair officially ends after 8 years. https://t.co/j41Ed7THSL",
+      "date": "2026-05-15T21:50Z",
+      "date_display": "15 May 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's foreign minister says his country has no trust in the United states, but remains open to nego...",
+      "description": "Iran's foreign minister says his country has no trust in the United states, but remains open to negotiations. https://t.co/kPSKXsLDIP",
+      "date": "2026-05-15T10:10Z",
+      "date_display": "15 May 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
       "description": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
@@ -139,41 +171,41 @@
       "date_display": "12 May 05:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', a...",
+      "description": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', adding China is '59 miles away' from Taiwan, while the 'we are 9,500 miles away' and that is a 'difficult problem'. https://t.co/qILuvciLL1",
+      "date": "2026-05-16T00:20Z",
+      "date_display": "16 May 00:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
     },
     {
-      "title": "The oil market will take until next year to normalize if Strait of Hormuz continues to be disrupted,...",
-      "description": "The oil market will take until next year to normalize if Strait of Hormuz continues to be disrupted, according to Saudi Aramco CEO.",
-      "date": "2026-05-12T05:30Z",
-      "date_display": "12 May 05:30 UTC",
+      "title": "China's foreign minister calls for the Strait of Hormuz to be reopened as soon as possible. https://...",
+      "description": "China's foreign minister calls for the Strait of Hormuz to be reopened as soon as possible. https://t.co/Yl5DaEjaXb",
+      "date": "2026-05-15T22:00Z",
+      "date_display": "15 May 22:00 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: President Trump is now 'more seriously considering a resumption of major combat operations...",
-      "description": "<b>BREAKING:</b> President Trump is now 'more seriously considering a resumption of major combat operations' against Iran than he was in recent weeks, according to CNN.",
-      "date": "2026-05-12T00:40Z",
-      "date_display": "12 May 00:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israel's Channel 12 reports that Trump is inclined towards resuming military activity agai...",
-      "description": "<b>BREAKING:</b> Israel's Channel 12 reports that Trump is inclined towards resuming military activity against Iran",
-      "date": "2026-05-11T21:00Z",
-      "date_display": "11 May 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are up 3% as US-Iran peace efforts stall.",
-      "description": "Oil prices are up 3% as US-Iran peace efforts stall.",
-      "date": "2026-05-11T21:00Z",
-      "date_display": "11 May 21:00 UTC",
+      "title": "Jerome Powell's tenure as Federal Reserve Chair officially ends after 8 years. https://t.co/j41Ed7TH...",
+      "description": "Jerome Powell's tenure as Federal Reserve Chair officially ends after 8 years. https://t.co/j41Ed7THSL",
+      "date": "2026-05-15T21:50Z",
+      "date_display": "15 May 21:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "Iran's foreign minister says his country has no trust in the United states, but remains open to nego...",
+      "description": "Iran's foreign minister says his country has no trust in the United states, but remains open to negotiations. https://t.co/kPSKXsLDIP",
+      "date": "2026-05-15T10:10Z",
+      "date_display": "15 May 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
       "description": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
@@ -380,38 +412,6 @@
       "date": "2026-05-12T05:30Z",
       "date_display": "12 May 05:30 UTC",
       "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: President Trump is now 'more seriously considering a resumption of major combat operations...",
-      "description": "<b>BREAKING:</b> President Trump is now 'more seriously considering a resumption of major combat operations' against Iran than he was in recent weeks, according to CNN.",
-      "date": "2026-05-12T00:40Z",
-      "date_display": "12 May 00:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Number of Labour MPs who are calling for UK PM Keir Starmer to resign have reached 70, inc...",
-      "description": "<b>BREAKING:</b> Number of Labour MPs who are calling for UK PM Keir Starmer to resign have reached 70, including Home Secretary Shabana Mahmood, according to BBC. https://t.co/sUNHKWI2F1",
-      "date": "2026-05-11T21:30Z",
-      "date_display": "11 May 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Israel's Channel 12 reports that Trump is inclined towards resuming military activity agai...",
-      "description": "<b>BREAKING:</b> Israel's Channel 12 reports that Trump is inclined towards resuming military activity against Iran",
-      "date": "2026-05-11T21:00Z",
-      "date_display": "11 May 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are up 3% as US-Iran peace efforts stall.",
-      "description": "Oil prices are up 3% as US-Iran peace efforts stall.",
-      "date": "2026-05-11T21:00Z",
-      "date_display": "11 May 21:00 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

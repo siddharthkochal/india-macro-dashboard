@@ -1,17 +1,25 @@
 {
-  "fetched_at": "2026-05-16T04:09Z",
+  "fetched_at": "2026-05-17T04:39Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 35,
+  "india_relevant_items": 31,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices are up 3% as US-Iran peace efforts stall."
+    "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent ..."
   },
   "india_headlines": [
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent ...",
+      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent crude oil: +80%\nEuropean gas: +78%\nCoal: +22%",
+      "date": "2026-05-16T21:00Z",
+      "date_display": "16 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', a...",
       "description": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', adding China is '59 miles away' from Taiwan, while the 'we are 9,500 miles away' and that is a 'difficult problem'. https://t.co/qILuvciLL1",
@@ -163,17 +171,57 @@
       "date_display": "12 May 05:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Trump has invited Elon Musk, Tim Cook and Larry Fink to join him on trip to China later this week, a...",
-      "description": "Trump has invited Elon Musk, Tim Cook and Larry Fink to join him on trip to China later this week, according to CNBC report.",
-      "date": "2026-05-12T05:30Z",
-      "date_display": "12 May 05:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Venezuela deports Maduro ally Alex Saab to the US",
+      "description": "<b>BREAKING:</b> Venezuela deports Maduro ally Alex Saab to the US",
+      "date": "2026-05-16T23:10Z",
+      "date_display": "16 May 23:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Bulgaria wins Eurovision",
+      "description": "<b>BREAKING:</b> Bulgaria wins Eurovision",
+      "date": "2026-05-16T23:10Z",
+      "date_display": "16 May 23:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US government debt\n\n10 years ago: $19.5 trillion\n\nNow: $39 trillion https://t.co/wuHPRdvjZK",
+      "description": "US government debt\n\n10 years ago: $19.5 trillion\n\nNow: $39 trillion https://t.co/wuHPRdvjZK",
+      "date": "2026-05-16T23:00Z",
+      "date_display": "16 May 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent ...",
+      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent crude oil: +80%\nEuropean gas: +78%\nCoal: +22%",
+      "date": "2026-05-16T21:00Z",
+      "date_display": "16 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli military confirms it has killed the leader of Hamas military wing",
+      "description": "<b>BREAKING:</b> Israeli military confirms it has killed the leader of Hamas military wing",
+      "date": "2026-05-16T10:00Z",
+      "date_display": "16 May 10:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says US has killed ISIS commander in Nigeria https://t.co/LrpE2RcOA6",
+      "description": "<b>BREAKING:</b> Trump says US has killed ISIS commander in Nigeria https://t.co/LrpE2RcOA6",
+      "date": "2026-05-16T03:50Z",
+      "date_display": "16 May 03:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', a...",
       "description": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', adding China is '59 miles away' from Taiwan, while the 'we are 9,500 miles away' and that is a 'difficult problem'. https://t.co/qILuvciLL1",
@@ -365,54 +413,6 @@
       "date_display": "12 May 12:20 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "Qatar's Prime Minister says that Iran should not use the Strait of Hormuz to 'blackmail' Gulf countr...",
-      "description": "Qatar's Prime Minister says that Iran should not use the Strait of Hormuz to 'blackmail' Gulf countries.",
-      "date": "2026-05-12T10:40Z",
-      "date_display": "12 May 10:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Number of Labour MPs who are calling for UK PM Keir Starmer to resign have reached 78, acc...",
-      "description": "<b>BREAKING:</b> Number of Labour MPs who are calling for UK PM Keir Starmer to resign have reached 78, according to BBC. https://t.co/3HGCxWWX4i",
-      "date": "2026-05-12T09:20Z",
-      "date_display": "12 May 09:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,500 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,500 per US Dollar.",
-      "date": "2026-05-12T05:30Z",
-      "date_display": "12 May 05:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Republican Party now has a 56% chance of winning the US Senate, compared to 44% for the Democrat...",
-      "description": "The Republican Party now has a 56% chance of winning the US Senate, compared to 44% for the Democrats, according to prediction market @Kalshi. https://t.co/8NnxGOGoHK",
-      "date": "2026-05-12T05:30Z",
-      "date_display": "12 May 05:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump has invited Elon Musk, Tim Cook and Larry Fink to join him on trip to China later this week, a...",
-      "description": "Trump has invited Elon Musk, Tim Cook and Larry Fink to join him on trip to China later this week, according to CNBC report.",
-      "date": "2026-05-12T05:30Z",
-      "date_display": "12 May 05:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The oil market will take until next year to normalize if Strait of Hormuz continues to be disrupted,...",
-      "description": "The oil market will take until next year to normalize if Strait of Hormuz continues to be disrupted, according to Saudi Aramco CEO.",
-      "date": "2026-05-12T05:30Z",
-      "date_display": "12 May 05:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ]
 }

@@ -1,17 +1,73 @@
 {
-  "fetched_at": "2026-05-18T04:50Z",
+  "fetched_at": "2026-05-19T04:43Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 30,
+  "india_relevant_items": 31,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "up",
-    "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent ..."
+    "price_direction": "down",
+    "latest_oil_headline": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'se..."
   },
   "india_headlines": [
+    {
+      "title": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest gr...",
+      "description": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest growth since 2024. https://t.co/oiLamOurOn",
+      "date": "2026-05-19T03:40Z",
+      "date_display": "19 May 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'se...",
+      "description": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'serious negotiations'.",
+      "date": "2026-05-19T00:30Z",
+      "date_display": "19 May 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Anti-Islamic writings were found in car where two suspects were found dead, after shooting attack at...",
+      "description": "Anti-Islamic writings were found in car where two suspects were found dead, after shooting attack at mosque in San Diego, according to New York Times report.",
+      "date": "2026-05-18T22:30Z",
+      "date_display": "18 May 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reuters reports that Pakistan has deployed '8,000 troops, a ​squadron of fighter jets and an air def...",
+      "description": "Reuters reports that Pakistan has deployed '8,000 troops, a ​squadron of fighter jets and an air defence system to  Saudi Arabia under a mutual defence pact'. https://t.co/sSWok8kIrT",
+      "date": "2026-05-18T21:40Z",
+      "date_display": "18 May 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The New York Times reports the US and Israel are making preparations for possible resumpti...",
+      "description": "<b>BREAKING:</b> The New York Times reports the US and Israel are making preparations for possible resumption of attacks against Iran as early as this week",
+      "date": "2026-05-18T13:10Z",
+      "date_display": "18 May 13:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Germany's Chancellor Merz 'strongly condemns' the renewed Iranian airstrikes against the United Arab...",
+      "description": "Germany's Chancellor Merz 'strongly condemns' the renewed Iranian airstrikes against the United Arab Emirates. https://t.co/fXshFC88Qc",
+      "date": "2026-05-18T10:40Z",
+      "date_display": "18 May 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇳 India's rupee falls to record low of 96.3 per US Dollar.",
+      "description": "🇮🇳 India's rupee falls to record low of 96.3 per US Dollar.",
+      "date": "2026-05-18T10:10Z",
+      "date_display": "18 May 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,650 per US Dollar.",
       "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,650 per US Dollar.",
@@ -115,65 +171,97 @@
       "date_display": "14 May 09:10 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Xi Jinping told Trump that if the issue of Taiwan is 'mishandled', the US and China 'could collide o...",
-      "description": "Xi Jinping told Trump that if the issue of Taiwan is 'mishandled', the US and China 'could collide or even come into conflict, pushing the entire China-US relationship into a highly perilous situation'. https://t.co/s7mx5YfD33",
-      "date": "2026-05-14T07:30Z",
-      "date_display": "14 May 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UK maritime agency reports incident northeast of the UAE's coast, where a vessel was boarded by 'una...",
-      "description": "UK maritime agency reports incident northeast of the UAE's coast, where a vessel was boarded by 'unauthorised personnel' and is now headed into Iranian waters.",
-      "date": "2026-05-14T07:30Z",
-      "date_display": "14 May 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that...",
-      "description": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that suggests high likelihood of war between rising and established powers, during their summit. https://t.co/5knKZGhJEJ",
-      "date": "2026-05-14T03:50Z",
-      "date_display": "14 May 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi fighter jets bombed Iran-affiliated militias in Iraq during the conflict, according to Reuters...",
-      "description": "Saudi fighter jets bombed Iran-affiliated militias in Iraq during the conflict, according to Reuters report. https://t.co/IulcirFbgM",
-      "date": "2026-05-13T21:00Z",
-      "date_display": "13 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UAE denies reports that Netanyahu visited the country during the conflict with Iran.",
-      "description": "UAE denies reports that Netanyahu visited the country during the conflict with Iran.",
-      "date": "2026-05-13T20:50Z",
-      "date_display": "13 May 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
-      "description": "Trump post about business leaders with him on trip to China. https://t.co/MZ9ZOj4rVa",
-      "date": "2026-05-13T03:20Z",
-      "date_display": "13 May 03:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The UK is preparing to contribute a warship, drones and jets to multinational mission to secure the ...",
-      "description": "The UK is preparing to contribute a warship, drones and jets to multinational mission to secure the Strait of Hormuz, according to BBC report. https://t.co/4S1sZKSLls",
-      "date": "2026-05-12T21:10Z",
-      "date_display": "12 May 21:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "An American doctor has tested positive for Ebola after working in the Democratic Republic of Congo a...",
+      "description": "An American doctor has tested positive for Ebola after working in the Democratic Republic of Congo and is being evacuated to Germany for treatment.",
+      "date": "2026-05-19T03:50Z",
+      "date_display": "19 May 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest gr...",
+      "description": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest growth since 2024. https://t.co/oiLamOurOn",
+      "date": "2026-05-19T03:40Z",
+      "date_display": "19 May 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'se...",
+      "description": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'serious negotiations'.",
+      "date": "2026-05-19T00:30Z",
+      "date_display": "19 May 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "San Diego mosque shooting suspects have been identified as 17 year old Cain Clark and 18 year old Ca...",
+      "description": "San Diego mosque shooting suspects have been identified as 17 year old Cain Clark and 18 year old Caleb Vasquez.",
+      "date": "2026-05-19T00:20Z",
+      "date_display": "19 May 00:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Anti-Islamic writings were found in car where two suspects were found dead, after shooting attack at...",
+      "description": "Anti-Islamic writings were found in car where two suspects were found dead, after shooting attack at mosque in San Diego, according to New York Times report.",
+      "date": "2026-05-18T22:30Z",
+      "date_display": "18 May 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reuters reports that Pakistan has deployed '8,000 troops, a ​squadron of fighter jets and an air def...",
+      "description": "Reuters reports that Pakistan has deployed '8,000 troops, a ​squadron of fighter jets and an air defence system to  Saudi Arabia under a mutual defence pact'. https://t.co/sSWok8kIrT",
+      "date": "2026-05-18T21:40Z",
+      "date_display": "18 May 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 3 victims killed and two suspects dead after shooting at Islamic centre in San Diego...",
+      "description": "<b>BREAKING:</b> 3 victims killed and two suspects dead after shooting at Islamic centre in San Diego",
+      "date": "2026-05-18T21:20Z",
+      "date_display": "18 May 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: The New York Times reports the US and Israel are making preparations for possible resumpti...",
+      "description": "<b>BREAKING:</b> The New York Times reports the US and Israel are making preparations for possible resumption of attacks against Iran as early as this week",
+      "date": "2026-05-18T13:10Z",
+      "date_display": "18 May 13:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Germany's Chancellor Merz 'strongly condemns' the renewed Iranian airstrikes against the United Arab...",
+      "description": "Germany's Chancellor Merz 'strongly condemns' the renewed Iranian airstrikes against the United Arab Emirates. https://t.co/fXshFC88Qc",
+      "date": "2026-05-18T10:40Z",
+      "date_display": "18 May 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇳 India's rupee falls to record low of 96.3 per US Dollar.",
+      "description": "🇮🇳 India's rupee falls to record low of 96.3 per US Dollar.",
+      "date": "2026-05-18T10:10Z",
+      "date_display": "18 May 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇹🇷 Turkey's consumer confidence has risen to highest level since March, 2025.",
+      "description": "🇹🇷 Turkey's consumer confidence has risen to highest level since March, 2025.",
+      "date": "2026-05-18T09:30Z",
+      "date_display": "18 May 09:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,650 per US Dollar.",
       "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,650 per US Dollar.",
@@ -323,94 +411,6 @@
       "description": "<b>BREAKING:</b> The CIA Director John Ratcliffe visited Cuba earlier today",
       "date": "2026-05-14T21:20Z",
       "date_display": "14 May 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Wes Streeting has resigned as UK Health Secretary, amid possible challenge against UK PM K...",
-      "description": "<b>BREAKING:</b> Wes Streeting has resigned as UK Health Secretary, amid possible challenge against UK PM Keir Starmer. https://t.co/xmTdSixLve",
-      "date": "2026-05-14T12:20Z",
-      "date_display": "14 May 12:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iran's foreign minister claims that the UAE was involved in military operations against his country.",
-      "description": "Iran's foreign minister claims that the UAE was involved in military operations against his country.",
-      "date": "2026-05-14T09:50Z",
-      "date_display": "14 May 09:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: White House says that the United States and China agreed Iran cannot have a nuclear weapon...",
-      "description": "<b>BREAKING:</b> White House says that the United States and China agreed Iran cannot have a nuclear weapon",
-      "date": "2026-05-14T09:10Z",
-      "date_display": "14 May 09:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Xi Jinping told Trump that if the issue of Taiwan is 'mishandled', the US and China 'could collide o...",
-      "description": "Xi Jinping told Trump that if the issue of Taiwan is 'mishandled', the US and China 'could collide or even come into conflict, pushing the entire China-US relationship into a highly perilous situation'. https://t.co/s7mx5YfD33",
-      "date": "2026-05-14T07:30Z",
-      "date_display": "14 May 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UK maritime agency reports incident northeast of the UAE's coast, where a vessel was boarded by 'una...",
-      "description": "UK maritime agency reports incident northeast of the UAE's coast, where a vessel was boarded by 'unauthorised personnel' and is now headed into Iranian waters.",
-      "date": "2026-05-14T07:30Z",
-      "date_display": "14 May 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that...",
-      "description": "Xi Jinping asked Trump if the United States and China can avoid the 'Thucydides Trap', a theory that suggests high likelihood of war between rising and established powers, during their summit. https://t.co/5knKZGhJEJ",
-      "date": "2026-05-14T03:50Z",
-      "date_display": "14 May 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says Xi Jinping is his 'friend' and calls him a 'great leader'. https://t.co/brftoylG20",
-      "description": "Trump says Xi Jinping is his 'friend' and calls him a 'great leader'. https://t.co/brftoylG20",
-      "date": "2026-05-14T02:50Z",
-      "date_display": "14 May 02:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump meets Xi Jinping at Beijing's Great Hall of the People",
-      "description": "<b>BREAKING:</b> Trump meets Xi Jinping at Beijing's Great Hall of the People",
-      "date": "2026-05-14T02:20Z",
-      "date_display": "14 May 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Saudi fighter jets bombed Iran-affiliated militias in Iraq during the conflict, according to Reuters...",
-      "description": "Saudi fighter jets bombed Iran-affiliated militias in Iraq during the conflict, according to Reuters report. https://t.co/IulcirFbgM",
-      "date": "2026-05-13T21:00Z",
-      "date_display": "13 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UAE denies reports that Netanyahu visited the country during the conflict with Iran.",
-      "description": "UAE denies reports that Netanyahu visited the country during the conflict with Iran.",
-      "date": "2026-05-13T20:50Z",
-      "date_display": "13 May 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: UK Health Minister Wes Streeting is preparing to resign and trigger leadership contest aga...",
-      "description": "<b>BREAKING:</b> UK Health Minister Wes Streeting is preparing to resign and trigger leadership contest against PM Keir Starmer, according to The Times. https://t.co/rPjda13OfA",
-      "date": "2026-05-13T10:20Z",
-      "date_display": "13 May 10:20 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

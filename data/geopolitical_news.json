@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-19T04:43Z",
+  "fetched_at": "2026-05-20T04:47Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 31,
+  "india_relevant_items": 29,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,38 @@
     "latest_oil_headline": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'se..."
   },
   "india_headlines": [
+    {
+      "title": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, acc...",
+      "description": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, according to the Wall Street Journal.",
+      "date": "2026-05-19T20:50Z",
+      "date_display": "19 May 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran is continuing to call for reparations over US-Israeli strikes against it, according to state me...",
+      "description": "Iran is continuing to call for reparations over US-Israeli strikes against it, according to state media.",
+      "date": "2026-05-19T12:00Z",
+      "date_display": "19 May 12:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇳 India's rupee falls to record low of 96.5 per US Dollar. https://t.co/NmV8Bh9vU6",
+      "description": "🇮🇳 India's rupee falls to record low of 96.5 per US Dollar. https://t.co/NmV8Bh9vU6",
+      "date": "2026-05-19T10:00Z",
+      "date_display": "19 May 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,720 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,720 per US Dollar.",
+      "date": "2026-05-19T09:40Z",
+      "date_display": "19 May 09:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest gr...",
       "description": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest growth since 2024. https://t.co/oiLamOurOn",
@@ -139,41 +171,73 @@
       "date_display": "15 May 10:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
-      "description": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
-      "date": "2026-05-15T00:30Z",
-      "date_display": "15 May 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Chances of US-Iran nuclear deal before the end of the year fall to 52% according to @Kalshi predicti...",
-      "description": "Chances of US-Iran nuclear deal before the end of the year fall to 52% according to @Kalshi prediction market. https://t.co/7xlnsPSxS3",
-      "date": "2026-05-14T21:50Z",
-      "date_display": "14 May 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's foreign minister claims that the UAE was involved in military operations against his country.",
-      "description": "Iran's foreign minister claims that the UAE was involved in military operations against his country.",
-      "date": "2026-05-14T09:50Z",
-      "date_display": "14 May 09:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: White House says that the United States and China agreed Iran cannot have a nuclear weapon...",
-      "description": "<b>BREAKING:</b> White House says that the United States and China agreed Iran cannot have a nuclear weapon",
-      "date": "2026-05-14T09:10Z",
-      "date_display": "14 May 09:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: SpaceX set to chose Goldman Sachs for its IPO, according to CNBC report. https://t.co/2UEB...",
+      "description": "<b>BREAKING:</b> SpaceX set to chose Goldman Sachs for its IPO, according to CNBC report. https://t.co/2UEB9C2k4e",
+      "date": "2026-05-19T22:50Z",
+      "date_display": "19 May 22:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Wall Street Journal reports that 'the only thing growing faster than the artificial-intelligence...",
+      "description": "The Wall Street Journal reports that 'the only thing growing faster than the artificial-intelligence industry may be Americans’ negative feelings about it', and that the 'rebellion' against artificial intelligence is 'gaining steam'.",
+      "date": "2026-05-19T21:20Z",
+      "date_display": "19 May 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US 30-year government bond yield is at the highest since 2007",
+      "description": "<b>BREAKING:</b> US 30-year government bond yield is at the highest since 2007",
+      "date": "2026-05-19T21:10Z",
+      "date_display": "19 May 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, acc...",
+      "description": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, according to the Wall Street Journal.",
+      "date": "2026-05-19T20:50Z",
+      "date_display": "19 May 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran is continuing to call for reparations over US-Israeli strikes against it, according to state me...",
+      "description": "Iran is continuing to call for reparations over US-Israeli strikes against it, according to state media.",
+      "date": "2026-05-19T12:00Z",
+      "date_display": "19 May 12:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇳 India's rupee falls to record low of 96.5 per US Dollar. https://t.co/NmV8Bh9vU6",
+      "description": "🇮🇳 India's rupee falls to record low of 96.5 per US Dollar. https://t.co/NmV8Bh9vU6",
+      "date": "2026-05-19T10:00Z",
+      "date_display": "19 May 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,720 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,720 per US Dollar.",
+      "date": "2026-05-19T09:40Z",
+      "date_display": "19 May 09:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Sweden set to sign $4 billion frigate deal with French company, marking Sweden's biggest military in...",
+      "description": "Sweden set to sign $4 billion frigate deal with French company, marking Sweden's biggest military investment since the 1980s. https://t.co/ll2MGNZqAh",
+      "date": "2026-05-19T09:10Z",
+      "date_display": "19 May 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "An American doctor has tested positive for Ebola after working in the Democratic Republic of Congo a...",
       "description": "An American doctor has tested positive for Ebola after working in the Democratic Republic of Congo and is being evacuated to Germany for treatment.",
@@ -347,70 +411,6 @@
       "description": "<b>BREAKING:</b> Israeli military confirms it has killed the leader of Hamas military wing",
       "date": "2026-05-16T10:00Z",
       "date_display": "16 May 10:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says US has killed ISIS commander in Nigeria https://t.co/LrpE2RcOA6",
-      "description": "<b>BREAKING:</b> Trump says US has killed ISIS commander in Nigeria https://t.co/LrpE2RcOA6",
-      "date": "2026-05-16T03:50Z",
-      "date_display": "16 May 03:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', a...",
-      "description": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', adding China is '59 miles away' from Taiwan, while the 'we are 9,500 miles away' and that is a 'difficult problem'. https://t.co/qILuvciLL1",
-      "date": "2026-05-16T00:20Z",
-      "date_display": "16 May 00:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's foreign minister calls for the Strait of Hormuz to be reopened as soon as possible. https://...",
-      "description": "China's foreign minister calls for the Strait of Hormuz to be reopened as soon as possible. https://t.co/Yl5DaEjaXb",
-      "date": "2026-05-15T22:00Z",
-      "date_display": "15 May 22:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Jerome Powell's tenure as Federal Reserve Chair officially ends after 8 years. https://t.co/j41Ed7TH...",
-      "description": "Jerome Powell's tenure as Federal Reserve Chair officially ends after 8 years. https://t.co/j41Ed7THSL",
-      "date": "2026-05-15T21:50Z",
-      "date_display": "15 May 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's foreign minister says his country has no trust in the United states, but remains open to nego...",
-      "description": "Iran's foreign minister says his country has no trust in the United states, but remains open to negotiations. https://t.co/kPSKXsLDIP",
-      "date": "2026-05-15T10:10Z",
-      "date_display": "15 May 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
-      "description": "Japan is considering selling surface-to-ship missiles to the Philippines, according to NHK report.",
-      "date": "2026-05-15T00:30Z",
-      "date_display": "15 May 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Chances of US-Iran nuclear deal before the end of the year fall to 52% according to @Kalshi predicti...",
-      "description": "Chances of US-Iran nuclear deal before the end of the year fall to 52% according to @Kalshi prediction market. https://t.co/7xlnsPSxS3",
-      "date": "2026-05-14T21:50Z",
-      "date_display": "14 May 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The CIA Director John Ratcliffe visited Cuba earlier today",
-      "description": "<b>BREAKING:</b> The CIA Director John Ratcliffe visited Cuba earlier today",
-      "date": "2026-05-14T21:20Z",
-      "date_display": "14 May 21:20 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

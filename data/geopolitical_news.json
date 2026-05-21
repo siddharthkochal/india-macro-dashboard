@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-05-20T04:47Z",
+  "fetched_at": "2026-05-21T04:54Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 29,
+  "india_relevant_items": 28,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'se..."
+    "latest_oil_headline": "Oil prices are down over 3%"
   },
   "india_headlines": [
+    {
+      "title": "🇮🇳 India's rupee has now fallen by 7.5% against the US Dollar so far in 2026. https://t.co/eZSTqrM...",
+      "description": "🇮🇳 India's rupee has now fallen by 7.5% against the US Dollar so far in 2026. https://t.co/eZSTqrMXlF",
+      "date": "2026-05-21T03:10Z",
+      "date_display": "21 May 03:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇳 Indian rupee per US Dollar\n\n1st of January, 2022: 74.6\n\nNow: 96.7 https://t.co/TnIgcxn6RC",
+      "description": "🇮🇳 Indian rupee per US Dollar\n\n1st of January, 2022: 74.6\n\nNow: 96.7 https://t.co/TnIgcxn6RC",
+      "date": "2026-05-20T11:30Z",
+      "date_display": "20 May 11:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The UAE says Iraqi government must prevent the hostile acts that are originating from its ...",
+      "description": "<b>BREAKING:</b> The UAE says Iraqi government must prevent the hostile acts that are originating from its territory",
+      "date": "2026-05-20T11:20Z",
+      "date_display": "20 May 11:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are down over 3%",
+      "description": "Oil prices are down over 3%",
+      "date": "2026-05-20T10:50Z",
+      "date_display": "20 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israel's Channel 12 reports that Netanyahu and Trump had a 'lengthy and dramatic' phone call overnig...",
+      "description": "Israel's Channel 12 reports that Netanyahu and Trump had a 'lengthy and dramatic' phone call overnight amid ongoing tensions with Iran. https://t.co/wi2VFtObYd",
+      "date": "2026-05-20T10:20Z",
+      "date_display": "20 May 10:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's Revolutionary Guards warns the war will spread beyond the region if the country is ...",
+      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards warns the war will spread beyond the region if the country is attacked again",
+      "date": "2026-05-20T08:40Z",
+      "date_display": "20 May 08:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, acc...",
       "description": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, according to the Wall Street Journal.",
@@ -123,57 +171,105 @@
       "date_display": "17 May 20:20 UTC",
       "severity": "high",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "🇮🇳 India's rupee has now fallen by 7.5% against the US Dollar so far in 2026. https://t.co/eZSTqrM...",
+      "description": "🇮🇳 India's rupee has now fallen by 7.5% against the US Dollar so far in 2026. https://t.co/eZSTqrMXlF",
+      "date": "2026-05-21T03:10Z",
+      "date_display": "21 May 03:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Fire at electric generator outside perimeter of nuclear power plant in Abu Dhabi caused by...",
-      "description": "<b>BREAKING:</b> Fire at electric generator outside perimeter of nuclear power plant in Abu Dhabi caused by a drone strike",
-      "date": "2026-05-17T10:30Z",
-      "date_display": "17 May 10:30 UTC",
+      "title": "BREAKING: Share price of Japanese tech investment giant SoftBank has surged by 20% https://t.co/fS8y...",
+      "description": "<b>BREAKING:</b> Share price of Japanese tech investment giant SoftBank has surged by 20% https://t.co/fS8yqheXFB",
+      "date": "2026-05-21T02:50Z",
+      "date_display": "21 May 02:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: OpenAI is preparing to file for an IPO 'in the coming weeks', according to Reuters report....",
+      "description": "<b>BREAKING:</b> OpenAI is preparing to file for an IPO 'in the coming weeks', according to Reuters report. https://t.co/VZvxUceK97",
+      "date": "2026-05-20T21:50Z",
+      "date_display": "20 May 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Is artificial intelligence more of an opportunity or threat?",
+      "description": "Is artificial intelligence more of an opportunity or threat?",
+      "date": "2026-05-20T21:30Z",
+      "date_display": "20 May 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: NVIDIA reports revenue of $81.6 billion, beating expectations. https://t.co/Jp8J9ZtmPM...",
+      "description": "<b>BREAKING:</b> NVIDIA reports revenue of $81.6 billion, beating expectations. https://t.co/Jp8J9ZtmPM",
+      "date": "2026-05-20T21:00Z",
+      "date_display": "20 May 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "There is a 64.1% chance of President Trump being impeached during this term, according to @Kalshi pr...",
+      "description": "There is a 64.1% chance of President Trump being impeached during this term, according to @Kalshi prediction market. https://t.co/m3xkKakBTE",
+      "date": "2026-05-20T11:40Z",
+      "date_display": "20 May 11:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇮🇳 Indian rupee per US Dollar\n\n1st of January, 2022: 74.6\n\nNow: 96.7 https://t.co/TnIgcxn6RC",
+      "description": "🇮🇳 Indian rupee per US Dollar\n\n1st of January, 2022: 74.6\n\nNow: 96.7 https://t.co/TnIgcxn6RC",
+      "date": "2026-05-20T11:30Z",
+      "date_display": "20 May 11:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The UAE says Iraqi government must prevent the hostile acts that are originating from its ...",
+      "description": "<b>BREAKING:</b> The UAE says Iraqi government must prevent the hostile acts that are originating from its territory",
+      "date": "2026-05-20T11:20Z",
+      "date_display": "20 May 11:20 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent ...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent crude oil: +80%\nEuropean gas: +78%\nCoal: +22%",
-      "date": "2026-05-16T21:00Z",
-      "date_display": "16 May 21:00 UTC",
+      "title": "Oil prices are down over 3%",
+      "description": "Oil prices are down over 3%",
+      "date": "2026-05-20T10:50Z",
+      "date_display": "20 May 10:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', a...",
-      "description": "Trump says that 'China is a very, very powerful, big country' and Taiwan is a 'very small island', adding China is '59 miles away' from Taiwan, while the 'we are 9,500 miles away' and that is a 'difficult problem'. https://t.co/qILuvciLL1",
-      "date": "2026-05-16T00:20Z",
-      "date_display": "16 May 00:20 UTC",
+      "title": "Israel's Channel 12 reports that Netanyahu and Trump had a 'lengthy and dramatic' phone call overnig...",
+      "description": "Israel's Channel 12 reports that Netanyahu and Trump had a 'lengthy and dramatic' phone call overnight amid ongoing tensions with Iran. https://t.co/wi2VFtObYd",
+      "date": "2026-05-20T10:20Z",
+      "date_display": "20 May 10:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "China's foreign minister calls for the Strait of Hormuz to be reopened as soon as possible. https://...",
-      "description": "China's foreign minister calls for the Strait of Hormuz to be reopened as soon as possible. https://t.co/Yl5DaEjaXb",
-      "date": "2026-05-15T22:00Z",
-      "date_display": "15 May 22:00 UTC",
-      "severity": "critical",
+      "title": "BREAKING: Iran's Revolutionary Guards warns the war will spread beyond the region if the country is ...",
+      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards warns the war will spread beyond the region if the country is attacked again",
+      "date": "2026-05-20T08:40Z",
+      "date_display": "20 May 08:40 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Jerome Powell's tenure as Federal Reserve Chair officially ends after 8 years. https://t.co/j41Ed7TH...",
-      "description": "Jerome Powell's tenure as Federal Reserve Chair officially ends after 8 years. https://t.co/j41Ed7THSL",
-      "date": "2026-05-15T21:50Z",
-      "date_display": "15 May 21:50 UTC",
+      "title": "Malaysia exports rise by 36.9% over past year, to a new record high and beat market forecasts. https...",
+      "description": "Malaysia exports rise by 36.9% over past year, to a new record high and beat market forecasts. https://t.co/a5qojbb0ML",
+      "date": "2026-05-20T05:20Z",
+      "date_display": "20 May 05:20 UTC",
       "severity": "medium",
-      "is_india_relevant": true
+      "is_india_relevant": false
     },
-    {
-      "title": "Iran's foreign minister says his country has no trust in the United states, but remains open to nego...",
-      "description": "Iran's foreign minister says his country has no trust in the United states, but remains open to negotiations. https://t.co/kPSKXsLDIP",
-      "date": "2026-05-15T10:10Z",
-      "date_display": "15 May 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
     {
       "title": "BREAKING: SpaceX set to chose Goldman Sachs for its IPO, according to CNBC report. https://t.co/2UEB...",
       "description": "<b>BREAKING:</b> SpaceX set to chose Goldman Sachs for its IPO, according to CNBC report. https://t.co/2UEB9C2k4e",
@@ -317,102 +413,6 @@
       "date_display": "18 May 10:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "🇹🇷 Turkey's consumer confidence has risen to highest level since March, 2025.",
-      "description": "🇹🇷 Turkey's consumer confidence has risen to highest level since March, 2025.",
-      "date": "2026-05-18T09:30Z",
-      "date_display": "18 May 09:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,650 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,650 per US Dollar.",
-      "date": "2026-05-18T02:30Z",
-      "date_display": "18 May 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Gavin Newsom has a 24% chance of becoming the 2028 Democratic presidential nominee, followed by 10% ...",
-      "description": "Gavin Newsom has a 24% chance of becoming the 2028 Democratic presidential nominee, followed by 10% for AOC and 9.7% for Kamala Harris, according to @Kalshi prediction market. https://t.co/5teLXdNJDH",
-      "date": "2026-05-17T21:30Z",
-      "date_display": "17 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "White House says that China has committed to buying at least $17 billion of American agricultural pr...",
-      "description": "White House says that China has committed to buying at least $17 billion of American agricultural products annually for the next three years. https://t.co/PfDkUs1ODO",
-      "date": "2026-05-17T21:20Z",
-      "date_display": "17 May 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia has intercepted three drones in attack that originated from Iraq",
-      "description": "<b>BREAKING:</b> Saudi Arabia has intercepted three drones in attack that originated from Iraq",
-      "date": "2026-05-17T20:20Z",
-      "date_display": "17 May 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Fire at electric generator outside perimeter of nuclear power plant in Abu Dhabi caused by...",
-      "description": "<b>BREAKING:</b> Fire at electric generator outside perimeter of nuclear power plant in Abu Dhabi caused by a drone strike",
-      "date": "2026-05-17T10:30Z",
-      "date_display": "17 May 10:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: World Health Organization has declared a global health emergency over Ebola outbreaks in C...",
-      "description": "<b>BREAKING:</b> World Health Organization has declared a global health emergency over Ebola outbreaks in Congo and Uganda",
-      "date": "2026-05-17T05:30Z",
-      "date_display": "17 May 05:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Venezuela deports Maduro ally Alex Saab to the US",
-      "description": "<b>BREAKING:</b> Venezuela deports Maduro ally Alex Saab to the US",
-      "date": "2026-05-16T23:10Z",
-      "date_display": "16 May 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Bulgaria wins Eurovision",
-      "description": "<b>BREAKING:</b> Bulgaria wins Eurovision",
-      "date": "2026-05-16T23:10Z",
-      "date_display": "16 May 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US government debt\n\n10 years ago: $19.5 trillion\n\nNow: $39 trillion https://t.co/wuHPRdvjZK",
-      "description": "US government debt\n\n10 years ago: $19.5 trillion\n\nNow: $39 trillion https://t.co/wuHPRdvjZK",
-      "date": "2026-05-16T23:00Z",
-      "date_display": "16 May 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent ...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +116%\nHeating oil: +90%\nCrude oil: +82%\nBrent crude oil: +80%\nEuropean gas: +78%\nCoal: +22%",
-      "date": "2026-05-16T21:00Z",
-      "date_display": "16 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli military confirms it has killed the leader of Hamas military wing",
-      "description": "<b>BREAKING:</b> Israeli military confirms it has killed the leader of Hamas military wing",
-      "date": "2026-05-16T10:00Z",
-      "date_display": "16 May 10:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

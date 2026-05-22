@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-05-21T04:54Z",
+  "fetched_at": "2026-05-22T04:45Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 28,
+  "india_relevant_items": 26,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": true,
+    "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "down",
     "latest_oil_headline": "Oil prices are down over 3%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iran's Supreme Leader orders that uranium stockpile must remain inside the country, accord...",
+      "description": "<b>BREAKING:</b> Iran's Supreme Leader orders that uranium stockpile must remain inside the country, according to Reuters report. https://t.co/DxG2Qh7v5p",
+      "date": "2026-05-21T10:40Z",
+      "date_display": "21 May 10:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇹🇷 Turkish lira per US Dollar\n\nFive years ago: 8.2\n\nNow: 45.6 https://t.co/3a23zfeWQ0",
+      "description": "🇹🇷 Turkish lira per US Dollar\n\nFive years ago: 8.2\n\nNow: 45.6 https://t.co/3a23zfeWQ0",
+      "date": "2026-05-21T08:30Z",
+      "date_display": "21 May 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Pakistan’s military chief Asim Munir set to travel to Iran today for talks https://t.co/EA...",
+      "description": "<b>BREAKING:</b> Pakistan’s military chief Asim Munir set to travel to Iran today for talks https://t.co/EAqMXAL9ew",
+      "date": "2026-05-21T06:40Z",
+      "date_display": "21 May 06:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "🇮🇳 India's rupee has now fallen by 7.5% against the US Dollar so far in 2026. https://t.co/eZSTqrM...",
       "description": "🇮🇳 India's rupee has now fallen by 7.5% against the US Dollar so far in 2026. https://t.co/eZSTqrMXlF",
@@ -147,33 +171,57 @@
       "date_display": "18 May 10:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,650 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,650 per US Dollar.",
-      "date": "2026-05-18T02:30Z",
-      "date_display": "18 May 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "White House says that China has committed to buying at least $17 billion of American agricultural pr...",
-      "description": "White House says that China has committed to buying at least $17 billion of American agricultural products annually for the next three years. https://t.co/PfDkUs1ODO",
-      "date": "2026-05-17T21:20Z",
-      "date_display": "17 May 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia has intercepted three drones in attack that originated from Iraq",
-      "description": "<b>BREAKING:</b> Saudi Arabia has intercepted three drones in attack that originated from Iraq",
-      "date": "2026-05-17T20:20Z",
-      "date_display": "17 May 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: NASCAR great Kyle Busch dies at 41 after illness https://t.co/NNbQFdXfNO",
+      "description": "<b>BREAKING:</b> NASCAR great Kyle Busch dies at 41 after illness https://t.co/NNbQFdXfNO",
+      "date": "2026-05-21T22:10Z",
+      "date_display": "21 May 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump administration is set to invest $2 billion in quantum computing in exchange for equi...",
+      "description": "<b>BREAKING:</b> Trump administration is set to invest $2 billion in quantum computing in exchange for equity in the companies such as IBM, according to Wall Street Journal report. https://t.co/zDgPMcTXuN",
+      "date": "2026-05-21T12:40Z",
+      "date_display": "21 May 12:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's Supreme Leader orders that uranium stockpile must remain inside the country, accord...",
+      "description": "<b>BREAKING:</b> Iran's Supreme Leader orders that uranium stockpile must remain inside the country, according to Reuters report. https://t.co/DxG2Qh7v5p",
+      "date": "2026-05-21T10:40Z",
+      "date_display": "21 May 10:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇹🇷 Turkish lira per US Dollar\n\nFive years ago: 8.2\n\nNow: 45.6 https://t.co/3a23zfeWQ0",
+      "description": "🇹🇷 Turkish lira per US Dollar\n\nFive years ago: 8.2\n\nNow: 45.6 https://t.co/3a23zfeWQ0",
+      "date": "2026-05-21T08:30Z",
+      "date_display": "21 May 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Amazon founder Jeff Bezos says that the bottom half of earners should not pay income tax. https://t....",
+      "description": "Amazon founder Jeff Bezos says that the bottom half of earners should not pay income tax. https://t.co/PVsReYn4Vm",
+      "date": "2026-05-21T08:10Z",
+      "date_display": "21 May 08:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Pakistan’s military chief Asim Munir set to travel to Iran today for talks https://t.co/EA...",
+      "description": "<b>BREAKING:</b> Pakistan’s military chief Asim Munir set to travel to Iran today for talks https://t.co/EAqMXAL9ew",
+      "date": "2026-05-21T06:40Z",
+      "date_display": "21 May 06:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "🇮🇳 India's rupee has now fallen by 7.5% against the US Dollar so far in 2026. https://t.co/eZSTqrM...",
       "description": "🇮🇳 India's rupee has now fallen by 7.5% against the US Dollar so far in 2026. https://t.co/eZSTqrMXlF",
@@ -365,54 +413,6 @@
       "date_display": "19 May 00:20 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "Anti-Islamic writings were found in car where two suspects were found dead, after shooting attack at...",
-      "description": "Anti-Islamic writings were found in car where two suspects were found dead, after shooting attack at mosque in San Diego, according to New York Times report.",
-      "date": "2026-05-18T22:30Z",
-      "date_display": "18 May 22:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reuters reports that Pakistan has deployed '8,000 troops, a ​squadron of fighter jets and an air def...",
-      "description": "Reuters reports that Pakistan has deployed '8,000 troops, a ​squadron of fighter jets and an air defence system to  Saudi Arabia under a mutual defence pact'. https://t.co/sSWok8kIrT",
-      "date": "2026-05-18T21:40Z",
-      "date_display": "18 May 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 3 victims killed and two suspects dead after shooting at Islamic centre in San Diego...",
-      "description": "<b>BREAKING:</b> 3 victims killed and two suspects dead after shooting at Islamic centre in San Diego",
-      "date": "2026-05-18T21:20Z",
-      "date_display": "18 May 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: The New York Times reports the US and Israel are making preparations for possible resumpti...",
-      "description": "<b>BREAKING:</b> The New York Times reports the US and Israel are making preparations for possible resumption of attacks against Iran as early as this week",
-      "date": "2026-05-18T13:10Z",
-      "date_display": "18 May 13:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Germany's Chancellor Merz 'strongly condemns' the renewed Iranian airstrikes against the United Arab...",
-      "description": "Germany's Chancellor Merz 'strongly condemns' the renewed Iranian airstrikes against the United Arab Emirates. https://t.co/fXshFC88Qc",
-      "date": "2026-05-18T10:40Z",
-      "date_display": "18 May 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇳 India's rupee falls to record low of 96.3 per US Dollar.",
-      "description": "🇮🇳 India's rupee falls to record low of 96.3 per US Dollar.",
-      "date": "2026-05-18T10:10Z",
-      "date_display": "18 May 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

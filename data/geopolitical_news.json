@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-22T04:45Z",
+  "fetched_at": "2026-05-23T04:25Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 26,
+  "india_relevant_items": 30,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
@@ -12,6 +12,70 @@
     "latest_oil_headline": "Oil prices are down over 3%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: CBS News reports that the Trump administration is preparing for new strikes against Iran...",
+      "description": "<b>BREAKING:</b> CBS News reports that the Trump administration is preparing for new strikes against Iran",
+      "date": "2026-05-22T23:10Z",
+      "date_display": "22 May 23:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media says that the military is preparing for a potential return to war against the Un...",
+      "description": "Iranian state media says that the military is preparing for a potential return to war against the United States. https://t.co/cAaKqA0jgT",
+      "date": "2026-05-22T21:30Z",
+      "date_display": "22 May 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran has shut airspace in country's west, exempting only flights during the day.",
+      "description": "<b>BREAKING:</b> Iran has shut airspace in country's west, exempting only flights during the day.",
+      "date": "2026-05-22T21:30Z",
+      "date_display": "22 May 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: President Trump is 'seriously considering launching new strikes against Iran barring a las...",
+      "description": "<b>BREAKING:</b> President Trump is 'seriously considering launching new strikes against Iran barring a last-minute breakthrough in negotiations', according to Axios report. https://t.co/qN7x8EJ5SW",
+      "date": "2026-05-22T20:50Z",
+      "date_display": "22 May 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says, 'we have taken so much oil in Venezuela'. https://t.co/iD8vDMHYff",
+      "description": "President Trump says, 'we have taken so much oil in Venezuela'. https://t.co/iD8vDMHYff",
+      "date": "2026-05-22T20:30Z",
+      "date_display": "22 May 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Pakistan's army chief is heading to Iran, according to Al Arabiya report.",
+      "description": "<b>BREAKING:</b> Pakistan's army chief is heading to Iran, according to Al Arabiya report.",
+      "date": "2026-05-22T12:30Z",
+      "date_display": "22 May 12:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nSulfur: +106%\nLithium: +50%\nBitumen: +46%\nUrea: +40%\nRic...",
+      "description": "Price increase since 1st of January, 2026.\n\nSulfur: +106%\nLithium: +50%\nBitumen: +46%\nUrea: +40%\nRice: +35%\nCanola: +28%\nWheat: +27%\nRubber: +22%\nWool: +22%\nCotton: +21%\nAluminium: +21%\nTea: +20%\nMilk: +11%\nPalm oil: +11%",
+      "date": "2026-05-22T11:30Z",
+      "date_display": "22 May 11:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Currency against US Dollar so far this year.\n\n🇨🇳 China: +2.5%\n🇲🇾 Malaysia: +2.3%\n🇵🇰 Pakistan: ...",
+      "description": "Currency against US Dollar so far this year.\n\n🇨🇳 China: +2.5%\n🇲🇾 Malaysia: +2.3%\n🇵🇰 Pakistan: +0.5%\n🇸🇬 Singapore: +0.5%\n\n🇻🇳 Vietnam: -0.2%\n🇯🇵 Japan: -1.5%\n🇹🇭 Thailand: -3.6%\n🇵🇭 Philippines: -4.6%\n🇰🇷 South Korea: -5.2%\n🇮🇩 Indonesia: -6%\n🇮🇳 India: -6.7%",
+      "date": "2026-05-22T06:00Z",
+      "date_display": "22 May 06:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iran's Supreme Leader orders that uranium stockpile must remain inside the country, accord...",
       "description": "<b>BREAKING:</b> Iran's Supreme Leader orders that uranium stockpile must remain inside the country, according to Reuters report. https://t.co/DxG2Qh7v5p",
@@ -107,73 +171,89 @@
       "date_display": "19 May 10:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,720 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,720 per US Dollar.",
-      "date": "2026-05-19T09:40Z",
-      "date_display": "19 May 09:40 UTC",
+      "title": "Ebola death toll in DR Congo has risen to 177 suspected deaths as public health risk is raised to 'v...",
+      "description": "Ebola death toll in DR Congo has risen to 177 suspected deaths as public health risk is raised to 'very high', according to World Health Organization. https://t.co/VPA2hIK0pG",
+      "date": "2026-05-22T23:40Z",
+      "date_display": "22 May 23:40 UTC",
       "severity": "medium",
-      "is_india_relevant": true
+      "is_india_relevant": false
     },
     {
-      "title": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest gr...",
-      "description": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest growth since 2024. https://t.co/oiLamOurOn",
-      "date": "2026-05-19T03:40Z",
-      "date_display": "19 May 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'se...",
-      "description": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'serious negotiations'.",
-      "date": "2026-05-19T00:30Z",
-      "date_display": "19 May 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Anti-Islamic writings were found in car where two suspects were found dead, after shooting attack at...",
-      "description": "Anti-Islamic writings were found in car where two suspects were found dead, after shooting attack at mosque in San Diego, according to New York Times report.",
-      "date": "2026-05-18T22:30Z",
-      "date_display": "18 May 22:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reuters reports that Pakistan has deployed '8,000 troops, a ​squadron of fighter jets and an air def...",
-      "description": "Reuters reports that Pakistan has deployed '8,000 troops, a ​squadron of fighter jets and an air defence system to  Saudi Arabia under a mutual defence pact'. https://t.co/sSWok8kIrT",
-      "date": "2026-05-18T21:40Z",
-      "date_display": "18 May 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The New York Times reports the US and Israel are making preparations for possible resumpti...",
-      "description": "<b>BREAKING:</b> The New York Times reports the US and Israel are making preparations for possible resumption of attacks against Iran as early as this week",
-      "date": "2026-05-18T13:10Z",
-      "date_display": "18 May 13:10 UTC",
+      "title": "BREAKING: CBS News reports that the Trump administration is preparing for new strikes against Iran...",
+      "description": "<b>BREAKING:</b> CBS News reports that the Trump administration is preparing for new strikes against Iran",
+      "date": "2026-05-22T23:10Z",
+      "date_display": "22 May 23:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Germany's Chancellor Merz 'strongly condemns' the renewed Iranian airstrikes against the United Arab...",
-      "description": "Germany's Chancellor Merz 'strongly condemns' the renewed Iranian airstrikes against the United Arab Emirates. https://t.co/fXshFC88Qc",
-      "date": "2026-05-18T10:40Z",
-      "date_display": "18 May 10:40 UTC",
+      "title": "Iranian state media says that the military is preparing for a potential return to war against the Un...",
+      "description": "Iranian state media says that the military is preparing for a potential return to war against the United States. https://t.co/cAaKqA0jgT",
+      "date": "2026-05-22T21:30Z",
+      "date_display": "22 May 21:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "🇮🇳 India's rupee falls to record low of 96.3 per US Dollar.",
-      "description": "🇮🇳 India's rupee falls to record low of 96.3 per US Dollar.",
-      "date": "2026-05-18T10:10Z",
-      "date_display": "18 May 10:10 UTC",
+      "title": "BREAKING: Iran has shut airspace in country's west, exempting only flights during the day.",
+      "description": "<b>BREAKING:</b> Iran has shut airspace in country's west, exempting only flights during the day.",
+      "date": "2026-05-22T21:30Z",
+      "date_display": "22 May 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: President Trump is 'seriously considering launching new strikes against Iran barring a las...",
+      "description": "<b>BREAKING:</b> President Trump is 'seriously considering launching new strikes against Iran barring a last-minute breakthrough in negotiations', according to Axios report. https://t.co/qN7x8EJ5SW",
+      "date": "2026-05-22T20:50Z",
+      "date_display": "22 May 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says, 'we have taken so much oil in Venezuela'. https://t.co/iD8vDMHYff",
+      "description": "President Trump says, 'we have taken so much oil in Venezuela'. https://t.co/iD8vDMHYff",
+      "date": "2026-05-22T20:30Z",
+      "date_display": "22 May 20:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "BREAKING: Pakistan's army chief is heading to Iran, according to Al Arabiya report.",
+      "description": "<b>BREAKING:</b> Pakistan's army chief is heading to Iran, according to Al Arabiya report.",
+      "date": "2026-05-22T12:30Z",
+      "date_display": "22 May 12:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nSulfur: +106%\nLithium: +50%\nBitumen: +46%\nUrea: +40%\nRic...",
+      "description": "Price increase since 1st of January, 2026.\n\nSulfur: +106%\nLithium: +50%\nBitumen: +46%\nUrea: +40%\nRice: +35%\nCanola: +28%\nWheat: +27%\nRubber: +22%\nWool: +22%\nCotton: +21%\nAluminium: +21%\nTea: +20%\nMilk: +11%\nPalm oil: +11%",
+      "date": "2026-05-22T11:30Z",
+      "date_display": "22 May 11:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Manchester City confirms Pep Guardiola will leave at end of the season https://t.co/EOET1j...",
+      "description": "<b>BREAKING:</b> Manchester City confirms Pep Guardiola will leave at end of the season https://t.co/EOET1jEExy",
+      "date": "2026-05-22T10:40Z",
+      "date_display": "22 May 10:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Currency against US Dollar so far this year.\n\n🇨🇳 China: +2.5%\n🇲🇾 Malaysia: +2.3%\n🇵🇰 Pakistan: ...",
+      "description": "Currency against US Dollar so far this year.\n\n🇨🇳 China: +2.5%\n🇲🇾 Malaysia: +2.3%\n🇵🇰 Pakistan: +0.5%\n🇸🇬 Singapore: +0.5%\n\n🇻🇳 Vietnam: -0.2%\n🇯🇵 Japan: -1.5%\n🇹🇭 Thailand: -3.6%\n🇵🇭 Philippines: -4.6%\n🇰🇷 South Korea: -5.2%\n🇮🇩 Indonesia: -6%\n🇮🇳 India: -6.7%",
+      "date": "2026-05-22T06:00Z",
+      "date_display": "22 May 06:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: NASCAR great Kyle Busch dies at 41 after illness https://t.co/NNbQFdXfNO",
       "description": "<b>BREAKING:</b> NASCAR great Kyle Busch dies at 41 after illness https://t.co/NNbQFdXfNO",
@@ -331,86 +411,6 @@
       "description": "The Wall Street Journal reports that 'the only thing growing faster than the artificial-intelligence industry may be Americans’ negative feelings about it', and that the 'rebellion' against artificial intelligence is 'gaining steam'.",
       "date": "2026-05-19T21:20Z",
       "date_display": "19 May 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US 30-year government bond yield is at the highest since 2007",
-      "description": "<b>BREAKING:</b> US 30-year government bond yield is at the highest since 2007",
-      "date": "2026-05-19T21:10Z",
-      "date_display": "19 May 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, acc...",
-      "description": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, according to the Wall Street Journal.",
-      "date": "2026-05-19T20:50Z",
-      "date_display": "19 May 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran is continuing to call for reparations over US-Israeli strikes against it, according to state me...",
-      "description": "Iran is continuing to call for reparations over US-Israeli strikes against it, according to state media.",
-      "date": "2026-05-19T12:00Z",
-      "date_display": "19 May 12:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇳 India's rupee falls to record low of 96.5 per US Dollar. https://t.co/NmV8Bh9vU6",
-      "description": "🇮🇳 India's rupee falls to record low of 96.5 per US Dollar. https://t.co/NmV8Bh9vU6",
-      "date": "2026-05-19T10:00Z",
-      "date_display": "19 May 10:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,720 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,720 per US Dollar.",
-      "date": "2026-05-19T09:40Z",
-      "date_display": "19 May 09:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Sweden set to sign $4 billion frigate deal with French company, marking Sweden's biggest military in...",
-      "description": "Sweden set to sign $4 billion frigate deal with French company, marking Sweden's biggest military investment since the 1980s. https://t.co/ll2MGNZqAh",
-      "date": "2026-05-19T09:10Z",
-      "date_display": "19 May 09:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "An American doctor has tested positive for Ebola after working in the Democratic Republic of Congo a...",
-      "description": "An American doctor has tested positive for Ebola after working in the Democratic Republic of Congo and is being evacuated to Germany for treatment.",
-      "date": "2026-05-19T03:50Z",
-      "date_display": "19 May 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest gr...",
-      "description": "Japan’s economy grew by 0.5% in the first quarter of 2026, beating expectations and the strongest growth since 2024. https://t.co/oiLamOurOn",
-      "date": "2026-05-19T03:40Z",
-      "date_display": "19 May 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'se...",
-      "description": "Oil prices drop by over 2% as Trump says he is holding off from planned strikes on Iran, pending 'serious negotiations'.",
-      "date": "2026-05-19T00:30Z",
-      "date_display": "19 May 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "San Diego mosque shooting suspects have been identified as 17 year old Cain Clark and 18 year old Ca...",
-      "description": "San Diego mosque shooting suspects have been identified as 17 year old Cain Clark and 18 year old Caleb Vasquez.",
-      "date": "2026-05-19T00:20Z",
-      "date_display": "19 May 00:20 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

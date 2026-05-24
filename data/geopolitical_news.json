@@ -1,17 +1,81 @@
 {
-  "fetched_at": "2026-05-23T04:25Z",
+  "fetched_at": "2026-05-24T04:47Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 30,
+  "india_relevant_items": 29,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": false,
+    "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "Oil prices are down over 3%"
+    "latest_oil_headline": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $103.9 https://t.co/yCyB2j7zIj"
   },
   "india_headlines": [
+    {
+      "title": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $103.9 https://t.co/yCyB2j7zIj",
+      "description": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $103.9 https://t.co/yCyB2j7zIj",
+      "date": "2026-05-24T00:00Z",
+      "date_display": "24 May 00:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The United States has told Japan to expect 'serious delays in the delivery of 400 Tomahawk missiles'...",
+      "description": "The United States has told Japan to expect 'serious delays in the delivery of 400 Tomahawk missiles' due to the need to rebuild its own stockpiles due to Iran war, according to Financial Times report. https://t.co/gYJreCxpHC",
+      "date": "2026-05-23T22:50Z",
+      "date_display": "23 May 22:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media says that even if the number of ships passing through the Strait of Ho...",
+      "description": "<b>BREAKING:</b> Iranian state media says that even if the number of ships passing through the Strait of Hormuz will increase to normal levels, it will remain under Iranian management.",
+      "date": "2026-05-23T21:40Z",
+      "date_display": "23 May 21:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media says that the Strait of Hormuz will stay under Iranian control despite...",
+      "description": "<b>BREAKING:</b> Iranian state media says that the Strait of Hormuz will stay under Iranian control despite claims by Trump",
+      "date": "2026-05-23T21:30Z",
+      "date_display": "23 May 21:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says deal with Iran has been 'largely negotiated' https://t.co/KLUHLGZhFj",
+      "description": "<b>BREAKING:</b> Trump says deal with Iran has been 'largely negotiated' https://t.co/KLUHLGZhFj",
+      "date": "2026-05-23T21:20Z",
+      "date_display": "23 May 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian Revolutionary Guards say that at least 25 ships have passed through the Strait of Hormuz ove...",
+      "description": "Iranian Revolutionary Guards say that at least 25 ships have passed through the Strait of Hormuz over the past 24 hours.",
+      "date": "2026-05-23T10:50Z",
+      "date_display": "23 May 10:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.2%\n🇨🇳 China: +5.2%\n🇵🇰 Pakistan...",
+      "description": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.2%\n🇨🇳 China: +5.2%\n🇵🇰 Pakistan: +1.6%\n🇸🇬 Singapore: +0.4%\n\n🇹🇭 Thailand: -0.5%\n🇻🇳 Vietnam: -1.6%\n🇮🇩 Indonesia: -8.9%\n🇵🇭 Philippines: -11.3%\n🇰🇷 South Korea: -11.4%\n🇯🇵 Japan: -11.7%\n🇮🇳 India: -12.4%",
+      "date": "2026-05-23T10:10Z",
+      "date_display": "23 May 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reuters reports that 'doubts are growing' as to whether President Trump can 'translate the U.S. mili...",
+      "description": "Reuters reports that 'doubts are growing' as to whether President Trump can 'translate the U.S. military’s tactical successes' against Iran into an 'outcome he can frame convincingly as a geopolitical ​win'. https://t.co/mZhN0iqzJm",
+      "date": "2026-05-23T09:40Z",
+      "date_display": "23 May 09:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: CBS News reports that the Trump administration is preparing for new strikes against Iran...",
       "description": "<b>BREAKING:</b> CBS News reports that the Trump administration is preparing for new strikes against Iran",
@@ -107,73 +171,113 @@
       "date_display": "21 May 03:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇳 Indian rupee per US Dollar\n\n1st of January, 2022: 74.6\n\nNow: 96.7 https://t.co/TnIgcxn6RC",
-      "description": "🇮🇳 Indian rupee per US Dollar\n\n1st of January, 2022: 74.6\n\nNow: 96.7 https://t.co/TnIgcxn6RC",
-      "date": "2026-05-20T11:30Z",
-      "date_display": "20 May 11:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The UAE says Iraqi government must prevent the hostile acts that are originating from its ...",
-      "description": "<b>BREAKING:</b> The UAE says Iraqi government must prevent the hostile acts that are originating from its territory",
-      "date": "2026-05-20T11:20Z",
-      "date_display": "20 May 11:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are down over 3%",
-      "description": "Oil prices are down over 3%",
-      "date": "2026-05-20T10:50Z",
-      "date_display": "20 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel's Channel 12 reports that Netanyahu and Trump had a 'lengthy and dramatic' phone call overnig...",
-      "description": "Israel's Channel 12 reports that Netanyahu and Trump had a 'lengthy and dramatic' phone call overnight amid ongoing tensions with Iran. https://t.co/wi2VFtObYd",
-      "date": "2026-05-20T10:20Z",
-      "date_display": "20 May 10:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran's Revolutionary Guards warns the war will spread beyond the region if the country is ...",
-      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards warns the war will spread beyond the region if the country is attacked again",
-      "date": "2026-05-20T08:40Z",
-      "date_display": "20 May 08:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, acc...",
-      "description": "The United States military has seized an 'Iran-linked oil tanker' in the Indian Ocean overnight, according to the Wall Street Journal.",
-      "date": "2026-05-19T20:50Z",
-      "date_display": "19 May 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran is continuing to call for reparations over US-Israeli strikes against it, according to state me...",
-      "description": "Iran is continuing to call for reparations over US-Israeli strikes against it, according to state media.",
-      "date": "2026-05-19T12:00Z",
-      "date_display": "19 May 12:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇳 India's rupee falls to record low of 96.5 per US Dollar. https://t.co/NmV8Bh9vU6",
-      "description": "🇮🇳 India's rupee falls to record low of 96.5 per US Dollar. https://t.co/NmV8Bh9vU6",
-      "date": "2026-05-19T10:00Z",
-      "date_display": "19 May 10:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: US officials say Tehran agreed to give up enriched uranium, according to New York Times re...",
+      "description": "<b>BREAKING:</b> US officials say Tehran agreed to give up enriched uranium, according to New York Times report.",
+      "date": "2026-05-24T04:00Z",
+      "date_display": "24 May 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Statement issued by Secret Service following gunshots in vicinity of White House. https://t.co/ogUuU...",
+      "description": "Statement issued by Secret Service following gunshots in vicinity of White House. https://t.co/ogUuUASFPV",
+      "date": "2026-05-24T00:30Z",
+      "date_display": "24 May 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Suspect who was shot by Secret Service in vicinity of White House has died in hospital...",
+      "description": "<b>BREAKING:</b> Suspect who was shot by Secret Service in vicinity of White House has died in hospital",
+      "date": "2026-05-24T00:10Z",
+      "date_display": "24 May 00:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $103.9 https://t.co/yCyB2j7zIj",
+      "description": "Brent crude oil price\n\nSix months ago: $62\n\nNow: $103.9 https://t.co/yCyB2j7zIj",
+      "date": "2026-05-24T00:00Z",
+      "date_display": "24 May 00:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The United States has told Japan to expect 'serious delays in the delivery of 400 Tomahawk missiles'...",
+      "description": "The United States has told Japan to expect 'serious delays in the delivery of 400 Tomahawk missiles' due to the need to rebuild its own stockpiles due to Iran war, according to Financial Times report. https://t.co/gYJreCxpHC",
+      "date": "2026-05-23T22:50Z",
+      "date_display": "23 May 22:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: White House is in lockdown after reports that gunshots were heard in its vicinity",
+      "description": "<b>BREAKING:</b> White House is in lockdown after reports that gunshots were heard in its vicinity",
+      "date": "2026-05-23T22:40Z",
+      "date_display": "23 May 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Gunshots have been heard near the White House",
+      "description": "<b>BREAKING:</b> Gunshots have been heard near the White House",
+      "date": "2026-05-23T22:30Z",
+      "date_display": "23 May 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iranian state media says that even if the number of ships passing through the Strait of Ho...",
+      "description": "<b>BREAKING:</b> Iranian state media says that even if the number of ships passing through the Strait of Hormuz will increase to normal levels, it will remain under Iranian management.",
+      "date": "2026-05-23T21:40Z",
+      "date_display": "23 May 21:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media says that the Strait of Hormuz will stay under Iranian control despite...",
+      "description": "<b>BREAKING:</b> Iranian state media says that the Strait of Hormuz will stay under Iranian control despite claims by Trump",
+      "date": "2026-05-23T21:30Z",
+      "date_display": "23 May 21:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says deal with Iran has been 'largely negotiated' https://t.co/KLUHLGZhFj",
+      "description": "<b>BREAKING:</b> Trump says deal with Iran has been 'largely negotiated' https://t.co/KLUHLGZhFj",
+      "date": "2026-05-23T21:20Z",
+      "date_display": "23 May 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian Revolutionary Guards say that at least 25 ships have passed through the Strait of Hormuz ove...",
+      "description": "Iranian Revolutionary Guards say that at least 25 ships have passed through the Strait of Hormuz over the past 24 hours.",
+      "date": "2026-05-23T10:50Z",
+      "date_display": "23 May 10:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.2%\n🇨🇳 China: +5.2%\n🇵🇰 Pakistan...",
+      "description": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.2%\n🇨🇳 China: +5.2%\n🇵🇰 Pakistan: +1.6%\n🇸🇬 Singapore: +0.4%\n\n🇹🇭 Thailand: -0.5%\n🇻🇳 Vietnam: -1.6%\n🇮🇩 Indonesia: -8.9%\n🇵🇭 Philippines: -11.3%\n🇰🇷 South Korea: -11.4%\n🇯🇵 Japan: -11.7%\n🇮🇳 India: -12.4%",
+      "date": "2026-05-23T10:10Z",
+      "date_display": "23 May 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reuters reports that 'doubts are growing' as to whether President Trump can 'translate the U.S. mili...",
+      "description": "Reuters reports that 'doubts are growing' as to whether President Trump can 'translate the U.S. military’s tactical successes' against Iran into an 'outcome he can frame convincingly as a geopolitical ​win'. https://t.co/mZhN0iqzJm",
+      "date": "2026-05-23T09:40Z",
+      "date_display": "23 May 09:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Ebola death toll in DR Congo has risen to 177 suspected deaths as public health risk is raised to 'v...",
       "description": "Ebola death toll in DR Congo has risen to 177 suspected deaths as public health risk is raised to 'very high', according to World Health Organization. https://t.co/VPA2hIK0pG",
@@ -309,110 +413,6 @@
       "date_display": "21 May 03:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Share price of Japanese tech investment giant SoftBank has surged by 20% https://t.co/fS8y...",
-      "description": "<b>BREAKING:</b> Share price of Japanese tech investment giant SoftBank has surged by 20% https://t.co/fS8yqheXFB",
-      "date": "2026-05-21T02:50Z",
-      "date_display": "21 May 02:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: OpenAI is preparing to file for an IPO 'in the coming weeks', according to Reuters report....",
-      "description": "<b>BREAKING:</b> OpenAI is preparing to file for an IPO 'in the coming weeks', according to Reuters report. https://t.co/VZvxUceK97",
-      "date": "2026-05-20T21:50Z",
-      "date_display": "20 May 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Is artificial intelligence more of an opportunity or threat?",
-      "description": "Is artificial intelligence more of an opportunity or threat?",
-      "date": "2026-05-20T21:30Z",
-      "date_display": "20 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: NVIDIA reports revenue of $81.6 billion, beating expectations. https://t.co/Jp8J9ZtmPM...",
-      "description": "<b>BREAKING:</b> NVIDIA reports revenue of $81.6 billion, beating expectations. https://t.co/Jp8J9ZtmPM",
-      "date": "2026-05-20T21:00Z",
-      "date_display": "20 May 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "There is a 64.1% chance of President Trump being impeached during this term, according to @Kalshi pr...",
-      "description": "There is a 64.1% chance of President Trump being impeached during this term, according to @Kalshi prediction market. https://t.co/m3xkKakBTE",
-      "date": "2026-05-20T11:40Z",
-      "date_display": "20 May 11:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇮🇳 Indian rupee per US Dollar\n\n1st of January, 2022: 74.6\n\nNow: 96.7 https://t.co/TnIgcxn6RC",
-      "description": "🇮🇳 Indian rupee per US Dollar\n\n1st of January, 2022: 74.6\n\nNow: 96.7 https://t.co/TnIgcxn6RC",
-      "date": "2026-05-20T11:30Z",
-      "date_display": "20 May 11:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The UAE says Iraqi government must prevent the hostile acts that are originating from its ...",
-      "description": "<b>BREAKING:</b> The UAE says Iraqi government must prevent the hostile acts that are originating from its territory",
-      "date": "2026-05-20T11:20Z",
-      "date_display": "20 May 11:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are down over 3%",
-      "description": "Oil prices are down over 3%",
-      "date": "2026-05-20T10:50Z",
-      "date_display": "20 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel's Channel 12 reports that Netanyahu and Trump had a 'lengthy and dramatic' phone call overnig...",
-      "description": "Israel's Channel 12 reports that Netanyahu and Trump had a 'lengthy and dramatic' phone call overnight amid ongoing tensions with Iran. https://t.co/wi2VFtObYd",
-      "date": "2026-05-20T10:20Z",
-      "date_display": "20 May 10:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran's Revolutionary Guards warns the war will spread beyond the region if the country is ...",
-      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards warns the war will spread beyond the region if the country is attacked again",
-      "date": "2026-05-20T08:40Z",
-      "date_display": "20 May 08:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Malaysia exports rise by 36.9% over past year, to a new record high and beat market forecasts. https...",
-      "description": "Malaysia exports rise by 36.9% over past year, to a new record high and beat market forecasts. https://t.co/a5qojbb0ML",
-      "date": "2026-05-20T05:20Z",
-      "date_display": "20 May 05:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: SpaceX set to chose Goldman Sachs for its IPO, according to CNBC report. https://t.co/2UEB...",
-      "description": "<b>BREAKING:</b> SpaceX set to chose Goldman Sachs for its IPO, according to CNBC report. https://t.co/2UEB9C2k4e",
-      "date": "2026-05-19T22:50Z",
-      "date_display": "19 May 22:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Wall Street Journal reports that 'the only thing growing faster than the artificial-intelligence...",
-      "description": "The Wall Street Journal reports that 'the only thing growing faster than the artificial-intelligence industry may be Americans’ negative feelings about it', and that the 'rebellion' against artificial intelligence is 'gaining steam'.",
-      "date": "2026-05-19T21:20Z",
-      "date_display": "19 May 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

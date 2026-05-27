@@ -1,17 +1,89 @@
 {
-  "fetched_at": "2026-05-26T04:45Z",
+  "fetched_at": "2026-05-27T04:56Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 36,
+  "india_relevant_items": 35,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "TODAY\n\nBrent crude oil prices are down 6.7%\n\nUS crude down 6.4%\n\nGasoline down by 5.7% \n\nHeating oil..."
+    "latest_oil_headline": "WTI crude drops 4% to $92 on US-Iran deal hopes\n\nhttps://t.co/WuIzzXnOZf"
   },
   "india_headlines": [
+    {
+      "title": "The chances of a US recession next year have risen up to 45%, according to @Kalshi prediction market...",
+      "description": "The chances of a US recession next year have risen up to 45%, according to @Kalshi prediction market. https://t.co/uQurHT5MsY",
+      "date": "2026-05-26T20:20Z",
+      "date_display": "26 May 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump and Israeli PM Netanyahu have held a phone call to discuss the situation with Iran, ...",
+      "description": "President Trump and Israeli PM Netanyahu have held a phone call to discuss the situation with Iran, according to Israeli sources.",
+      "date": "2026-05-26T20:00Z",
+      "date_display": "26 May 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "WTI crude drops 4% to $92 on US-Iran deal hopes\n\nhttps://t.co/WuIzzXnOZf",
+      "description": "WTI crude drops 4% to $92 on US-Iran deal hopes\n\nhttps://t.co/WuIzzXnOZf",
+      "date": "2026-05-26T10:50Z",
+      "date_display": "26 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price falls by over 4%.",
+      "description": "US crude oil price falls by over 4%.",
+      "date": "2026-05-26T10:50Z",
+      "date_display": "26 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media reports that Tehran wants $12 billion of its frozen assets as part of any deal a...",
+      "description": "Iranian state media reports that Tehran wants $12 billion of its frozen assets as part of any deal announcement with the United States.",
+      "date": "2026-05-26T10:30Z",
+      "date_display": "26 May 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "New record low for Indonesia's rupiah against the US Dollar\n\nhttps://t.co/9GHnVMiUSP",
+      "description": "New record low for Indonesia's rupiah against the US Dollar\n\nhttps://t.co/9GHnVMiUSP",
+      "date": "2026-05-26T10:20Z",
+      "date_display": "26 May 10:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,835 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,835 per US Dollar.",
+      "date": "2026-05-26T10:20Z",
+      "date_display": "26 May 10:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards say they shot down a US MQ-9 drone",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they shot down a US MQ-9 drone",
+      "date": "2026-05-26T08:50Z",
+      "date_display": "26 May 08:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israeli military says it did not participate in strikes that were carried out earlier today.",
+      "description": "Israeli military says it did not participate in strikes that were carried out earlier today.",
+      "date": "2026-05-26T07:30Z",
+      "date_display": "26 May 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Indonesian rupiah falls to a record low against the dollar\n\nhttps://t.co/9GHnVMiUSP",
       "description": "Indonesian rupiah falls to a record low against the dollar\n\nhttps://t.co/9GHnVMiUSP",
@@ -99,81 +171,97 @@
       "date_display": "25 May 03:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices fall by 5%",
-      "description": "<b>BREAKING:</b> Oil prices fall by 5%",
-      "date": "2026-05-24T22:20Z",
-      "date_display": "24 May 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Gaps between US and Iran negotiating positions remain 'significant' according to Arab offi...",
-      "description": "<b>BREAKING:</b> Gaps between US and Iran negotiating positions remain 'significant' according to Arab official",
-      "date": "2026-05-24T22:10Z",
-      "date_display": "24 May 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump told some Arab and Muslim leaders that he 'wants their nations to sign peace agreeme...",
-      "description": "<b>BREAKING:</b> Trump told some Arab and Muslim leaders that he 'wants their nations to sign peace agreements with Israel' if a deal is reached to end the Iran war, according to Axios report.",
-      "date": "2026-05-24T21:20Z",
-      "date_display": "24 May 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇸🇦 Saudi Arabia government debt as share of GDP.\n\n2000: 86%\n\n2026: 32% https://t.co/O56mrJmw6U",
-      "description": "🇸🇦 Saudi Arabia government debt as share of GDP.\n\n2000: 86%\n\n2026: 32% https://t.co/O56mrJmw6U",
-      "date": "2026-05-24T15:10Z",
-      "date_display": "24 May 15:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +85%\nEuropean gas: +73%\nBre...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +85%\nEuropean gas: +73%\nBrent crude oil: +71%\nCrude oil: +69%\nPropane: 32%\nCoal: +23%",
-      "date": "2026-05-24T14:10Z",
-      "date_display": "24 May 14:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Inflation rate\n\n🇦🇷 Argentina: 32.4%\n🇹🇷 Turkey: 32.3%\n🇷🇺 Russia: 5.6%\n🇦🇺 Australia: 4.6%\n🇲🇽...",
-      "description": "Inflation rate\n\n🇦🇷 Argentina: 32.4%\n🇹🇷 Turkey: 32.3%\n🇷🇺 Russia: 5.6%\n🇦🇺 Australia: 4.6%\n🇲🇽 Mexico: 4.45%\n🇧🇷 Brazil: 4.39%\n🇿🇦 South Africa: 4%\n🇺🇸 United States: 3.8%\n🇮🇳 India: 3.48%\n🇪🇸 Spain: 3.2%\n🇩🇪 Germany: 2.9%\n🇨🇦 Canada: 2.8%\n🇳🇱 Netherlands: 2.8%\n🇬🇧 United Kingdom: 2.8%\n🇮🇹 Italy: 2.7%\n🇰🇷 South Korea: 2.6%\n🇮🇩 Indonesia: 2.42%\n🇫🇷 France: 2.2%\n🇸🇬 Singapore: 1.8%\n🇸🇦 Saudi Arabia: 1.7%\n🇯🇵 Japan: 1.4%\n🇨🇳 China: 1.2%",
-      "date": "2026-05-24T13:10Z",
-      "date_display": "24 May 13:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media says there will not be a deal with the United States unless frozen assets are re...",
-      "description": "Iranian state media says there will not be a deal with the United States unless frozen assets are released.",
-      "date": "2026-05-24T11:10Z",
-      "date_display": "24 May 11:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Hormuz Still Closed: The Energy Shock https://t.co/cLm1x3kRWD",
-      "description": "Hormuz Still Closed: The Energy Shock https://t.co/cLm1x3kRWD",
-      "date": "2026-05-24T10:20Z",
-      "date_display": "24 May 10:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran has not agreed to hand over stockpile of highly enriched uranium, according to Reuter...",
-      "description": "<b>BREAKING:</b> Iran has not agreed to hand over stockpile of highly enriched uranium, according to Reuters report.",
-      "date": "2026-05-24T08:00Z",
-      "date_display": "24 May 08:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "American Airlines is set to install Starlink wi-fi on over 500 planes from 2027. https://t.co/nxZv2B...",
+      "description": "American Airlines is set to install Starlink wi-fi on over 500 planes from 2027. https://t.co/nxZv2BAaK9",
+      "date": "2026-05-26T20:50Z",
+      "date_display": "26 May 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The chances of a US recession next year have risen up to 45%, according to @Kalshi prediction market...",
+      "description": "The chances of a US recession next year have risen up to 45%, according to @Kalshi prediction market. https://t.co/uQurHT5MsY",
+      "date": "2026-05-26T20:20Z",
+      "date_display": "26 May 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREKAING: Israel says it has killed Hamas military leader Mohammad Odeh",
+      "description": "BREKAING: Israel says it has killed Hamas military leader Mohammad Odeh",
+      "date": "2026-05-26T20:10Z",
+      "date_display": "26 May 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "President Trump and Israeli PM Netanyahu have held a phone call to discuss the situation with Iran, ...",
+      "description": "President Trump and Israeli PM Netanyahu have held a phone call to discuss the situation with Iran, according to Israeli sources.",
+      "date": "2026-05-26T20:00Z",
+      "date_display": "26 May 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "WTI crude drops 4% to $92 on US-Iran deal hopes\n\nhttps://t.co/WuIzzXnOZf",
+      "description": "WTI crude drops 4% to $92 on US-Iran deal hopes\n\nhttps://t.co/WuIzzXnOZf",
+      "date": "2026-05-26T10:50Z",
+      "date_display": "26 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price falls by over 4%.",
+      "description": "US crude oil price falls by over 4%.",
+      "date": "2026-05-26T10:50Z",
+      "date_display": "26 May 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media reports that Tehran wants $12 billion of its frozen assets as part of any deal a...",
+      "description": "Iranian state media reports that Tehran wants $12 billion of its frozen assets as part of any deal announcement with the United States.",
+      "date": "2026-05-26T10:30Z",
+      "date_display": "26 May 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "New record low for Indonesia's rupiah against the US Dollar\n\nhttps://t.co/9GHnVMiUSP",
+      "description": "New record low for Indonesia's rupiah against the US Dollar\n\nhttps://t.co/9GHnVMiUSP",
+      "date": "2026-05-26T10:20Z",
+      "date_display": "26 May 10:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,835 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,835 per US Dollar.",
+      "date": "2026-05-26T10:20Z",
+      "date_display": "26 May 10:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards say they shot down a US MQ-9 drone",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they shot down a US MQ-9 drone",
+      "date": "2026-05-26T08:50Z",
+      "date_display": "26 May 08:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israeli military says it did not participate in strikes that were carried out earlier today.",
+      "description": "Israeli military says it did not participate in strikes that were carried out earlier today.",
+      "date": "2026-05-26T07:30Z",
+      "date_display": "26 May 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Indonesian rupiah falls to a record low against the dollar\n\nhttps://t.co/9GHnVMiUSP",
       "description": "Indonesian rupiah falls to a record low against the dollar\n\nhttps://t.co/9GHnVMiUSP",
@@ -325,94 +413,6 @@
       "date_display": "24 May 22:10 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Kimi Antonelli wins Canadian Grand Prix",
-      "description": "<b>BREAKING:</b> Kimi Antonelli wins Canadian Grand Prix",
-      "date": "2026-05-24T21:40Z",
-      "date_display": "24 May 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump told some Arab and Muslim leaders that he 'wants their nations to sign peace agreeme...",
-      "description": "<b>BREAKING:</b> Trump told some Arab and Muslim leaders that he 'wants their nations to sign peace agreements with Israel' if a deal is reached to end the Iran war, according to Axios report.",
-      "date": "2026-05-24T21:20Z",
-      "date_display": "24 May 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Government debt as share of GDP\n\n2000\n\n🇩🇪 Germany: 59%\n🇷🇺 Russia: 56%\n🇺🇸 US: 54%\n🇹🇷 Turkey: ...",
-      "description": "Government debt as share of GDP\n\n2000\n\n🇩🇪 Germany: 59%\n🇷🇺 Russia: 56%\n🇺🇸 US: 54%\n🇹🇷 Turkey: 51%\n🇬🇧 UK: 37%\n\n2026\n\n🇺🇸 US: 126%\n🇬🇧 UK: 103%\n🇩🇪 Germany: 64%\n🇹🇷 Turkey: 25%\n🇷🇺 Russia: 19%",
-      "date": "2026-05-24T16:00Z",
-      "date_display": "24 May 16:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇸🇦 Saudi Arabia government debt as share of GDP.\n\n2000: 86%\n\n2026: 32% https://t.co/O56mrJmw6U",
-      "description": "🇸🇦 Saudi Arabia government debt as share of GDP.\n\n2000: 86%\n\n2026: 32% https://t.co/O56mrJmw6U",
-      "date": "2026-05-24T15:10Z",
-      "date_display": "24 May 15:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +85%\nEuropean gas: +73%\nBre...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +102%\nHeating oil: +85%\nEuropean gas: +73%\nBrent crude oil: +71%\nCrude oil: +69%\nPropane: 32%\nCoal: +23%",
-      "date": "2026-05-24T14:10Z",
-      "date_display": "24 May 14:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Inflation rate\n\n🇦🇷 Argentina: 32.4%\n🇹🇷 Turkey: 32.3%\n🇷🇺 Russia: 5.6%\n🇦🇺 Australia: 4.6%\n🇲🇽...",
-      "description": "Inflation rate\n\n🇦🇷 Argentina: 32.4%\n🇹🇷 Turkey: 32.3%\n🇷🇺 Russia: 5.6%\n🇦🇺 Australia: 4.6%\n🇲🇽 Mexico: 4.45%\n🇧🇷 Brazil: 4.39%\n🇿🇦 South Africa: 4%\n🇺🇸 United States: 3.8%\n🇮🇳 India: 3.48%\n🇪🇸 Spain: 3.2%\n🇩🇪 Germany: 2.9%\n🇨🇦 Canada: 2.8%\n🇳🇱 Netherlands: 2.8%\n🇬🇧 United Kingdom: 2.8%\n🇮🇹 Italy: 2.7%\n🇰🇷 South Korea: 2.6%\n🇮🇩 Indonesia: 2.42%\n🇫🇷 France: 2.2%\n🇸🇬 Singapore: 1.8%\n🇸🇦 Saudi Arabia: 1.7%\n🇯🇵 Japan: 1.4%\n🇨🇳 China: 1.2%",
-      "date": "2026-05-24T13:10Z",
-      "date_display": "24 May 13:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media says there will not be a deal with the United States unless frozen assets are re...",
-      "description": "Iranian state media says there will not be a deal with the United States unless frozen assets are released.",
-      "date": "2026-05-24T11:10Z",
-      "date_display": "24 May 11:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Hormuz Still Closed: The Energy Shock https://t.co/cLm1x3kRWD",
-      "description": "Hormuz Still Closed: The Energy Shock https://t.co/cLm1x3kRWD",
-      "date": "2026-05-24T10:20Z",
-      "date_display": "24 May 10:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran has not agreed to hand over stockpile of highly enriched uranium, according to Reuter...",
-      "description": "<b>BREAKING:</b> Iran has not agreed to hand over stockpile of highly enriched uranium, according to Reuters report.",
-      "date": "2026-05-24T08:00Z",
-      "date_display": "24 May 08:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media reports that a draft agreement between the US and Iran includes mutual commitmen...",
-      "description": "Iranian state media reports that a draft agreement between the US and Iran includes mutual commitment to not launch attacks on each other.",
-      "date": "2026-05-24T06:30Z",
-      "date_display": "24 May 06:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US officials say Tehran agreed to give up enriched uranium, according to New York Times re...",
-      "description": "<b>BREAKING:</b> US officials say Tehran agreed to give up enriched uranium, according to New York Times report.",
-      "date": "2026-05-24T04:00Z",
-      "date_display": "24 May 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

@@ -1,17 +1,89 @@
 {
-  "fetched_at": "2026-05-28T04:50Z",
+  "fetched_at": "2026-05-29T04:53Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 38,
+  "india_relevant_items": 37,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": true,
+    "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "US crude oil prices fall by 4.7% amid growing optimism of potential US-Iran deal."
+    "latest_oil_headline": "BREAKING: US crude oil price up 4% as US-Iran tensions rise again"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Russian drone impact at an apartment building in eastern Romania",
+      "description": "<b>BREAKING:</b> Russian drone impact at an apartment building in eastern Romania",
+      "date": "2026-05-29T01:00Z",
+      "date_display": "29 May 01:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military denies that Iranian forces downed a US aircraft",
+      "description": "<b>BREAKING:</b> US military denies that Iranian forces downed a US aircraft",
+      "date": "2026-05-28T23:00Z",
+      "date_display": "28 May 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media claims that a US drone was downed in the country's south.",
+      "description": "Iranian state media claims that a US drone was downed in the country's south.",
+      "date": "2026-05-28T21:00Z",
+      "date_display": "28 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports missiles were fired from country's south, with targets not yet known...",
+      "description": "<b>BREAKING:</b> Iranian media reports missiles were fired from country's south, with targets not yet known.",
+      "date": "2026-05-28T20:30Z",
+      "date_display": "28 May 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "GDP (current prices)\n\n2005\n\n🇬🇧 UK: $2.5 trillion\n🇨🇳 China: $2.3 trillion\n\n2026\n\n🇬🇧 UK: $4.2 tr...",
+      "description": "GDP (current prices)\n\n2005\n\n🇬🇧 UK: $2.5 trillion\n🇨🇳 China: $2.3 trillion\n\n2026\n\n🇬🇧 UK: $4.2 trillion\n🇨🇳 China: $20.8 trillion",
+      "date": "2026-05-28T15:10Z",
+      "date_display": "28 May 15:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇨🇳 China's GDP per capita (PPP)\n\n2000: $2,630\n\n2026: $31,600\n\n(IMF) https://t.co/MAlyKSleN3",
+      "description": "🇨🇳 China's GDP per capita (PPP)\n\n2000: $2,630\n\n2026: $31,600\n\n(IMF) https://t.co/MAlyKSleN3",
+      "date": "2026-05-28T14:10Z",
+      "date_display": "28 May 14:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "South Africa's producer prices inflation surges to 4.8%, the highest in two years. https://t.co/74zH...",
+      "description": "South Africa's producer prices inflation surges to 4.8%, the highest in two years. https://t.co/74zHFPfahN",
+      "date": "2026-05-28T10:10Z",
+      "date_display": "28 May 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah fell to record low of 17,900 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah fell to record low of 17,900 per US Dollar.",
+      "date": "2026-05-28T06:50Z",
+      "date_display": "28 May 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil price up 4% as US-Iran tensions rise again",
+      "description": "<b>BREAKING:</b> US crude oil price up 4% as US-Iran tensions rise again",
+      "date": "2026-05-28T05:10Z",
+      "date_display": "28 May 05:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Warning sirens sound and air defenses active in Kuwait",
       "description": "<b>BREAKING:</b> Warning sirens sound and air defenses active in Kuwait",
@@ -99,81 +171,113 @@
       "date_display": "26 May 10:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price falls by over 4%.",
-      "description": "US crude oil price falls by over 4%.",
-      "date": "2026-05-26T10:50Z",
-      "date_display": "26 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media reports that Tehran wants $12 billion of its frozen assets as part of any deal a...",
-      "description": "Iranian state media reports that Tehran wants $12 billion of its frozen assets as part of any deal announcement with the United States.",
-      "date": "2026-05-26T10:30Z",
-      "date_display": "26 May 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "New record low for Indonesia's rupiah against the US Dollar\n\nhttps://t.co/9GHnVMiUSP",
-      "description": "New record low for Indonesia's rupiah against the US Dollar\n\nhttps://t.co/9GHnVMiUSP",
-      "date": "2026-05-26T10:20Z",
-      "date_display": "26 May 10:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,835 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,835 per US Dollar.",
-      "date": "2026-05-26T10:20Z",
-      "date_display": "26 May 10:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they shot down a US MQ-9 drone",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they shot down a US MQ-9 drone",
-      "date": "2026-05-26T08:50Z",
-      "date_display": "26 May 08:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli military says it did not participate in strikes that were carried out earlier today.",
-      "description": "Israeli military says it did not participate in strikes that were carried out earlier today.",
-      "date": "2026-05-26T07:30Z",
-      "date_display": "26 May 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Indonesian rupiah falls to a record low against the dollar\n\nhttps://t.co/9GHnVMiUSP",
-      "description": "Indonesian rupiah falls to a record low against the dollar\n\nhttps://t.co/9GHnVMiUSP",
-      "date": "2026-05-26T02:10Z",
-      "date_display": "26 May 02:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,775 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,775 per US Dollar.",
-      "date": "2026-05-26T02:10Z",
-      "date_display": "26 May 02:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says says strikes in southern Iran are defensive in nature and 'are over for n...",
-      "description": "<b>BREAKING:</b> US military says says strikes in southern Iran are defensive in nature and 'are over for now', according to Fox News reporter @JenGriffinFNC.",
-      "date": "2026-05-25T23:40Z",
-      "date_display": "25 May 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Russian drone impact at an apartment building in eastern Romania",
+      "description": "<b>BREAKING:</b> Russian drone impact at an apartment building in eastern Romania",
+      "date": "2026-05-29T01:00Z",
+      "date_display": "29 May 01:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military denies that Iranian forces downed a US aircraft",
+      "description": "<b>BREAKING:</b> US military denies that Iranian forces downed a US aircraft",
+      "date": "2026-05-28T23:00Z",
+      "date_display": "28 May 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian state media claims that a US drone was downed in the country's south.",
+      "description": "Iranian state media claims that a US drone was downed in the country's south.",
+      "date": "2026-05-28T21:00Z",
+      "date_display": "28 May 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports missiles were fired from country's south, with targets not yet known...",
+      "description": "<b>BREAKING:</b> Iranian media reports missiles were fired from country's south, with targets not yet known.",
+      "date": "2026-05-28T20:30Z",
+      "date_display": "28 May 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "GDP (current prices)\n\n2005\n\n🇬🇧 UK: $2.5 trillion\n🇨🇳 China: $2.3 trillion\n\n2026\n\n🇬🇧 UK: $4.2 tr...",
+      "description": "GDP (current prices)\n\n2005\n\n🇬🇧 UK: $2.5 trillion\n🇨🇳 China: $2.3 trillion\n\n2026\n\n🇬🇧 UK: $4.2 trillion\n🇨🇳 China: $20.8 trillion",
+      "date": "2026-05-28T15:10Z",
+      "date_display": "28 May 15:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇨🇳 China's GDP per capita (PPP)\n\n2000: $2,630\n\n2026: $31,600\n\n(IMF) https://t.co/MAlyKSleN3",
+      "description": "🇨🇳 China's GDP per capita (PPP)\n\n2000: $2,630\n\n2026: $31,600\n\n(IMF) https://t.co/MAlyKSleN3",
+      "date": "2026-05-28T14:10Z",
+      "date_display": "28 May 14:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Japan's government debt as share of GDP\n\n1990: 63%\n\n2026: 204% https://t.co/aQTveLn8Lc",
+      "description": "Japan's government debt as share of GDP\n\n1990: 63%\n\n2026: 204% https://t.co/aQTveLn8Lc",
+      "date": "2026-05-28T13:10Z",
+      "date_display": "28 May 13:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Government debt as share of GDP\n\n2000\n\n🇮🇩 Indonesia: 87%\n🇧🇷 Brazil: 65%\n\n2026\n\n🇮🇩 Indonesia: 4...",
+      "description": "Government debt as share of GDP\n\n2000\n\n🇮🇩 Indonesia: 87%\n🇧🇷 Brazil: 65%\n\n2026\n\n🇮🇩 Indonesia: 41%\n🇧🇷 Brazil: 96%",
+      "date": "2026-05-28T12:00Z",
+      "date_display": "28 May 12:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Japan's child population has now fallen for 45 years straight, down to a record low of 13.29 million...",
+      "description": "Japan's child population has now fallen for 45 years straight, down to a record low of 13.29 million. https://t.co/PS7JEo9PMH",
+      "date": "2026-05-28T11:10Z",
+      "date_display": "28 May 11:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Israeli military says it struck 135 targets belonging to Hezbollah over the past 24 hours.",
+      "description": "Israeli military says it struck 135 targets belonging to Hezbollah over the past 24 hours.",
+      "date": "2026-05-28T10:30Z",
+      "date_display": "28 May 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "South Africa's producer prices inflation surges to 4.8%, the highest in two years. https://t.co/74zH...",
+      "description": "South Africa's producer prices inflation surges to 4.8%, the highest in two years. https://t.co/74zHFPfahN",
+      "date": "2026-05-28T10:10Z",
+      "date_display": "28 May 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah fell to record low of 17,900 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah fell to record low of 17,900 per US Dollar.",
+      "date": "2026-05-28T06:50Z",
+      "date_display": "28 May 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil price up 4% as US-Iran tensions rise again",
+      "description": "<b>BREAKING:</b> US crude oil price up 4% as US-Iran tensions rise again",
+      "date": "2026-05-28T05:10Z",
+      "date_display": "28 May 05:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Warning sirens sound and air defenses active in Kuwait",
       "description": "<b>BREAKING:</b> Warning sirens sound and air defenses active in Kuwait",
@@ -309,110 +413,6 @@
       "date_display": "26 May 10:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "New record low for Indonesia's rupiah against the US Dollar\n\nhttps://t.co/9GHnVMiUSP",
-      "description": "New record low for Indonesia's rupiah against the US Dollar\n\nhttps://t.co/9GHnVMiUSP",
-      "date": "2026-05-26T10:20Z",
-      "date_display": "26 May 10:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,835 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,835 per US Dollar.",
-      "date": "2026-05-26T10:20Z",
-      "date_display": "26 May 10:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they shot down a US MQ-9 drone",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they shot down a US MQ-9 drone",
-      "date": "2026-05-26T08:50Z",
-      "date_display": "26 May 08:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli military says it did not participate in strikes that were carried out earlier today.",
-      "description": "Israeli military says it did not participate in strikes that were carried out earlier today.",
-      "date": "2026-05-26T07:30Z",
-      "date_display": "26 May 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Indonesian rupiah falls to a record low against the dollar\n\nhttps://t.co/9GHnVMiUSP",
-      "description": "Indonesian rupiah falls to a record low against the dollar\n\nhttps://t.co/9GHnVMiUSP",
-      "date": "2026-05-26T02:10Z",
-      "date_display": "26 May 02:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls to record low of 17,775 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls to record low of 17,775 per US Dollar.",
-      "date": "2026-05-26T02:10Z",
-      "date_display": "26 May 02:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says says strikes in southern Iran are defensive in nature and 'are over for n...",
-      "description": "<b>BREAKING:</b> US military says says strikes in southern Iran are defensive in nature and 'are over for now', according to Fox News reporter @JenGriffinFNC.",
-      "date": "2026-05-25T23:40Z",
-      "date_display": "25 May 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it conducted strikes in southern Iran, targeting vessels and missile laun...",
-      "description": "<b>BREAKING:</b> US military says it conducted strikes in southern Iran, targeting vessels and missile launch sites.",
-      "date": "2026-05-25T23:10Z",
-      "date_display": "25 May 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump posts about Iran's uranium https://t.co/1G2B7zplmo",
-      "description": "<b>BREAKING:</b> Trump posts about Iran's uranium https://t.co/1G2B7zplmo",
-      "date": "2026-05-25T22:00Z",
-      "date_display": "25 May 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reports of blasts heard in several regions around Iran's southern coast, the cause is stil...",
-      "description": "<b>BREAKING:</b> Reports of blasts heard in several regions around Iran's southern coast, the cause is still not clear.",
-      "date": "2026-05-25T21:00Z",
-      "date_display": "25 May 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Three very loud blasts have been heard in Bandar Abbas in southern Iran, with the cause not yet know...",
-      "description": "Three very loud blasts have been heard in Bandar Abbas in southern Iran, with the cause not yet known.",
-      "date": "2026-05-25T20:30Z",
-      "date_display": "25 May 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "TODAY\n\nBrent crude oil prices are down 6.7%\n\nUS crude down 6.4%\n\nGasoline down by 5.7% \n\nHeating oil...",
-      "description": "TODAY\n\nBrent crude oil prices are down 6.7%\n\nUS crude down 6.4%\n\nGasoline down by 5.7% \n\nHeating oil is down by 4.8% https://t.co/G7U36mmTZm",
-      "date": "2026-05-25T19:50Z",
-      "date_display": "25 May 19:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "GDP per capita (purchasing power parity)\n\n1980\n\n🇰🇷 South Korea: $2,000\n🇻🇪 Venezuela: $8,000\n\n202...",
-      "description": "GDP per capita (purchasing power parity)\n\n1980\n\n🇰🇷 South Korea: $2,000\n🇻🇪 Venezuela: $8,000\n\n2026\n\n🇰🇷 South Korea: $68,620\n🇻🇪 Venezuela: $9,460\n\n(IMF)",
-      "date": "2026-05-25T16:00Z",
-      "date_display": "25 May 16:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

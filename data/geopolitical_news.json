@@ -1,17 +1,57 @@
 {
-  "fetched_at": "2026-05-29T04:53Z",
+  "fetched_at": "2026-05-30T04:34Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 37,
+  "india_relevant_items": 39,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "BREAKING: US crude oil price up 4% as US-Iran tensions rise again"
+    "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrud..."
   },
   "india_headlines": [
+    {
+      "title": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: ...",
+      "description": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: +1.2%\n🇸🇬 Singapore: +1.1%\n🇹🇭 Thailand: +1%\n\n🇻🇳 Vietnam: -1.1%\n🇮🇩 Indonesia: -8.9%\n🇰🇷 South Korea: -9%\n🇵🇭 Philippines: -10%\n🇯🇵 Japan: -10.5%\n🇮🇳 India: -11%",
+      "date": "2026-05-30T03:00Z",
+      "date_display": "30 May 03:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US Treasury Secretary says that $1 billion in crypto has been seized from Iran",
+      "description": "<b>BREAKING:</b> US Treasury Secretary says that $1 billion in crypto has been seized from Iran",
+      "date": "2026-05-29T22:10Z",
+      "date_display": "29 May 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Kazakhstan has offered to take Iran's uranium stockpile, according to comments from Rafael Grossi, d...",
+      "description": "Kazakhstan has offered to take Iran's uranium stockpile, according to comments from Rafael Grossi, director-general of the IAEA to the Financial Times. https://t.co/qNBUeVmJAd",
+      "date": "2026-05-29T21:40Z",
+      "date_display": "29 May 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump's meeting in Situation Room lasted two hours, but did not reach a final decision reg...",
+      "description": "<b>BREAKING:</b> Trump's meeting in Situation Room lasted two hours, but did not reach a final decision regarding deal with Iran, according to New York Times report.",
+      "date": "2026-05-29T21:00Z",
+      "date_display": "29 May 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrud...",
+      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrude oil: +54%\nBrent crude oil: +52%\nPropane: 37%\nCoal: +27%",
+      "date": "2026-05-29T08:20Z",
+      "date_display": "29 May 08:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Russian drone impact at an apartment building in eastern Romania",
       "description": "<b>BREAKING:</b> Russian drone impact at an apartment building in eastern Romania",
@@ -131,49 +171,65 @@
       "date_display": "27 May 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: ...",
+      "description": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: +1.2%\n🇸🇬 Singapore: +1.1%\n🇹🇭 Thailand: +1%\n\n🇻🇳 Vietnam: -1.1%\n🇮🇩 Indonesia: -8.9%\n🇰🇷 South Korea: -9%\n🇵🇭 Philippines: -10%\n🇯🇵 Japan: -10.5%\n🇮🇳 India: -11%",
+      "date": "2026-05-30T03:00Z",
+      "date_display": "30 May 03:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Oil prices fall by over 5% on reports of progress in US-Iran negotiations",
-      "description": "<b>BREAKING:</b> Oil prices fall by over 5% on reports of progress in US-Iran negotiations",
-      "date": "2026-05-27T12:40Z",
-      "date_display": "27 May 12:40 UTC",
+      "title": "BREAKING: US Treasury Secretary says that $1 billion in crypto has been seized from Iran",
+      "description": "<b>BREAKING:</b> US Treasury Secretary says that $1 billion in crypto has been seized from Iran",
+      "date": "2026-05-29T22:10Z",
+      "date_display": "29 May 22:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "🇮🇩 Indonesian rupiah per US Dollar.\n\nOne year ago: 16,620\n\nNow: 17,800",
-      "description": "🇮🇩 Indonesian rupiah per US Dollar.\n\nOne year ago: 16,620\n\nNow: 17,800",
-      "date": "2026-05-27T07:10Z",
-      "date_display": "27 May 07:10 UTC",
+      "title": "The Democratic Party now has a 77% chance of winning the US House of Representatives, according to p...",
+      "description": "The Democratic Party now has a 77% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/pdzGh4AMuR",
+      "date": "2026-05-29T21:50Z",
+      "date_display": "29 May 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Kazakhstan has offered to take Iran's uranium stockpile, according to comments from Rafael Grossi, d...",
+      "description": "Kazakhstan has offered to take Iran's uranium stockpile, according to comments from Rafael Grossi, director-general of the IAEA to the Financial Times. https://t.co/qNBUeVmJAd",
+      "date": "2026-05-29T21:40Z",
+      "date_display": "29 May 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "The chances of a US recession next year have risen up to 45%, according to @Kalshi prediction market...",
-      "description": "The chances of a US recession next year have risen up to 45%, according to @Kalshi prediction market. https://t.co/uQurHT5MsY",
-      "date": "2026-05-26T20:20Z",
-      "date_display": "26 May 20:20 UTC",
+      "title": "The United Nations has added Israel and Russia to sexual violence blacklist, as Israel says it would...",
+      "description": "The United Nations has added Israel and Russia to sexual violence blacklist, as Israel says it would cut ties with UN Secretary-General Antonio Guterres.",
+      "date": "2026-05-29T21:10Z",
+      "date_display": "29 May 21:10 UTC",
       "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump's meeting in Situation Room lasted two hours, but did not reach a final decision reg...",
+      "description": "<b>BREAKING:</b> Trump's meeting in Situation Room lasted two hours, but did not reach a final decision regarding deal with Iran, according to New York Times report.",
+      "date": "2026-05-29T21:00Z",
+      "date_display": "29 May 21:00 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "President Trump and Israeli PM Netanyahu have held a phone call to discuss the situation with Iran, ...",
-      "description": "President Trump and Israeli PM Netanyahu have held a phone call to discuss the situation with Iran, according to Israeli sources.",
-      "date": "2026-05-26T20:00Z",
-      "date_display": "26 May 20:00 UTC",
+      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrud...",
+      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrude oil: +54%\nBrent crude oil: +52%\nPropane: 37%\nCoal: +27%",
+      "date": "2026-05-29T08:20Z",
+      "date_display": "29 May 08:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
-    {
-      "title": "WTI crude drops 4% to $92 on US-Iran deal hopes\n\nhttps://t.co/WuIzzXnOZf",
-      "description": "WTI crude drops 4% to $92 on US-Iran deal hopes\n\nhttps://t.co/WuIzzXnOZf",
-      "date": "2026-05-26T10:50Z",
-      "date_display": "26 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
     {
       "title": "BREAKING: Russian drone impact at an apartment building in eastern Romania",
       "description": "<b>BREAKING:</b> Russian drone impact at an apartment building in eastern Romania",
@@ -355,62 +411,6 @@
       "description": "🇮🇩 Indonesian rupiah per US Dollar.\n\nOne year ago: 16,620\n\nNow: 17,800",
       "date": "2026-05-27T07:10Z",
       "date_display": "27 May 07:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "American Airlines is set to install Starlink wi-fi on over 500 planes from 2027. https://t.co/nxZv2B...",
-      "description": "American Airlines is set to install Starlink wi-fi on over 500 planes from 2027. https://t.co/nxZv2BAaK9",
-      "date": "2026-05-26T20:50Z",
-      "date_display": "26 May 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The chances of a US recession next year have risen up to 45%, according to @Kalshi prediction market...",
-      "description": "The chances of a US recession next year have risen up to 45%, according to @Kalshi prediction market. https://t.co/uQurHT5MsY",
-      "date": "2026-05-26T20:20Z",
-      "date_display": "26 May 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREKAING: Israel says it has killed Hamas military leader Mohammad Odeh",
-      "description": "BREKAING: Israel says it has killed Hamas military leader Mohammad Odeh",
-      "date": "2026-05-26T20:10Z",
-      "date_display": "26 May 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "President Trump and Israeli PM Netanyahu have held a phone call to discuss the situation with Iran, ...",
-      "description": "President Trump and Israeli PM Netanyahu have held a phone call to discuss the situation with Iran, according to Israeli sources.",
-      "date": "2026-05-26T20:00Z",
-      "date_display": "26 May 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "WTI crude drops 4% to $92 on US-Iran deal hopes\n\nhttps://t.co/WuIzzXnOZf",
-      "description": "WTI crude drops 4% to $92 on US-Iran deal hopes\n\nhttps://t.co/WuIzzXnOZf",
-      "date": "2026-05-26T10:50Z",
-      "date_display": "26 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price falls by over 4%.",
-      "description": "US crude oil price falls by over 4%.",
-      "date": "2026-05-26T10:50Z",
-      "date_display": "26 May 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media reports that Tehran wants $12 billion of its frozen assets as part of any deal a...",
-      "description": "Iranian state media reports that Tehran wants $12 billion of its frozen assets as part of any deal announcement with the United States.",
-      "date": "2026-05-26T10:30Z",
-      "date_display": "26 May 10:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

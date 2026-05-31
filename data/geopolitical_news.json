@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-30T04:34Z",
+  "fetched_at": "2026-05-31T05:04Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 39,
+  "india_relevant_items": 37,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrud..."
   },
   "india_headlines": [
+    {
+      "title": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last...",
+      "description": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last month, according to NBC News report. https://t.co/ovPUQ5vkiP",
+      "date": "2026-05-30T20:30Z",
+      "date_display": "30 May 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Adviser to Iran's Supreme Leader accuses President Trump of 'betraying diplomacy for the t...",
+      "description": "<b>BREAKING:</b> Adviser to Iran's Supreme Leader accuses President Trump of 'betraying diplomacy for the third time' https://t.co/zB5fqihzFA",
+      "date": "2026-05-30T09:20Z",
+      "date_display": "30 May 09:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US troops were injured and two US MQ-9 Reaper drones were damaged at a base in Kuwait earlier this w...",
+      "description": "US troops were injured and two US MQ-9 Reaper drones were damaged at a base in Kuwait earlier this week during an Iranian missile attack, according to Bloomberg report.",
+      "date": "2026-05-30T08:30Z",
+      "date_display": "30 May 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: ...",
       "description": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: +1.2%\n🇸🇬 Singapore: +1.1%\n🇹🇭 Thailand: +1%\n\n🇻🇳 Vietnam: -1.1%\n🇮🇩 Indonesia: -8.9%\n🇰🇷 South Korea: -9%\n🇵🇭 Philippines: -10%\n🇯🇵 Japan: -10.5%\n🇮🇳 India: -11%",
@@ -147,33 +171,57 @@
       "date_display": "28 May 02:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Axios reports a US official saying Iran fired four drones at a US commercial vessel, which...",
-      "description": "<b>BREAKING:</b> Axios reports a US official saying Iran fired four drones at a US commercial vessel, which were shot down by US military.",
-      "date": "2026-05-28T00:30Z",
-      "date_display": "28 May 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reports of blasts in southern Iranian city of Bandar Abbas",
-      "description": "<b>BREAKING:</b> Reports of blasts in southern Iranian city of Bandar Abbas",
-      "date": "2026-05-27T22:50Z",
-      "date_display": "27 May 22:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil prices fall by 4.7% amid growing optimism of potential US-Iran deal.",
-      "description": "US crude oil prices fall by 4.7% amid growing optimism of potential US-Iran deal.",
-      "date": "2026-05-27T21:00Z",
-      "date_display": "27 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Energy prices so far in 2026. https://t.co/T71bcCo9TK",
+      "description": "Energy prices so far in 2026. https://t.co/T71bcCo9TK",
+      "date": "2026-05-31T04:30Z",
+      "date_display": "31 May 04:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "President Trump posts about Greenland. https://t.co/xTwq17pXBY",
+      "description": "President Trump posts about Greenland. https://t.co/xTwq17pXBY",
+      "date": "2026-05-30T21:10Z",
+      "date_display": "30 May 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last...",
+      "description": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last month, according to NBC News report. https://t.co/ovPUQ5vkiP",
+      "date": "2026-05-30T20:30Z",
+      "date_display": "30 May 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Adviser to Iran's Supreme Leader accuses President Trump of 'betraying diplomacy for the t...",
+      "description": "<b>BREAKING:</b> Adviser to Iran's Supreme Leader accuses President Trump of 'betraying diplomacy for the third time' https://t.co/zB5fqihzFA",
+      "date": "2026-05-30T09:20Z",
+      "date_display": "30 May 09:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US troops were injured and two US MQ-9 Reaper drones were damaged at a base in Kuwait earlier this w...",
+      "description": "US troops were injured and two US MQ-9 Reaper drones were damaged at a base in Kuwait earlier this week during an Iranian missile attack, according to Bloomberg report.",
+      "date": "2026-05-30T08:30Z",
+      "date_display": "30 May 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israeli military has issued evacuation orders for villages in southern Lebanon.",
+      "description": "Israeli military has issued evacuation orders for villages in southern Lebanon.",
+      "date": "2026-05-30T07:30Z",
+      "date_display": "30 May 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: ...",
       "description": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: +1.2%\n🇸🇬 Singapore: +1.1%\n🇹🇭 Thailand: +1%\n\n🇻🇳 Vietnam: -1.1%\n🇮🇩 Indonesia: -8.9%\n🇰🇷 South Korea: -9%\n🇵🇭 Philippines: -10%\n🇯🇵 Japan: -10.5%\n🇮🇳 India: -11%",
@@ -364,54 +412,6 @@
       "date": "2026-05-28T00:30Z",
       "date_display": "28 May 00:30 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reports of blasts in southern Iranian city of Bandar Abbas",
-      "description": "<b>BREAKING:</b> Reports of blasts in southern Iranian city of Bandar Abbas",
-      "date": "2026-05-27T22:50Z",
-      "date_display": "27 May 22:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "CIA official arrested, with $40 million in stolen gold bars found at his residence in Virginia, acco...",
-      "description": "CIA official arrested, with $40 million in stolen gold bars found at his residence in Virginia, according NY TImes Report.",
-      "date": "2026-05-27T22:20Z",
-      "date_display": "27 May 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 President Trump approval rating\n\nApprove: 38%\nDisapprove: 60%\n\n(Economist/YouGov) https://t.co/...",
-      "description": "🇺🇸 President Trump approval rating\n\nApprove: 38%\nDisapprove: 60%\n\n(Economist/YouGov) https://t.co/0T7rkAxBdO",
-      "date": "2026-05-27T21:30Z",
-      "date_display": "27 May 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US crude oil prices fall by 4.7% amid growing optimism of potential US-Iran deal.",
-      "description": "US crude oil prices fall by 4.7% amid growing optimism of potential US-Iran deal.",
-      "date": "2026-05-27T21:00Z",
-      "date_display": "27 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices fall by over 5% on reports of progress in US-Iran negotiations",
-      "description": "<b>BREAKING:</b> Oil prices fall by over 5% on reports of progress in US-Iran negotiations",
-      "date": "2026-05-27T12:40Z",
-      "date_display": "27 May 12:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesian rupiah per US Dollar.\n\nOne year ago: 16,620\n\nNow: 17,800",
-      "description": "🇮🇩 Indonesian rupiah per US Dollar.\n\nOne year ago: 16,620\n\nNow: 17,800",
-      "date": "2026-05-27T07:10Z",
-      "date_display": "27 May 07:10 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

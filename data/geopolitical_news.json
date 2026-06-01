@@ -1,17 +1,73 @@
 {
-  "fetched_at": "2026-05-31T05:04Z",
+  "fetched_at": "2026-06-01T05:26Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
   "india_relevant_items": 37,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": false,
+    "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrud..."
+    "latest_oil_headline": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iranian media says that the military retaliated against US strikes",
+      "description": "<b>BREAKING:</b> Iranian media says that the military retaliated against US strikes",
+      "date": "2026-06-01T04:00Z",
+      "date_display": "01 Jun 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US strikes on Iranian radar and telecommunication facilities",
+      "description": "<b>BREAKING:</b> US strikes on Iranian radar and telecommunication facilities",
+      "date": "2026-06-01T03:50Z",
+      "date_display": "01 Jun 03:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal.",
+      "description": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal.",
+      "date": "2026-06-01T03:00Z",
+      "date_display": "01 Jun 03:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US Secretary of State Marco Rubio is pushing for a new ceasefire between Lebanon and Israe...",
+      "description": "<b>BREAKING:</b> US Secretary of State Marco Rubio is pushing for a new ceasefire between Lebanon and Israel, according to Axios report.",
+      "date": "2026-06-01T02:20Z",
+      "date_display": "01 Jun 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "American households have spent nearly $450 extra due to rising energy costs during the war on Iran, ...",
+      "description": "American households have spent nearly $450 extra due to rising energy costs during the war on Iran, according to data from Moody’s Analytics. https://t.co/ZKFhEgveaG",
+      "date": "2026-05-31T20:50Z",
+      "date_display": "31 May 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of August have fallen ...",
+      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of August have fallen to 40% according to @Kalshi prediction market. https://t.co/dXziFTdsyp",
+      "date": "2026-05-31T20:50Z",
+      "date_display": "31 May 20:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli media reports Netanyahu is leaning towards expanding strikes across Lebanon",
+      "description": "<b>BREAKING:</b> Israeli media reports Netanyahu is leaning towards expanding strikes across Lebanon",
+      "date": "2026-05-31T12:20Z",
+      "date_display": "31 May 12:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last...",
       "description": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last month, according to NBC News report. https://t.co/ovPUQ5vkiP",
@@ -115,65 +171,65 @@
       "date_display": "28 May 15:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "🇨🇳 China's GDP per capita (PPP)\n\n2000: $2,630\n\n2026: $31,600\n\n(IMF) https://t.co/MAlyKSleN3",
-      "description": "🇨🇳 China's GDP per capita (PPP)\n\n2000: $2,630\n\n2026: $31,600\n\n(IMF) https://t.co/MAlyKSleN3",
-      "date": "2026-05-28T14:10Z",
-      "date_display": "28 May 14:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "South Africa's producer prices inflation surges to 4.8%, the highest in two years. https://t.co/74zH...",
-      "description": "South Africa's producer prices inflation surges to 4.8%, the highest in two years. https://t.co/74zHFPfahN",
-      "date": "2026-05-28T10:10Z",
-      "date_display": "28 May 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah fell to record low of 17,900 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah fell to record low of 17,900 per US Dollar.",
-      "date": "2026-05-28T06:50Z",
-      "date_display": "28 May 06:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price up 4% as US-Iran tensions rise again",
-      "description": "<b>BREAKING:</b> US crude oil price up 4% as US-Iran tensions rise again",
-      "date": "2026-05-28T05:10Z",
-      "date_display": "28 May 05:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Warning sirens sound and air defenses active in Kuwait",
-      "description": "<b>BREAKING:</b> Warning sirens sound and air defenses active in Kuwait",
-      "date": "2026-05-28T02:50Z",
-      "date_display": "28 May 02:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Kuwait military says it is responding to missile and drone threats",
-      "description": "<b>BREAKING:</b> Kuwait military says it is responding to missile and drone threats",
-      "date": "2026-05-28T02:50Z",
-      "date_display": "28 May 02:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US Treasury adds Iran’s new Persian Gulf Strait Authority to sanctions list",
-      "description": "<b>BREAKING:</b> US Treasury adds Iran’s new Persian Gulf Strait Authority to sanctions list",
-      "date": "2026-05-28T02:00Z",
-      "date_display": "28 May 02:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Iranian media says that the military retaliated against US strikes",
+      "description": "<b>BREAKING:</b> Iranian media says that the military retaliated against US strikes",
+      "date": "2026-06-01T04:00Z",
+      "date_display": "01 Jun 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US strikes on Iranian radar and telecommunication facilities",
+      "description": "<b>BREAKING:</b> US strikes on Iranian radar and telecommunication facilities",
+      "date": "2026-06-01T03:50Z",
+      "date_display": "01 Jun 03:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal.",
+      "description": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal.",
+      "date": "2026-06-01T03:00Z",
+      "date_display": "01 Jun 03:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US Secretary of State Marco Rubio is pushing for a new ceasefire between Lebanon and Israe...",
+      "description": "<b>BREAKING:</b> US Secretary of State Marco Rubio is pushing for a new ceasefire between Lebanon and Israel, according to Axios report.",
+      "date": "2026-06-01T02:20Z",
+      "date_display": "01 Jun 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "American households have spent nearly $450 extra due to rising energy costs during the war on Iran, ...",
+      "description": "American households have spent nearly $450 extra due to rising energy costs during the war on Iran, according to data from Moody’s Analytics. https://t.co/ZKFhEgveaG",
+      "date": "2026-05-31T20:50Z",
+      "date_display": "31 May 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of August have fallen ...",
+      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of August have fallen to 40% according to @Kalshi prediction market. https://t.co/dXziFTdsyp",
+      "date": "2026-05-31T20:50Z",
+      "date_display": "31 May 20:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli media reports Netanyahu is leaning towards expanding strikes across Lebanon",
+      "description": "<b>BREAKING:</b> Israeli media reports Netanyahu is leaning towards expanding strikes across Lebanon",
+      "date": "2026-05-31T12:20Z",
+      "date_display": "31 May 12:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Energy prices so far in 2026. https://t.co/T71bcCo9TK",
       "description": "Energy prices so far in 2026. https://t.co/T71bcCo9TK",
@@ -357,62 +413,6 @@
       "date_display": "28 May 10:30 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "South Africa's producer prices inflation surges to 4.8%, the highest in two years. https://t.co/74zH...",
-      "description": "South Africa's producer prices inflation surges to 4.8%, the highest in two years. https://t.co/74zHFPfahN",
-      "date": "2026-05-28T10:10Z",
-      "date_display": "28 May 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah fell to record low of 17,900 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah fell to record low of 17,900 per US Dollar.",
-      "date": "2026-05-28T06:50Z",
-      "date_display": "28 May 06:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price up 4% as US-Iran tensions rise again",
-      "description": "<b>BREAKING:</b> US crude oil price up 4% as US-Iran tensions rise again",
-      "date": "2026-05-28T05:10Z",
-      "date_display": "28 May 05:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Warning sirens sound and air defenses active in Kuwait",
-      "description": "<b>BREAKING:</b> Warning sirens sound and air defenses active in Kuwait",
-      "date": "2026-05-28T02:50Z",
-      "date_display": "28 May 02:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Kuwait military says it is responding to missile and drone threats",
-      "description": "<b>BREAKING:</b> Kuwait military says it is responding to missile and drone threats",
-      "date": "2026-05-28T02:50Z",
-      "date_display": "28 May 02:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US Treasury adds Iran’s new Persian Gulf Strait Authority to sanctions list",
-      "description": "<b>BREAKING:</b> US Treasury adds Iran’s new Persian Gulf Strait Authority to sanctions list",
-      "date": "2026-05-28T02:00Z",
-      "date_display": "28 May 02:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Axios reports a US official saying Iran fired four drones at a US commercial vessel, which...",
-      "description": "<b>BREAKING:</b> Axios reports a US official saying Iran fired four drones at a US commercial vessel, which were shot down by US military.",
-      "date": "2026-05-28T00:30Z",
-      "date_display": "28 May 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

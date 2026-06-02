@@ -1,17 +1,89 @@
 {
-  "fetched_at": "2026-06-01T05:26Z",
+  "fetched_at": "2026-06-02T05:11Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 37,
+  "india_relevant_items": 32,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "down",
-    "latest_oil_headline": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal."
+    "price_direction": "up",
+    "latest_oil_headline": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t...."
   },
   "india_headlines": [
+    {
+      "title": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
+      "description": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
+      "date": "2026-06-02T01:20Z",
+      "date_display": "02 Jun 01:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Russian ballistic missile attack on Kyiv",
+      "description": "<b>BREAKING:</b> Russian ballistic missile attack on Kyiv",
+      "date": "2026-06-01T23:30Z",
+      "date_display": "01 Jun 23:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards say they have targeted a US-owned commercial vessel with miss...",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have targeted a US-owned commercial vessel with missiles",
+      "date": "2026-06-01T21:00Z",
+      "date_display": "01 Jun 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t....",
+      "description": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t.co/34IIsf4ETk",
+      "date": "2026-06-01T19:50Z",
+      "date_display": "01 Jun 19:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Netanyahu says he told Trump that if Hezbollah doesn't stop its attacks, Israel will strik...",
+      "description": "<b>BREAKING:</b> Netanyahu says he told Trump that if Hezbollah doesn't stop its attacks, Israel will strike targets in Beirut.",
+      "date": "2026-06-01T19:40Z",
+      "date_display": "01 Jun 19:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil prices are up 4%, trading near $91.",
+      "description": "US crude oil prices are up 4%, trading near $91.",
+      "date": "2026-06-01T10:30Z",
+      "date_display": "01 Jun 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇸🇦 Saudi Arabia has condemned Iranian attacks on Kuwait territory as 'heinous'.",
+      "description": "🇸🇦 Saudi Arabia has condemned Iranian attacks on Kuwait territory as 'heinous'.",
+      "date": "2026-06-01T10:00Z",
+      "date_display": "01 Jun 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's chief negotiator Ghalibaf says that the naval blockade and 'escalation of war crime...",
+      "description": "<b>BREAKING:</b> Iran's chief negotiator Ghalibaf says that the naval blockade and 'escalation of war crimes in Lebanon' are 'clear evidence of US noncompliance with the ceasefire'.",
+      "date": "2026-06-01T09:20Z",
+      "date_display": "01 Jun 09:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli PM Netanyahu and defense minister Katz order military to conduct strikes on southe...",
+      "description": "<b>BREAKING:</b> Israeli PM Netanyahu and defense minister Katz order military to conduct strikes on southern suburbs of Beirut",
+      "date": "2026-06-01T07:00Z",
+      "date_display": "01 Jun 07:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian media says that the military retaliated against US strikes",
       "description": "<b>BREAKING:</b> Iranian media says that the military retaliated against US strikes",
@@ -99,81 +171,153 @@
       "date_display": "30 May 03:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US Treasury Secretary says that $1 billion in crypto has been seized from Iran",
-      "description": "<b>BREAKING:</b> US Treasury Secretary says that $1 billion in crypto has been seized from Iran",
-      "date": "2026-05-29T22:10Z",
-      "date_display": "29 May 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Kazakhstan has offered to take Iran's uranium stockpile, according to comments from Rafael Grossi, d...",
-      "description": "Kazakhstan has offered to take Iran's uranium stockpile, according to comments from Rafael Grossi, director-general of the IAEA to the Financial Times. https://t.co/qNBUeVmJAd",
-      "date": "2026-05-29T21:40Z",
-      "date_display": "29 May 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump's meeting in Situation Room lasted two hours, but did not reach a final decision reg...",
-      "description": "<b>BREAKING:</b> Trump's meeting in Situation Room lasted two hours, but did not reach a final decision regarding deal with Iran, according to New York Times report.",
-      "date": "2026-05-29T21:00Z",
-      "date_display": "29 May 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrud...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrude oil: +54%\nBrent crude oil: +52%\nPropane: 37%\nCoal: +27%",
-      "date": "2026-05-29T08:20Z",
-      "date_display": "29 May 08:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Russian drone impact at an apartment building in eastern Romania",
-      "description": "<b>BREAKING:</b> Russian drone impact at an apartment building in eastern Romania",
-      "date": "2026-05-29T01:00Z",
-      "date_display": "29 May 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military denies that Iranian forces downed a US aircraft",
-      "description": "<b>BREAKING:</b> US military denies that Iranian forces downed a US aircraft",
-      "date": "2026-05-28T23:00Z",
-      "date_display": "28 May 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media claims that a US drone was downed in the country's south.",
-      "description": "Iranian state media claims that a US drone was downed in the country's south.",
-      "date": "2026-05-28T21:00Z",
-      "date_display": "28 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports missiles were fired from country's south, with targets not yet known...",
-      "description": "<b>BREAKING:</b> Iranian media reports missiles were fired from country's south, with targets not yet known.",
-      "date": "2026-05-28T20:30Z",
-      "date_display": "28 May 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "GDP (current prices)\n\n2005\n\n🇬🇧 UK: $2.5 trillion\n🇨🇳 China: $2.3 trillion\n\n2026\n\n🇬🇧 UK: $4.2 tr...",
-      "description": "GDP (current prices)\n\n2005\n\n🇬🇧 UK: $2.5 trillion\n🇨🇳 China: $2.3 trillion\n\n2026\n\n🇬🇧 UK: $4.2 trillion\n🇨🇳 China: $20.8 trillion",
-      "date": "2026-05-28T15:10Z",
-      "date_display": "28 May 15:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "https://t.co/KJP8AeoEm1",
+      "description": "https://t.co/KJP8AeoEm1",
+      "date": "2026-06-02T01:20Z",
+      "date_display": "02 Jun 01:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
+      "description": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
+      "date": "2026-06-02T01:20Z",
+      "date_display": "02 Jun 01:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Seven people dead after shooting in Muscatine, Iowa.",
+      "description": "<b>BREAKING:</b> Seven people dead after shooting in Muscatine, Iowa.",
+      "date": "2026-06-02T01:10Z",
+      "date_display": "02 Jun 01:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Russian ballistic missile attack on Kyiv",
+      "description": "<b>BREAKING:</b> Russian ballistic missile attack on Kyiv",
+      "date": "2026-06-01T23:30Z",
+      "date_display": "01 Jun 23:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 6.5 magnitude earthquake in southern Italy",
+      "description": "<b>BREAKING:</b> 6.5 magnitude earthquake in southern Italy",
+      "date": "2026-06-01T22:30Z",
+      "date_display": "01 Jun 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Axios reports that Trump told Netanyahu in their latest phonecall, 'You’re f***ing crazy. ...",
+      "description": "<b>BREAKING:</b> Axios reports that Trump told Netanyahu in their latest phonecall, 'You’re f***ing crazy. You’d be in prison if it weren’t for me. I’m saving your ass. Everybody hates you now. Everybody hates Israel because of this.' https://t.co/ZtanvKPdx8",
+      "date": "2026-06-01T22:30Z",
+      "date_display": "01 Jun 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Active shooter at a medical clinic in Pelican Narrows, Sask in Canada.",
+      "description": "<b>BREAKING:</b> Active shooter at a medical clinic in Pelican Narrows, Sask in Canada.",
+      "date": "2026-06-01T21:40Z",
+      "date_display": "01 Jun 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards say they have targeted a US-owned commercial vessel with miss...",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have targeted a US-owned commercial vessel with missiles",
+      "date": "2026-06-01T21:00Z",
+      "date_display": "01 Jun 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t....",
+      "description": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t.co/34IIsf4ETk",
+      "date": "2026-06-01T19:50Z",
+      "date_display": "01 Jun 19:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Netanyahu says he told Trump that if Hezbollah doesn't stop its attacks, Israel will strik...",
+      "description": "<b>BREAKING:</b> Netanyahu says he told Trump that if Hezbollah doesn't stop its attacks, Israel will strike targets in Beirut.",
+      "date": "2026-06-01T19:40Z",
+      "date_display": "01 Jun 19:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "https://t.co/Hfw9mwq3YL",
+      "description": "https://t.co/Hfw9mwq3YL",
+      "date": "2026-06-01T10:30Z",
+      "date_display": "01 Jun 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US crude oil prices are up 4%, trading near $91.",
+      "description": "US crude oil prices are up 4%, trading near $91.",
+      "date": "2026-06-01T10:30Z",
+      "date_display": "01 Jun 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇸🇦 Saudi Arabia has condemned Iranian attacks on Kuwait territory as 'heinous'.",
+      "description": "🇸🇦 Saudi Arabia has condemned Iranian attacks on Kuwait territory as 'heinous'.",
+      "date": "2026-06-01T10:00Z",
+      "date_display": "01 Jun 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "https://t.co/EwEPKw7wnO",
+      "description": "https://t.co/EwEPKw7wnO",
+      "date": "2026-06-01T09:40Z",
+      "date_display": "01 Jun 09:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇮🇹 Italy's manufacturing has grown at the fastest rate in four years.",
+      "description": "🇮🇹 Italy's manufacturing has grown at the fastest rate in four years.",
+      "date": "2026-06-01T09:30Z",
+      "date_display": "01 Jun 09:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's chief negotiator Ghalibaf says that the naval blockade and 'escalation of war crime...",
+      "description": "<b>BREAKING:</b> Iran's chief negotiator Ghalibaf says that the naval blockade and 'escalation of war crimes in Lebanon' are 'clear evidence of US noncompliance with the ceasefire'.",
+      "date": "2026-06-01T09:20Z",
+      "date_display": "01 Jun 09:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli PM Netanyahu and defense minister Katz order military to conduct strikes on southe...",
+      "description": "<b>BREAKING:</b> Israeli PM Netanyahu and defense minister Katz order military to conduct strikes on southern suburbs of Beirut",
+      "date": "2026-06-01T07:00Z",
+      "date_display": "01 Jun 07:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "890 people were arrested in France following celebrations of PSG's Champions League title victory. h...",
+      "description": "890 people were arrested in France following celebrations of PSG's Champions League title victory. https://t.co/M8qrQOlwSF",
+      "date": "2026-06-01T06:10Z",
+      "date_display": "01 Jun 06:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Iranian media says that the military retaliated against US strikes",
       "description": "<b>BREAKING:</b> Iranian media says that the military retaliated against US strikes",
@@ -269,150 +413,6 @@
       "date_display": "30 May 08:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Israeli military has issued evacuation orders for villages in southern Lebanon.",
-      "description": "Israeli military has issued evacuation orders for villages in southern Lebanon.",
-      "date": "2026-05-30T07:30Z",
-      "date_display": "30 May 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: ...",
-      "description": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: +1.2%\n🇸🇬 Singapore: +1.1%\n🇹🇭 Thailand: +1%\n\n🇻🇳 Vietnam: -1.1%\n🇮🇩 Indonesia: -8.9%\n🇰🇷 South Korea: -9%\n🇵🇭 Philippines: -10%\n🇯🇵 Japan: -10.5%\n🇮🇳 India: -11%",
-      "date": "2026-05-30T03:00Z",
-      "date_display": "30 May 03:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US Treasury Secretary says that $1 billion in crypto has been seized from Iran",
-      "description": "<b>BREAKING:</b> US Treasury Secretary says that $1 billion in crypto has been seized from Iran",
-      "date": "2026-05-29T22:10Z",
-      "date_display": "29 May 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Democratic Party now has a 77% chance of winning the US House of Representatives, according to p...",
-      "description": "The Democratic Party now has a 77% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/pdzGh4AMuR",
-      "date": "2026-05-29T21:50Z",
-      "date_display": "29 May 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Kazakhstan has offered to take Iran's uranium stockpile, according to comments from Rafael Grossi, d...",
-      "description": "Kazakhstan has offered to take Iran's uranium stockpile, according to comments from Rafael Grossi, director-general of the IAEA to the Financial Times. https://t.co/qNBUeVmJAd",
-      "date": "2026-05-29T21:40Z",
-      "date_display": "29 May 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The United Nations has added Israel and Russia to sexual violence blacklist, as Israel says it would...",
-      "description": "The United Nations has added Israel and Russia to sexual violence blacklist, as Israel says it would cut ties with UN Secretary-General Antonio Guterres.",
-      "date": "2026-05-29T21:10Z",
-      "date_display": "29 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump's meeting in Situation Room lasted two hours, but did not reach a final decision reg...",
-      "description": "<b>BREAKING:</b> Trump's meeting in Situation Room lasted two hours, but did not reach a final decision regarding deal with Iran, according to New York Times report.",
-      "date": "2026-05-29T21:00Z",
-      "date_display": "29 May 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrud...",
-      "description": "Price increase since 1st of January, 2026.\n\nGasoline: +81%\nEuropean gas: +69%\nHeating oil: +67%\nCrude oil: +54%\nBrent crude oil: +52%\nPropane: 37%\nCoal: +27%",
-      "date": "2026-05-29T08:20Z",
-      "date_display": "29 May 08:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Russian drone impact at an apartment building in eastern Romania",
-      "description": "<b>BREAKING:</b> Russian drone impact at an apartment building in eastern Romania",
-      "date": "2026-05-29T01:00Z",
-      "date_display": "29 May 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military denies that Iranian forces downed a US aircraft",
-      "description": "<b>BREAKING:</b> US military denies that Iranian forces downed a US aircraft",
-      "date": "2026-05-28T23:00Z",
-      "date_display": "28 May 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian state media claims that a US drone was downed in the country's south.",
-      "description": "Iranian state media claims that a US drone was downed in the country's south.",
-      "date": "2026-05-28T21:00Z",
-      "date_display": "28 May 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports missiles were fired from country's south, with targets not yet known...",
-      "description": "<b>BREAKING:</b> Iranian media reports missiles were fired from country's south, with targets not yet known.",
-      "date": "2026-05-28T20:30Z",
-      "date_display": "28 May 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "GDP (current prices)\n\n2005\n\n🇬🇧 UK: $2.5 trillion\n🇨🇳 China: $2.3 trillion\n\n2026\n\n🇬🇧 UK: $4.2 tr...",
-      "description": "GDP (current prices)\n\n2005\n\n🇬🇧 UK: $2.5 trillion\n🇨🇳 China: $2.3 trillion\n\n2026\n\n🇬🇧 UK: $4.2 trillion\n🇨🇳 China: $20.8 trillion",
-      "date": "2026-05-28T15:10Z",
-      "date_display": "28 May 15:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇨🇳 China's GDP per capita (PPP)\n\n2000: $2,630\n\n2026: $31,600\n\n(IMF) https://t.co/MAlyKSleN3",
-      "description": "🇨🇳 China's GDP per capita (PPP)\n\n2000: $2,630\n\n2026: $31,600\n\n(IMF) https://t.co/MAlyKSleN3",
-      "date": "2026-05-28T14:10Z",
-      "date_display": "28 May 14:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Japan's government debt as share of GDP\n\n1990: 63%\n\n2026: 204% https://t.co/aQTveLn8Lc",
-      "description": "Japan's government debt as share of GDP\n\n1990: 63%\n\n2026: 204% https://t.co/aQTveLn8Lc",
-      "date": "2026-05-28T13:10Z",
-      "date_display": "28 May 13:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Government debt as share of GDP\n\n2000\n\n🇮🇩 Indonesia: 87%\n🇧🇷 Brazil: 65%\n\n2026\n\n🇮🇩 Indonesia: 4...",
-      "description": "Government debt as share of GDP\n\n2000\n\n🇮🇩 Indonesia: 87%\n🇧🇷 Brazil: 65%\n\n2026\n\n🇮🇩 Indonesia: 41%\n🇧🇷 Brazil: 96%",
-      "date": "2026-05-28T12:00Z",
-      "date_display": "28 May 12:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Japan's child population has now fallen for 45 years straight, down to a record low of 13.29 million...",
-      "description": "Japan's child population has now fallen for 45 years straight, down to a record low of 13.29 million. https://t.co/PS7JEo9PMH",
-      "date": "2026-05-28T11:10Z",
-      "date_display": "28 May 11:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Israeli military says it struck 135 targets belonging to Hezbollah over the past 24 hours.",
-      "description": "Israeli military says it struck 135 targets belonging to Hezbollah over the past 24 hours.",
-      "date": "2026-05-28T10:30Z",
-      "date_display": "28 May 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

@@ -1,17 +1,81 @@
 {
-  "fetched_at": "2026-06-02T05:11Z",
+  "fetched_at": "2026-06-03T05:27Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 32,
+  "india_relevant_items": 33,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t...."
+    "latest_oil_headline": "BREAKING: US crude oil price up 4% on Middle East developments"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz...",
+      "description": "<b>BREAKING:</b> Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz",
+      "date": "2026-06-03T00:00Z",
+      "date_display": "03 Jun 00:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil price up 4% on Middle East developments",
+      "description": "<b>BREAKING:</b> US crude oil price up 4% on Middle East developments",
+      "date": "2026-06-02T23:40Z",
+      "date_display": "02 Jun 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Bahrain shuts its airspace amid Iranian attack",
+      "description": "<b>BREAKING:</b> Bahrain shuts its airspace amid Iranian attack",
+      "date": "2026-06-02T23:30Z",
+      "date_display": "02 Jun 23:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian attack on Bahrain",
+      "description": "<b>BREAKING:</b> Iranian attack on Bahrain",
+      "date": "2026-06-02T23:20Z",
+      "date_display": "02 Jun 23:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran is carrying out attacks on targets in Kuwait, Bahrain and Iraq.",
+      "description": "<b>BREAKING:</b> Iran is carrying out attacks on targets in Kuwait, Bahrain and Iraq.",
+      "date": "2026-06-02T23:20Z",
+      "date_display": "02 Jun 23:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Kuwait says it is responding to missile and drone threats in Iranian attack",
+      "description": "<b>BREAKING:</b> Kuwait says it is responding to missile and drone threats in Iranian attack",
+      "date": "2026-06-02T22:30Z",
+      "date_display": "02 Jun 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump wants Iran to make firm nuclear concessions in writing as part of a deal, according ...",
+      "description": "President Trump wants Iran to make firm nuclear concessions in writing as part of a deal, according to ABC News. https://t.co/3cmkwUR8dU",
+      "date": "2026-06-02T21:40Z",
+      "date_display": "02 Jun 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia has reported a trade surplus of $90 million for April, marking its smallest surplus s...",
+      "description": "🇮🇩 Indonesia has reported a trade surplus of $90 million for April, marking its smallest surplus since 2020.",
+      "date": "2026-06-02T05:40Z",
+      "date_display": "02 Jun 05:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
       "description": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
@@ -107,73 +171,97 @@
       "date_display": "01 Jun 03:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: US Secretary of State Marco Rubio is pushing for a new ceasefire between Lebanon and Israe...",
-      "description": "<b>BREAKING:</b> US Secretary of State Marco Rubio is pushing for a new ceasefire between Lebanon and Israel, according to Axios report.",
-      "date": "2026-06-01T02:20Z",
-      "date_display": "01 Jun 02:20 UTC",
+      "title": "BREAKING: Bitcoin falls to two-month low",
+      "description": "<b>BREAKING:</b> Bitcoin falls to two-month low",
+      "date": "2026-06-03T00:20Z",
+      "date_display": "03 Jun 00:20 UTC",
       "severity": "high",
-      "is_india_relevant": true
+      "is_india_relevant": false
     },
     {
-      "title": "American households have spent nearly $450 extra due to rising energy costs during the war on Iran, ...",
-      "description": "American households have spent nearly $450 extra due to rising energy costs during the war on Iran, according to data from Moody’s Analytics. https://t.co/ZKFhEgveaG",
-      "date": "2026-05-31T20:50Z",
-      "date_display": "31 May 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of August have fallen ...",
-      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of August have fallen to 40% according to @Kalshi prediction market. https://t.co/dXziFTdsyp",
-      "date": "2026-05-31T20:50Z",
-      "date_display": "31 May 20:50 UTC",
+      "title": "BREAKING: Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz...",
+      "description": "<b>BREAKING:</b> Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz",
+      "date": "2026-06-03T00:00Z",
+      "date_display": "03 Jun 00:00 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Israeli media reports Netanyahu is leaning towards expanding strikes across Lebanon",
-      "description": "<b>BREAKING:</b> Israeli media reports Netanyahu is leaning towards expanding strikes across Lebanon",
-      "date": "2026-05-31T12:20Z",
-      "date_display": "31 May 12:20 UTC",
+      "title": "BREAKING: US crude oil price up 4% on Middle East developments",
+      "description": "<b>BREAKING:</b> US crude oil price up 4% on Middle East developments",
+      "date": "2026-06-02T23:40Z",
+      "date_display": "02 Jun 23:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last...",
-      "description": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last month, according to NBC News report. https://t.co/ovPUQ5vkiP",
-      "date": "2026-05-30T20:30Z",
-      "date_display": "30 May 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Adviser to Iran's Supreme Leader accuses President Trump of 'betraying diplomacy for the t...",
-      "description": "<b>BREAKING:</b> Adviser to Iran's Supreme Leader accuses President Trump of 'betraying diplomacy for the third time' https://t.co/zB5fqihzFA",
-      "date": "2026-05-30T09:20Z",
-      "date_display": "30 May 09:20 UTC",
+      "title": "BREAKING: Bahrain shuts its airspace amid Iranian attack",
+      "description": "<b>BREAKING:</b> Bahrain shuts its airspace amid Iranian attack",
+      "date": "2026-06-02T23:30Z",
+      "date_display": "02 Jun 23:30 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "US troops were injured and two US MQ-9 Reaper drones were damaged at a base in Kuwait earlier this w...",
-      "description": "US troops were injured and two US MQ-9 Reaper drones were damaged at a base in Kuwait earlier this week during an Iranian missile attack, according to Bloomberg report.",
-      "date": "2026-05-30T08:30Z",
-      "date_display": "30 May 08:30 UTC",
+      "title": "BREAKING: Iranian attack on Bahrain",
+      "description": "<b>BREAKING:</b> Iranian attack on Bahrain",
+      "date": "2026-06-02T23:20Z",
+      "date_display": "02 Jun 23:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran is carrying out attacks on targets in Kuwait, Bahrain and Iraq.",
+      "description": "<b>BREAKING:</b> Iran is carrying out attacks on targets in Kuwait, Bahrain and Iraq.",
+      "date": "2026-06-02T23:20Z",
+      "date_display": "02 Jun 23:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Kuwait says it is responding to missile and drone threats in Iranian attack",
+      "description": "<b>BREAKING:</b> Kuwait says it is responding to missile and drone threats in Iranian attack",
+      "date": "2026-06-02T22:30Z",
+      "date_display": "02 Jun 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump wants Iran to make firm nuclear concessions in writing as part of a deal, according ...",
+      "description": "President Trump wants Iran to make firm nuclear concessions in writing as part of a deal, according to ABC News. https://t.co/3cmkwUR8dU",
+      "date": "2026-06-02T21:40Z",
+      "date_display": "02 Jun 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: ...",
-      "description": "Currency against US Dollar over the past year.\n\n🇲🇾 Malaysia: +6.7%\n🇨🇳 China: +3%\n🇵🇰 Pakistan: +1.2%\n🇸🇬 Singapore: +1.1%\n🇹🇭 Thailand: +1%\n\n🇻🇳 Vietnam: -1.1%\n🇮🇩 Indonesia: -8.9%\n🇰🇷 South Korea: -9%\n🇵🇭 Philippines: -10%\n🇯🇵 Japan: -10.5%\n🇮🇳 India: -11%",
-      "date": "2026-05-30T03:00Z",
-      "date_display": "30 May 03:00 UTC",
+      "title": "The absolute market cap of the S&amp;P 500 has closed at over $69 trillion for the first time ever. ...",
+      "description": "The absolute market cap of the S&amp;P 500 has closed at over $69 trillion for the first time ever. https://t.co/LMlPndLvT9",
+      "date": "2026-06-02T21:20Z",
+      "date_display": "02 Jun 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: The United States is 'in talks to expand nuclear weapons deployments in Europe', according...",
+      "description": "<b>BREAKING:</b> The United States is 'in talks to expand nuclear weapons deployments in Europe', according to Financial Times report.",
+      "date": "2026-06-02T06:00Z",
+      "date_display": "02 Jun 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇮🇩 Indonesia has reported a trade surplus of $90 million for April, marking its smallest surplus s...",
+      "description": "🇮🇩 Indonesia has reported a trade surplus of $90 million for April, marking its smallest surplus since 2020.",
+      "date": "2026-06-02T05:40Z",
+      "date_display": "02 Jun 05:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "https://t.co/KJP8AeoEm1",
       "description": "https://t.co/KJP8AeoEm1",
@@ -324,94 +412,6 @@
       "date": "2026-06-01T04:00Z",
       "date_display": "01 Jun 04:00 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes on Iranian radar and telecommunication facilities",
-      "description": "<b>BREAKING:</b> US strikes on Iranian radar and telecommunication facilities",
-      "date": "2026-06-01T03:50Z",
-      "date_display": "01 Jun 03:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal.",
-      "description": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal.",
-      "date": "2026-06-01T03:00Z",
-      "date_display": "01 Jun 03:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US Secretary of State Marco Rubio is pushing for a new ceasefire between Lebanon and Israe...",
-      "description": "<b>BREAKING:</b> US Secretary of State Marco Rubio is pushing for a new ceasefire between Lebanon and Israel, according to Axios report.",
-      "date": "2026-06-01T02:20Z",
-      "date_display": "01 Jun 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "American households have spent nearly $450 extra due to rising energy costs during the war on Iran, ...",
-      "description": "American households have spent nearly $450 extra due to rising energy costs during the war on Iran, according to data from Moody’s Analytics. https://t.co/ZKFhEgveaG",
-      "date": "2026-05-31T20:50Z",
-      "date_display": "31 May 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of August have fallen ...",
-      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of August have fallen to 40% according to @Kalshi prediction market. https://t.co/dXziFTdsyp",
-      "date": "2026-05-31T20:50Z",
-      "date_display": "31 May 20:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli media reports Netanyahu is leaning towards expanding strikes across Lebanon",
-      "description": "<b>BREAKING:</b> Israeli media reports Netanyahu is leaning towards expanding strikes across Lebanon",
-      "date": "2026-05-31T12:20Z",
-      "date_display": "31 May 12:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Energy prices so far in 2026. https://t.co/T71bcCo9TK",
-      "description": "Energy prices so far in 2026. https://t.co/T71bcCo9TK",
-      "date": "2026-05-31T04:30Z",
-      "date_display": "31 May 04:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "President Trump posts about Greenland. https://t.co/xTwq17pXBY",
-      "description": "President Trump posts about Greenland. https://t.co/xTwq17pXBY",
-      "date": "2026-05-30T21:10Z",
-      "date_display": "30 May 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last...",
-      "description": "Iran may have used 'a Chinese-made shoulder-launched missile' to shoot down US F-15 fighter jet last month, according to NBC News report. https://t.co/ovPUQ5vkiP",
-      "date": "2026-05-30T20:30Z",
-      "date_display": "30 May 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Adviser to Iran's Supreme Leader accuses President Trump of 'betraying diplomacy for the t...",
-      "description": "<b>BREAKING:</b> Adviser to Iran's Supreme Leader accuses President Trump of 'betraying diplomacy for the third time' https://t.co/zB5fqihzFA",
-      "date": "2026-05-30T09:20Z",
-      "date_display": "30 May 09:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US troops were injured and two US MQ-9 Reaper drones were damaged at a base in Kuwait earlier this w...",
-      "description": "US troops were injured and two US MQ-9 Reaper drones were damaged at a base in Kuwait earlier this week during an Iranian missile attack, according to Bloomberg report.",
-      "date": "2026-05-30T08:30Z",
-      "date_display": "30 May 08:30 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

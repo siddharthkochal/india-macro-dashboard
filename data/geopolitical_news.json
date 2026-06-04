@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-03T05:27Z",
+  "fetched_at": "2026-06-04T05:23Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 33,
+  "india_relevant_items": 34,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,70 @@
     "latest_oil_headline": "BREAKING: US crude oil price up 4% on Middle East developments"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: The US House of Representatives votes to limit President Trump's war powers in Iran",
+      "description": "<b>BREAKING:</b> The US House of Representatives votes to limit President Trump's war powers in Iran",
+      "date": "2026-06-03T21:50Z",
+      "date_display": "03 Jun 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that the Iran issue is 'separate' from Hezbollah, and that Iran is a 'bigger problem, a w...",
+      "description": "Trump says that the Iran issue is 'separate' from Hezbollah, and that Iran is a 'bigger problem, a world problem'. https://t.co/7fDF5jWqdk",
+      "date": "2026-06-03T20:40Z",
+      "date_display": "03 Jun 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says Iran close to deal, but talks could take a few more weeks.",
+      "description": "<b>BREAKING:</b> Trump says Iran close to deal, but talks could take a few more weeks.",
+      "date": "2026-06-03T20:30Z",
+      "date_display": "03 Jun 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Iran's Supreme Leader is 'not doing great' and 'missing a lot of different parts'. h...",
+      "description": "Trump says that Iran's Supreme Leader is 'not doing great' and 'missing a lot of different parts'. https://t.co/niLPlN8fdJ",
+      "date": "2026-06-03T10:30Z",
+      "date_display": "03 Jun 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says will probably meet with Iran's Supreme Leader at some point https://t.co/Dc9sTK...",
+      "description": "<b>BREAKING:</b> Trump says will probably meet with Iran's Supreme Leader at some point https://t.co/Dc9sTKUzi9",
+      "date": "2026-06-03T10:20Z",
+      "date_display": "03 Jun 10:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China's economic rise: 1980-2025 https://t.co/lfaNg2BkOV",
+      "description": "China's economic rise: 1980-2025 https://t.co/lfaNg2BkOV",
+      "date": "2026-06-03T10:10Z",
+      "date_display": "03 Jun 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Attack on large Russian oil facility in St Petersburg, hours before start of one of countr...",
+      "description": "<b>BREAKING:</b> Attack on large Russian oil facility in St Petersburg, hours before start of one of country's biggest business forums.",
+      "date": "2026-06-03T06:10Z",
+      "date_display": "03 Jun 06:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah fell to record low of 17,935 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah fell to record low of 17,935 per US Dollar.",
+      "date": "2026-06-03T06:00Z",
+      "date_display": "03 Jun 06:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz...",
       "description": "<b>BREAKING:</b> Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz",
@@ -107,73 +171,89 @@
       "date_display": "01 Jun 19:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Netanyahu says he told Trump that if Hezbollah doesn't stop its attacks, Israel will strik...",
-      "description": "<b>BREAKING:</b> Netanyahu says he told Trump that if Hezbollah doesn't stop its attacks, Israel will strike targets in Beirut.",
-      "date": "2026-06-01T19:40Z",
-      "date_display": "01 Jun 19:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil prices are up 4%, trading near $91.",
-      "description": "US crude oil prices are up 4%, trading near $91.",
-      "date": "2026-06-01T10:30Z",
-      "date_display": "01 Jun 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇸🇦 Saudi Arabia has condemned Iranian attacks on Kuwait territory as 'heinous'.",
-      "description": "🇸🇦 Saudi Arabia has condemned Iranian attacks on Kuwait territory as 'heinous'.",
-      "date": "2026-06-01T10:00Z",
-      "date_display": "01 Jun 10:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran's chief negotiator Ghalibaf says that the naval blockade and 'escalation of war crime...",
-      "description": "<b>BREAKING:</b> Iran's chief negotiator Ghalibaf says that the naval blockade and 'escalation of war crimes in Lebanon' are 'clear evidence of US noncompliance with the ceasefire'.",
-      "date": "2026-06-01T09:20Z",
-      "date_display": "01 Jun 09:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli PM Netanyahu and defense minister Katz order military to conduct strikes on southe...",
-      "description": "<b>BREAKING:</b> Israeli PM Netanyahu and defense minister Katz order military to conduct strikes on southern suburbs of Beirut",
-      "date": "2026-06-01T07:00Z",
-      "date_display": "01 Jun 07:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media says that the military retaliated against US strikes",
-      "description": "<b>BREAKING:</b> Iranian media says that the military retaliated against US strikes",
-      "date": "2026-06-01T04:00Z",
-      "date_display": "01 Jun 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes on Iranian radar and telecommunication facilities",
-      "description": "<b>BREAKING:</b> US strikes on Iranian radar and telecommunication facilities",
-      "date": "2026-06-01T03:50Z",
-      "date_display": "01 Jun 03:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal.",
-      "description": "Oil prices are up over 2% amid ongoing uncertainty regarding prospects of US-Iran deal.",
-      "date": "2026-06-01T03:00Z",
-      "date_display": "01 Jun 03:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: SpaceX is targeting an IPO valuation of $1.77 trillion according to CNBC https://t.co/s4je...",
+      "description": "<b>BREAKING:</b> SpaceX is targeting an IPO valuation of $1.77 trillion according to CNBC https://t.co/s4jeE0spoC",
+      "date": "2026-06-03T21:50Z",
+      "date_display": "03 Jun 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: The US House of Representatives votes to limit President Trump's war powers in Iran",
+      "description": "<b>BREAKING:</b> The US House of Representatives votes to limit President Trump's war powers in Iran",
+      "date": "2026-06-03T21:50Z",
+      "date_display": "03 Jun 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that the Iran issue is 'separate' from Hezbollah, and that Iran is a 'bigger problem, a w...",
+      "description": "Trump says that the Iran issue is 'separate' from Hezbollah, and that Iran is a 'bigger problem, a world problem'. https://t.co/7fDF5jWqdk",
+      "date": "2026-06-03T20:40Z",
+      "date_display": "03 Jun 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says Iran close to deal, but talks could take a few more weeks.",
+      "description": "<b>BREAKING:</b> Trump says Iran close to deal, but talks could take a few more weeks.",
+      "date": "2026-06-03T20:30Z",
+      "date_display": "03 Jun 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says he was 'disturbed' by Netanyahu 'constantly fighting' with Lebanon https://t.co...",
+      "description": "<b>BREAKING:</b> Trump says he was 'disturbed' by Netanyahu 'constantly fighting' with Lebanon https://t.co/AZGcVq4AvU",
+      "date": "2026-06-03T10:30Z",
+      "date_display": "03 Jun 10:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump says that Iran's Supreme Leader is 'not doing great' and 'missing a lot of different parts'. h...",
+      "description": "Trump says that Iran's Supreme Leader is 'not doing great' and 'missing a lot of different parts'. https://t.co/niLPlN8fdJ",
+      "date": "2026-06-03T10:30Z",
+      "date_display": "03 Jun 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says will probably meet with Iran's Supreme Leader at some point https://t.co/Dc9sTK...",
+      "description": "<b>BREAKING:</b> Trump says will probably meet with Iran's Supreme Leader at some point https://t.co/Dc9sTKUzi9",
+      "date": "2026-06-03T10:20Z",
+      "date_display": "03 Jun 10:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "China's economic rise: 1980-2025 https://t.co/lfaNg2BkOV",
+      "description": "China's economic rise: 1980-2025 https://t.co/lfaNg2BkOV",
+      "date": "2026-06-03T10:10Z",
+      "date_display": "03 Jun 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Attack on large Russian oil facility in St Petersburg, hours before start of one of countr...",
+      "description": "<b>BREAKING:</b> Attack on large Russian oil facility in St Petersburg, hours before start of one of country's biggest business forums.",
+      "date": "2026-06-03T06:10Z",
+      "date_display": "03 Jun 06:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah fell to record low of 17,935 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah fell to record low of 17,935 per US Dollar.",
+      "date": "2026-06-03T06:00Z",
+      "date_display": "03 Jun 06:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Bitcoin falls to two-month low",
       "description": "<b>BREAKING:</b> Bitcoin falls to two-month low",
@@ -332,86 +412,6 @@
       "date": "2026-06-01T19:50Z",
       "date_display": "01 Jun 19:50 UTC",
       "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Netanyahu says he told Trump that if Hezbollah doesn't stop its attacks, Israel will strik...",
-      "description": "<b>BREAKING:</b> Netanyahu says he told Trump that if Hezbollah doesn't stop its attacks, Israel will strike targets in Beirut.",
-      "date": "2026-06-01T19:40Z",
-      "date_display": "01 Jun 19:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "https://t.co/Hfw9mwq3YL",
-      "description": "https://t.co/Hfw9mwq3YL",
-      "date": "2026-06-01T10:30Z",
-      "date_display": "01 Jun 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US crude oil prices are up 4%, trading near $91.",
-      "description": "US crude oil prices are up 4%, trading near $91.",
-      "date": "2026-06-01T10:30Z",
-      "date_display": "01 Jun 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇸🇦 Saudi Arabia has condemned Iranian attacks on Kuwait territory as 'heinous'.",
-      "description": "🇸🇦 Saudi Arabia has condemned Iranian attacks on Kuwait territory as 'heinous'.",
-      "date": "2026-06-01T10:00Z",
-      "date_display": "01 Jun 10:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "https://t.co/EwEPKw7wnO",
-      "description": "https://t.co/EwEPKw7wnO",
-      "date": "2026-06-01T09:40Z",
-      "date_display": "01 Jun 09:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇮🇹 Italy's manufacturing has grown at the fastest rate in four years.",
-      "description": "🇮🇹 Italy's manufacturing has grown at the fastest rate in four years.",
-      "date": "2026-06-01T09:30Z",
-      "date_display": "01 Jun 09:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran's chief negotiator Ghalibaf says that the naval blockade and 'escalation of war crime...",
-      "description": "<b>BREAKING:</b> Iran's chief negotiator Ghalibaf says that the naval blockade and 'escalation of war crimes in Lebanon' are 'clear evidence of US noncompliance with the ceasefire'.",
-      "date": "2026-06-01T09:20Z",
-      "date_display": "01 Jun 09:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli PM Netanyahu and defense minister Katz order military to conduct strikes on southe...",
-      "description": "<b>BREAKING:</b> Israeli PM Netanyahu and defense minister Katz order military to conduct strikes on southern suburbs of Beirut",
-      "date": "2026-06-01T07:00Z",
-      "date_display": "01 Jun 07:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "890 people were arrested in France following celebrations of PSG's Champions League title victory. h...",
-      "description": "890 people were arrested in France following celebrations of PSG's Champions League title victory. https://t.co/M8qrQOlwSF",
-      "date": "2026-06-01T06:10Z",
-      "date_display": "01 Jun 06:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iranian media says that the military retaliated against US strikes",
-      "description": "<b>BREAKING:</b> Iranian media says that the military retaliated against US strikes",
-      "date": "2026-06-01T04:00Z",
-      "date_display": "01 Jun 04:00 UTC",
-      "severity": "high",
       "is_india_relevant": true
     }
   ]

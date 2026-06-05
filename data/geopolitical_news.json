@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-04T05:23Z",
+  "fetched_at": "2026-06-05T04:57Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 34,
+  "india_relevant_items": 33,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "BREAKING: US crude oil price up 4% on Middle East developments"
   },
   "india_headlines": [
+    {
+      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
+      "date": "2026-06-05T01:30Z",
+      "date_display": "05 Jun 01:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: The US House of Representatives votes to limit President Trump's war powers in Iran",
       "description": "<b>BREAKING:</b> The US House of Representatives votes to limit President Trump's war powers in Iran",
@@ -163,17 +171,25 @@
       "date_display": "01 Jun 21:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t....",
-      "description": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t.co/34IIsf4ETk",
-      "date": "2026-06-01T19:50Z",
-      "date_display": "01 Jun 19:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
+      "date": "2026-06-05T01:30Z",
+      "date_display": "05 Jun 01:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index down 6%",
+      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index down 6%",
+      "date": "2026-06-05T01:10Z",
+      "date_display": "05 Jun 01:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: SpaceX is targeting an IPO valuation of $1.77 trillion according to CNBC https://t.co/s4je...",
       "description": "<b>BREAKING:</b> SpaceX is targeting an IPO valuation of $1.77 trillion according to CNBC https://t.co/s4jeE0spoC",
@@ -397,22 +413,6 @@
       "date_display": "01 Jun 21:40 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they have targeted a US-owned commercial vessel with miss...",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have targeted a US-owned commercial vessel with missiles",
-      "date": "2026-06-01T21:00Z",
-      "date_display": "01 Jun 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t....",
-      "description": "Oil prices are up over 6% today.\n\nPresident Trump says they will soon 'fall like a rock'. https://t.co/34IIsf4ETk",
-      "date": "2026-06-01T19:50Z",
-      "date_display": "01 Jun 19:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

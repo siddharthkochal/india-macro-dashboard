@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-05T04:57Z",
+  "fetched_at": "2026-06-06T04:37Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 33,
+  "india_relevant_items": 34,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,46 @@
     "latest_oil_headline": "BREAKING: US crude oil price up 4% on Middle East developments"
   },
   "india_headlines": [
+    {
+      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
+      "date": "2026-06-06T02:30Z",
+      "date_display": "06 Jun 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards says it has targeted 'enemy bases' in the region",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards says it has targeted 'enemy bases' in the region",
+      "date": "2026-06-06T02:10Z",
+      "date_display": "06 Jun 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian military attacks on Bahrain and Kuwait",
+      "description": "<b>BREAKING:</b> Iranian military attacks on Bahrain and Kuwait",
+      "date": "2026-06-06T02:10Z",
+      "date_display": "06 Jun 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it struck radar sites in southern Iran",
+      "description": "<b>BREAKING:</b> US military says it struck radar sites in southern Iran",
+      "date": "2026-06-05T23:40Z",
+      "date_display": "05 Jun 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: CNN reports that Iran launched drones towards the Strait of Hormuz tonight, which the US m...",
+      "description": "<b>BREAKING:</b> CNN reports that Iran launched drones towards the Strait of Hormuz tonight, which the US military intercepted.",
+      "date": "2026-06-05T22:30Z",
+      "date_display": "05 Jun 22:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
       "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
@@ -131,49 +171,57 @@
       "date_display": "02 Jun 22:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "President Trump wants Iran to make firm nuclear concessions in writing as part of a deal, according ...",
-      "description": "President Trump wants Iran to make firm nuclear concessions in writing as part of a deal, according to ABC News. https://t.co/3cmkwUR8dU",
-      "date": "2026-06-02T21:40Z",
-      "date_display": "02 Jun 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia has reported a trade surplus of $90 million for April, marking its smallest surplus s...",
-      "description": "🇮🇩 Indonesia has reported a trade surplus of $90 million for April, marking its smallest surplus since 2020.",
-      "date": "2026-06-02T05:40Z",
-      "date_display": "02 Jun 05:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
-      "description": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
-      "date": "2026-06-02T01:20Z",
-      "date_display": "02 Jun 01:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Russian ballistic missile attack on Kyiv",
-      "description": "<b>BREAKING:</b> Russian ballistic missile attack on Kyiv",
-      "date": "2026-06-01T23:30Z",
-      "date_display": "01 Jun 23:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they have targeted a US-owned commercial vessel with miss...",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have targeted a US-owned commercial vessel with missiles",
-      "date": "2026-06-01T21:00Z",
-      "date_display": "01 Jun 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
+      "date": "2026-06-06T02:30Z",
+      "date_display": "06 Jun 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards says it has targeted 'enemy bases' in the region",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards says it has targeted 'enemy bases' in the region",
+      "date": "2026-06-06T02:10Z",
+      "date_display": "06 Jun 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian military attacks on Bahrain and Kuwait",
+      "description": "<b>BREAKING:</b> Iranian military attacks on Bahrain and Kuwait",
+      "date": "2026-06-06T02:10Z",
+      "date_display": "06 Jun 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it struck radar sites in southern Iran",
+      "description": "<b>BREAKING:</b> US military says it struck radar sites in southern Iran",
+      "date": "2026-06-05T23:40Z",
+      "date_display": "05 Jun 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: CNN reports that Iran launched drones towards the Strait of Hormuz tonight, which the US m...",
+      "description": "<b>BREAKING:</b> CNN reports that Iran launched drones towards the Strait of Hormuz tonight, which the US military intercepted.",
+      "date": "2026-06-05T22:30Z",
+      "date_display": "05 Jun 22:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Over $1.7 trillion in value was wiped out from the US stock market today.",
+      "description": "Over $1.7 trillion in value was wiped out from the US stock market today.",
+      "date": "2026-06-05T21:20Z",
+      "date_display": "05 Jun 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
       "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
@@ -364,54 +412,6 @@
       "date": "2026-06-02T01:20Z",
       "date_display": "02 Jun 01:20 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
-      "description": "🇰🇷 South Korea reports inflation of 3.1%, the highest in over two years.",
-      "date": "2026-06-02T01:20Z",
-      "date_display": "02 Jun 01:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Seven people dead after shooting in Muscatine, Iowa.",
-      "description": "<b>BREAKING:</b> Seven people dead after shooting in Muscatine, Iowa.",
-      "date": "2026-06-02T01:10Z",
-      "date_display": "02 Jun 01:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Russian ballistic missile attack on Kyiv",
-      "description": "<b>BREAKING:</b> Russian ballistic missile attack on Kyiv",
-      "date": "2026-06-01T23:30Z",
-      "date_display": "01 Jun 23:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 6.5 magnitude earthquake in southern Italy",
-      "description": "<b>BREAKING:</b> 6.5 magnitude earthquake in southern Italy",
-      "date": "2026-06-01T22:30Z",
-      "date_display": "01 Jun 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Axios reports that Trump told Netanyahu in their latest phonecall, 'You’re f***ing crazy. ...",
-      "description": "<b>BREAKING:</b> Axios reports that Trump told Netanyahu in their latest phonecall, 'You’re f***ing crazy. You’d be in prison if it weren’t for me. I’m saving your ass. Everybody hates you now. Everybody hates Israel because of this.' https://t.co/ZtanvKPdx8",
-      "date": "2026-06-01T22:30Z",
-      "date_display": "01 Jun 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Active shooter at a medical clinic in Pelican Narrows, Sask in Canada.",
-      "description": "<b>BREAKING:</b> Active shooter at a medical clinic in Pelican Narrows, Sask in Canada.",
-      "date": "2026-06-01T21:40Z",
-      "date_display": "01 Jun 21:40 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

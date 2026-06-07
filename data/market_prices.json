@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-06T04:37Z",
+  "fetched_at": "2026-06-07T05:08Z",
   "source": "Yahoo Finance (free, no API key)",
   "prices": {
     "brent": {
@@ -57,7 +57,7 @@
           "value": 93.09
         }
       ],
-      "fetched_at": "2026-06-06T04:37Z"
+      "fetched_at": "2026-06-07T05:08Z"
     },
     "wti": {
       "symbol": "CL=F",
@@ -114,15 +114,15 @@
           "value": 90.54
         }
       ],
-      "fetched_at": "2026-06-06T04:37Z"
+      "fetched_at": "2026-06-07T05:08Z"
     },
     "gold": {
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/troy oz",
       "india_impact": "negative_via_import_demand",
-      "current_value": 4353.9,
-      "change_from_prev": 16.8,
+      "current_value": 4365.3,
+      "change_from_prev": 28.2,
       "direction": "up",
       "signal": "bearish",
       "series": [
@@ -168,10 +168,10 @@
         },
         {
           "date": "Jun-26",
-          "value": 4353.9
+          "value": 4365.3
         }
       ],
-      "fetched_at": "2026-06-06T04:37Z"
+      "fetched_at": "2026-06-07T05:08Z"
     },
     "inr": {
       "symbol": "USDINR=X",
@@ -240,7 +240,7 @@
           "value": 94.95
         }
       ],
-      "fetched_at": "2026-06-06T04:37Z"
+      "fetched_at": "2026-06-07T05:08Z"
     },
     "ovx": {
       "symbol": "^OVX",
@@ -309,7 +309,7 @@
           "value": 57.75
         }
       ],
-      "fetched_at": "2026-06-06T04:37Z"
+      "fetched_at": "2026-06-07T05:08Z"
     }
   },
   "india_oil_alert": {

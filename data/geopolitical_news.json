@@ -1,17 +1,153 @@
 {
-  "fetched_at": "2026-06-07T05:08Z",
+  "fetched_at": "2026-06-08T05:14Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 34,
+  "india_relevant_items": 37,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: US crude oil price up 4% on Middle East developments"
+    "latest_oil_headline": "BREAKING: Oil prices surge by over 4% as Israel conducts strikes on targets in Iran"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Israel is intercepting ballistic missiles fired by Iran",
+      "description": "<b>BREAKING:</b> Israel is intercepting ballistic missiles fired by Iran",
+      "date": "2026-06-08T04:30Z",
+      "date_display": "08 Jun 04:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran has launched ballistic missiles at Israel",
+      "description": "<b>BREAKING:</b> Iran has launched ballistic missiles at Israel",
+      "date": "2026-06-08T04:20Z",
+      "date_display": "08 Jun 04:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Yemen's Iran-backed Houthis fire missile at Israel",
+      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis fire missile at Israel",
+      "date": "2026-06-08T03:10Z",
+      "date_display": "08 Jun 03:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,150 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,150 per US Dollar.",
+      "date": "2026-06-08T03:10Z",
+      "date_display": "08 Jun 03:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi alert amid suspected Iranian attack",
+      "description": "<b>BREAKING:</b> Saudi alert amid suspected Iranian attack",
+      "date": "2026-06-08T02:50Z",
+      "date_display": "08 Jun 02:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes on Iran",
+      "description": "<b>BREAKING:</b> Israeli strikes on Iran",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes on Tehran",
+      "description": "<b>BREAKING:</b> Israeli strikes on Tehran",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes in Tehran, Isfahan and Tabriz",
+      "description": "<b>BREAKING:</b> Israeli strikes in Tehran, Isfahan and Tabriz",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts reported across several cities in Iran as Israel conducts strikes",
+      "description": "<b>BREAKING:</b> Blasts reported across several cities in Iran as Israel conducts strikes",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli military confirms it has conducted strikes in western and central Iran",
+      "description": "<b>BREAKING:</b> Israeli military confirms it has conducted strikes in western and central Iran",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices surge by over 4% as Israel conducts strikes on targets in Iran",
+      "description": "<b>BREAKING:</b> Oil prices surge by over 4% as Israel conducts strikes on targets in Iran",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says Netanyahu has 'no choice' but to accept a US-Iran deal if it were to go ahead, ...",
+      "description": "<b>BREAKING:</b> Trump says Netanyahu has 'no choice' but to accept a US-Iran deal if it were to go ahead, according to Financial Times report.",
+      "date": "2026-06-07T22:30Z",
+      "date_display": "07 Jun 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices rise by 3% over Middle East developments",
+      "description": "<b>BREAKING:</b> Oil prices rise by 3% over Middle East developments",
+      "date": "2026-06-07T22:20Z",
+      "date_display": "07 Jun 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran shuts airspace in the country's west",
+      "description": "<b>BREAKING:</b> Iran shuts airspace in the country's west",
+      "date": "2026-06-07T21:40Z",
+      "date_display": "07 Jun 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump and Netanyahu are on phone call after Iranian attack on Israel",
+      "description": "<b>BREAKING:</b> Trump and Netanyahu are on phone call after Iranian attack on Israel",
+      "date": "2026-06-07T21:20Z",
+      "date_display": "07 Jun 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli military spokesperson says that Iran has 'made a grave mistake'",
+      "description": "<b>BREAKING:</b> Israeli military spokesperson says that Iran has 'made a grave mistake'",
+      "date": "2026-06-07T21:20Z",
+      "date_display": "07 Jun 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes on Hezbollah targets in southern Beirut",
+      "description": "<b>BREAKING:</b> Israeli strikes on Hezbollah targets in southern Beirut",
+      "date": "2026-06-07T12:30Z",
+      "date_display": "07 Jun 12:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
       "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
@@ -33,148 +169,212 @@
       "description": "<b>BREAKING:</b> Iranian military attacks on Bahrain and Kuwait",
       "date": "2026-06-06T02:10Z",
       "date_display": "06 Jun 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it struck radar sites in southern Iran",
-      "description": "<b>BREAKING:</b> US military says it struck radar sites in southern Iran",
-      "date": "2026-06-05T23:40Z",
-      "date_display": "05 Jun 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: CNN reports that Iran launched drones towards the Strait of Hormuz tonight, which the US m...",
-      "description": "<b>BREAKING:</b> CNN reports that Iran launched drones towards the Strait of Hormuz tonight, which the US military intercepted.",
-      "date": "2026-06-05T22:30Z",
-      "date_display": "05 Jun 22:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
-      "date": "2026-06-05T01:30Z",
-      "date_display": "05 Jun 01:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The US House of Representatives votes to limit President Trump's war powers in Iran",
-      "description": "<b>BREAKING:</b> The US House of Representatives votes to limit President Trump's war powers in Iran",
-      "date": "2026-06-03T21:50Z",
-      "date_display": "03 Jun 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that the Iran issue is 'separate' from Hezbollah, and that Iran is a 'bigger problem, a w...",
-      "description": "Trump says that the Iran issue is 'separate' from Hezbollah, and that Iran is a 'bigger problem, a world problem'. https://t.co/7fDF5jWqdk",
-      "date": "2026-06-03T20:40Z",
-      "date_display": "03 Jun 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says Iran close to deal, but talks could take a few more weeks.",
-      "description": "<b>BREAKING:</b> Trump says Iran close to deal, but talks could take a few more weeks.",
-      "date": "2026-06-03T20:30Z",
-      "date_display": "03 Jun 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran's Supreme Leader is 'not doing great' and 'missing a lot of different parts'. h...",
-      "description": "Trump says that Iran's Supreme Leader is 'not doing great' and 'missing a lot of different parts'. https://t.co/niLPlN8fdJ",
-      "date": "2026-06-03T10:30Z",
-      "date_display": "03 Jun 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says will probably meet with Iran's Supreme Leader at some point https://t.co/Dc9sTK...",
-      "description": "<b>BREAKING:</b> Trump says will probably meet with Iran's Supreme Leader at some point https://t.co/Dc9sTKUzi9",
-      "date": "2026-06-03T10:20Z",
-      "date_display": "03 Jun 10:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's economic rise: 1980-2025 https://t.co/lfaNg2BkOV",
-      "description": "China's economic rise: 1980-2025 https://t.co/lfaNg2BkOV",
-      "date": "2026-06-03T10:10Z",
-      "date_display": "03 Jun 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Attack on large Russian oil facility in St Petersburg, hours before start of one of countr...",
-      "description": "<b>BREAKING:</b> Attack on large Russian oil facility in St Petersburg, hours before start of one of country's biggest business forums.",
-      "date": "2026-06-03T06:10Z",
-      "date_display": "03 Jun 06:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah fell to record low of 17,935 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah fell to record low of 17,935 per US Dollar.",
-      "date": "2026-06-03T06:00Z",
-      "date_display": "03 Jun 06:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz...",
-      "description": "<b>BREAKING:</b> Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz",
-      "date": "2026-06-03T00:00Z",
-      "date_display": "03 Jun 00:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price up 4% on Middle East developments",
-      "description": "<b>BREAKING:</b> US crude oil price up 4% on Middle East developments",
-      "date": "2026-06-02T23:40Z",
-      "date_display": "02 Jun 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Bahrain shuts its airspace amid Iranian attack",
-      "description": "<b>BREAKING:</b> Bahrain shuts its airspace amid Iranian attack",
-      "date": "2026-06-02T23:30Z",
-      "date_display": "02 Jun 23:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian attack on Bahrain",
-      "description": "<b>BREAKING:</b> Iranian attack on Bahrain",
-      "date": "2026-06-02T23:20Z",
-      "date_display": "02 Jun 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran is carrying out attacks on targets in Kuwait, Bahrain and Iraq.",
-      "description": "<b>BREAKING:</b> Iran is carrying out attacks on targets in Kuwait, Bahrain and Iraq.",
-      "date": "2026-06-02T23:20Z",
-      "date_display": "02 Jun 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Kuwait says it is responding to missile and drone threats in Iranian attack",
-      "description": "<b>BREAKING:</b> Kuwait says it is responding to missile and drone threats in Iranian attack",
-      "date": "2026-06-02T22:30Z",
-      "date_display": "02 Jun 22:30 UTC",
       "severity": "high",
       "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
     {
+      "title": "BREAKING: Israel is intercepting ballistic missiles fired by Iran",
+      "description": "<b>BREAKING:</b> Israel is intercepting ballistic missiles fired by Iran",
+      "date": "2026-06-08T04:30Z",
+      "date_display": "08 Jun 04:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran has launched ballistic missiles at Israel",
+      "description": "<b>BREAKING:</b> Iran has launched ballistic missiles at Israel",
+      "date": "2026-06-08T04:20Z",
+      "date_display": "08 Jun 04:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Yemen's Iran-backed Houthis fire missile at Israel",
+      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis fire missile at Israel",
+      "date": "2026-06-08T03:10Z",
+      "date_display": "08 Jun 03:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,150 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,150 per US Dollar.",
+      "date": "2026-06-08T03:10Z",
+      "date_display": "08 Jun 03:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi alert amid suspected Iranian attack",
+      "description": "<b>BREAKING:</b> Saudi alert amid suspected Iranian attack",
+      "date": "2026-06-08T02:50Z",
+      "date_display": "08 Jun 02:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes on Iran",
+      "description": "<b>BREAKING:</b> Israeli strikes on Iran",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes on Tehran",
+      "description": "<b>BREAKING:</b> Israeli strikes on Tehran",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes in Tehran, Isfahan and Tabriz",
+      "description": "<b>BREAKING:</b> Israeli strikes in Tehran, Isfahan and Tabriz",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Reports of blasts in Beirut",
+      "description": "<b>BREAKING:</b> Reports of blasts in Beirut",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Blasts reported across several cities in Iran as Israel conducts strikes",
+      "description": "<b>BREAKING:</b> Blasts reported across several cities in Iran as Israel conducts strikes",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli military confirms it has conducted strikes in western and central Iran",
+      "description": "<b>BREAKING:</b> Israeli military confirms it has conducted strikes in western and central Iran",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices surge by over 4% as Israel conducts strikes on targets in Iran",
+      "description": "<b>BREAKING:</b> Oil prices surge by over 4% as Israel conducts strikes on targets in Iran",
+      "date": "2026-06-08T01:30Z",
+      "date_display": "08 Jun 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index plunges by over 8%, hits circuit breaker.",
+      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index plunges by over 8%, hits circuit breaker.",
+      "date": "2026-06-08T00:20Z",
+      "date_display": "08 Jun 00:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Philippines issues evacuation orders for some coastal areas amid tsunami alert after massi...",
+      "description": "<b>BREAKING:</b> Philippines issues evacuation orders for some coastal areas amid tsunami alert after massive earthquake",
+      "date": "2026-06-08T00:10Z",
+      "date_display": "08 Jun 00:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Tsunami alert has been issued for the Philippines, Indonesia, Palau, Taiwan and Papua New ...",
+      "description": "<b>BREAKING:</b> Tsunami alert has been issued for the Philippines, Indonesia, Palau, Taiwan and Papua New Guinea after massive 8.2 magnitude earthquake.",
+      "date": "2026-06-08T00:00Z",
+      "date_display": "08 Jun 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Pacific Tsunami Warning Center says widespread hazardous tsunami waves are possible after ...",
+      "description": "<b>BREAKING:</b> Pacific Tsunami Warning Center says widespread hazardous tsunami waves are possible after 8.2 magnitude quake in Philippines",
+      "date": "2026-06-08T00:00Z",
+      "date_display": "08 Jun 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 8.2 magnitude quake in the Philippines, with a tsunami threat issued.",
+      "description": "<b>BREAKING:</b> 8.2 magnitude quake in the Philippines, with a tsunami threat issued.",
+      "date": "2026-06-07T23:50Z",
+      "date_display": "07 Jun 23:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says Netanyahu has 'no choice' but to accept a US-Iran deal if it were to go ahead, ...",
+      "description": "<b>BREAKING:</b> Trump says Netanyahu has 'no choice' but to accept a US-Iran deal if it were to go ahead, according to Financial Times report.",
+      "date": "2026-06-07T22:30Z",
+      "date_display": "07 Jun 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices rise by 3% over Middle East developments",
+      "description": "<b>BREAKING:</b> Oil prices rise by 3% over Middle East developments",
+      "date": "2026-06-07T22:20Z",
+      "date_display": "07 Jun 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran shuts airspace in the country's west",
+      "description": "<b>BREAKING:</b> Iran shuts airspace in the country's west",
+      "date": "2026-06-07T21:40Z",
+      "date_display": "07 Jun 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Flights have been suspended at Tehran airport",
+      "description": "<b>BREAKING:</b> Flights have been suspended at Tehran airport",
+      "date": "2026-06-07T21:30Z",
+      "date_display": "07 Jun 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Israeli Prime Minister Netanyahu is holding talks with senior military leaders",
+      "description": "<b>BREAKING:</b> Israeli Prime Minister Netanyahu is holding talks with senior military leaders",
+      "date": "2026-06-07T21:30Z",
+      "date_display": "07 Jun 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump and Netanyahu are on phone call after Iranian attack on Israel",
+      "description": "<b>BREAKING:</b> Trump and Netanyahu are on phone call after Iranian attack on Israel",
+      "date": "2026-06-07T21:20Z",
+      "date_display": "07 Jun 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli military spokesperson says that Iran has 'made a grave mistake'",
+      "description": "<b>BREAKING:</b> Israeli military spokesperson says that Iran has 'made a grave mistake'",
+      "date": "2026-06-07T21:20Z",
+      "date_display": "07 Jun 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes on Hezbollah targets in southern Beirut",
+      "description": "<b>BREAKING:</b> Israeli strikes on Hezbollah targets in southern Beirut",
+      "date": "2026-06-07T12:30Z",
+      "date_display": "07 Jun 12:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
       "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
       "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
       "date": "2026-06-06T02:30Z",
@@ -213,206 +413,6 @@
       "date_display": "05 Jun 22:30 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "Over $1.7 trillion in value was wiped out from the US stock market today.",
-      "description": "Over $1.7 trillion in value was wiped out from the US stock market today.",
-      "date": "2026-06-05T21:20Z",
-      "date_display": "05 Jun 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,060 per US Dollar.",
-      "date": "2026-06-05T01:30Z",
-      "date_display": "05 Jun 01:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index down 6%",
-      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index down 6%",
-      "date": "2026-06-05T01:10Z",
-      "date_display": "05 Jun 01:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: SpaceX is targeting an IPO valuation of $1.77 trillion according to CNBC https://t.co/s4je...",
-      "description": "<b>BREAKING:</b> SpaceX is targeting an IPO valuation of $1.77 trillion according to CNBC https://t.co/s4jeE0spoC",
-      "date": "2026-06-03T21:50Z",
-      "date_display": "03 Jun 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: The US House of Representatives votes to limit President Trump's war powers in Iran",
-      "description": "<b>BREAKING:</b> The US House of Representatives votes to limit President Trump's war powers in Iran",
-      "date": "2026-06-03T21:50Z",
-      "date_display": "03 Jun 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that the Iran issue is 'separate' from Hezbollah, and that Iran is a 'bigger problem, a w...",
-      "description": "Trump says that the Iran issue is 'separate' from Hezbollah, and that Iran is a 'bigger problem, a world problem'. https://t.co/7fDF5jWqdk",
-      "date": "2026-06-03T20:40Z",
-      "date_display": "03 Jun 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says Iran close to deal, but talks could take a few more weeks.",
-      "description": "<b>BREAKING:</b> Trump says Iran close to deal, but talks could take a few more weeks.",
-      "date": "2026-06-03T20:30Z",
-      "date_display": "03 Jun 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says he was 'disturbed' by Netanyahu 'constantly fighting' with Lebanon https://t.co...",
-      "description": "<b>BREAKING:</b> Trump says he was 'disturbed' by Netanyahu 'constantly fighting' with Lebanon https://t.co/AZGcVq4AvU",
-      "date": "2026-06-03T10:30Z",
-      "date_display": "03 Jun 10:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says that Iran's Supreme Leader is 'not doing great' and 'missing a lot of different parts'. h...",
-      "description": "Trump says that Iran's Supreme Leader is 'not doing great' and 'missing a lot of different parts'. https://t.co/niLPlN8fdJ",
-      "date": "2026-06-03T10:30Z",
-      "date_display": "03 Jun 10:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says will probably meet with Iran's Supreme Leader at some point https://t.co/Dc9sTK...",
-      "description": "<b>BREAKING:</b> Trump says will probably meet with Iran's Supreme Leader at some point https://t.co/Dc9sTKUzi9",
-      "date": "2026-06-03T10:20Z",
-      "date_display": "03 Jun 10:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's economic rise: 1980-2025 https://t.co/lfaNg2BkOV",
-      "description": "China's economic rise: 1980-2025 https://t.co/lfaNg2BkOV",
-      "date": "2026-06-03T10:10Z",
-      "date_display": "03 Jun 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Attack on large Russian oil facility in St Petersburg, hours before start of one of countr...",
-      "description": "<b>BREAKING:</b> Attack on large Russian oil facility in St Petersburg, hours before start of one of country's biggest business forums.",
-      "date": "2026-06-03T06:10Z",
-      "date_display": "03 Jun 06:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah fell to record low of 17,935 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah fell to record low of 17,935 per US Dollar.",
-      "date": "2026-06-03T06:00Z",
-      "date_display": "03 Jun 06:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Bitcoin falls to two-month low",
-      "description": "<b>BREAKING:</b> Bitcoin falls to two-month low",
-      "date": "2026-06-03T00:20Z",
-      "date_display": "03 Jun 00:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz...",
-      "description": "<b>BREAKING:</b> Iran warns US military of a 'heavy price' if it disrupts security in Strait of Hormuz",
-      "date": "2026-06-03T00:00Z",
-      "date_display": "03 Jun 00:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price up 4% on Middle East developments",
-      "description": "<b>BREAKING:</b> US crude oil price up 4% on Middle East developments",
-      "date": "2026-06-02T23:40Z",
-      "date_display": "02 Jun 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Bahrain shuts its airspace amid Iranian attack",
-      "description": "<b>BREAKING:</b> Bahrain shuts its airspace amid Iranian attack",
-      "date": "2026-06-02T23:30Z",
-      "date_display": "02 Jun 23:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian attack on Bahrain",
-      "description": "<b>BREAKING:</b> Iranian attack on Bahrain",
-      "date": "2026-06-02T23:20Z",
-      "date_display": "02 Jun 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran is carrying out attacks on targets in Kuwait, Bahrain and Iraq.",
-      "description": "<b>BREAKING:</b> Iran is carrying out attacks on targets in Kuwait, Bahrain and Iraq.",
-      "date": "2026-06-02T23:20Z",
-      "date_display": "02 Jun 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Kuwait says it is responding to missile and drone threats in Iranian attack",
-      "description": "<b>BREAKING:</b> Kuwait says it is responding to missile and drone threats in Iranian attack",
-      "date": "2026-06-02T22:30Z",
-      "date_display": "02 Jun 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump wants Iran to make firm nuclear concessions in writing as part of a deal, according ...",
-      "description": "President Trump wants Iran to make firm nuclear concessions in writing as part of a deal, according to ABC News. https://t.co/3cmkwUR8dU",
-      "date": "2026-06-02T21:40Z",
-      "date_display": "02 Jun 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The absolute market cap of the S&amp;P 500 has closed at over $69 trillion for the first time ever. ...",
-      "description": "The absolute market cap of the S&amp;P 500 has closed at over $69 trillion for the first time ever. https://t.co/LMlPndLvT9",
-      "date": "2026-06-02T21:20Z",
-      "date_display": "02 Jun 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: The United States is 'in talks to expand nuclear weapons deployments in Europe', according...",
-      "description": "<b>BREAKING:</b> The United States is 'in talks to expand nuclear weapons deployments in Europe', according to Financial Times report.",
-      "date": "2026-06-02T06:00Z",
-      "date_display": "02 Jun 06:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇮🇩 Indonesia has reported a trade surplus of $90 million for April, marking its smallest surplus s...",
-      "description": "🇮🇩 Indonesia has reported a trade surplus of $90 million for April, marking its smallest surplus since 2020.",
-      "date": "2026-06-02T05:40Z",
-      "date_display": "02 Jun 05:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "https://t.co/KJP8AeoEm1",
-      "description": "https://t.co/KJP8AeoEm1",
-      "date": "2026-06-02T01:20Z",
-      "date_display": "02 Jun 01:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

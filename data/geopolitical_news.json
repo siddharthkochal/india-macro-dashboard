@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-08T05:14Z",
+  "fetched_at": "2026-06-09T04:46Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,97 @@
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Oil prices surge by over 4% as Israel conducts strikes on targets in Iran"
+    "latest_oil_headline": "Oil prices are now up 4% in today's trading."
   },
   "india_headlines": [
+    {
+      "title": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
+      "description": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
+      "date": "2026-06-08T10:50Z",
+      "date_display": "08 Jun 10:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are now up 4% in today's trading.",
+      "description": "Oil prices are now up 4% in today's trading.",
+      "date": "2026-06-08T10:20Z",
+      "date_display": "08 Jun 10:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have fall...",
+      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have fallen to 31% according to @Kalshi prediction market. https://t.co/mAu8pumbfO",
+      "date": "2026-06-08T10:10Z",
+      "date_display": "08 Jun 10:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media says that Iran is ready for a 'long-term war' with Israel",
+      "description": "<b>BREAKING:</b> Iranian state media says that Iran is ready for a 'long-term war' with Israel",
+      "date": "2026-06-08T10:00Z",
+      "date_display": "08 Jun 10:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says Israel and Iran 'must immediately stop shooting''.",
+      "description": "<b>BREAKING:</b> Trump says Israel and Iran 'must immediately stop shooting''.",
+      "date": "2026-06-08T09:50Z",
+      "date_display": "08 Jun 09:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli military is striking targets in Iran's capital Tehran",
+      "description": "<b>BREAKING:</b> Israeli military is striking targets in Iran's capital Tehran",
+      "date": "2026-06-08T08:40Z",
+      "date_display": "08 Jun 08:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli military says that Iran has fired around 30 ballistic missiles at Israeli territor...",
+      "description": "<b>BREAKING:</b> Israeli military says that Iran has fired around 30 ballistic missiles at Israeli territory today",
+      "date": "2026-06-08T07:30Z",
+      "date_display": "08 Jun 07:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli air defenses are currently engaging Iranian ballistic missiles",
+      "description": "<b>BREAKING:</b> Israeli air defenses are currently engaging Iranian ballistic missiles",
+      "date": "2026-06-08T07:00Z",
+      "date_display": "08 Jun 07:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Sirens sound in northern Israel amid incoming Iranian missile attack",
+      "description": "<b>BREAKING:</b> Sirens sound in northern Israel amid incoming Iranian missile attack",
+      "date": "2026-06-08T06:50Z",
+      "date_display": "08 Jun 06:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran launches new wave of ballistic missiles at Israel",
+      "description": "<b>BREAKING:</b> Iran launches new wave of ballistic missiles at Israel",
+      "date": "2026-06-08T06:40Z",
+      "date_display": "08 Jun 06:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli military struck petrochemical facility in southwest Iran",
+      "description": "<b>BREAKING:</b> Israeli military struck petrochemical facility in southwest Iran",
+      "date": "2026-06-08T05:20Z",
+      "date_display": "08 Jun 05:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Israel is intercepting ballistic missiles fired by Iran",
       "description": "<b>BREAKING:</b> Israel is intercepting ballistic missiles fired by Iran",
@@ -83,97 +171,105 @@
       "date_display": "08 Jun 01:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: Israeli military confirms it has conducted strikes in western and central Iran",
-      "description": "<b>BREAKING:</b> Israeli military confirms it has conducted strikes in western and central Iran",
-      "date": "2026-06-08T01:30Z",
-      "date_display": "08 Jun 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices surge by over 4% as Israel conducts strikes on targets in Iran",
-      "description": "<b>BREAKING:</b> Oil prices surge by over 4% as Israel conducts strikes on targets in Iran",
-      "date": "2026-06-08T01:30Z",
-      "date_display": "08 Jun 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says Netanyahu has 'no choice' but to accept a US-Iran deal if it were to go ahead, ...",
-      "description": "<b>BREAKING:</b> Trump says Netanyahu has 'no choice' but to accept a US-Iran deal if it were to go ahead, according to Financial Times report.",
-      "date": "2026-06-07T22:30Z",
-      "date_display": "07 Jun 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices rise by 3% over Middle East developments",
-      "description": "<b>BREAKING:</b> Oil prices rise by 3% over Middle East developments",
-      "date": "2026-06-07T22:20Z",
-      "date_display": "07 Jun 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran shuts airspace in the country's west",
-      "description": "<b>BREAKING:</b> Iran shuts airspace in the country's west",
-      "date": "2026-06-07T21:40Z",
-      "date_display": "07 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump and Netanyahu are on phone call after Iranian attack on Israel",
-      "description": "<b>BREAKING:</b> Trump and Netanyahu are on phone call after Iranian attack on Israel",
-      "date": "2026-06-07T21:20Z",
-      "date_display": "07 Jun 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli military spokesperson says that Iran has 'made a grave mistake'",
-      "description": "<b>BREAKING:</b> Israeli military spokesperson says that Iran has 'made a grave mistake'",
-      "date": "2026-06-07T21:20Z",
-      "date_display": "07 Jun 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli strikes on Hezbollah targets in southern Beirut",
-      "description": "<b>BREAKING:</b> Israeli strikes on Hezbollah targets in southern Beirut",
-      "date": "2026-06-07T12:30Z",
-      "date_display": "07 Jun 12:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
-      "date": "2026-06-06T02:30Z",
-      "date_display": "06 Jun 02:30 UTC",
+      "title": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
+      "description": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
+      "date": "2026-06-08T10:50Z",
+      "date_display": "08 Jun 10:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iranian Revolutionary Guards says it has targeted 'enemy bases' in the region",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards says it has targeted 'enemy bases' in the region",
-      "date": "2026-06-06T02:10Z",
-      "date_display": "06 Jun 02:10 UTC",
+      "title": "Oil prices are now up 4% in today's trading.",
+      "description": "Oil prices are now up 4% in today's trading.",
+      "date": "2026-06-08T10:20Z",
+      "date_display": "08 Jun 10:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have fall...",
+      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have fallen to 31% according to @Kalshi prediction market. https://t.co/mAu8pumbfO",
+      "date": "2026-06-08T10:10Z",
+      "date_display": "08 Jun 10:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media says that Iran is ready for a 'long-term war' with Israel",
+      "description": "<b>BREAKING:</b> Iranian state media says that Iran is ready for a 'long-term war' with Israel",
+      "date": "2026-06-08T10:00Z",
+      "date_display": "08 Jun 10:00 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iranian military attacks on Bahrain and Kuwait",
-      "description": "<b>BREAKING:</b> Iranian military attacks on Bahrain and Kuwait",
-      "date": "2026-06-06T02:10Z",
-      "date_display": "06 Jun 02:10 UTC",
+      "title": "BREAKING: Trump says Israel and Iran 'must immediately stop shooting''.",
+      "description": "<b>BREAKING:</b> Trump says Israel and Iran 'must immediately stop shooting''.",
+      "date": "2026-06-08T09:50Z",
+      "date_display": "08 Jun 09:50 UTC",
       "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "BREAKING: Israeli military is striking targets in Iran's capital Tehran",
+      "description": "<b>BREAKING:</b> Israeli military is striking targets in Iran's capital Tehran",
+      "date": "2026-06-08T08:40Z",
+      "date_display": "08 Jun 08:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts heard in Tehran",
+      "description": "<b>BREAKING:</b> Blasts heard in Tehran",
+      "date": "2026-06-08T08:30Z",
+      "date_display": "08 Jun 08:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Israeli military says that Iran has fired around 30 ballistic missiles at Israeli territor...",
+      "description": "<b>BREAKING:</b> Israeli military says that Iran has fired around 30 ballistic missiles at Israeli territory today",
+      "date": "2026-06-08T07:30Z",
+      "date_display": "08 Jun 07:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli air defenses are currently engaging Iranian ballistic missiles",
+      "description": "<b>BREAKING:</b> Israeli air defenses are currently engaging Iranian ballistic missiles",
+      "date": "2026-06-08T07:00Z",
+      "date_display": "08 Jun 07:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Sirens sound in northern Israel amid incoming Iranian missile attack",
+      "description": "<b>BREAKING:</b> Sirens sound in northern Israel amid incoming Iranian missile attack",
+      "date": "2026-06-08T06:50Z",
+      "date_display": "08 Jun 06:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran launches new wave of ballistic missiles at Israel",
+      "description": "<b>BREAKING:</b> Iran launches new wave of ballistic missiles at Israel",
+      "date": "2026-06-08T06:40Z",
+      "date_display": "08 Jun 06:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli military struck petrochemical facility in southwest Iran",
+      "description": "<b>BREAKING:</b> Israeli military struck petrochemical facility in southwest Iran",
+      "date": "2026-06-08T05:20Z",
+      "date_display": "08 Jun 05:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Israel is intercepting ballistic missiles fired by Iran",
       "description": "<b>BREAKING:</b> Israel is intercepting ballistic missiles fired by Iran",
@@ -316,102 +412,6 @@
       "date": "2026-06-07T22:30Z",
       "date_display": "07 Jun 22:30 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices rise by 3% over Middle East developments",
-      "description": "<b>BREAKING:</b> Oil prices rise by 3% over Middle East developments",
-      "date": "2026-06-07T22:20Z",
-      "date_display": "07 Jun 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran shuts airspace in the country's west",
-      "description": "<b>BREAKING:</b> Iran shuts airspace in the country's west",
-      "date": "2026-06-07T21:40Z",
-      "date_display": "07 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Flights have been suspended at Tehran airport",
-      "description": "<b>BREAKING:</b> Flights have been suspended at Tehran airport",
-      "date": "2026-06-07T21:30Z",
-      "date_display": "07 Jun 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Israeli Prime Minister Netanyahu is holding talks with senior military leaders",
-      "description": "<b>BREAKING:</b> Israeli Prime Minister Netanyahu is holding talks with senior military leaders",
-      "date": "2026-06-07T21:30Z",
-      "date_display": "07 Jun 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump and Netanyahu are on phone call after Iranian attack on Israel",
-      "description": "<b>BREAKING:</b> Trump and Netanyahu are on phone call after Iranian attack on Israel",
-      "date": "2026-06-07T21:20Z",
-      "date_display": "07 Jun 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli military spokesperson says that Iran has 'made a grave mistake'",
-      "description": "<b>BREAKING:</b> Israeli military spokesperson says that Iran has 'made a grave mistake'",
-      "date": "2026-06-07T21:20Z",
-      "date_display": "07 Jun 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli strikes on Hezbollah targets in southern Beirut",
-      "description": "<b>BREAKING:</b> Israeli strikes on Hezbollah targets in southern Beirut",
-      "date": "2026-06-07T12:30Z",
-      "date_display": "07 Jun 12:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,100 per US Dollar.",
-      "date": "2026-06-06T02:30Z",
-      "date_display": "06 Jun 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards says it has targeted 'enemy bases' in the region",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards says it has targeted 'enemy bases' in the region",
-      "date": "2026-06-06T02:10Z",
-      "date_display": "06 Jun 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian military attacks on Bahrain and Kuwait",
-      "description": "<b>BREAKING:</b> Iranian military attacks on Bahrain and Kuwait",
-      "date": "2026-06-06T02:10Z",
-      "date_display": "06 Jun 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it struck radar sites in southern Iran",
-      "description": "<b>BREAKING:</b> US military says it struck radar sites in southern Iran",
-      "date": "2026-06-05T23:40Z",
-      "date_display": "05 Jun 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: CNN reports that Iran launched drones towards the Strait of Hormuz tonight, which the US m...",
-      "description": "<b>BREAKING:</b> CNN reports that Iran launched drones towards the Strait of Hormuz tonight, which the US military intercepted.",
-      "date": "2026-06-05T22:30Z",
-      "date_display": "05 Jun 22:30 UTC",
-      "severity": "critical",
       "is_india_relevant": true
     }
   ]

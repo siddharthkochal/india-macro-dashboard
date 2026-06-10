@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-09T04:46Z",
+  "fetched_at": "2026-06-10T05:00Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 37,
+  "india_relevant_items": 39,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,62 @@
     "latest_oil_headline": "Oil prices are now up 4% in today's trading."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Blasts have been reported in Bahrain",
+      "description": "<b>BREAKING:</b> Blasts have been reported in Bahrain",
+      "date": "2026-06-10T02:10Z",
+      "date_display": "10 Jun 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards has targeted a base in Jordan",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards has targeted a base in Jordan",
+      "date": "2026-06-10T02:10Z",
+      "date_display": "10 Jun 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Renewed US strikes against targets in Iran",
+      "description": "<b>BREAKING:</b> Renewed US strikes against targets in Iran",
+      "date": "2026-06-10T00:30Z",
+      "date_display": "10 Jun 00:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Foreign Minister says that the military will 'leave no attack or threat unanswered' after US ...",
+      "description": "Iran's Foreign Minister says that the military will 'leave no attack or threat unanswered' after US strikes.",
+      "date": "2026-06-09T23:10Z",
+      "date_display": "09 Jun 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says strikes targeted Iranian air defense and radar facilities",
+      "description": "<b>BREAKING:</b> US military says strikes targeted Iranian air defense and radar facilities",
+      "date": "2026-06-09T22:00Z",
+      "date_display": "09 Jun 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military strikes targets in Iran in retaliation over attack on US helicopter",
+      "description": "<b>BREAKING:</b> US military strikes targets in Iran in retaliation over attack on US helicopter",
+      "date": "2026-06-09T21:40Z",
+      "date_display": "09 Jun 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts reported on Iran's southern Qeshm island",
+      "description": "<b>BREAKING:</b> Blasts reported on Iran's southern Qeshm island",
+      "date": "2026-06-09T21:40Z",
+      "date_display": "09 Jun 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
       "description": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
@@ -115,65 +171,81 @@
       "date_display": "08 Jun 04:20 UTC",
       "severity": "high",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index is down 5%",
+      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index is down 5%",
+      "date": "2026-06-10T04:30Z",
+      "date_display": "10 Jun 04:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Yemen's Iran-backed Houthis fire missile at Israel",
-      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis fire missile at Israel",
-      "date": "2026-06-08T03:10Z",
-      "date_display": "08 Jun 03:10 UTC",
+      "title": "BREAKING: Blasts have been reported in Bahrain",
+      "description": "<b>BREAKING:</b> Blasts have been reported in Bahrain",
+      "date": "2026-06-10T02:10Z",
+      "date_display": "10 Jun 02:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,150 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah has fallen to record low of 18,150 per US Dollar.",
-      "date": "2026-06-08T03:10Z",
-      "date_display": "08 Jun 03:10 UTC",
+      "title": "BREAKING: Iranian Revolutionary Guards has targeted a base in Jordan",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards has targeted a base in Jordan",
+      "date": "2026-06-10T02:10Z",
+      "date_display": "10 Jun 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Renewed US strikes against targets in Iran",
+      "description": "<b>BREAKING:</b> Renewed US strikes against targets in Iran",
+      "date": "2026-06-10T00:30Z",
+      "date_display": "10 Jun 00:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Foreign Minister says that the military will 'leave no attack or threat unanswered' after US ...",
+      "description": "Iran's Foreign Minister says that the military will 'leave no attack or threat unanswered' after US strikes.",
+      "date": "2026-06-09T23:10Z",
+      "date_display": "09 Jun 23:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Saudi alert amid suspected Iranian attack",
-      "description": "<b>BREAKING:</b> Saudi alert amid suspected Iranian attack",
-      "date": "2026-06-08T02:50Z",
-      "date_display": "08 Jun 02:50 UTC",
+      "title": "BREAKING: US military says strikes targeted Iranian air defense and radar facilities",
+      "description": "<b>BREAKING:</b> US military says strikes targeted Iranian air defense and radar facilities",
+      "date": "2026-06-09T22:00Z",
+      "date_display": "09 Jun 22:00 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Israeli strikes on Iran",
-      "description": "<b>BREAKING:</b> Israeli strikes on Iran",
-      "date": "2026-06-08T01:30Z",
-      "date_display": "08 Jun 01:30 UTC",
+      "title": "BREAKING: US military strikes targets in Iran in retaliation over attack on US helicopter",
+      "description": "<b>BREAKING:</b> US military strikes targets in Iran in retaliation over attack on US helicopter",
+      "date": "2026-06-09T21:40Z",
+      "date_display": "09 Jun 21:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Israeli strikes on Tehran",
-      "description": "<b>BREAKING:</b> Israeli strikes on Tehran",
-      "date": "2026-06-08T01:30Z",
-      "date_display": "08 Jun 01:30 UTC",
+      "title": "BREAKING: Blasts reported on Iran's southern Qeshm island",
+      "description": "<b>BREAKING:</b> Blasts reported on Iran's southern Qeshm island",
+      "date": "2026-06-09T21:40Z",
+      "date_display": "09 Jun 21:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Israeli strikes in Tehran, Isfahan and Tabriz",
-      "description": "<b>BREAKING:</b> Israeli strikes in Tehran, Isfahan and Tabriz",
-      "date": "2026-06-08T01:30Z",
-      "date_display": "08 Jun 01:30 UTC",
+      "title": "BREAKING: France bans Israeli finance minister Bezalel Smotrich from entering French territory https...",
+      "description": "<b>BREAKING:</b> France bans Israeli finance minister Bezalel Smotrich from entering French territory https://t.co/CGEilIrZdo",
+      "date": "2026-06-09T12:10Z",
+      "date_display": "09 Jun 12:10 UTC",
       "severity": "high",
-      "is_india_relevant": true
+      "is_india_relevant": false
     },
-    {
-      "title": "BREAKING: Blasts reported across several cities in Iran as Israel conducts strikes",
-      "description": "<b>BREAKING:</b> Blasts reported across several cities in Iran as Israel conducts strikes",
-      "date": "2026-06-08T01:30Z",
-      "date_display": "08 Jun 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
     {
       "title": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
       "description": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
@@ -341,78 +413,6 @@
       "date_display": "08 Jun 01:30 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Blasts reported across several cities in Iran as Israel conducts strikes",
-      "description": "<b>BREAKING:</b> Blasts reported across several cities in Iran as Israel conducts strikes",
-      "date": "2026-06-08T01:30Z",
-      "date_display": "08 Jun 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli military confirms it has conducted strikes in western and central Iran",
-      "description": "<b>BREAKING:</b> Israeli military confirms it has conducted strikes in western and central Iran",
-      "date": "2026-06-08T01:30Z",
-      "date_display": "08 Jun 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices surge by over 4% as Israel conducts strikes on targets in Iran",
-      "description": "<b>BREAKING:</b> Oil prices surge by over 4% as Israel conducts strikes on targets in Iran",
-      "date": "2026-06-08T01:30Z",
-      "date_display": "08 Jun 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index plunges by over 8%, hits circuit breaker.",
-      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index plunges by over 8%, hits circuit breaker.",
-      "date": "2026-06-08T00:20Z",
-      "date_display": "08 Jun 00:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Philippines issues evacuation orders for some coastal areas amid tsunami alert after massi...",
-      "description": "<b>BREAKING:</b> Philippines issues evacuation orders for some coastal areas amid tsunami alert after massive earthquake",
-      "date": "2026-06-08T00:10Z",
-      "date_display": "08 Jun 00:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Tsunami alert has been issued for the Philippines, Indonesia, Palau, Taiwan and Papua New ...",
-      "description": "<b>BREAKING:</b> Tsunami alert has been issued for the Philippines, Indonesia, Palau, Taiwan and Papua New Guinea after massive 8.2 magnitude earthquake.",
-      "date": "2026-06-08T00:00Z",
-      "date_display": "08 Jun 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Pacific Tsunami Warning Center says widespread hazardous tsunami waves are possible after ...",
-      "description": "<b>BREAKING:</b> Pacific Tsunami Warning Center says widespread hazardous tsunami waves are possible after 8.2 magnitude quake in Philippines",
-      "date": "2026-06-08T00:00Z",
-      "date_display": "08 Jun 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 8.2 magnitude quake in the Philippines, with a tsunami threat issued.",
-      "description": "<b>BREAKING:</b> 8.2 magnitude quake in the Philippines, with a tsunami threat issued.",
-      "date": "2026-06-07T23:50Z",
-      "date_display": "07 Jun 23:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says Netanyahu has 'no choice' but to accept a US-Iran deal if it were to go ahead, ...",
-      "description": "<b>BREAKING:</b> Trump says Netanyahu has 'no choice' but to accept a US-Iran deal if it were to go ahead, according to Financial Times report.",
-      "date": "2026-06-07T22:30Z",
-      "date_display": "07 Jun 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

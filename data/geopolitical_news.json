@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-11T05:10Z",
+  "fetched_at": "2026-06-12T05:15Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 46,
+  "india_relevant_items": 44,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "BREAKING: US crude oil price now up by over 6%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Reports of blasts in Iranian city of Sirik",
+      "description": "<b>BREAKING:</b> Reports of blasts in Iranian city of Sirik",
+      "date": "2026-06-11T21:40Z",
+      "date_display": "11 Jun 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: US strikes west of Tehran in what appears to be another wave of attacks",
       "description": "<b>BREAKING:</b> US strikes west of Tehran in what appears to be another wave of attacks",
@@ -163,17 +171,33 @@
       "date_display": "10 Jun 02:10 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Renewed US strikes against targets in Iran",
-      "description": "<b>BREAKING:</b> Renewed US strikes against targets in Iran",
-      "date": "2026-06-10T00:30Z",
-      "date_display": "10 Jun 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇰🇷 South Korea beat 🇨🇿 Czechia 2-1",
+      "description": "<b>BREAKING:</b> 🇰🇷 South Korea beat 🇨🇿 Czechia 2-1",
+      "date": "2026-06-12T04:00Z",
+      "date_display": "12 Jun 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Marco Rubio leads chances of winning the 2028 Presidential Election with 18%, followed by JD Vance a...",
+      "description": "Marco Rubio leads chances of winning the 2028 Presidential Election with 18%, followed by JD Vance at 15% and Gavin Newsom at 14%, according to @Kalshi prediction market. https://t.co/QVio6vZtDx",
+      "date": "2026-06-12T00:10Z",
+      "date_display": "12 Jun 00:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Reports of blasts in Iranian city of Sirik",
+      "description": "<b>BREAKING:</b> Reports of blasts in Iranian city of Sirik",
+      "date": "2026-06-11T21:40Z",
+      "date_display": "11 Jun 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: US strikes west of Tehran in what appears to be another wave of attacks",
       "description": "<b>BREAKING:</b> US strikes west of Tehran in what appears to be another wave of attacks",
@@ -388,30 +412,6 @@
       "date": "2026-06-08T10:50Z",
       "date_display": "08 Jun 10:50 UTC",
       "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are now up 4% in today's trading.",
-      "description": "Oil prices are now up 4% in today's trading.",
-      "date": "2026-06-08T10:20Z",
-      "date_display": "08 Jun 10:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have fall...",
-      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have fallen to 31% according to @Kalshi prediction market. https://t.co/mAu8pumbfO",
-      "date": "2026-06-08T10:10Z",
-      "date_display": "08 Jun 10:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian state media says that Iran is ready for a 'long-term war' with Israel",
-      "description": "<b>BREAKING:</b> Iranian state media says that Iran is ready for a 'long-term war' with Israel",
-      "date": "2026-06-08T10:00Z",
-      "date_display": "08 Jun 10:00 UTC",
-      "severity": "high",
       "is_india_relevant": true
     }
   ]

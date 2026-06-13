@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-12T05:15Z",
+  "fetched_at": "2026-06-13T05:04Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 44,
+  "india_relevant_items": 40,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "BREAKING: US crude oil price now up by over 6%"
   },
   "india_headlines": [
+    {
+      "title": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market...",
+      "description": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market. https://t.co/08RikE5970",
+      "date": "2026-06-13T02:30Z",
+      "date_display": "13 Jun 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's foreign minister says that Iranian frozen assets will be 'released' if a deal is si...",
+      "description": "<b>BREAKING:</b> Iran's foreign minister says that Iranian frozen assets will be 'released' if a deal is signed",
+      "date": "2026-06-12T20:10Z",
+      "date_display": "12 Jun 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Reports of blasts in Iranian city of Sirik",
       "description": "<b>BREAKING:</b> Reports of blasts in Iranian city of Sirik",
@@ -155,25 +171,65 @@
       "date_display": "10 Jun 09:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts have been reported in Bahrain",
-      "description": "<b>BREAKING:</b> Blasts have been reported in Bahrain",
-      "date": "2026-06-10T02:10Z",
-      "date_display": "10 Jun 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards has targeted a base in Jordan",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards has targeted a base in Jordan",
-      "date": "2026-06-10T02:10Z",
-      "date_display": "10 Jun 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇺🇲 USA have defeated 🇵🇾 Paraguay 4-1",
+      "description": "<b>BREAKING:</b> 🇺🇲 USA have defeated 🇵🇾 Paraguay 4-1",
+      "date": "2026-06-13T03:10Z",
+      "date_display": "13 Jun 03:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market...",
+      "description": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market. https://t.co/08RikE5970",
+      "date": "2026-06-13T02:30Z",
+      "date_display": "13 Jun 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇺🇲 USA up 3-0 against 🇵🇾 Paraguay at half-time",
+      "description": "<b>BREAKING:</b> 🇺🇲 USA up 3-0 against 🇵🇾 Paraguay at half-time",
+      "date": "2026-06-13T02:00Z",
+      "date_display": "13 Jun 02:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says the US has assassinated Venezuelan terror group leader Niño Guerrero",
+      "description": "<b>BREAKING:</b> Trump says the US has assassinated Venezuelan terror group leader Niño Guerrero",
+      "date": "2026-06-13T01:20Z",
+      "date_display": "13 Jun 01:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇨🇦 Canada and 🇧🇦 Bosnia Herzegovina draw 1-1",
+      "description": "<b>BREAKING:</b> 🇨🇦 Canada and 🇧🇦 Bosnia Herzegovina draw 1-1",
+      "date": "2026-06-12T21:10Z",
+      "date_display": "12 Jun 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: SpaceX share price closes up 19% on first day of trading on stock market",
+      "description": "<b>BREAKING:</b> SpaceX share price closes up 19% on first day of trading on stock market",
+      "date": "2026-06-12T20:10Z",
+      "date_display": "12 Jun 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's foreign minister says that Iranian frozen assets will be 'released' if a deal is si...",
+      "description": "<b>BREAKING:</b> Iran's foreign minister says that Iranian frozen assets will be 'released' if a deal is signed",
+      "date": "2026-06-12T20:10Z",
+      "date_display": "12 Jun 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: 🇰🇷 South Korea beat 🇨🇿 Czechia 2-1",
       "description": "<b>BREAKING:</b> 🇰🇷 South Korea beat 🇨🇿 Czechia 2-1",
@@ -356,62 +412,6 @@
       "date": "2026-06-10T02:10Z",
       "date_display": "10 Jun 02:10 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Renewed US strikes against targets in Iran",
-      "description": "<b>BREAKING:</b> Renewed US strikes against targets in Iran",
-      "date": "2026-06-10T00:30Z",
-      "date_display": "10 Jun 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's Foreign Minister says that the military will 'leave no attack or threat unanswered' after US ...",
-      "description": "Iran's Foreign Minister says that the military will 'leave no attack or threat unanswered' after US strikes.",
-      "date": "2026-06-09T23:10Z",
-      "date_display": "09 Jun 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says strikes targeted Iranian air defense and radar facilities",
-      "description": "<b>BREAKING:</b> US military says strikes targeted Iranian air defense and radar facilities",
-      "date": "2026-06-09T22:00Z",
-      "date_display": "09 Jun 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military strikes targets in Iran in retaliation over attack on US helicopter",
-      "description": "<b>BREAKING:</b> US military strikes targets in Iran in retaliation over attack on US helicopter",
-      "date": "2026-06-09T21:40Z",
-      "date_display": "09 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts reported on Iran's southern Qeshm island",
-      "description": "<b>BREAKING:</b> Blasts reported on Iran's southern Qeshm island",
-      "date": "2026-06-09T21:40Z",
-      "date_display": "09 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: France bans Israeli finance minister Bezalel Smotrich from entering French territory https...",
-      "description": "<b>BREAKING:</b> France bans Israeli finance minister Bezalel Smotrich from entering French territory https://t.co/CGEilIrZdo",
-      "date": "2026-06-09T12:10Z",
-      "date_display": "09 Jun 12:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
-      "description": "Trump claims that both Iran and Israel are looking for a ceasefire https://t.co/ZFVxghQShb",
-      "date": "2026-06-08T10:50Z",
-      "date_display": "08 Jun 10:50 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

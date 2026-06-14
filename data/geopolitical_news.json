@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-13T05:04Z",
+  "fetched_at": "2026-06-14T05:16Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 40,
+  "india_relevant_items": 36,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -174,6 +174,38 @@
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇦🇺 Australia lead 🇹🇷 Turkey 1-0 at half-time",
+      "description": "<b>BREAKING:</b> 🇦🇺 Australia lead 🇹🇷 Turkey 1-0 at half-time",
+      "date": "2026-06-14T05:00Z",
+      "date_display": "14 Jun 05:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: New York Knicks win first title since 1973",
+      "description": "<b>BREAKING:</b> New York Knicks win first title since 1973",
+      "date": "2026-06-14T03:40Z",
+      "date_display": "14 Jun 03:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇧🇷 Brazil and 🇲🇦 Morocco draw 1-1",
+      "description": "<b>BREAKING:</b> 🇧🇷 Brazil and 🇲🇦 Morocco draw 1-1",
+      "date": "2026-06-14T00:20Z",
+      "date_display": "14 Jun 00:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇲🇦 Morocco go up 1-0 against 🇧🇷 Brazil in the 22nd minute",
+      "description": "<b>BREAKING:</b> 🇲🇦 Morocco go up 1-0 against 🇧🇷 Brazil in the 22nd minute",
+      "date": "2026-06-13T22:30Z",
+      "date_display": "13 Jun 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇺🇲 USA have defeated 🇵🇾 Paraguay 4-1",
       "description": "<b>BREAKING:</b> 🇺🇲 USA have defeated 🇵🇾 Paraguay 4-1",
@@ -379,38 +411,6 @@
       "description": "<b>BREAKING:</b> The UAE condemns Iranian 'terrorist attacks' on Bahrain, Kuwait and Jordan.",
       "date": "2026-06-10T09:40Z",
       "date_display": "10 Jun 09:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian foreign ministry spokesperson says diplomatic efforts with US cannot advance in co...",
-      "description": "<b>BREAKING:</b> Iranian foreign ministry spokesperson says diplomatic efforts with US cannot advance in context of ceasefire violations",
-      "date": "2026-06-10T09:00Z",
-      "date_display": "10 Jun 09:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index is down 5%",
-      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index is down 5%",
-      "date": "2026-06-10T04:30Z",
-      "date_display": "10 Jun 04:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Blasts have been reported in Bahrain",
-      "description": "<b>BREAKING:</b> Blasts have been reported in Bahrain",
-      "date": "2026-06-10T02:10Z",
-      "date_display": "10 Jun 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards has targeted a base in Jordan",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards has targeted a base in Jordan",
-      "date": "2026-06-10T02:10Z",
-      "date_display": "10 Jun 02:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     }

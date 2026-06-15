@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-06-14T05:16Z",
+  "fetched_at": "2026-06-15T05:38Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 36,
+  "india_relevant_items": 35,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: US crude oil price now up by over 6%"
+    "latest_oil_headline": "BREAKING: Oil prices fall by over 4% on reports of US-Iran deal"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, accordin...",
+      "description": "<b>BREAKING:</b> Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, according to NY Times report.",
+      "date": "2026-06-14T23:50Z",
+      "date_display": "14 Jun 23:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump post about US-Iran deal https://t.co/rzEQ1PcVGb",
+      "description": "<b>BREAKING:</b> Trump post about US-Iran deal https://t.co/rzEQ1PcVGb",
+      "date": "2026-06-14T22:40Z",
+      "date_display": "14 Jun 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices fall by over 4% on reports of US-Iran deal",
+      "description": "<b>BREAKING:</b> Oil prices fall by over 4% on reports of US-Iran deal",
+      "date": "2026-06-14T22:20Z",
+      "date_display": "14 Jun 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market...",
       "description": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market. https://t.co/08RikE5970",
@@ -147,33 +171,49 @@
       "date_display": "10 Jun 21:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says that Iran will now pay the price for taking too long to negotiate a deal https:...",
-      "description": "<b>BREAKING:</b> Trump says that Iran will now pay the price for taking too long to negotiate a deal https://t.co/pS3NiMyvgP",
-      "date": "2026-06-10T11:30Z",
-      "date_display": "10 Jun 11:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The UAE condemns Iranian 'terrorist attacks' on Bahrain, Kuwait and Jordan.",
-      "description": "<b>BREAKING:</b> The UAE condemns Iranian 'terrorist attacks' on Bahrain, Kuwait and Jordan.",
-      "date": "2026-06-10T09:40Z",
-      "date_display": "10 Jun 09:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian foreign ministry spokesperson says diplomatic efforts with US cannot advance in co...",
-      "description": "<b>BREAKING:</b> Iranian foreign ministry spokesperson says diplomatic efforts with US cannot advance in context of ceasefire violations",
-      "date": "2026-06-10T09:00Z",
-      "date_display": "10 Jun 09:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, accordin...",
+      "description": "<b>BREAKING:</b> Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, according to NY Times report.",
+      "date": "2026-06-14T23:50Z",
+      "date_display": "14 Jun 23:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump post about US-Iran deal https://t.co/rzEQ1PcVGb",
+      "description": "<b>BREAKING:</b> Trump post about US-Iran deal https://t.co/rzEQ1PcVGb",
+      "date": "2026-06-14T22:40Z",
+      "date_display": "14 Jun 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices fall by over 4% on reports of US-Iran deal",
+      "description": "<b>BREAKING:</b> Oil prices fall by over 4% on reports of US-Iran deal",
+      "date": "2026-06-14T22:20Z",
+      "date_display": "14 Jun 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇯🇵 Japan and 🇳🇱 Netherlands draw 2-2",
+      "description": "<b>BREAKING:</b> 🇯🇵 Japan and 🇳🇱 Netherlands draw 2-2",
+      "date": "2026-06-14T22:00Z",
+      "date_display": "14 Jun 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇦🇺 Australia beats 🇹🇷 Turkey 2-0",
+      "description": "<b>BREAKING:</b> 🇦🇺 Australia beats 🇹🇷 Turkey 2-0",
+      "date": "2026-06-14T06:00Z",
+      "date_display": "14 Jun 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇦🇺 Australia lead 🇹🇷 Turkey 1-0 at half-time",
       "description": "<b>BREAKING:</b> 🇦🇺 Australia lead 🇹🇷 Turkey 1-0 at half-time",
@@ -371,46 +411,6 @@
       "description": "<b>BREAKING:</b> Blasts heard in southern Iranian city of Bandar Abbas as the US conducts strikes",
       "date": "2026-06-10T21:50Z",
       "date_display": "10 Jun 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that blasts have been heard in city of Sirik as US conducts strikes...",
-      "description": "<b>BREAKING:</b> Iranian media reports that blasts have been heard in city of Sirik as US conducts strikes",
-      "date": "2026-06-10T21:50Z",
-      "date_display": "10 Jun 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes on Iran",
-      "description": "<b>BREAKING:</b> US strikes on Iran",
-      "date": "2026-06-10T21:40Z",
-      "date_display": "10 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US Secretary of War Pete Hegseth says the US military will be 'busy tonight because we are...",
-      "description": "<b>BREAKING:</b> US Secretary of War Pete Hegseth says the US military will be 'busy tonight because we are going to hit Iran hard'",
-      "date": "2026-06-10T21:40Z",
-      "date_display": "10 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says that Iran will now pay the price for taking too long to negotiate a deal https:...",
-      "description": "<b>BREAKING:</b> Trump says that Iran will now pay the price for taking too long to negotiate a deal https://t.co/pS3NiMyvgP",
-      "date": "2026-06-10T11:30Z",
-      "date_display": "10 Jun 11:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The UAE condemns Iranian 'terrorist attacks' on Bahrain, Kuwait and Jordan.",
-      "description": "<b>BREAKING:</b> The UAE condemns Iranian 'terrorist attacks' on Bahrain, Kuwait and Jordan.",
-      "date": "2026-06-10T09:40Z",
-      "date_display": "10 Jun 09:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     }

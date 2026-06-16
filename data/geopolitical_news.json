@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-15T05:38Z",
+  "fetched_at": "2026-06-16T06:07Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 35,
+  "india_relevant_items": 29,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,54 @@
     "latest_oil_headline": "BREAKING: Oil prices fall by over 4% on reports of US-Iran deal"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Axios reports that CIA director Ratcliffe warned President Trump there were serious doubts...",
+      "description": "<b>BREAKING:</b> Axios reports that CIA director Ratcliffe warned President Trump there were serious doubts as to whether Iran would make nuclear concessions for a final deal",
+      "date": "2026-06-16T00:40Z",
+      "date_display": "16 Jun 00:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇸🇦 Saudi Arabia and 🇺🇾 Uruguay draw 1-1",
+      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia and 🇺🇾 Uruguay draw 1-1",
+      "date": "2026-06-16T00:10Z",
+      "date_display": "16 Jun 00:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The chances of a US-Iran nuclear deal before October have risen up to 52%, according to @Kalshi pred...",
+      "description": "The chances of a US-Iran nuclear deal before October have risen up to 52%, according to @Kalshi prediction market. https://t.co/T3xc2sf10t",
+      "date": "2026-06-15T23:10Z",
+      "date_display": "15 Jun 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The Trump administration is considering a $300 billion fund for Iran if it 'agrees to a fi...",
+      "description": "<b>BREAKING:</b> The Trump administration is considering a $300 billion fund for Iran if it 'agrees to a final settlement to end the war that includes a nuclear deal', according to Financial Times report.",
+      "date": "2026-06-15T22:20Z",
+      "date_display": "15 Jun 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media says that five vessels have passed as US naval blockade is lifted...",
+      "description": "<b>BREAKING:</b> Iranian state media says that five vessels have passed as US naval blockade is lifted",
+      "date": "2026-06-15T21:00Z",
+      "date_display": "15 Jun 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israel's National Security Minister Ben Gvir says that US-Iran deal 'does not bind us'...",
+      "description": "<b>BREAKING:</b> Israel's National Security Minister Ben Gvir says that US-Iran deal 'does not bind us'",
+      "date": "2026-06-15T09:00Z",
+      "date_display": "15 Jun 09:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, accordin...",
       "description": "<b>BREAKING:</b> Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, according to NY Times report.",
@@ -123,57 +171,113 @@
       "date_display": "10 Jun 22:20 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian state media says the military is targeting US ships near the Strait of Hormuz...",
-      "description": "<b>BREAKING:</b> Iranian state media says the military is targeting US ships near the Strait of Hormuz",
-      "date": "2026-06-10T22:20Z",
-      "date_display": "10 Jun 22:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Pentagon says strikes on Iran are a form of 'coercive diplomacy' that are 'designed to for...",
-      "description": "<b>BREAKING:</b> Pentagon says strikes on Iran are a form of 'coercive diplomacy' that are 'designed to force Iranian concessions at the negotiating table', according to Wall Street Journal report.",
-      "date": "2026-06-10T22:00Z",
-      "date_display": "10 Jun 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts heard in southern Iranian city of Bandar Abbas as the US conducts strikes",
-      "description": "<b>BREAKING:</b> Blasts heard in southern Iranian city of Bandar Abbas as the US conducts strikes",
-      "date": "2026-06-10T21:50Z",
-      "date_display": "10 Jun 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that blasts have been heard in city of Sirik as US conducts strikes...",
-      "description": "<b>BREAKING:</b> Iranian media reports that blasts have been heard in city of Sirik as US conducts strikes",
-      "date": "2026-06-10T21:50Z",
-      "date_display": "10 Jun 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes on Iran",
-      "description": "<b>BREAKING:</b> US strikes on Iran",
-      "date": "2026-06-10T21:40Z",
-      "date_display": "10 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US Secretary of War Pete Hegseth says the US military will be 'busy tonight because we are...",
-      "description": "<b>BREAKING:</b> US Secretary of War Pete Hegseth says the US military will be 'busy tonight because we are going to hit Iran hard'",
-      "date": "2026-06-10T21:40Z",
-      "date_display": "10 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇯🇵 Bank of Japan raises interest rate to 1%, the highest since 1995.",
+      "description": "<b>BREAKING:</b> 🇯🇵 Bank of Japan raises interest rate to 1%, the highest since 1995.",
+      "date": "2026-06-16T05:20Z",
+      "date_display": "16 Jun 05:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Elon Musk net worth rises to $1.3 trillion as SpaceX share price rises in overnight tradin...",
+      "description": "<b>BREAKING:</b> Elon Musk net worth rises to $1.3 trillion as SpaceX share price rises in overnight trading https://t.co/PUDY7x2SYt",
+      "date": "2026-06-16T01:20Z",
+      "date_display": "16 Jun 01:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Axios reports that CIA director Ratcliffe warned President Trump there were serious doubts...",
+      "description": "<b>BREAKING:</b> Axios reports that CIA director Ratcliffe warned President Trump there were serious doubts as to whether Iran would make nuclear concessions for a final deal",
+      "date": "2026-06-16T00:40Z",
+      "date_display": "16 Jun 00:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇸🇦 Saudi Arabia and 🇺🇾 Uruguay draw 1-1",
+      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia and 🇺🇾 Uruguay draw 1-1",
+      "date": "2026-06-16T00:10Z",
+      "date_display": "16 Jun 00:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The chances of a US-Iran nuclear deal before October have risen up to 52%, according to @Kalshi pred...",
+      "description": "The chances of a US-Iran nuclear deal before October have risen up to 52%, according to @Kalshi prediction market. https://t.co/T3xc2sf10t",
+      "date": "2026-06-15T23:10Z",
+      "date_display": "15 Jun 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The Trump administration is considering a $300 billion fund for Iran if it 'agrees to a fi...",
+      "description": "<b>BREAKING:</b> The Trump administration is considering a $300 billion fund for Iran if it 'agrees to a final settlement to end the war that includes a nuclear deal', according to Financial Times report.",
+      "date": "2026-06-15T22:20Z",
+      "date_display": "15 Jun 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Eight people killed in B-52 crash at Edwards Air Force Base in California",
+      "description": "<b>BREAKING:</b> Eight people killed in B-52 crash at Edwards Air Force Base in California",
+      "date": "2026-06-15T22:20Z",
+      "date_display": "15 Jun 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Hezbollah says it targeted Israeli forces with rockets and artillery",
+      "description": "<b>BREAKING:</b> Hezbollah says it targeted Israeli forces with rockets and artillery",
+      "date": "2026-06-15T21:10Z",
+      "date_display": "15 Jun 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iranian state media says that five vessels have passed as US naval blockade is lifted...",
+      "description": "<b>BREAKING:</b> Iranian state media says that five vessels have passed as US naval blockade is lifted",
+      "date": "2026-06-15T21:00Z",
+      "date_display": "15 Jun 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇧🇪 Belgium and 🇪🇬  Egypt draw 1-1",
+      "description": "<b>BREAKING:</b> 🇧🇪 Belgium and 🇪🇬  Egypt draw 1-1",
+      "date": "2026-06-15T21:00Z",
+      "date_display": "15 Jun 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Over $1.2 trillion value added to US stock market today",
+      "description": "<b>BREAKING:</b> Over $1.2 trillion value added to US stock market today",
+      "date": "2026-06-15T20:40Z",
+      "date_display": "15 Jun 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: B-52 Stratofortress has crashed in California",
+      "description": "<b>BREAKING:</b> B-52 Stratofortress has crashed in California",
+      "date": "2026-06-15T20:40Z",
+      "date_display": "15 Jun 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Israel's National Security Minister Ben Gvir says that US-Iran deal 'does not bind us'...",
+      "description": "<b>BREAKING:</b> Israel's National Security Minister Ben Gvir says that US-Iran deal 'does not bind us'",
+      "date": "2026-06-15T09:00Z",
+      "date_display": "15 Jun 09:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, accordin...",
       "description": "<b>BREAKING:</b> Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, according to NY Times report.",
@@ -309,110 +413,6 @@
       "date_display": "12 Jun 04:00 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "Marco Rubio leads chances of winning the 2028 Presidential Election with 18%, followed by JD Vance a...",
-      "description": "Marco Rubio leads chances of winning the 2028 Presidential Election with 18%, followed by JD Vance at 15% and Gavin Newsom at 14%, according to @Kalshi prediction market. https://t.co/QVio6vZtDx",
-      "date": "2026-06-12T00:10Z",
-      "date_display": "12 Jun 00:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Reports of blasts in Iranian city of Sirik",
-      "description": "<b>BREAKING:</b> Reports of blasts in Iranian city of Sirik",
-      "date": "2026-06-11T21:40Z",
-      "date_display": "11 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes west of Tehran in what appears to be another wave of attacks",
-      "description": "<b>BREAKING:</b> US strikes west of Tehran in what appears to be another wave of attacks",
-      "date": "2026-06-11T01:10Z",
-      "date_display": "11 Jun 01:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says bombing will stop based on request by Iran's leaders, but will resume tomorrow ...",
-      "description": "<b>BREAKING:</b> Trump says bombing will stop based on request by Iran's leaders, but will resume tomorrow if a deal is not signed, according to Fox News report.",
-      "date": "2026-06-10T23:30Z",
-      "date_display": "10 Jun 23:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes on Iran are ongoing, according to Fox News report.",
-      "description": "<b>BREAKING:</b> US strikes on Iran are ongoing, according to Fox News report.",
-      "date": "2026-06-10T23:20Z",
-      "date_display": "10 Jun 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price now up by over 6%",
-      "description": "<b>BREAKING:</b> US crude oil price now up by over 6%",
-      "date": "2026-06-10T23:20Z",
-      "date_display": "10 Jun 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran announces the Strait of Hormuz is shut to all traffic",
-      "description": "<b>BREAKING:</b> Iran announces the Strait of Hormuz is shut to all traffic",
-      "date": "2026-06-10T23:00Z",
-      "date_display": "10 Jun 23:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price surges by over 5% amid new strikes on Iran",
-      "description": "<b>BREAKING:</b> US crude oil price surges by over 5% amid new strikes on Iran",
-      "date": "2026-06-10T23:00Z",
-      "date_display": "10 Jun 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israeli media reports the US is striking Iran in several waves and that the Israeli military is not ...",
-      "description": "Israeli media reports the US is striking Iran in several waves and that the Israeli military is not involved.",
-      "date": "2026-06-10T22:40Z",
-      "date_display": "10 Jun 22:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices are up 4% as US strikes targets in Iran",
-      "description": "<b>BREAKING:</b> Oil prices are up 4% as US strikes targets in Iran",
-      "date": "2026-06-10T22:20Z",
-      "date_display": "10 Jun 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian state media says the military is targeting US ships near the Strait of Hormuz...",
-      "description": "<b>BREAKING:</b> Iranian state media says the military is targeting US ships near the Strait of Hormuz",
-      "date": "2026-06-10T22:20Z",
-      "date_display": "10 Jun 22:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Pentagon says strikes on Iran are a form of 'coercive diplomacy' that are 'designed to for...",
-      "description": "<b>BREAKING:</b> Pentagon says strikes on Iran are a form of 'coercive diplomacy' that are 'designed to force Iranian concessions at the negotiating table', according to Wall Street Journal report.",
-      "date": "2026-06-10T22:00Z",
-      "date_display": "10 Jun 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts heard in southern Iranian city of Bandar Abbas as the US conducts strikes",
-      "description": "<b>BREAKING:</b> Blasts heard in southern Iranian city of Bandar Abbas as the US conducts strikes",
-      "date": "2026-06-10T21:50Z",
-      "date_display": "10 Jun 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

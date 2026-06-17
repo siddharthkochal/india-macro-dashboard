@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-16T06:07Z",
+  "fetched_at": "2026-06-17T05:25Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 29,
+  "india_relevant_items": 24,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "BREAKING: Oil prices fall by over 4% on reports of US-Iran deal"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: US-Iran deal includes plan to establish $300 billion fund for Iran",
+      "description": "<b>BREAKING:</b> US-Iran deal includes plan to establish $300 billion fund for Iran",
+      "date": "2026-06-16T23:50Z",
+      "date_display": "16 Jun 23:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Axios reports that CIA director Ratcliffe warned President Trump there were serious doubts...",
       "description": "<b>BREAKING:</b> Axios reports that CIA director Ratcliffe warned President Trump there were serious doubts as to whether Iran would make nuclear concessions for a final deal",
@@ -163,17 +171,65 @@
       "date_display": "10 Jun 22:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices are up 4% as US strikes targets in Iran",
-      "description": "<b>BREAKING:</b> Oil prices are up 4% as US strikes targets in Iran",
-      "date": "2026-06-10T22:20Z",
-      "date_display": "10 Jun 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇯🇵 Japan's exports have risen by 17% over the past year",
+      "description": "<b>BREAKING:</b> 🇯🇵 Japan's exports have risen by 17% over the past year",
+      "date": "2026-06-17T04:50Z",
+      "date_display": "17 Jun 04:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Messi scores hat-trick as 🇦🇷 Argentina beat 🇩🇿 Algeria 3-0",
+      "description": "<b>BREAKING:</b> Messi scores hat-trick as 🇦🇷 Argentina beat 🇩🇿 Algeria 3-0",
+      "date": "2026-06-17T03:10Z",
+      "date_display": "17 Jun 03:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇳🇴 Norway beats 🇮🇶 Iraq 4-1, with Haaland scoring a double.",
+      "description": "<b>BREAKING:</b> 🇳🇴 Norway beats 🇮🇶 Iraq 4-1, with Haaland scoring a double.",
+      "date": "2026-06-17T00:30Z",
+      "date_display": "17 Jun 00:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US-Iran deal includes plan to establish $300 billion fund for Iran",
+      "description": "<b>BREAKING:</b> US-Iran deal includes plan to establish $300 billion fund for Iran",
+      "date": "2026-06-16T23:50Z",
+      "date_display": "16 Jun 23:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says 'if it weren't for the United States of America' then 'Israel would not exist r...",
+      "description": "<b>BREAKING:</b> Trump says 'if it weren't for the United States of America' then 'Israel would not exist right now'",
+      "date": "2026-06-16T10:20Z",
+      "date_display": "16 Jun 10:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says 'without me there'd be no Israel'",
+      "description": "<b>BREAKING:</b> Trump says 'without me there'd be no Israel'",
+      "date": "2026-06-16T10:10Z",
+      "date_display": "16 Jun 10:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says he suggested to Israel that Syria should deal with Hezbollah",
+      "description": "<b>BREAKING:</b> Trump says he suggested to Israel that Syria should deal with Hezbollah",
+      "date": "2026-06-16T10:00Z",
+      "date_display": "16 Jun 10:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇯🇵 Bank of Japan raises interest rate to 1%, the highest since 1995.",
       "description": "<b>BREAKING:</b> 🇯🇵 Bank of Japan raises interest rate to 1%, the highest since 1995.",
@@ -355,62 +411,6 @@
       "description": "<b>BREAKING:</b> 🇺🇲 USA have defeated 🇵🇾 Paraguay 4-1",
       "date": "2026-06-13T03:10Z",
       "date_display": "13 Jun 03:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market...",
-      "description": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market. https://t.co/08RikE5970",
-      "date": "2026-06-13T02:30Z",
-      "date_display": "13 Jun 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇺🇲 USA up 3-0 against 🇵🇾 Paraguay at half-time",
-      "description": "<b>BREAKING:</b> 🇺🇲 USA up 3-0 against 🇵🇾 Paraguay at half-time",
-      "date": "2026-06-13T02:00Z",
-      "date_display": "13 Jun 02:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says the US has assassinated Venezuelan terror group leader Niño Guerrero",
-      "description": "<b>BREAKING:</b> Trump says the US has assassinated Venezuelan terror group leader Niño Guerrero",
-      "date": "2026-06-13T01:20Z",
-      "date_display": "13 Jun 01:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇨🇦 Canada and 🇧🇦 Bosnia Herzegovina draw 1-1",
-      "description": "<b>BREAKING:</b> 🇨🇦 Canada and 🇧🇦 Bosnia Herzegovina draw 1-1",
-      "date": "2026-06-12T21:10Z",
-      "date_display": "12 Jun 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: SpaceX share price closes up 19% on first day of trading on stock market",
-      "description": "<b>BREAKING:</b> SpaceX share price closes up 19% on first day of trading on stock market",
-      "date": "2026-06-12T20:10Z",
-      "date_display": "12 Jun 20:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran's foreign minister says that Iranian frozen assets will be 'released' if a deal is si...",
-      "description": "<b>BREAKING:</b> Iran's foreign minister says that Iranian frozen assets will be 'released' if a deal is signed",
-      "date": "2026-06-12T20:10Z",
-      "date_display": "12 Jun 20:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇰🇷 South Korea beat 🇨🇿 Czechia 2-1",
-      "description": "<b>BREAKING:</b> 🇰🇷 South Korea beat 🇨🇿 Czechia 2-1",
-      "date": "2026-06-12T04:00Z",
-      "date_display": "12 Jun 04:00 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

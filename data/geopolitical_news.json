@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-06-17T05:25Z",
+  "fetched_at": "2026-06-18T05:19Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 24,
+  "india_relevant_items": 22,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Oil prices fall by over 4% on reports of US-Iran deal"
+    "price_direction": "down",
+    "latest_oil_headline": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9"
   },
   "india_headlines": [
+    {
+      "title": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
+      "description": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
+      "date": "2026-06-18T03:40Z",
+      "date_display": "18 Jun 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have rise...",
+      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have risen to 64% according to @Kalshi prediction market. https://t.co/1x3Uv2j9nP",
+      "date": "2026-06-18T01:50Z",
+      "date_display": "18 Jun 01:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: White House confirms that Trump has signed memorandum of understanding with Iran, accordin...",
+      "description": "<b>BREAKING:</b> White House confirms that Trump has signed memorandum of understanding with Iran, according to Reuters report.",
+      "date": "2026-06-17T22:10Z",
+      "date_display": "17 Jun 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian foreign ministry says Tehran will charge fees for services in Strait of Hormuz...",
+      "description": "<b>BREAKING:</b> Iranian foreign ministry says Tehran will charge fees for services in Strait of Hormuz",
+      "date": "2026-06-17T22:10Z",
+      "date_display": "17 Jun 22:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran and US electronically sign memorandum of understanding to end war, according to Axios...",
+      "description": "<b>BREAKING:</b> Iran and US electronically sign memorandum of understanding to end war, according to Axios.",
+      "date": "2026-06-17T21:30Z",
+      "date_display": "17 Jun 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US-Iran deal ending war is now in effect",
+      "description": "<b>BREAKING:</b> US-Iran deal ending war is now in effect",
+      "date": "2026-06-17T21:30Z",
+      "date_display": "17 Jun 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: US-Iran deal includes plan to establish $300 billion fund for Iran",
       "description": "<b>BREAKING:</b> US-Iran deal includes plan to establish $300 billion fund for Iran",
@@ -123,57 +171,73 @@
       "date_display": "11 Jun 01:10 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: Trump says bombing will stop based on request by Iran's leaders, but will resume tomorrow ...",
-      "description": "<b>BREAKING:</b> Trump says bombing will stop based on request by Iran's leaders, but will resume tomorrow if a deal is not signed, according to Fox News report.",
-      "date": "2026-06-10T23:30Z",
-      "date_display": "10 Jun 23:30 UTC",
-      "severity": "high",
+      "title": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
+      "description": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
+      "date": "2026-06-18T03:40Z",
+      "date_display": "18 Jun 03:40 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: US strikes on Iran are ongoing, according to Fox News report.",
-      "description": "<b>BREAKING:</b> US strikes on Iran are ongoing, according to Fox News report.",
-      "date": "2026-06-10T23:20Z",
-      "date_display": "10 Jun 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price now up by over 6%",
-      "description": "<b>BREAKING:</b> US crude oil price now up by over 6%",
-      "date": "2026-06-10T23:20Z",
-      "date_display": "10 Jun 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran announces the Strait of Hormuz is shut to all traffic",
-      "description": "<b>BREAKING:</b> Iran announces the Strait of Hormuz is shut to all traffic",
-      "date": "2026-06-10T23:00Z",
-      "date_display": "10 Jun 23:00 UTC",
+      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have rise...",
+      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have risen to 64% according to @Kalshi prediction market. https://t.co/1x3Uv2j9nP",
+      "date": "2026-06-18T01:50Z",
+      "date_display": "18 Jun 01:50 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: US crude oil price surges by over 5% amid new strikes on Iran",
-      "description": "<b>BREAKING:</b> US crude oil price surges by over 5% amid new strikes on Iran",
-      "date": "2026-06-10T23:00Z",
-      "date_display": "10 Jun 23:00 UTC",
+      "title": "BREAKING: White House confirms that Trump has signed memorandum of understanding with Iran, accordin...",
+      "description": "<b>BREAKING:</b> White House confirms that Trump has signed memorandum of understanding with Iran, according to Reuters report.",
+      "date": "2026-06-17T22:10Z",
+      "date_display": "17 Jun 22:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Israeli media reports the US is striking Iran in several waves and that the Israeli military is not ...",
-      "description": "Israeli media reports the US is striking Iran in several waves and that the Israeli military is not involved.",
-      "date": "2026-06-10T22:40Z",
-      "date_display": "10 Jun 22:40 UTC",
-      "severity": "medium",
+      "title": "BREAKING: Iranian foreign ministry says Tehran will charge fees for services in Strait of Hormuz...",
+      "description": "<b>BREAKING:</b> Iranian foreign ministry says Tehran will charge fees for services in Strait of Hormuz",
+      "date": "2026-06-17T22:10Z",
+      "date_display": "17 Jun 22:10 UTC",
+      "severity": "critical",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿England beat 🇭🇷 Croatia 4-2",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿England beat 🇭🇷 Croatia 4-2",
+      "date": "2026-06-17T22:10Z",
+      "date_display": "17 Jun 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran and US electronically sign memorandum of understanding to end war, according to Axios...",
+      "description": "<b>BREAKING:</b> Iran and US electronically sign memorandum of understanding to end war, according to Axios.",
+      "date": "2026-06-17T21:30Z",
+      "date_display": "17 Jun 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US-Iran deal ending war is now in effect",
+      "description": "<b>BREAKING:</b> US-Iran deal ending war is now in effect",
+      "date": "2026-06-17T21:30Z",
+      "date_display": "17 Jun 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Apple is set to raise prices on its products due to 'surging costs of memory and storage c...",
+      "description": "<b>BREAKING:</b> Apple is set to raise prices on its products due to 'surging costs of memory and storage chips', according to CEO Tim Cook in interview with Wall Street Journal.",
+      "date": "2026-06-17T21:20Z",
+      "date_display": "17 Jun 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇯🇵 Japan's exports have risen by 17% over the past year",
       "description": "<b>BREAKING:</b> 🇯🇵 Japan's exports have risen by 17% over the past year",
@@ -349,70 +413,6 @@
       "date_display": "14 Jun 22:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices fall by over 4% on reports of US-Iran deal",
-      "description": "<b>BREAKING:</b> Oil prices fall by over 4% on reports of US-Iran deal",
-      "date": "2026-06-14T22:20Z",
-      "date_display": "14 Jun 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇯🇵 Japan and 🇳🇱 Netherlands draw 2-2",
-      "description": "<b>BREAKING:</b> 🇯🇵 Japan and 🇳🇱 Netherlands draw 2-2",
-      "date": "2026-06-14T22:00Z",
-      "date_display": "14 Jun 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇺 Australia beats 🇹🇷 Turkey 2-0",
-      "description": "<b>BREAKING:</b> 🇦🇺 Australia beats 🇹🇷 Turkey 2-0",
-      "date": "2026-06-14T06:00Z",
-      "date_display": "14 Jun 06:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇺 Australia lead 🇹🇷 Turkey 1-0 at half-time",
-      "description": "<b>BREAKING:</b> 🇦🇺 Australia lead 🇹🇷 Turkey 1-0 at half-time",
-      "date": "2026-06-14T05:00Z",
-      "date_display": "14 Jun 05:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: New York Knicks win first title since 1973",
-      "description": "<b>BREAKING:</b> New York Knicks win first title since 1973",
-      "date": "2026-06-14T03:40Z",
-      "date_display": "14 Jun 03:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇧🇷 Brazil and 🇲🇦 Morocco draw 1-1",
-      "description": "<b>BREAKING:</b> 🇧🇷 Brazil and 🇲🇦 Morocco draw 1-1",
-      "date": "2026-06-14T00:20Z",
-      "date_display": "14 Jun 00:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇲🇦 Morocco go up 1-0 against 🇧🇷 Brazil in the 22nd minute",
-      "description": "<b>BREAKING:</b> 🇲🇦 Morocco go up 1-0 against 🇧🇷 Brazil in the 22nd minute",
-      "date": "2026-06-13T22:30Z",
-      "date_display": "13 Jun 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇲 USA have defeated 🇵🇾 Paraguay 4-1",
-      "description": "<b>BREAKING:</b> 🇺🇲 USA have defeated 🇵🇾 Paraguay 4-1",
-      "date": "2026-06-13T03:10Z",
-      "date_display": "13 Jun 03:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

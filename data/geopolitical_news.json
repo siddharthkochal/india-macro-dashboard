@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-18T05:19Z",
+  "fetched_at": "2026-06-19T05:34Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump post about Iran deal https://t.co/mS84VuJpZD",
+      "description": "<b>BREAKING:</b> Trump post about Iran deal https://t.co/mS84VuJpZD",
+      "date": "2026-06-18T09:00Z",
+      "date_display": "18 Jun 09:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
       "description": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
@@ -163,17 +171,17 @@
       "date_display": "11 Jun 21:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes west of Tehran in what appears to be another wave of attacks",
-      "description": "<b>BREAKING:</b> US strikes west of Tehran in what appears to be another wave of attacks",
-      "date": "2026-06-11T01:10Z",
-      "date_display": "11 Jun 01:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Trump post about Iran deal https://t.co/mS84VuJpZD",
+      "description": "<b>BREAKING:</b> Trump post about Iran deal https://t.co/mS84VuJpZD",
+      "date": "2026-06-18T09:00Z",
+      "date_display": "18 Jun 09:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
       "description": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
@@ -403,14 +411,6 @@
       "description": "<b>BREAKING:</b> Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, according to NY Times report.",
       "date": "2026-06-14T23:50Z",
       "date_display": "14 Jun 23:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump post about US-Iran deal https://t.co/rzEQ1PcVGb",
-      "description": "<b>BREAKING:</b> Trump post about US-Iran deal https://t.co/rzEQ1PcVGb",
-      "date": "2026-06-14T22:40Z",
-      "date_display": "14 Jun 22:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     }

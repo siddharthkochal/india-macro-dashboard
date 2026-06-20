@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-06-19T05:34Z",
+  "fetched_at": "2026-06-20T04:52Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 22,
+  "india_relevant_items": 21,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9"
+    "latest_oil_headline": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC"
   },
   "india_headlines": [
+    {
+      "title": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC",
+      "description": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC",
+      "date": "2026-06-20T02:30Z",
+      "date_display": "20 Jun 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US intelligence has warned the Trump Administration that 'Israel is likely to undermine Ir...",
+      "description": "<b>BREAKING:</b> US intelligence has warned the Trump Administration that 'Israel is likely to undermine Iran peace deal', according to Washington Post report.",
+      "date": "2026-06-19T22:40Z",
+      "date_display": "19 Jun 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US-Iran peace talks in Switzerland have been postponed",
+      "description": "<b>BREAKING:</b> US-Iran peace talks in Switzerland have been postponed",
+      "date": "2026-06-19T09:30Z",
+      "date_display": "19 Jun 09:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump post about Iran deal https://t.co/mS84VuJpZD",
       "description": "<b>BREAKING:</b> Trump post about Iran deal https://t.co/mS84VuJpZD",
@@ -147,33 +171,81 @@
       "date_display": "14 Jun 22:20 UTC",
       "severity": "high",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇧🇷 Brazil beat 🇭🇹 Haiti 3-0",
+      "description": "<b>BREAKING:</b> 🇧🇷 Brazil beat 🇭🇹 Haiti 3-0",
+      "date": "2026-06-20T02:40Z",
+      "date_display": "20 Jun 02:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
     },
     {
-      "title": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market...",
-      "description": "The chances of a US recession next year have risen up to 50%, according to @Kalshi prediction market. https://t.co/08RikE5970",
-      "date": "2026-06-13T02:30Z",
-      "date_display": "13 Jun 02:30 UTC",
+      "title": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC",
+      "description": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC",
+      "date": "2026-06-20T02:30Z",
+      "date_display": "20 Jun 02:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iran's foreign minister says that Iranian frozen assets will be 'released' if a deal is si...",
-      "description": "<b>BREAKING:</b> Iran's foreign minister says that Iranian frozen assets will be 'released' if a deal is signed",
-      "date": "2026-06-12T20:10Z",
-      "date_display": "12 Jun 20:10 UTC",
+      "title": "BREAKING: 🇲🇦 Morocco beat 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 1-0",
+      "description": "<b>BREAKING:</b> 🇲🇦 Morocco beat 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 1-0",
+      "date": "2026-06-20T00:00Z",
+      "date_display": "20 Jun 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US intelligence has warned the Trump Administration that 'Israel is likely to undermine Ir...",
+      "description": "<b>BREAKING:</b> US intelligence has warned the Trump Administration that 'Israel is likely to undermine Iran peace deal', according to Washington Post report.",
+      "date": "2026-06-19T22:40Z",
+      "date_display": "19 Jun 22:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Reports of blasts in Iranian city of Sirik",
-      "description": "<b>BREAKING:</b> Reports of blasts in Iranian city of Sirik",
-      "date": "2026-06-11T21:40Z",
-      "date_display": "11 Jun 21:40 UTC",
+      "title": "BREAKING: 🇺🇸 USA beats 🇦🇺 Australia 2-0, go top of their group.",
+      "description": "<b>BREAKING:</b> 🇺🇸 USA beats 🇦🇺 Australia 2-0, go top of their group.",
+      "date": "2026-06-19T21:10Z",
+      "date_display": "19 Jun 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Israeli military says it struck 80 targets in southern Lebanon",
+      "description": "<b>BREAKING:</b> Israeli military says it struck 80 targets in southern Lebanon",
+      "date": "2026-06-19T09:50Z",
+      "date_display": "19 Jun 09:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US-Iran peace talks in Switzerland have been postponed",
+      "description": "<b>BREAKING:</b> US-Iran peace talks in Switzerland have been postponed",
+      "date": "2026-06-19T09:30Z",
+      "date_display": "19 Jun 09:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "Israel's defense minister Israel Katz says that 'nobody can tell us what to do' even if Trump 'says ...",
+      "description": "Israel's defense minister Israel Katz says that 'nobody can tell us what to do' even if Trump 'says otherwise'. https://t.co/XNTh51pmn1",
+      "date": "2026-06-19T08:40Z",
+      "date_display": "19 Jun 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Israeli military says currently striking Hezbollah targets in southern Lebanon",
+      "description": "<b>BREAKING:</b> Israeli military says currently striking Hezbollah targets in southern Lebanon",
+      "date": "2026-06-19T06:10Z",
+      "date_display": "19 Jun 06:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Trump post about Iran deal https://t.co/mS84VuJpZD",
       "description": "<b>BREAKING:</b> Trump post about Iran deal https://t.co/mS84VuJpZD",
@@ -340,78 +412,6 @@
       "date": "2026-06-15T23:10Z",
       "date_display": "15 Jun 23:10 UTC",
       "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The Trump administration is considering a $300 billion fund for Iran if it 'agrees to a fi...",
-      "description": "<b>BREAKING:</b> The Trump administration is considering a $300 billion fund for Iran if it 'agrees to a final settlement to end the war that includes a nuclear deal', according to Financial Times report.",
-      "date": "2026-06-15T22:20Z",
-      "date_display": "15 Jun 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Eight people killed in B-52 crash at Edwards Air Force Base in California",
-      "description": "<b>BREAKING:</b> Eight people killed in B-52 crash at Edwards Air Force Base in California",
-      "date": "2026-06-15T22:20Z",
-      "date_display": "15 Jun 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Hezbollah says it targeted Israeli forces with rockets and artillery",
-      "description": "<b>BREAKING:</b> Hezbollah says it targeted Israeli forces with rockets and artillery",
-      "date": "2026-06-15T21:10Z",
-      "date_display": "15 Jun 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iranian state media says that five vessels have passed as US naval blockade is lifted...",
-      "description": "<b>BREAKING:</b> Iranian state media says that five vessels have passed as US naval blockade is lifted",
-      "date": "2026-06-15T21:00Z",
-      "date_display": "15 Jun 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇧🇪 Belgium and 🇪🇬  Egypt draw 1-1",
-      "description": "<b>BREAKING:</b> 🇧🇪 Belgium and 🇪🇬  Egypt draw 1-1",
-      "date": "2026-06-15T21:00Z",
-      "date_display": "15 Jun 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Over $1.2 trillion value added to US stock market today",
-      "description": "<b>BREAKING:</b> Over $1.2 trillion value added to US stock market today",
-      "date": "2026-06-15T20:40Z",
-      "date_display": "15 Jun 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: B-52 Stratofortress has crashed in California",
-      "description": "<b>BREAKING:</b> B-52 Stratofortress has crashed in California",
-      "date": "2026-06-15T20:40Z",
-      "date_display": "15 Jun 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Israel's National Security Minister Ben Gvir says that US-Iran deal 'does not bind us'...",
-      "description": "<b>BREAKING:</b> Israel's National Security Minister Ben Gvir says that US-Iran deal 'does not bind us'",
-      "date": "2026-06-15T09:00Z",
-      "date_display": "15 Jun 09:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, accordin...",
-      "description": "<b>BREAKING:</b> Trump says deal with Iran was reached despite objections by Israeli PM Netanyahu, according to NY Times report.",
-      "date": "2026-06-14T23:50Z",
-      "date_display": "14 Jun 23:50 UTC",
-      "severity": "high",
       "is_india_relevant": true
     }
   ]

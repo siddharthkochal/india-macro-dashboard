@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-21T05:25Z",
+  "fetched_at": "2026-06-22T05:41Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 24,
+  "india_relevant_items": 23,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,38 @@
     "latest_oil_headline": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agr...",
+      "description": "<b>BREAKING:</b> Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agreement on 60-day dialogue plan",
+      "date": "2026-06-22T01:20Z",
+      "date_display": "22 Jun 01:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump post about US achievements in Iran war. https://t.co/wkWNdvC4lU",
+      "description": "Trump post about US achievements in Iran war. https://t.co/wkWNdvC4lU",
+      "date": "2026-06-21T21:40Z",
+      "date_display": "21 Jun 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports that the delegation, which withdrew from talks in protest over Trump...",
+      "description": "<b>BREAKING:</b> Iranian media reports that the delegation, which withdrew from talks in protest over Trump's threats, are on the verge of returning to the country.",
+      "date": "2026-06-21T21:20Z",
+      "date_display": "21 Jun 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's president says the country will never give up its right to enrich uranium",
+      "description": "<b>BREAKING:</b> Iran's president says the country will never give up its right to enrich uranium",
+      "date": "2026-06-21T10:20Z",
+      "date_display": "21 Jun 10:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "🇺🇸 US military says the Strait of Hormuz remains open, despite Iranian declaration it was shut due...",
       "description": "🇺🇸 US military says the Strait of Hormuz remains open, despite Iranian declaration it was shut due to breaches of ceasefire.",
@@ -139,41 +171,89 @@
       "date_display": "17 Jun 21:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US-Iran deal includes plan to establish $300 billion fund for Iran",
-      "description": "<b>BREAKING:</b> US-Iran deal includes plan to establish $300 billion fund for Iran",
-      "date": "2026-06-16T23:50Z",
-      "date_display": "16 Jun 23:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Axios reports that CIA director Ratcliffe warned President Trump there were serious doubts...",
-      "description": "<b>BREAKING:</b> Axios reports that CIA director Ratcliffe warned President Trump there were serious doubts as to whether Iran would make nuclear concessions for a final deal",
-      "date": "2026-06-16T00:40Z",
-      "date_display": "16 Jun 00:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇸🇦 Saudi Arabia and 🇺🇾 Uruguay draw 1-1",
-      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia and 🇺🇾 Uruguay draw 1-1",
-      "date": "2026-06-16T00:10Z",
-      "date_display": "16 Jun 00:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The chances of a US-Iran nuclear deal before October have risen up to 52%, according to @Kalshi pred...",
-      "description": "The chances of a US-Iran nuclear deal before October have risen up to 52%, according to @Kalshi prediction market. https://t.co/T3xc2sf10t",
-      "date": "2026-06-15T23:10Z",
-      "date_display": "15 Jun 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇪🇬 Egypt beats 🇳🇿 New Zealand 3-1",
+      "description": "<b>BREAKING:</b> 🇪🇬 Egypt beats 🇳🇿 New Zealand 3-1",
+      "date": "2026-06-22T03:10Z",
+      "date_display": "22 Jun 03:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agr...",
+      "description": "<b>BREAKING:</b> Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agreement on 60-day dialogue plan",
+      "date": "2026-06-22T01:20Z",
+      "date_display": "22 Jun 01:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇨🇻 Cape Verde draw 2-2 with 🇺🇾 Uruguay",
+      "description": "<b>BREAKING:</b> 🇨🇻 Cape Verde draw 2-2 with 🇺🇾 Uruguay",
+      "date": "2026-06-22T00:20Z",
+      "date_display": "22 Jun 00:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Colombia's president Gustavo Petro says he does not recognize results of the presidential ...",
+      "description": "<b>BREAKING:</b> Colombia's president Gustavo Petro says he does not recognize results of the presidential election and suggests interference from Israel",
+      "date": "2026-06-21T23:40Z",
+      "date_display": "21 Jun 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREKAING: Colombian presidential candidate Abelardo de la Espriella, backed by Trump, wins election....",
+      "description": "BREKAING: Colombian presidential candidate Abelardo de la Espriella, backed by Trump, wins election. https://t.co/U6oJQubo0o",
+      "date": "2026-06-21T22:40Z",
+      "date_display": "21 Jun 22:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump post about US achievements in Iran war. https://t.co/wkWNdvC4lU",
+      "description": "Trump post about US achievements in Iran war. https://t.co/wkWNdvC4lU",
+      "date": "2026-06-21T21:40Z",
+      "date_display": "21 Jun 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports that the delegation, which withdrew from talks in protest over Trump...",
+      "description": "<b>BREAKING:</b> Iranian media reports that the delegation, which withdrew from talks in protest over Trump's threats, are on the verge of returning to the country.",
+      "date": "2026-06-21T21:20Z",
+      "date_display": "21 Jun 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israel's defense minister says the military will not withdraw from security zone in Lebano...",
+      "description": "<b>BREAKING:</b> Israel's defense minister says the military will not withdraw from security zone in Lebanon",
+      "date": "2026-06-21T11:00Z",
+      "date_display": "21 Jun 11:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's president says the country will never give up its right to enrich uranium",
+      "description": "<b>BREAKING:</b> Iran's president says the country will never give up its right to enrich uranium",
+      "date": "2026-06-21T10:20Z",
+      "date_display": "21 Jun 10:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇯🇵 Japan beat 🇹🇳 Tunisia 4-0",
+      "description": "<b>BREAKING:</b> 🇯🇵 Japan beat 🇹🇳 Tunisia 4-0",
+      "date": "2026-06-21T06:00Z",
+      "date_display": "21 Jun 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "Price change since start of 2026.\n\nWool: +29%\nRice: +27%\nRubber: +26%\nCotton: +24%\nWheat: +18%\nTea: ...",
       "description": "Price change since start of 2026.\n\nWool: +29%\nRice: +27%\nRubber: +26%\nCotton: +24%\nWheat: +18%\nTea: +15%\nCheese: +9%\nSoybeans: +9%\nMilk: +5%",
@@ -331,86 +411,6 @@
       "description": "<b>BREAKING:</b> Israeli military says currently striking Hezbollah targets in southern Lebanon",
       "date": "2026-06-19T06:10Z",
       "date_display": "19 Jun 06:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump post about Iran deal https://t.co/mS84VuJpZD",
-      "description": "<b>BREAKING:</b> Trump post about Iran deal https://t.co/mS84VuJpZD",
-      "date": "2026-06-18T09:00Z",
-      "date_display": "18 Jun 09:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
-      "description": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
-      "date": "2026-06-18T03:40Z",
-      "date_display": "18 Jun 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have rise...",
-      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have risen to 64% according to @Kalshi prediction market. https://t.co/1x3Uv2j9nP",
-      "date": "2026-06-18T01:50Z",
-      "date_display": "18 Jun 01:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: White House confirms that Trump has signed memorandum of understanding with Iran, accordin...",
-      "description": "<b>BREAKING:</b> White House confirms that Trump has signed memorandum of understanding with Iran, according to Reuters report.",
-      "date": "2026-06-17T22:10Z",
-      "date_display": "17 Jun 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian foreign ministry says Tehran will charge fees for services in Strait of Hormuz...",
-      "description": "<b>BREAKING:</b> Iranian foreign ministry says Tehran will charge fees for services in Strait of Hormuz",
-      "date": "2026-06-17T22:10Z",
-      "date_display": "17 Jun 22:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿England beat 🇭🇷 Croatia 4-2",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿England beat 🇭🇷 Croatia 4-2",
-      "date": "2026-06-17T22:10Z",
-      "date_display": "17 Jun 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran and US electronically sign memorandum of understanding to end war, according to Axios...",
-      "description": "<b>BREAKING:</b> Iran and US electronically sign memorandum of understanding to end war, according to Axios.",
-      "date": "2026-06-17T21:30Z",
-      "date_display": "17 Jun 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US-Iran deal ending war is now in effect",
-      "description": "<b>BREAKING:</b> US-Iran deal ending war is now in effect",
-      "date": "2026-06-17T21:30Z",
-      "date_display": "17 Jun 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Apple is set to raise prices on its products due to 'surging costs of memory and storage c...",
-      "description": "<b>BREAKING:</b> Apple is set to raise prices on its products due to 'surging costs of memory and storage chips', according to CEO Tim Cook in interview with Wall Street Journal.",
-      "date": "2026-06-17T21:20Z",
-      "date_display": "17 Jun 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇯🇵 Japan's exports have risen by 17% over the past year",
-      "description": "<b>BREAKING:</b> 🇯🇵 Japan's exports have risen by 17% over the past year",
-      "date": "2026-06-17T04:50Z",
-      "date_display": "17 Jun 04:50 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-22T05:41Z",
+  "fetched_at": "2026-06-23T04:41Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 23,
+  "india_relevant_items": 21,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz...",
+      "description": "<b>BREAKING:</b> Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz",
+      "date": "2026-06-23T01:20Z",
+      "date_display": "23 Jun 01:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agr...",
       "description": "<b>BREAKING:</b> Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agreement on 60-day dialogue plan",
@@ -163,17 +171,105 @@
       "date_display": "17 Jun 21:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US-Iran deal ending war is now in effect",
-      "description": "<b>BREAKING:</b> US-Iran deal ending war is now in effect",
-      "date": "2026-06-17T21:30Z",
-      "date_display": "17 Jun 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Haaland double helps 🇳🇴 Norway beat 🇸🇳Senegal 3-2",
+      "description": "<b>BREAKING:</b> Haaland double helps 🇳🇴 Norway beat 🇸🇳Senegal 3-2",
+      "date": "2026-06-23T02:10Z",
+      "date_display": "23 Jun 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n...",
+      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway",
+      "date": "2026-06-23T02:10Z",
+      "date_display": "23 Jun 02:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz...",
+      "description": "<b>BREAKING:</b> Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz",
+      "date": "2026-06-23T01:20Z",
+      "date_display": "23 Jun 01:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇩🇪 Deniz Undav: 3\n🇨🇦 ...",
+      "description": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇳🇱 Crysencio Summerville: 2\n🇪🇸 Mikel Oyarzabal: 2\n🇺🇾 Maxi Araujo: 2\n🇯🇵 Ayase Ueda: 2\n🇳🇱 Cody Gakpo: 2\n🇧🇷 Vinicius Junior: 2\n🇨🇭 Johan Manzambi: 2\n🇳🇱 Brian Brobbey: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 2\n🇧🇷 Matheus Cunha: 2\n🇨🇦 Cyle Larin: 2\n🇳🇴 Erling Haaland: 2\n🇯🇵 Daichi Kamada: 2\n🇺🇸 Folarin Balogun: 2\n🇲🇦 Ismael Saibari: 2\n🇸🇪 Yasin Ayari: 2\n🇳🇿 Elijah Just: 2\n🇩🇪 Kai Havertz: 2",
+      "date": "2026-06-23T01:00Z",
+      "date_display": "23 Jun 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇫🇷 France beat 🇮🇶 Iraq 3-0, as Mbappe scores a double.",
+      "description": "<b>BREAKING:</b> 🇫🇷 France beat 🇮🇶 Iraq 3-0, as Mbappe scores a double.",
+      "date": "2026-06-23T00:50Z",
+      "date_display": "23 Jun 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 5\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇯🇵 Aya...",
+      "description": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 5\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇯🇵 Ayase Ueda: 2\n🇳🇱 Cody Gakpo: 2\n🇳🇱 Crysencio Summerville: 2\n🇨🇦 Cyle Larin: 2\n🇯🇵 Daichi Kamada: 2\n🇳🇴 Erling Haaland: 2\n🇺🇸 Folarin Balogun: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 2\n🇲🇦 Ismael Saibari: 2\n🇨🇭 Johan Manzambi: 2\n🇧🇷 Matheus Cunha: 2\n🇧🇷 Vinícius Júnior: 2\n🇳🇱 Brian Brobbey: 2",
+      "date": "2026-06-22T21:30Z",
+      "date_display": "22 Jun 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 5\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇯🇵 Aya...",
+      "description": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 5\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇯🇵 Ayase Ueda: 2\n🇳🇱 Cody Gakpo: 2\n🇳🇱 Crysencio Summerville: 2\n🇨🇦 Cyle Larin: 2\n🇯🇵 Daichi Kamada: 2\n🇳🇴 Erling Haaland: 2\n🇺🇸 Folarin Balogun: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 2\n🇲🇦 Ismael Saibari: 2\n🇨🇭 Johan Manzambi: 2\n🇧🇷 Matheus Cunha: 2\n🇧🇷 Vinícius Júnior: 2",
+      "date": "2026-06-22T21:20Z",
+      "date_display": "22 Jun 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Andy Burnham nominates to lead UK Labour Party and become next Prime Minister https://t.co...",
+      "description": "<b>BREAKING:</b> Andy Burnham nominates to lead UK Labour Party and become next Prime Minister https://t.co/Wq2tSupLxt",
+      "date": "2026-06-22T10:10Z",
+      "date_display": "22 Jun 10:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: UK PRIME MINISTER KEIR STARMER RESIGNS https://t.co/uqEEWGPiUy",
+      "description": "<b>BREAKING:</b> UK PRIME MINISTER KEIR STARMER RESIGNS https://t.co/uqEEWGPiUy",
+      "date": "2026-06-22T08:40Z",
+      "date_display": "22 Jun 08:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Staff at Downing Street have been informed that Keir Starmer is preparing to resign",
+      "description": "<b>BREAKING:</b> Staff at Downing Street have been informed that Keir Starmer is preparing to resign",
+      "date": "2026-06-22T08:30Z",
+      "date_display": "22 Jun 08:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Podium is being prepared for statement out of Downing Street",
+      "description": "<b>BREAKING:</b> Podium is being prepared for statement out of Downing Street",
+      "date": "2026-06-22T08:20Z",
+      "date_display": "22 Jun 08:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: UK Prime Minister Keir Starmer is set to announce his resignation",
+      "description": "<b>BREAKING:</b> UK Prime Minister Keir Starmer is set to announce his resignation",
+      "date": "2026-06-22T08:20Z",
+      "date_display": "22 Jun 08:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇪🇬 Egypt beats 🇳🇿 New Zealand 3-1",
       "description": "<b>BREAKING:</b> 🇪🇬 Egypt beats 🇳🇿 New Zealand 3-1",
@@ -317,102 +413,6 @@
       "date_display": "20 Jun 12:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Currency against US Dollar over past month.\n\n🇮🇳 India: +2%\n🇵🇭 Philippines: +1.4%\n🇨🇳 China: +0....",
-      "description": "Currency against US Dollar over past month.\n\n🇮🇳 India: +2%\n🇵🇭 Philippines: +1.4%\n🇨🇳 China: +0.3%\n🇻🇳 Vietnam: +0.2%\n🇵🇰 Pakistan: +0.1%\n\n🇹🇭 Thailand: -0.9%\n🇸🇬 Singapore: -1%\n🇮🇩 Indonesia: -1.1%\n🇯🇵 Japan: -1.4%\n🇰🇷 South Korea: -1.9%\n🇲🇾 Malaysia: -4.2%",
-      "date": "2026-06-20T10:40Z",
-      "date_display": "20 Jun 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli strikes on Hezbollah targets in southern Lebanon",
-      "description": "<b>BREAKING:</b> Israeli strikes on Hezbollah targets in southern Lebanon",
-      "date": "2026-06-20T09:20Z",
-      "date_display": "20 Jun 09:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇹🇷 Turkey knocked out of the World Cup after losing 1-0 to 🇵🇾 Paraguay",
-      "description": "<b>BREAKING:</b> 🇹🇷 Turkey knocked out of the World Cup after losing 1-0 to 🇵🇾 Paraguay",
-      "date": "2026-06-20T05:10Z",
-      "date_display": "20 Jun 05:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇧🇷 Brazil beat 🇭🇹 Haiti 3-0",
-      "description": "<b>BREAKING:</b> 🇧🇷 Brazil beat 🇭🇹 Haiti 3-0",
-      "date": "2026-06-20T02:40Z",
-      "date_display": "20 Jun 02:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC",
-      "description": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC",
-      "date": "2026-06-20T02:30Z",
-      "date_display": "20 Jun 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇲🇦 Morocco beat 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 1-0",
-      "description": "<b>BREAKING:</b> 🇲🇦 Morocco beat 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 1-0",
-      "date": "2026-06-20T00:00Z",
-      "date_display": "20 Jun 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US intelligence has warned the Trump Administration that 'Israel is likely to undermine Ir...",
-      "description": "<b>BREAKING:</b> US intelligence has warned the Trump Administration that 'Israel is likely to undermine Iran peace deal', according to Washington Post report.",
-      "date": "2026-06-19T22:40Z",
-      "date_display": "19 Jun 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇺🇸 USA beats 🇦🇺 Australia 2-0, go top of their group.",
-      "description": "<b>BREAKING:</b> 🇺🇸 USA beats 🇦🇺 Australia 2-0, go top of their group.",
-      "date": "2026-06-19T21:10Z",
-      "date_display": "19 Jun 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Israeli military says it struck 80 targets in southern Lebanon",
-      "description": "<b>BREAKING:</b> Israeli military says it struck 80 targets in southern Lebanon",
-      "date": "2026-06-19T09:50Z",
-      "date_display": "19 Jun 09:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US-Iran peace talks in Switzerland have been postponed",
-      "description": "<b>BREAKING:</b> US-Iran peace talks in Switzerland have been postponed",
-      "date": "2026-06-19T09:30Z",
-      "date_display": "19 Jun 09:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel's defense minister Israel Katz says that 'nobody can tell us what to do' even if Trump 'says ...",
-      "description": "Israel's defense minister Israel Katz says that 'nobody can tell us what to do' even if Trump 'says otherwise'. https://t.co/XNTh51pmn1",
-      "date": "2026-06-19T08:40Z",
-      "date_display": "19 Jun 08:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Israeli military says currently striking Hezbollah targets in southern Lebanon",
-      "description": "<b>BREAKING:</b> Israeli military says currently striking Hezbollah targets in southern Lebanon",
-      "date": "2026-06-19T06:10Z",
-      "date_display": "19 Jun 06:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

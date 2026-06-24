@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-23T04:41Z",
+  "fetched_at": "2026-06-24T04:46Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 21,
+  "india_relevant_items": 17,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC"
   },
   "india_headlines": [
+    {
+      "title": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
+      "description": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
+      "date": "2026-06-24T03:10Z",
+      "date_display": "24 Jun 03:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's president has arrived in Pakistan",
+      "description": "<b>BREAKING:</b> Iran's president has arrived in Pakistan",
+      "date": "2026-06-23T10:50Z",
+      "date_display": "23 Jun 10:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz...",
       "description": "<b>BREAKING:</b> Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz",
@@ -131,49 +147,65 @@
       "date_display": "18 Jun 09:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
-      "description": "US crude oil prices\n\nOne month ago: $102\n\nNow: $75 https://t.co/QOXmokOhP9",
-      "date": "2026-06-18T03:40Z",
-      "date_display": "18 Jun 03:40 UTC",
+      "title": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
+      "description": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
+      "date": "2026-06-24T03:10Z",
+      "date_display": "24 Jun 03:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have rise...",
-      "description": "The chances of traffic at the Strait of Hormuz returning to normal by the 1st of September have risen to 64% according to @Kalshi prediction market. https://t.co/1x3Uv2j9nP",
-      "date": "2026-06-18T01:50Z",
-      "date_display": "18 Jun 01:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and 🇬🇭 Ghana draw 0–0",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and 🇬🇭 Ghana draw 0–0",
+      "date": "2026-06-23T22:10Z",
+      "date_display": "23 Jun 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: White House confirms that Trump has signed memorandum of understanding with Iran, accordin...",
-      "description": "<b>BREAKING:</b> White House confirms that Trump has signed memorandum of understanding with Iran, according to Reuters report.",
-      "date": "2026-06-17T22:10Z",
-      "date_display": "17 Jun 22:10 UTC",
+      "title": "Goals at World Cup 2026\n\n🇦🇷 Messi: 5\n🇵🇹 Cristiano Ronaldo: 2\n\nTotal World Cup goals\n\n🇦🇷 Messi:...",
+      "description": "Goals at World Cup 2026\n\n🇦🇷 Messi: 5\n🇵🇹 Cristiano Ronaldo: 2\n\nTotal World Cup goals\n\n🇦🇷 Messi: 18\n🇵🇹 Cristiano Ronaldo: 10",
+      "date": "2026-06-23T21:40Z",
+      "date_display": "23 Jun 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Over $1 trillion in value was wiped out from the US stock-market today, amid big declines among tech...",
+      "description": "Over $1 trillion in value was wiped out from the US stock-market today, amid big declines among tech giants. https://t.co/eIZMkSs9Kw",
+      "date": "2026-06-23T21:30Z",
+      "date_display": "23 Jun 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's president has arrived in Pakistan",
+      "description": "<b>BREAKING:</b> Iran's president has arrived in Pakistan",
+      "date": "2026-06-23T10:50Z",
+      "date_display": "23 Jun 10:50 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iranian foreign ministry says Tehran will charge fees for services in Strait of Hormuz...",
-      "description": "<b>BREAKING:</b> Iranian foreign ministry says Tehran will charge fees for services in Strait of Hormuz",
-      "date": "2026-06-17T22:10Z",
-      "date_display": "17 Jun 22:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
+      "title": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇳🇴 Erling Haaland: 4\n🇩...",
+      "description": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇳🇴 Erling Haaland: 4\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇳🇱 Crysencio Summerville: 2\n🇪🇸 Mikel Oyarzabal: 2\n🇺🇾 Maxi Araujo: 2\n🇯🇵 Ayase Ueda: 2\n🇳🇱 Cody Gakpo: 2\n🇧🇷 Vinicius Junior: 2\n🇨🇭 Johan Manzambi: 2\n🇳🇱 Brian Brobbey: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 2\n🇧🇷 Matheus Cunha: 2\n🇨🇦 Cyle Larin: 2\n🇯🇵 Daichi Kamada: 2\n🇺🇸 Folarin Balogun: 2\n🇲🇦 Ismael Saibari: 2\n🇸🇪 Yasin Ayari: 2\n🇸🇳 Ismaila Sarr: 2\n🇳🇿 Elijah Just: 2\n🇩🇪 Kai Havertz: 2",
+      "date": "2026-06-23T10:00Z",
+      "date_display": "23 Jun 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Iran and US electronically sign memorandum of understanding to end war, according to Axios...",
-      "description": "<b>BREAKING:</b> Iran and US electronically sign memorandum of understanding to end war, according to Axios.",
-      "date": "2026-06-17T21:30Z",
-      "date_display": "17 Jun 21:30 UTC",
+      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index plunges by 10%",
+      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index plunges by 10%",
+      "date": "2026-06-23T07:10Z",
+      "date_display": "23 Jun 07:10 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Haaland double helps 🇳🇴 Norway beat 🇸🇳Senegal 3-2",
       "description": "<b>BREAKING:</b> Haaland double helps 🇳🇴 Norway beat 🇸🇳Senegal 3-2",
@@ -357,62 +389,6 @@
       "date_display": "20 Jun 23:20 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇩🇪 Germany beat 🇨🇮 Ivory Coast 2-1 and advance to knock-out phase.",
-      "description": "<b>BREAKING:</b> 🇩🇪 Germany beat 🇨🇮 Ivory Coast 2-1 and advance to knock-out phase.",
-      "date": "2026-06-20T22:10Z",
-      "date_display": "20 Jun 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany",
-      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany",
-      "date": "2026-06-20T22:10Z",
-      "date_display": "20 Jun 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 US military says the Strait of Hormuz remains open, despite Iranian declaration it was shut due...",
-      "description": "🇺🇸 US military says the Strait of Hormuz remains open, despite Iranian declaration it was shut due to breaches of ceasefire.",
-      "date": "2026-06-20T21:20Z",
-      "date_display": "20 Jun 21:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The chances of UK Prime Minister Keir Starmer announcing his departure before the 1st of July have s...",
-      "description": "The chances of UK Prime Minister Keir Starmer announcing his departure before the 1st of July have surged to 93% according to prediction market @Kalshi. https://t.co/SlixhcAkyi",
-      "date": "2026-06-20T20:50Z",
-      "date_display": "20 Jun 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US Vice President JD Vance is departing for Switzerland for talks on Iran deal",
-      "description": "<b>BREAKING:</b> US Vice President JD Vance is departing for Switzerland for talks on Iran deal",
-      "date": "2026-06-20T20:40Z",
-      "date_display": "20 Jun 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Youth unemployment rate\n\n🇿🇦 South Africa: 60.9%\n🇪🇸 Spain: 23.7%\n🇫🇷 France: 21.4%\n🇮🇹 Italy: 1...",
-      "description": "Youth unemployment rate\n\n🇿🇦 South Africa: 60.9%\n🇪🇸 Spain: 23.7%\n🇫🇷 France: 21.4%\n🇮🇹 Italy: 16.9%\n🇨🇳 China: 16.3%\n🇬🇧 United Kingdom: 14.5%\n🇹🇷 Turkey: 14.5%\n🇨🇦 Canada: 13.4%\n🇸🇦 Saudi Arabia: 12.3%\n🇦🇺 Australia: 11.1%\n🇺🇸 United States: 9.4%\n🇰🇷 South Korea: 7.2%\n🇩🇪 Germany: 7.2%\n🇯🇵 Japan: 3.6%",
-      "date": "2026-06-20T14:10Z",
-      "date_display": "20 Jun 14:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Annual inflation rate.\n\n🇦🇷 Argentina: 33.6%\n🇹🇷 Turkey: 32.6%\n🇷🇺 Russia: 5.3%\n🇧🇷 Brazil: 4.7%...",
-      "description": "Annual inflation rate.\n\n🇦🇷 Argentina: 33.6%\n🇹🇷 Turkey: 32.6%\n🇷🇺 Russia: 5.3%\n🇧🇷 Brazil: 4.7%\n🇿🇦 South Africa: 4.5%\n🇦🇺 Australia: 4.2%\n🇺🇸 United States: 4.2%\n🇲🇽 Mexico: 3.94%\n🇮🇳 India: 3.93%\n🇮🇹 Italy: 3.2%\n🇪🇸 Spain: 3.2%\n🇰🇷 South Korea: 3.1%\n🇮🇩 Indonesia: 3.08%\n🇨🇦 Canada: 2.8%\n🇬🇧 United Kingdom: 2.8%\n🇩🇪 Germany: 2.6%\n🇫🇷 France: 2.4%\n🇸🇦 Saudi Arabia: 1.8%\n🇸🇬 Singapore: 1.8%\n🇯🇵 Japan: 1.5%\n🇨🇳 China: 1.2%",
-      "date": "2026-06-20T12:10Z",
-      "date_display": "20 Jun 12:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

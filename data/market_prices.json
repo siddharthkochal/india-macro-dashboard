@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-24T04:46Z",
+  "fetched_at": "2026-06-25T04:46Z",
   "source": "Yahoo Finance (free, no API key)",
   "prices": {
     "brent": {
@@ -7,8 +7,8 @@
       "name": "Brent Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_85",
-      "current_value": 76.46,
-      "change_from_prev": -1.44,
+      "current_value": 72.62,
+      "change_from_prev": -4.46,
       "direction": "down",
       "signal": "neutral",
       "series": [
@@ -50,22 +50,22 @@
         },
         {
           "date": "Jun-26",
-          "value": 77.9
+          "value": 77.08
         },
         {
           "date": "Jun-26",
-          "value": 76.46
+          "value": 72.62
         }
       ],
-      "fetched_at": "2026-06-24T04:46Z"
+      "fetched_at": "2026-06-25T04:46Z"
     },
     "wti": {
       "symbol": "CL=F",
       "name": "WTI Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_80",
-      "current_value": 72.62,
-      "change_from_prev": -2.2,
+      "current_value": 69.43,
+      "change_from_prev": -3.78,
       "direction": "down",
       "signal": "neutral",
       "series": [
@@ -107,22 +107,22 @@
         },
         {
           "date": "Jun-26",
-          "value": 74.82
+          "value": 73.21
         },
         {
           "date": "Jun-26",
-          "value": 72.62
+          "value": 69.43
         }
       ],
-      "fetched_at": "2026-06-24T04:46Z"
+      "fetched_at": "2026-06-25T04:46Z"
     },
     "gold": {
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/troy oz",
       "india_impact": "negative_via_import_demand",
-      "current_value": 4082.0,
-      "change_from_prev": -99.9,
+      "current_value": 4004.9,
+      "change_from_prev": -125.0,
       "direction": "down",
       "signal": "bearish",
       "series": [
@@ -164,23 +164,23 @@
         },
         {
           "date": "Jun-26",
-          "value": 4181.9
+          "value": 4129.9
         },
         {
           "date": "Jun-26",
-          "value": 4082.0
+          "value": 4004.9
         }
       ],
-      "fetched_at": "2026-06-24T04:46Z"
+      "fetched_at": "2026-06-25T04:46Z"
     },
     "inr": {
       "symbol": "USDINR=X",
       "name": "USD/INR",
       "unit": "INR per USD",
       "india_impact": "higher_is_bearish_for_india",
-      "current_value": 94.84,
-      "change_from_prev": 0.14,
-      "direction": "up",
+      "current_value": 94.23,
+      "change_from_prev": -0.95,
+      "direction": "down",
       "signal": "bearish",
       "series": [
         {
@@ -233,21 +233,21 @@
         },
         {
           "date": "May-26",
-          "value": 94.7
+          "value": 95.18
         },
         {
           "date": "Jun-26",
-          "value": 94.84
+          "value": 94.23
         }
       ],
-      "fetched_at": "2026-06-24T04:46Z"
+      "fetched_at": "2026-06-25T04:46Z"
     },
     "ovx": {
       "symbol": "^OVX",
       "name": "CBOE Oil Volatility",
       "unit": "index",
       "india_impact": "above_40_signals_supply_risk",
-      "current_value": 46.6,
+      "current_value": 47.61,
       "change_from_prev": 0.0,
       "direction": "flat",
       "signal": "bearish",
@@ -302,24 +302,24 @@
         },
         {
           "date": "Jun-26",
-          "value": 46.6
+          "value": 47.61
         },
         {
           "date": "Jun-26",
-          "value": 46.6
+          "value": 47.61
         }
       ],
-      "fetched_at": "2026-06-24T04:46Z"
+      "fetched_at": "2026-06-25T04:46Z"
     }
   },
   "india_oil_alert": {
     "severity": "warning",
     "alerts": [
-      "Oil volatility index (OVX) at 47 \u2014 elevated supply disruption risk (Strait of Hormuz?)",
-      "USD/INR at 94.84 \u2014 weak rupee amplifies oil import cost in INR terms"
+      "Oil volatility index (OVX) at 48 \u2014 elevated supply disruption risk (Strait of Hormuz?)",
+      "USD/INR at 94.23 \u2014 weak rupee amplifies oil import cost in INR terms"
     ],
-    "brent": 76.46,
-    "inr": 94.84,
-    "ovx": 46.6
+    "brent": 72.62,
+    "inr": 94.23,
+    "ovx": 47.61
   }
 }

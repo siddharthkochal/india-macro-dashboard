@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-06-24T04:46Z",
+  "fetched_at": "2026-06-25T04:46Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 17,
+  "india_relevant_items": 11,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": null,
-    "latest_oil_headline": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC"
+    "price_direction": "down",
+    "latest_oil_headline": "BREAKING: US crude oil price falls below $70"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: US crude oil price falls below $70",
+      "description": "<b>BREAKING:</b> US crude oil price falls below $70",
+      "date": "2026-06-25T01:50Z",
+      "date_display": "25 Jun 01:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says that oil companies are not reducing gas prices enough",
+      "description": "<b>BREAKING:</b> Trump says that oil companies are not reducing gas prices enough",
+      "date": "2026-06-24T20:50Z",
+      "date_display": "24 Jun 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil prices\n\nOne month ago: $92\n\nNow: $71 https://t.co/tmZxmFjbu6",
+      "description": "US crude oil prices\n\nOne month ago: $92\n\nNow: $71 https://t.co/tmZxmFjbu6",
+      "date": "2026-06-24T08:30Z",
+      "date_display": "24 Jun 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
       "description": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
@@ -75,81 +99,145 @@
       "date_display": "20 Jun 21:20 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US Vice President JD Vance is departing for Switzerland for talks on Iran deal",
-      "description": "<b>BREAKING:</b> US Vice President JD Vance is departing for Switzerland for talks on Iran deal",
-      "date": "2026-06-20T20:40Z",
-      "date_display": "20 Jun 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Youth unemployment rate\n\n🇿🇦 South Africa: 60.9%\n🇪🇸 Spain: 23.7%\n🇫🇷 France: 21.4%\n🇮🇹 Italy: 1...",
-      "description": "Youth unemployment rate\n\n🇿🇦 South Africa: 60.9%\n🇪🇸 Spain: 23.7%\n🇫🇷 France: 21.4%\n🇮🇹 Italy: 16.9%\n🇨🇳 China: 16.3%\n🇬🇧 United Kingdom: 14.5%\n🇹🇷 Turkey: 14.5%\n🇨🇦 Canada: 13.4%\n🇸🇦 Saudi Arabia: 12.3%\n🇦🇺 Australia: 11.1%\n🇺🇸 United States: 9.4%\n🇰🇷 South Korea: 7.2%\n🇩🇪 Germany: 7.2%\n🇯🇵 Japan: 3.6%",
-      "date": "2026-06-20T14:10Z",
-      "date_display": "20 Jun 14:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Annual inflation rate.\n\n🇦🇷 Argentina: 33.6%\n🇹🇷 Turkey: 32.6%\n🇷🇺 Russia: 5.3%\n🇧🇷 Brazil: 4.7%...",
-      "description": "Annual inflation rate.\n\n🇦🇷 Argentina: 33.6%\n🇹🇷 Turkey: 32.6%\n🇷🇺 Russia: 5.3%\n🇧🇷 Brazil: 4.7%\n🇿🇦 South Africa: 4.5%\n🇦🇺 Australia: 4.2%\n🇺🇸 United States: 4.2%\n🇲🇽 Mexico: 3.94%\n🇮🇳 India: 3.93%\n🇮🇹 Italy: 3.2%\n🇪🇸 Spain: 3.2%\n🇰🇷 South Korea: 3.1%\n🇮🇩 Indonesia: 3.08%\n🇨🇦 Canada: 2.8%\n🇬🇧 United Kingdom: 2.8%\n🇩🇪 Germany: 2.6%\n🇫🇷 France: 2.4%\n🇸🇦 Saudi Arabia: 1.8%\n🇸🇬 Singapore: 1.8%\n🇯🇵 Japan: 1.5%\n🇨🇳 China: 1.2%",
-      "date": "2026-06-20T12:10Z",
-      "date_display": "20 Jun 12:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Currency against US Dollar over past month.\n\n🇮🇳 India: +2%\n🇵🇭 Philippines: +1.4%\n🇨🇳 China: +0....",
-      "description": "Currency against US Dollar over past month.\n\n🇮🇳 India: +2%\n🇵🇭 Philippines: +1.4%\n🇨🇳 China: +0.3%\n🇻🇳 Vietnam: +0.2%\n🇵🇰 Pakistan: +0.1%\n\n🇹🇭 Thailand: -0.9%\n🇸🇬 Singapore: -1%\n🇮🇩 Indonesia: -1.1%\n🇯🇵 Japan: -1.4%\n🇰🇷 South Korea: -1.9%\n🇲🇾 Malaysia: -4.2%",
-      "date": "2026-06-20T10:40Z",
-      "date_display": "20 Jun 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli strikes on Hezbollah targets in southern Lebanon",
-      "description": "<b>BREAKING:</b> Israeli strikes on Hezbollah targets in southern Lebanon",
-      "date": "2026-06-20T09:20Z",
-      "date_display": "20 Jun 09:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC",
-      "description": "Brent crude oil prices\n\nOne month ago: $105\n\nNow: $80 https://t.co/VQVFCEODUC",
-      "date": "2026-06-20T02:30Z",
-      "date_display": "20 Jun 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US intelligence has warned the Trump Administration that 'Israel is likely to undermine Ir...",
-      "description": "<b>BREAKING:</b> US intelligence has warned the Trump Administration that 'Israel is likely to undermine Iran peace deal', according to Washington Post report.",
-      "date": "2026-06-19T22:40Z",
-      "date_display": "19 Jun 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US-Iran peace talks in Switzerland have been postponed",
-      "description": "<b>BREAKING:</b> US-Iran peace talks in Switzerland have been postponed",
-      "date": "2026-06-19T09:30Z",
-      "date_display": "19 Jun 09:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump post about Iran deal https://t.co/mS84VuJpZD",
-      "description": "<b>BREAKING:</b> Trump post about Iran deal https://t.co/mS84VuJpZD",
-      "date": "2026-06-18T09:00Z",
-      "date_display": "18 Jun 09:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "President Trump says the United States of America is ready to help Venezuela https://t.co/lnHvtdoGSA",
+      "description": "President Trump says the United States of America is ready to help Venezuela https://t.co/lnHvtdoGSA",
+      "date": "2026-06-25T04:00Z",
+      "date_display": "25 Jun 04:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US government debt https://t.co/houAUXhf7f",
+      "description": "US government debt https://t.co/houAUXhf7f",
+      "date": "2026-06-25T03:00Z",
+      "date_display": "25 Jun 03:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇿🇦 South Africa qualifies for knock-out stage after beating 🇰🇷 South Korea 1-0",
+      "description": "<b>BREAKING:</b> 🇿🇦 South Africa qualifies for knock-out stage after beating 🇰🇷 South Korea 1-0",
+      "date": "2026-06-25T03:00Z",
+      "date_display": "25 Jun 03:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇻🇪 Venezuela declares state of emergency after major earthquake",
+      "description": "<b>BREAKING:</b> 🇻🇪 Venezuela declares state of emergency after major earthquake",
+      "date": "2026-06-25T02:00Z",
+      "date_display": "25 Jun 02:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n...",
+      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway\n🇨🇴 Colombia\n🇨🇦 Canada\n🇨🇭 Switzerland\n🇧🇷 Brazil\n🇲🇦 Morocco",
+      "date": "2026-06-25T01:50Z",
+      "date_display": "25 Jun 01:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US crude oil price falls below $70",
+      "description": "<b>BREAKING:</b> US crude oil price falls below $70",
+      "date": "2026-06-25T01:50Z",
+      "date_display": "25 Jun 01:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇲🇦 Morocco beat 🇭🇹 Haiti 4-2 and qualify for the knock-out phase of the World Cup...",
+      "description": "<b>BREAKING:</b> 🇲🇦 Morocco beat 🇭🇹 Haiti 4-2 and qualify for the knock-out phase of the World Cup",
+      "date": "2026-06-25T00:10Z",
+      "date_display": "25 Jun 00:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇧🇷 Brazil beat🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 3-0 and qualify for knockout phase of World Cip...",
+      "description": "<b>BREAKING:</b> 🇧🇷 Brazil beat🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 3-0 and qualify for knockout phase of World Cip",
+      "date": "2026-06-25T00:10Z",
+      "date_display": "25 Jun 00:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Reports of significant damage across parts of Venezuela after powerful earthquake",
+      "description": "<b>BREAKING:</b> Reports of significant damage across parts of Venezuela after powerful earthquake",
+      "date": "2026-06-24T23:50Z",
+      "date_display": "24 Jun 23:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n...",
+      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway\n🇨🇴 Colombia\n🇨🇦 Canada\n🇨🇭 Switzerland",
+      "date": "2026-06-24T22:20Z",
+      "date_display": "24 Jun 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Tsunami alert for Venezuela following 7.1 magnitude earthquake",
+      "description": "<b>BREAKING:</b> Tsunami alert for Venezuela following 7.1 magnitude earthquake",
+      "date": "2026-06-24T22:20Z",
+      "date_display": "24 Jun 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇺🇸 JD Vance leads chances of winning the 2028 Presidential Election with 18%, followed by Marco Ru...",
+      "description": "🇺🇸 JD Vance leads chances of winning the 2028 Presidential Election with 18%, followed by Marco Rubio at 17% and Gavin Newsom at 14%, according to @Kalshi prediction market. https://t.co/Cx76GUnaiw",
+      "date": "2026-06-24T21:30Z",
+      "date_display": "24 Jun 21:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇨🇭 Switzerland and 🇨🇦 Canada qualify for knock-out phase of the World Cup",
+      "description": "<b>BREAKING:</b> 🇨🇭 Switzerland and 🇨🇦 Canada qualify for knock-out phase of the World Cup",
+      "date": "2026-06-24T21:00Z",
+      "date_display": "24 Jun 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says that oil companies are not reducing gas prices enough",
+      "description": "<b>BREAKING:</b> Trump says that oil companies are not reducing gas prices enough",
+      "date": "2026-06-24T20:50Z",
+      "date_display": "24 Jun 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Bitcoin\n\n1st of January, 2026: $88,750\n\nNow: $59,890 https://t.co/uYvqAQkAHr",
+      "description": "Bitcoin\n\n1st of January, 2026: $88,750\n\nNow: $59,890 https://t.co/uYvqAQkAHr",
+      "date": "2026-06-24T20:40Z",
+      "date_display": "24 Jun 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Israeli defense minister says military will not withdraw from southern Lebanon even if tha...",
+      "description": "<b>BREAKING:</b> Israeli defense minister says military will not withdraw from southern Lebanon even if that is demanded by the United States",
+      "date": "2026-06-24T10:50Z",
+      "date_display": "24 Jun 10:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US crude oil prices\n\nOne month ago: $92\n\nNow: $71 https://t.co/tmZxmFjbu6",
+      "description": "US crude oil prices\n\nOne month ago: $92\n\nNow: $71 https://t.co/tmZxmFjbu6",
+      "date": "2026-06-24T08:30Z",
+      "date_display": "24 Jun 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
       "description": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
@@ -251,142 +339,6 @@
       "description": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 5\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇯🇵 Ayase Ueda: 2\n🇳🇱 Cody Gakpo: 2\n🇳🇱 Crysencio Summerville: 2\n🇨🇦 Cyle Larin: 2\n🇯🇵 Daichi Kamada: 2\n🇳🇴 Erling Haaland: 2\n🇺🇸 Folarin Balogun: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 2\n🇲🇦 Ismael Saibari: 2\n🇨🇭 Johan Manzambi: 2\n🇧🇷 Matheus Cunha: 2\n🇧🇷 Vinícius Júnior: 2\n🇳🇱 Brian Brobbey: 2",
       "date": "2026-06-22T21:30Z",
       "date_display": "22 Jun 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 5\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇯🇵 Aya...",
-      "description": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 5\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇯🇵 Ayase Ueda: 2\n🇳🇱 Cody Gakpo: 2\n🇳🇱 Crysencio Summerville: 2\n🇨🇦 Cyle Larin: 2\n🇯🇵 Daichi Kamada: 2\n🇳🇴 Erling Haaland: 2\n🇺🇸 Folarin Balogun: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 2\n🇲🇦 Ismael Saibari: 2\n🇨🇭 Johan Manzambi: 2\n🇧🇷 Matheus Cunha: 2\n🇧🇷 Vinícius Júnior: 2",
-      "date": "2026-06-22T21:20Z",
-      "date_display": "22 Jun 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Andy Burnham nominates to lead UK Labour Party and become next Prime Minister https://t.co...",
-      "description": "<b>BREAKING:</b> Andy Burnham nominates to lead UK Labour Party and become next Prime Minister https://t.co/Wq2tSupLxt",
-      "date": "2026-06-22T10:10Z",
-      "date_display": "22 Jun 10:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: UK PRIME MINISTER KEIR STARMER RESIGNS https://t.co/uqEEWGPiUy",
-      "description": "<b>BREAKING:</b> UK PRIME MINISTER KEIR STARMER RESIGNS https://t.co/uqEEWGPiUy",
-      "date": "2026-06-22T08:40Z",
-      "date_display": "22 Jun 08:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Staff at Downing Street have been informed that Keir Starmer is preparing to resign",
-      "description": "<b>BREAKING:</b> Staff at Downing Street have been informed that Keir Starmer is preparing to resign",
-      "date": "2026-06-22T08:30Z",
-      "date_display": "22 Jun 08:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Podium is being prepared for statement out of Downing Street",
-      "description": "<b>BREAKING:</b> Podium is being prepared for statement out of Downing Street",
-      "date": "2026-06-22T08:20Z",
-      "date_display": "22 Jun 08:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: UK Prime Minister Keir Starmer is set to announce his resignation",
-      "description": "<b>BREAKING:</b> UK Prime Minister Keir Starmer is set to announce his resignation",
-      "date": "2026-06-22T08:20Z",
-      "date_display": "22 Jun 08:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇪🇬 Egypt beats 🇳🇿 New Zealand 3-1",
-      "description": "<b>BREAKING:</b> 🇪🇬 Egypt beats 🇳🇿 New Zealand 3-1",
-      "date": "2026-06-22T03:10Z",
-      "date_display": "22 Jun 03:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agr...",
-      "description": "<b>BREAKING:</b> Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agreement on 60-day dialogue plan",
-      "date": "2026-06-22T01:20Z",
-      "date_display": "22 Jun 01:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇨🇻 Cape Verde draw 2-2 with 🇺🇾 Uruguay",
-      "description": "<b>BREAKING:</b> 🇨🇻 Cape Verde draw 2-2 with 🇺🇾 Uruguay",
-      "date": "2026-06-22T00:20Z",
-      "date_display": "22 Jun 00:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Colombia's president Gustavo Petro says he does not recognize results of the presidential ...",
-      "description": "<b>BREAKING:</b> Colombia's president Gustavo Petro says he does not recognize results of the presidential election and suggests interference from Israel",
-      "date": "2026-06-21T23:40Z",
-      "date_display": "21 Jun 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREKAING: Colombian presidential candidate Abelardo de la Espriella, backed by Trump, wins election....",
-      "description": "BREKAING: Colombian presidential candidate Abelardo de la Espriella, backed by Trump, wins election. https://t.co/U6oJQubo0o",
-      "date": "2026-06-21T22:40Z",
-      "date_display": "21 Jun 22:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump post about US achievements in Iran war. https://t.co/wkWNdvC4lU",
-      "description": "Trump post about US achievements in Iran war. https://t.co/wkWNdvC4lU",
-      "date": "2026-06-21T21:40Z",
-      "date_display": "21 Jun 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that the delegation, which withdrew from talks in protest over Trump...",
-      "description": "<b>BREAKING:</b> Iranian media reports that the delegation, which withdrew from talks in protest over Trump's threats, are on the verge of returning to the country.",
-      "date": "2026-06-21T21:20Z",
-      "date_display": "21 Jun 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israel's defense minister says the military will not withdraw from security zone in Lebano...",
-      "description": "<b>BREAKING:</b> Israel's defense minister says the military will not withdraw from security zone in Lebanon",
-      "date": "2026-06-21T11:00Z",
-      "date_display": "21 Jun 11:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran's president says the country will never give up its right to enrich uranium",
-      "description": "<b>BREAKING:</b> Iran's president says the country will never give up its right to enrich uranium",
-      "date": "2026-06-21T10:20Z",
-      "date_display": "21 Jun 10:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇯🇵 Japan beat 🇹🇳 Tunisia 4-0",
-      "description": "<b>BREAKING:</b> 🇯🇵 Japan beat 🇹🇳 Tunisia 4-0",
-      "date": "2026-06-21T06:00Z",
-      "date_display": "21 Jun 06:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Price change since start of 2026.\n\nWool: +29%\nRice: +27%\nRubber: +26%\nCotton: +24%\nWheat: +18%\nTea: ...",
-      "description": "Price change since start of 2026.\n\nWool: +29%\nRice: +27%\nRubber: +26%\nCotton: +24%\nWheat: +18%\nTea: +15%\nCheese: +9%\nSoybeans: +9%\nMilk: +5%",
-      "date": "2026-06-20T23:20Z",
-      "date_display": "20 Jun 23:20 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

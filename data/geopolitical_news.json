@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-25T04:46Z",
+  "fetched_at": "2026-06-26T04:50Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 11,
+  "india_relevant_items": 8,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "BREAKING: US crude oil price falls below $70"
   },
   "india_headlines": [
+    {
+      "title": "Amazon has pledged an additional $13 billion to its investments in 🇮🇳 India, according to Bloomber...",
+      "description": "Amazon has pledged an additional $13 billion to its investments in 🇮🇳 India, according to Bloomberg report. https://t.co/1GsBzvn99i",
+      "date": "2026-06-25T09:10Z",
+      "date_display": "25 Jun 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: US crude oil price falls below $70",
       "description": "<b>BREAKING:</b> US crude oil price falls below $70",
@@ -67,41 +75,89 @@
       "date_display": "22 Jun 01:20 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Trump post about US achievements in Iran war. https://t.co/wkWNdvC4lU",
-      "description": "Trump post about US achievements in Iran war. https://t.co/wkWNdvC4lU",
-      "date": "2026-06-21T21:40Z",
-      "date_display": "21 Jun 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that the delegation, which withdrew from talks in protest over Trump...",
-      "description": "<b>BREAKING:</b> Iranian media reports that the delegation, which withdrew from talks in protest over Trump's threats, are on the verge of returning to the country.",
-      "date": "2026-06-21T21:20Z",
-      "date_display": "21 Jun 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran's president says the country will never give up its right to enrich uranium",
-      "description": "<b>BREAKING:</b> Iran's president says the country will never give up its right to enrich uranium",
-      "date": "2026-06-21T10:20Z",
-      "date_display": "21 Jun 10:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 US military says the Strait of Hormuz remains open, despite Iranian declaration it was shut due...",
-      "description": "🇺🇸 US military says the Strait of Hormuz remains open, despite Iranian declaration it was shut due to breaches of ceasefire.",
-      "date": "2026-06-20T21:20Z",
-      "date_display": "20 Jun 21:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Trading on 🇰🇷 South Korea's share market has been halted after it plunged by 8%",
+      "description": "<b>BREAKING:</b> Trading on 🇰🇷 South Korea's share market has been halted after it plunged by 8%",
+      "date": "2026-06-26T04:00Z",
+      "date_display": "26 Jun 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇦🇺 Australia qualifies for the knockout phase of the World Cup",
+      "description": "<b>BREAKING:</b> 🇦🇺 Australia qualifies for the knockout phase of the World Cup",
+      "date": "2026-06-26T04:00Z",
+      "date_display": "26 Jun 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n...",
+      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway\n🇨🇴 Colombia\n🇨🇦 Canada\n🇨🇭 Switzerland\n🇧🇷 Brazil\n🇲🇦 Morocco\n🇨🇮 Ivory Coast\n🇿🇦 South Africa\n🇳🇱 Netherlands\n🇯🇵 Japan",
+      "date": "2026-06-26T01:20Z",
+      "date_display": "26 Jun 01:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇳🇱 Netherlands and 🇯🇵 Japan qualify for knockout phase of the World Cup",
+      "description": "<b>BREAKING:</b> 🇳🇱 Netherlands and 🇯🇵 Japan qualify for knockout phase of the World Cup",
+      "date": "2026-06-26T01:00Z",
+      "date_display": "26 Jun 01:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Democratic Party now has a 79% chance of winning the US House of Representatives, according to p...",
+      "description": "The Democratic Party now has a 79% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/gM4K2fW6aE",
+      "date": "2026-06-26T00:40Z",
+      "date_display": "26 Jun 00:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n...",
+      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway\n🇨🇴 Colombia\n🇨🇦 Canada\n🇨🇭 Switzerland\n🇧🇷 Brazil\n🇲🇦 Morocco\n🇨🇮 Ivory Coast\n🇿🇦 South Africa",
+      "date": "2026-06-25T22:50Z",
+      "date_display": "25 Jun 22:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇪🇨 Ecuador beat 🇩🇪 Germany 2-1",
+      "description": "<b>BREAKING:</b> 🇪🇨 Ecuador beat 🇩🇪 Germany 2-1",
+      "date": "2026-06-25T22:20Z",
+      "date_display": "25 Jun 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n...",
+      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway\n🇨🇴 Colombia\n🇨🇦 Canada\n🇨🇭 Switzerland\n🇧🇷 Brazil\n🇲🇦 Morocco\n🇨🇮 Ivory Coast",
+      "date": "2026-06-25T22:20Z",
+      "date_display": "25 Jun 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Venezuela earthquake death toll has risen to 164",
+      "description": "<b>BREAKING:</b> Venezuela earthquake death toll has risen to 164",
+      "date": "2026-06-25T10:50Z",
+      "date_display": "25 Jun 10:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Amazon has pledged an additional $13 billion to its investments in 🇮🇳 India, according to Bloomber...",
+      "description": "Amazon has pledged an additional $13 billion to its investments in 🇮🇳 India, according to Bloomberg report. https://t.co/1GsBzvn99i",
+      "date": "2026-06-25T09:10Z",
+      "date_display": "25 Jun 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "President Trump says the United States of America is ready to help Venezuela https://t.co/lnHvtdoGSA",
       "description": "President Trump says the United States of America is ready to help Venezuela https://t.co/lnHvtdoGSA",
@@ -259,86 +315,6 @@
       "description": "Goals at World Cup 2026\n\n🇦🇷 Messi: 5\n🇵🇹 Cristiano Ronaldo: 2\n\nTotal World Cup goals\n\n🇦🇷 Messi: 18\n🇵🇹 Cristiano Ronaldo: 10",
       "date": "2026-06-23T21:40Z",
       "date_display": "23 Jun 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Over $1 trillion in value was wiped out from the US stock-market today, amid big declines among tech...",
-      "description": "Over $1 trillion in value was wiped out from the US stock-market today, amid big declines among tech giants. https://t.co/eIZMkSs9Kw",
-      "date": "2026-06-23T21:30Z",
-      "date_display": "23 Jun 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran's president has arrived in Pakistan",
-      "description": "<b>BREAKING:</b> Iran's president has arrived in Pakistan",
-      "date": "2026-06-23T10:50Z",
-      "date_display": "23 Jun 10:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇳🇴 Erling Haaland: 4\n🇩...",
-      "description": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇳🇴 Erling Haaland: 4\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇳🇱 Crysencio Summerville: 2\n🇪🇸 Mikel Oyarzabal: 2\n🇺🇾 Maxi Araujo: 2\n🇯🇵 Ayase Ueda: 2\n🇳🇱 Cody Gakpo: 2\n🇧🇷 Vinicius Junior: 2\n🇨🇭 Johan Manzambi: 2\n🇳🇱 Brian Brobbey: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 2\n🇧🇷 Matheus Cunha: 2\n🇨🇦 Cyle Larin: 2\n🇯🇵 Daichi Kamada: 2\n🇺🇸 Folarin Balogun: 2\n🇲🇦 Ismael Saibari: 2\n🇸🇪 Yasin Ayari: 2\n🇸🇳 Ismaila Sarr: 2\n🇳🇿 Elijah Just: 2\n🇩🇪 Kai Havertz: 2",
-      "date": "2026-06-23T10:00Z",
-      "date_display": "23 Jun 10:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index plunges by 10%",
-      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index plunges by 10%",
-      "date": "2026-06-23T07:10Z",
-      "date_display": "23 Jun 07:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Haaland double helps 🇳🇴 Norway beat 🇸🇳Senegal 3-2",
-      "description": "<b>BREAKING:</b> Haaland double helps 🇳🇴 Norway beat 🇸🇳Senegal 3-2",
-      "date": "2026-06-23T02:10Z",
-      "date_display": "23 Jun 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n...",
-      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway",
-      "date": "2026-06-23T02:10Z",
-      "date_display": "23 Jun 02:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz...",
-      "description": "<b>BREAKING:</b> Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz",
-      "date": "2026-06-23T01:20Z",
-      "date_display": "23 Jun 01:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇩🇪 Deniz Undav: 3\n🇨🇦 ...",
-      "description": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇳🇱 Crysencio Summerville: 2\n🇪🇸 Mikel Oyarzabal: 2\n🇺🇾 Maxi Araujo: 2\n🇯🇵 Ayase Ueda: 2\n🇳🇱 Cody Gakpo: 2\n🇧🇷 Vinicius Junior: 2\n🇨🇭 Johan Manzambi: 2\n🇳🇱 Brian Brobbey: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 2\n🇧🇷 Matheus Cunha: 2\n🇨🇦 Cyle Larin: 2\n🇳🇴 Erling Haaland: 2\n🇯🇵 Daichi Kamada: 2\n🇺🇸 Folarin Balogun: 2\n🇲🇦 Ismael Saibari: 2\n🇸🇪 Yasin Ayari: 2\n🇳🇿 Elijah Just: 2\n🇩🇪 Kai Havertz: 2",
-      "date": "2026-06-23T01:00Z",
-      "date_display": "23 Jun 01:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇫🇷 France beat 🇮🇶 Iraq 3-0, as Mbappe scores a double.",
-      "description": "<b>BREAKING:</b> 🇫🇷 France beat 🇮🇶 Iraq 3-0, as Mbappe scores a double.",
-      "date": "2026-06-23T00:50Z",
-      "date_display": "23 Jun 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 5\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇯🇵 Aya...",
-      "description": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 5\n🇩🇪 Deniz Undav: 3\n🇨🇦 Jonathan David: 3\n🇯🇵 Ayase Ueda: 2\n🇳🇱 Cody Gakpo: 2\n🇳🇱 Crysencio Summerville: 2\n🇨🇦 Cyle Larin: 2\n🇯🇵 Daichi Kamada: 2\n🇳🇴 Erling Haaland: 2\n🇺🇸 Folarin Balogun: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 2\n🇲🇦 Ismael Saibari: 2\n🇨🇭 Johan Manzambi: 2\n🇧🇷 Matheus Cunha: 2\n🇧🇷 Vinícius Júnior: 2\n🇳🇱 Brian Brobbey: 2",
-      "date": "2026-06-22T21:30Z",
-      "date_display": "22 Jun 21:30 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

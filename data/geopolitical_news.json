@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-26T04:50Z",
+  "fetched_at": "2026-06-27T04:35Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 8,
+  "india_relevant_items": 12,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,54 @@
     "latest_oil_headline": "BREAKING: US crude oil price falls below $70"
   },
   "india_headlines": [
+    {
+      "title": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of ...",
+      "description": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of West Africa\n\n- Population of 500,000\n\n- Finish second in group including Spain, Uruguay and Saudi Arabia\n\n- Qualify for knockout phase of the World Cup https://t.co/FlsuD3sfLj",
+      "date": "2026-06-27T02:10Z",
+      "date_display": "27 Jun 02:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards say they have targeted locations hosting the US military in t...",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have targeted locations hosting the US military in the region",
+      "date": "2026-06-26T22:40Z",
+      "date_display": "26 Jun 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Fox News reports ongoing strikes against Iranian targets",
+      "description": "<b>BREAKING:</b> Fox News reports ongoing strikes against Iranian targets",
+      "date": "2026-06-26T21:00Z",
+      "date_display": "26 Jun 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Axios reports the US has conducted strikes near the Strait of Hormuz",
+      "description": "<b>BREAKING:</b> Axios reports the US has conducted strikes near the Strait of Hormuz",
+      "date": "2026-06-26T20:40Z",
+      "date_display": "26 Jun 20:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts heard in Sirik in southern Iran",
+      "description": "<b>BREAKING:</b> Blasts heard in Sirik in southern Iran",
+      "date": "2026-06-26T20:20Z",
+      "date_display": "26 Jun 20:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says regarding Iran ceasefire violation, 'I do not like it' and 'you will find out'....",
+      "description": "<b>BREAKING:</b> Trump says regarding Iran ceasefire violation, 'I do not like it' and 'you will find out'.",
+      "date": "2026-06-26T20:00Z",
+      "date_display": "26 Jun 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Amazon has pledged an additional $13 billion to its investments in 🇮🇳 India, according to Bloomber...",
       "description": "Amazon has pledged an additional $13 billion to its investments in 🇮🇳 India, according to Bloomberg report. https://t.co/1GsBzvn99i",
@@ -59,25 +107,129 @@
       "date_display": "23 Jun 10:50 UTC",
       "severity": "high",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇨🇻 Cape Verde qualifies for knockout phase of the World Cup",
+      "description": "<b>BREAKING:</b> 🇨🇻 Cape Verde qualifies for knockout phase of the World Cup",
+      "date": "2026-06-27T02:10Z",
+      "date_display": "27 Jun 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz...",
-      "description": "<b>BREAKING:</b> Iran's chief negotiator Mohammad Ghalibaf says Iran will administer the Strait of Hormuz",
-      "date": "2026-06-23T01:20Z",
-      "date_display": "23 Jun 01:20 UTC",
+      "title": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of ...",
+      "description": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of West Africa\n\n- Population of 500,000\n\n- Finish second in group including Spain, Uruguay and Saudi Arabia\n\n- Qualify for knockout phase of the World Cup https://t.co/FlsuD3sfLj",
+      "date": "2026-06-27T02:10Z",
+      "date_display": "27 Jun 02:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇪🇸 Spain qualifies for knockout phase of the World Cup",
+      "description": "<b>BREAKING:</b> 🇪🇸 Spain qualifies for knockout phase of the World Cup",
+      "date": "2026-06-27T02:00Z",
+      "date_display": "27 Jun 02:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇻🇪 Venezuela earthquake death toll rises to 920",
+      "description": "<b>BREAKING:</b> 🇻🇪 Venezuela earthquake death toll rises to 920",
+      "date": "2026-06-27T00:00Z",
+      "date_display": "27 Jun 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "There is a 51% chance that Netanyahu leaves office this year according to @Kalshi prediction market....",
+      "description": "There is a 51% chance that Netanyahu leaves office this year according to @Kalshi prediction market. https://t.co/R0rXdhGD30",
+      "date": "2026-06-26T23:50Z",
+      "date_display": "26 Jun 23:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards say they have targeted locations hosting the US military in t...",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have targeted locations hosting the US military in the region",
+      "date": "2026-06-26T22:40Z",
+      "date_display": "26 Jun 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Anthropic is moving towards a deal with US government to lift curbs on its latest AI model...",
+      "description": "<b>BREAKING:</b> Anthropic is moving towards a deal with US government to lift curbs on its latest AI models, according to Bloomberg report. https://t.co/kBdcP6SOKm",
+      "date": "2026-06-26T22:00Z",
+      "date_display": "26 Jun 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇫🇷 France beat 🇳🇴 Norway 4-1",
+      "description": "<b>BREAKING:</b> 🇫🇷 France beat 🇳🇴 Norway 4-1",
+      "date": "2026-06-26T21:10Z",
+      "date_display": "26 Jun 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇸🇳 Senegal beat 🇮🇶  Iraq 5-0",
+      "description": "<b>BREAKING:</b> 🇸🇳 Senegal beat 🇮🇶  Iraq 5-0",
+      "date": "2026-06-26T21:10Z",
+      "date_display": "26 Jun 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Fox News reports ongoing strikes against Iranian targets",
+      "description": "<b>BREAKING:</b> Fox News reports ongoing strikes against Iranian targets",
+      "date": "2026-06-26T21:00Z",
+      "date_display": "26 Jun 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Axios reports the US has conducted strikes near the Strait of Hormuz",
+      "description": "<b>BREAKING:</b> Axios reports the US has conducted strikes near the Strait of Hormuz",
+      "date": "2026-06-26T20:40Z",
+      "date_display": "26 Jun 20:40 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agr...",
-      "description": "<b>BREAKING:</b> Pakistan and Qatar says US-Iran talks have been 'constructive' and that there has been agreement on 60-day dialogue plan",
-      "date": "2026-06-22T01:20Z",
-      "date_display": "22 Jun 01:20 UTC",
+      "title": "BREAKING: Blasts heard in Sirik in southern Iran",
+      "description": "<b>BREAKING:</b> Blasts heard in Sirik in southern Iran",
+      "date": "2026-06-26T20:20Z",
+      "date_display": "26 Jun 20:20 UTC",
       "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "BREAKING: Trump says regarding Iran ceasefire violation, 'I do not like it' and 'you will find out'....",
+      "description": "<b>BREAKING:</b> Trump says regarding Iran ceasefire violation, 'I do not like it' and 'you will find out'.",
+      "date": "2026-06-26T20:00Z",
+      "date_display": "26 Jun 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Volkswagen is aiming to 'cut 100,000 jobs in major overhaul', according to Reuters report....",
+      "description": "<b>BREAKING:</b> Volkswagen is aiming to 'cut 100,000 jobs in major overhaul', according to Reuters report.",
+      "date": "2026-06-26T11:20Z",
+      "date_display": "26 Jun 11:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇻🇪 Venezuela earthquake death toll rises to 235",
+      "description": "<b>BREAKING:</b> 🇻🇪 Venezuela earthquake death toll rises to 235",
+      "date": "2026-06-26T08:40Z",
+      "date_display": "26 Jun 08:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Trading on 🇰🇷 South Korea's share market has been halted after it plunged by 8%",
       "description": "<b>BREAKING:</b> Trading on 🇰🇷 South Korea's share market has been halted after it plunged by 8%",
@@ -195,126 +347,6 @@
       "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway\n🇨🇴 Colombia\n🇨🇦 Canada\n🇨🇭 Switzerland\n🇧🇷 Brazil\n🇲🇦 Morocco",
       "date": "2026-06-25T01:50Z",
       "date_display": "25 Jun 01:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US crude oil price falls below $70",
-      "description": "<b>BREAKING:</b> US crude oil price falls below $70",
-      "date": "2026-06-25T01:50Z",
-      "date_display": "25 Jun 01:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇲🇦 Morocco beat 🇭🇹 Haiti 4-2 and qualify for the knock-out phase of the World Cup...",
-      "description": "<b>BREAKING:</b> 🇲🇦 Morocco beat 🇭🇹 Haiti 4-2 and qualify for the knock-out phase of the World Cup",
-      "date": "2026-06-25T00:10Z",
-      "date_display": "25 Jun 00:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇧🇷 Brazil beat🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 3-0 and qualify for knockout phase of World Cip...",
-      "description": "<b>BREAKING:</b> 🇧🇷 Brazil beat🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 3-0 and qualify for knockout phase of World Cip",
-      "date": "2026-06-25T00:10Z",
-      "date_display": "25 Jun 00:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Reports of significant damage across parts of Venezuela after powerful earthquake",
-      "description": "<b>BREAKING:</b> Reports of significant damage across parts of Venezuela after powerful earthquake",
-      "date": "2026-06-24T23:50Z",
-      "date_display": "24 Jun 23:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n...",
-      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway\n🇨🇴 Colombia\n🇨🇦 Canada\n🇨🇭 Switzerland",
-      "date": "2026-06-24T22:20Z",
-      "date_display": "24 Jun 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Tsunami alert for Venezuela following 7.1 magnitude earthquake",
-      "description": "<b>BREAKING:</b> Tsunami alert for Venezuela following 7.1 magnitude earthquake",
-      "date": "2026-06-24T22:20Z",
-      "date_display": "24 Jun 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 JD Vance leads chances of winning the 2028 Presidential Election with 18%, followed by Marco Ru...",
-      "description": "🇺🇸 JD Vance leads chances of winning the 2028 Presidential Election with 18%, followed by Marco Rubio at 17% and Gavin Newsom at 14%, according to @Kalshi prediction market. https://t.co/Cx76GUnaiw",
-      "date": "2026-06-24T21:30Z",
-      "date_display": "24 Jun 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇨🇭 Switzerland and 🇨🇦 Canada qualify for knock-out phase of the World Cup",
-      "description": "<b>BREAKING:</b> 🇨🇭 Switzerland and 🇨🇦 Canada qualify for knock-out phase of the World Cup",
-      "date": "2026-06-24T21:00Z",
-      "date_display": "24 Jun 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says that oil companies are not reducing gas prices enough",
-      "description": "<b>BREAKING:</b> Trump says that oil companies are not reducing gas prices enough",
-      "date": "2026-06-24T20:50Z",
-      "date_display": "24 Jun 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Bitcoin\n\n1st of January, 2026: $88,750\n\nNow: $59,890 https://t.co/uYvqAQkAHr",
-      "description": "Bitcoin\n\n1st of January, 2026: $88,750\n\nNow: $59,890 https://t.co/uYvqAQkAHr",
-      "date": "2026-06-24T20:40Z",
-      "date_display": "24 Jun 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Israeli defense minister says military will not withdraw from southern Lebanon even if tha...",
-      "description": "<b>BREAKING:</b> Israeli defense minister says military will not withdraw from southern Lebanon even if that is demanded by the United States",
-      "date": "2026-06-24T10:50Z",
-      "date_display": "24 Jun 10:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US crude oil prices\n\nOne month ago: $92\n\nNow: $71 https://t.co/tmZxmFjbu6",
-      "description": "US crude oil prices\n\nOne month ago: $92\n\nNow: $71 https://t.co/tmZxmFjbu6",
-      "date": "2026-06-24T08:30Z",
-      "date_display": "24 Jun 08:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
-      "description": "President Trump says he has Iran 'on the ropes'. https://t.co/6xJU4K2VRc",
-      "date": "2026-06-24T03:10Z",
-      "date_display": "24 Jun 03:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and 🇬🇭 Ghana draw 0–0",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and 🇬🇭 Ghana draw 0–0",
-      "date": "2026-06-23T22:10Z",
-      "date_display": "23 Jun 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Goals at World Cup 2026\n\n🇦🇷 Messi: 5\n🇵🇹 Cristiano Ronaldo: 2\n\nTotal World Cup goals\n\n🇦🇷 Messi:...",
-      "description": "Goals at World Cup 2026\n\n🇦🇷 Messi: 5\n🇵🇹 Cristiano Ronaldo: 2\n\nTotal World Cup goals\n\n🇦🇷 Messi: 18\n🇵🇹 Cristiano Ronaldo: 10",
-      "date": "2026-06-23T21:40Z",
-      "date_display": "23 Jun 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

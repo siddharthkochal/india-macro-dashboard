@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-28T05:03Z",
+  "fetched_at": "2026-06-29T05:12Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "BREAKING: US crude oil price falls below $70"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: US and Iran agree to halt attacks and meet later this week, according to Axios report....",
+      "description": "<b>BREAKING:</b> US and Iran agree to halt attacks and meet later this week, according to Axios report.",
+      "date": "2026-06-28T21:40Z",
+      "date_display": "28 Jun 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian Revolutionary Guards say they have launched attacks against eight US targets...",
       "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have launched attacks against eight US targets",
@@ -123,17 +131,33 @@
       "date_display": "25 Jun 01:50 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says that oil companies are not reducing gas prices enough",
-      "description": "<b>BREAKING:</b> Trump says that oil companies are not reducing gas prices enough",
-      "date": "2026-06-24T20:50Z",
-      "date_display": "24 Jun 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "There is a 62% chance President Trump will be impeached before the 1st of January, 2028, according t...",
+      "description": "There is a 62% chance President Trump will be impeached before the 1st of January, 2028, according to prediction market @Kalshi. https://t.co/R08sjjZgG3",
+      "date": "2026-06-29T02:50Z",
+      "date_display": "29 Jun 02:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US and Iran agree to halt attacks and meet later this week, according to Axios report....",
+      "description": "<b>BREAKING:</b> US and Iran agree to halt attacks and meet later this week, according to Axios report.",
+      "date": "2026-06-28T21:40Z",
+      "date_display": "28 Jun 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "World Cup knockout matches.\n\n🇩🇪 Germany vs 🇵🇾 Paraguay\n🇫🇷 France vs 🇸🇪 Sweden\n🇿🇦 South Afr...",
+      "description": "World Cup knockout matches.\n\n🇩🇪 Germany vs 🇵🇾 Paraguay\n🇫🇷 France vs 🇸🇪 Sweden\n🇿🇦 South Africa vs 🇨🇦 Canada\n🇳🇱 Netherlands vs 🇲🇦 Morocco\n🇵🇹 Portugal vs 🇭🇷 Croatia\n🇪🇸 Spain vs 🇦🇹 Austria\n🇺🇸 USA vs 🇧🇦 Bosnia and Herzegovina\n🇧🇪 Belgium vs 🇸🇳 Senegal\n🇧🇷 Brazil vs 🇯🇵 Japan\n🇨🇮 Côte d’Ivoire vs 🇳🇴 Norway\n🇲🇽 Mexico vs 🇪🇨 Ecuador\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇨🇩 DR Congo\n🇦🇷 Argentina vs 🇨🇻 Cape Verde\n🇦🇺 Australia vs 🇪🇬 Egypt\n🇨🇭 Switzerland vs 🇩🇿 Algeria\n🇨🇴 Colombia vs 🇬🇭 Ghana",
+      "date": "2026-06-28T09:00Z",
+      "date_display": "28 Jun 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 6\n🇫🇷 Kylian Mbappe: 4\n🇫🇷 Ousmane Dembele: 4\n🇧🇷 ...",
       "description": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 6\n🇫🇷 Kylian Mbappe: 4\n🇫🇷 Ousmane Dembele: 4\n🇧🇷 Vinicius Junior: 4\n🇳🇴 Erling Haaland: 4\n🇩🇪 Deniz Undav: 3\n🇨🇭 Johan Manzambi: 3\n🇸🇳 Ismaila Sarr: 3\n🇳🇱 Brian Brobbey: 3\n🇧🇷 Matheus Cunha: 3\n🇲🇦 Ismael Saibari: 3\n🇨🇦 Jonathan David: 3\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 3\n🇳🇿 Elijah Just: 3\n🇨🇩 Yoane Wissa: 3",
@@ -347,30 +371,6 @@
       "description": "<b>BREAKING:</b> Trading on 🇰🇷 South Korea's share market has been halted after it plunged by 8%",
       "date": "2026-06-26T04:00Z",
       "date_display": "26 Jun 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇺 Australia qualifies for the knockout phase of the World Cup",
-      "description": "<b>BREAKING:</b> 🇦🇺 Australia qualifies for the knockout phase of the World Cup",
-      "date": "2026-06-26T04:00Z",
-      "date_display": "26 Jun 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n...",
-      "description": "Qualified for the knockout phase of the World Cup\n\n🇺🇸 USA\n🇲🇽 Mexico\n🇩🇪 Germany\n🇦🇷 Argentina\n🇫🇷 France\n🇳🇴 Norway\n🇨🇴 Colombia\n🇨🇦 Canada\n🇨🇭 Switzerland\n🇧🇷 Brazil\n🇲🇦 Morocco\n🇨🇮 Ivory Coast\n🇿🇦 South Africa\n🇳🇱 Netherlands\n🇯🇵 Japan",
-      "date": "2026-06-26T01:20Z",
-      "date_display": "26 Jun 01:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇳🇱 Netherlands and 🇯🇵 Japan qualify for knockout phase of the World Cup",
-      "description": "<b>BREAKING:</b> 🇳🇱 Netherlands and 🇯🇵 Japan qualify for knockout phase of the World Cup",
-      "date": "2026-06-26T01:00Z",
-      "date_display": "26 Jun 01:00 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

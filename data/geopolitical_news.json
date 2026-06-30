@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-06-29T05:12Z",
+  "fetched_at": "2026-06-30T04:46Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 15,
+  "india_relevant_items": 14,
   "oil_signals": {
-    "brent_mentioned": true,
+    "brent_mentioned": false,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "down",
-    "latest_oil_headline": "BREAKING: US crude oil price falls below $70"
+    "price_direction": null,
+    "latest_oil_headline": null
   },
   "india_headlines": [
     {
@@ -123,17 +123,65 @@
       "date_display": "25 Jun 09:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price falls below $70",
-      "description": "<b>BREAKING:</b> US crude oil price falls below $70",
-      "date": "2026-06-25T01:50Z",
-      "date_display": "25 Jun 01:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING:🇲🇦 Morocco beats the 🇳🇱 Netherlands on penalties",
+      "description": "<b>BREAKING:</b>🇲🇦 Morocco beats the 🇳🇱 Netherlands on penalties",
+      "date": "2026-06-30T04:00Z",
+      "date_display": "30 Jun 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "TODAY\n\n🇯🇵 Japan out\n🇩🇪 Germany out\n🇳🇱 Netherlands out\n\n🇧🇷 Brazil through\n🇵🇾 Paraguay throu...",
+      "description": "TODAY\n\n🇯🇵 Japan out\n🇩🇪 Germany out\n🇳🇱 Netherlands out\n\n🇧🇷 Brazil through\n🇵🇾 Paraguay through\n🇲🇦 Morocco through",
+      "date": "2026-06-30T04:00Z",
+      "date_display": "30 Jun 04:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇩🇪 GERMANY OUT OF THE WORLD CUP AFTER LOSING TO 🇵🇾 PARAGUAY ON PENALTIES",
+      "description": "<b>BREAKING:</b> 🇩🇪 GERMANY OUT OF THE WORLD CUP AFTER LOSING TO 🇵🇾 PARAGUAY ON PENALTIES",
+      "date": "2026-06-29T23:30Z",
+      "date_display": "29 Jun 23:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇵🇾 Paraguay and 🇩🇪 Germany go to penalty shootout",
+      "description": "<b>BREAKING:</b> 🇵🇾 Paraguay and 🇩🇪 Germany go to penalty shootout",
+      "date": "2026-06-29T23:20Z",
+      "date_display": "29 Jun 23:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇵🇾 Paraguay and 🇩🇪 Germany are tied 1-1 at full-time, as match goes into extra time.",
+      "description": "🇵🇾 Paraguay and 🇩🇪 Germany are tied 1-1 at full-time, as match goes into extra time.",
+      "date": "2026-06-29T22:30Z",
+      "date_display": "29 Jun 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇵🇾 Paraguay go 1-0 up against 🇩🇪 Germany in the 41st minute.",
+      "description": "🇵🇾 Paraguay go 1-0 up against 🇩🇪 Germany in the 41st minute.",
+      "date": "2026-06-29T21:20Z",
+      "date_display": "29 Jun 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "British American Tobacco is set to cut 9,000 jobs, equivalent to a fifth of its workforce.",
+      "description": "British American Tobacco is set to cut 9,000 jobs, equivalent to a fifth of its workforce.",
+      "date": "2026-06-29T09:50Z",
+      "date_display": "29 Jun 09:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "There is a 62% chance President Trump will be impeached before the 1st of January, 2028, according t...",
       "description": "There is a 62% chance President Trump will be impeached before the 1st of January, 2028, according to prediction market @Kalshi. https://t.co/R08sjjZgG3",
@@ -315,62 +363,6 @@
       "description": "<b>BREAKING:</b> 🇸🇳 Senegal beat 🇮🇶  Iraq 5-0",
       "date": "2026-06-26T21:10Z",
       "date_display": "26 Jun 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Fox News reports ongoing strikes against Iranian targets",
-      "description": "<b>BREAKING:</b> Fox News reports ongoing strikes against Iranian targets",
-      "date": "2026-06-26T21:00Z",
-      "date_display": "26 Jun 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Axios reports the US has conducted strikes near the Strait of Hormuz",
-      "description": "<b>BREAKING:</b> Axios reports the US has conducted strikes near the Strait of Hormuz",
-      "date": "2026-06-26T20:40Z",
-      "date_display": "26 Jun 20:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts heard in Sirik in southern Iran",
-      "description": "<b>BREAKING:</b> Blasts heard in Sirik in southern Iran",
-      "date": "2026-06-26T20:20Z",
-      "date_display": "26 Jun 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says regarding Iran ceasefire violation, 'I do not like it' and 'you will find out'....",
-      "description": "<b>BREAKING:</b> Trump says regarding Iran ceasefire violation, 'I do not like it' and 'you will find out'.",
-      "date": "2026-06-26T20:00Z",
-      "date_display": "26 Jun 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Volkswagen is aiming to 'cut 100,000 jobs in major overhaul', according to Reuters report....",
-      "description": "<b>BREAKING:</b> Volkswagen is aiming to 'cut 100,000 jobs in major overhaul', according to Reuters report.",
-      "date": "2026-06-26T11:20Z",
-      "date_display": "26 Jun 11:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇻🇪 Venezuela earthquake death toll rises to 235",
-      "description": "<b>BREAKING:</b> 🇻🇪 Venezuela earthquake death toll rises to 235",
-      "date": "2026-06-26T08:40Z",
-      "date_display": "26 Jun 08:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trading on 🇰🇷 South Korea's share market has been halted after it plunged by 8%",
-      "description": "<b>BREAKING:</b> Trading on 🇰🇷 South Korea's share market has been halted after it plunged by 8%",
-      "date": "2026-06-26T04:00Z",
-      "date_display": "26 Jun 04:00 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

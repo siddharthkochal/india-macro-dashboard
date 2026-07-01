@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T04:46Z",
+  "fetched_at": "2026-07-01T05:06Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,14 @@
     "latest_oil_headline": null
   },
   "india_headlines": [
+    {
+      "title": "Saudi Arabia reports that profits in its investment fund more than doubled to $17.3 billion in 2025....",
+      "description": "Saudi Arabia reports that profits in its investment fund more than doubled to $17.3 billion in 2025. https://t.co/NmvitE8Mvl",
+      "date": "2026-06-30T10:00Z",
+      "date_display": "30 Jun 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: US and Iran agree to halt attacks and meet later this week, according to Axios report....",
       "description": "<b>BREAKING:</b> US and Iran agree to halt attacks and meet later this week, according to Axios report.",
@@ -115,17 +123,89 @@
       "date_display": "26 Jun 20:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Amazon has pledged an additional $13 billion to its investments in 🇮🇳 India, according to Bloomber...",
-      "description": "Amazon has pledged an additional $13 billion to its investments in 🇮🇳 India, according to Bloomberg report. https://t.co/1GsBzvn99i",
-      "date": "2026-06-25T09:10Z",
-      "date_display": "25 Jun 09:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇲🇽 Mexico beat 🇪🇨 Ecuador 2-0 and advance to round of sixteen",
+      "description": "<b>BREAKING:</b> 🇲🇽 Mexico beat 🇪🇨 Ecuador 2-0 and advance to round of sixteen",
+      "date": "2026-07-01T04:10Z",
+      "date_display": "01 Jul 04:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇲🇽 Mexico lead 🇪🇨 Ecuador 2-0 at half time",
+      "description": "🇲🇽 Mexico lead 🇪🇨 Ecuador 2-0 at half time",
+      "date": "2026-07-01T03:10Z",
+      "date_display": "01 Jul 03:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Anthropic announces US Department of Commerce has lifted export controls on Fable platform...",
+      "description": "<b>BREAKING:</b> Anthropic announces US Department of Commerce has lifted export controls on Fable platform https://t.co/LhznphO5d5",
+      "date": "2026-07-01T00:00Z",
+      "date_display": "01 Jul 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇫🇷 France beat 🇸🇪 Sweden 3-0 and advance to round of sixteen",
+      "description": "<b>BREAKING:</b> 🇫🇷 France beat 🇸🇪 Sweden 3-0 and advance to round of sixteen",
+      "date": "2026-06-30T23:00Z",
+      "date_display": "30 Jun 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup leading scorers.\n\n🇫🇷 Kylian Mbappe: 6 goals\n🇦🇷 Lionel Messi: 6 goals\n🇳🇴 Erling Haala...",
+      "description": "World Cup leading scorers.\n\n🇫🇷 Kylian Mbappe: 6 goals\n🇦🇷 Lionel Messi: 6 goals\n🇳🇴 Erling Haaland: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇩🇪 Deniz Undav: 3 goals\n🇨🇭 Johan Manzambi: 3 goals\n🇸🇳 Ismaila Sarr: 3 goals\n🇳🇱 Cody Gakpo: 3 goals\n🇳🇱 Brian Brobbey: 3 goals\n🇧🇷 Matheus Cunha: 3 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 3 goals\n🇳🇿 Elijah Just: 3 goals\n🇨🇩 Yoane Wissa: 3 goals\n🇨🇦 Jonathan David: 3 goals\n🇲🇦 Ismael Saibari: 3 goals\n🇩🇪 Kai Havertz: 3 goals",
+      "date": "2026-06-30T23:00Z",
+      "date_display": "30 Jun 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇫🇷 France go up 3-0 against 🇸🇪 Sweden as Mbappe scores his second goal of the game, be...",
+      "description": "<b>BREAKING:</b> 🇫🇷 France go up 3-0 against 🇸🇪 Sweden as Mbappe scores his second goal of the game, becomes joint top scorer at this tournament.",
+      "date": "2026-06-30T22:40Z",
+      "date_display": "30 Jun 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Politico reports that export controls on Anthropic's Fable AI model are set to be eased to...",
+      "description": "<b>BREAKING:</b> Politico reports that export controls on Anthropic's Fable AI model are set to be eased tonight",
+      "date": "2026-06-30T22:40Z",
+      "date_display": "30 Jun 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇫🇷 France lead 🇸🇪 Sweden 1-0 at half-time",
+      "description": "🇫🇷 France lead 🇸🇪 Sweden 1-0 at half-time",
+      "date": "2026-06-30T21:50Z",
+      "date_display": "30 Jun 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup leading scorers\n\n🇦🇷 Lionel Messi: 6 goals\n🇫🇷 Kylian Mbappe: 4 goals\n🇫🇷 Ousmane Dembe...",
+      "description": "World Cup leading scorers\n\n🇦🇷 Lionel Messi: 6 goals\n🇫🇷 Kylian Mbappe: 4 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇳🇴 Erling Haaland: 4 goals\n🇩🇪 Deniz Undav: 3 goals\n🇨🇭 Johan Manzambi: 3 goals\n🇸🇳 Ismaila Sarr: 3 goals\n🇳🇱 Cody Gakpo: 3 goals\n🇳🇱 Brian Brobbey: 3 goals\n🇧🇷 Matheus Cunha: 3 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 3 goals\n🇳🇿 Elijah Just: 3 goals\n🇨🇩 Yoane Wissa: 3 goals\n🇨🇦 Jonathan David: 3 goals\n🇲🇦 Ismael Saibari: 3 goals\n🇩🇪 Kai Havertz: 3 goals",
+      "date": "2026-06-30T10:30Z",
+      "date_display": "30 Jun 10:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Saudi Arabia reports that profits in its investment fund more than doubled to $17.3 billion in 2025....",
+      "description": "Saudi Arabia reports that profits in its investment fund more than doubled to $17.3 billion in 2025. https://t.co/NmvitE8Mvl",
+      "date": "2026-06-30T10:00Z",
+      "date_display": "30 Jun 10:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING:🇲🇦 Morocco beats the 🇳🇱 Netherlands on penalties",
       "description": "<b>BREAKING:</b>🇲🇦 Morocco beats the 🇳🇱 Netherlands on penalties",
@@ -284,86 +364,6 @@
       "date": "2026-06-27T20:50Z",
       "date_display": "27 Jun 20:50 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇧🇪 Belgium and 🇪🇬 Egypt qualify for knockout stage of the World Cup",
-      "description": "<b>BREAKING:</b> 🇧🇪 Belgium and 🇪🇬 Egypt qualify for knockout stage of the World Cup",
-      "date": "2026-06-27T05:10Z",
-      "date_display": "27 Jun 05:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇨🇻 Cape Verde qualifies for knockout phase of the World Cup",
-      "description": "<b>BREAKING:</b> 🇨🇻 Cape Verde qualifies for knockout phase of the World Cup",
-      "date": "2026-06-27T02:10Z",
-      "date_display": "27 Jun 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of ...",
-      "description": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of West Africa\n\n- Population of 500,000\n\n- Finish second in group including Spain, Uruguay and Saudi Arabia\n\n- Qualify for knockout phase of the World Cup https://t.co/FlsuD3sfLj",
-      "date": "2026-06-27T02:10Z",
-      "date_display": "27 Jun 02:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇪🇸 Spain qualifies for knockout phase of the World Cup",
-      "description": "<b>BREAKING:</b> 🇪🇸 Spain qualifies for knockout phase of the World Cup",
-      "date": "2026-06-27T02:00Z",
-      "date_display": "27 Jun 02:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇻🇪 Venezuela earthquake death toll rises to 920",
-      "description": "<b>BREAKING:</b> 🇻🇪 Venezuela earthquake death toll rises to 920",
-      "date": "2026-06-27T00:00Z",
-      "date_display": "27 Jun 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "There is a 51% chance that Netanyahu leaves office this year according to @Kalshi prediction market....",
-      "description": "There is a 51% chance that Netanyahu leaves office this year according to @Kalshi prediction market. https://t.co/R0rXdhGD30",
-      "date": "2026-06-26T23:50Z",
-      "date_display": "26 Jun 23:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they have targeted locations hosting the US military in t...",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have targeted locations hosting the US military in the region",
-      "date": "2026-06-26T22:40Z",
-      "date_display": "26 Jun 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Anthropic is moving towards a deal with US government to lift curbs on its latest AI model...",
-      "description": "<b>BREAKING:</b> Anthropic is moving towards a deal with US government to lift curbs on its latest AI models, according to Bloomberg report. https://t.co/kBdcP6SOKm",
-      "date": "2026-06-26T22:00Z",
-      "date_display": "26 Jun 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇫🇷 France beat 🇳🇴 Norway 4-1",
-      "description": "<b>BREAKING:</b> 🇫🇷 France beat 🇳🇴 Norway 4-1",
-      "date": "2026-06-26T21:10Z",
-      "date_display": "26 Jun 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇸🇳 Senegal beat 🇮🇶  Iraq 5-0",
-      "description": "<b>BREAKING:</b> 🇸🇳 Senegal beat 🇮🇶  Iraq 5-0",
-      "date": "2026-06-26T21:10Z",
-      "date_display": "26 Jun 21:10 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

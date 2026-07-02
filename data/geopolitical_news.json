@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-01T05:06Z",
+  "fetched_at": "2026-07-02T04:41Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 14,
+  "india_relevant_items": 15,
   "oil_signals": {
     "brent_mentioned": false,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": null
   },
   "india_headlines": [
+    {
+      "title": "🇨🇳 China government debt as share of GDP.\n\n2006: 25%\n\n2026: 106%\n\n(IMF)",
+      "description": "🇨🇳 China government debt as share of GDP.\n\n2006: 25%\n\n2026: 106%\n\n(IMF)",
+      "date": "2026-07-01T22:20Z",
+      "date_display": "01 Jul 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Saudi Arabia reports that profits in its investment fund more than doubled to $17.3 billion in 2025....",
       "description": "Saudi Arabia reports that profits in its investment fund more than doubled to $17.3 billion in 2025. https://t.co/NmvitE8Mvl",
@@ -126,6 +134,46 @@
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇺🇸 USA beat 🇧🇦 Bosnia and Herzegovina 2-0 and advance to round of sixteen",
+      "description": "<b>BREAKING:</b> 🇺🇸 USA beat 🇧🇦 Bosnia and Herzegovina 2-0 and advance to round of sixteen",
+      "date": "2026-07-02T02:10Z",
+      "date_display": "02 Jul 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇧🇪 Belgium beat 🇸🇳  Senegal 3-2 in incredible comeback to advance to round of sixteen...",
+      "description": "<b>BREAKING:</b> 🇧🇪 Belgium beat 🇸🇳  Senegal 3-2 in incredible comeback to advance to round of sixteen",
+      "date": "2026-07-01T23:00Z",
+      "date_display": "01 Jul 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇨🇳 China government debt as share of GDP.\n\n2006: 25%\n\n2026: 106%\n\n(IMF)",
+      "description": "🇨🇳 China government debt as share of GDP.\n\n2006: 25%\n\n2026: 106%\n\n(IMF)",
+      "date": "2026-07-01T22:20Z",
+      "date_display": "01 Jul 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump reports over $1.4 billion in income from family’s crypto ventures over the past year...",
+      "description": "President Trump reports over $1.4 billion in income from family’s crypto ventures over the past year. https://t.co/RLr85FFtWH",
+      "date": "2026-07-01T21:10Z",
+      "date_display": "01 Jul 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇸🇳 Senegal leads 🇧🇪 Belgium 1-0 at half time",
+      "description": "<b>BREAKING:</b> 🇸🇳 Senegal leads 🇧🇪 Belgium 1-0 at half time",
+      "date": "2026-07-01T21:00Z",
+      "date_display": "01 Jul 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇲🇽 Mexico beat 🇪🇨 Ecuador 2-0 and advance to round of sixteen",
       "description": "<b>BREAKING:</b> 🇲🇽 Mexico beat 🇪🇨 Ecuador 2-0 and advance to round of sixteen",
@@ -325,46 +373,6 @@
       "date_display": "27 Jun 23:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇵🇦 Panama 2-0 and advance to knockout phase of World Cup...",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇵🇦 Panama 2-0 and advance to knockout phase of World Cup",
-      "date": "2026-06-27T23:00Z",
-      "date_display": "27 Jun 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US military has conducted additional strikes against Iran after a tanker was attacked in t...",
-      "description": "<b>BREAKING:</b> US military has conducted additional strikes against Iran after a tanker was attacked in the Strait of Hormuz",
-      "date": "2026-06-27T22:00Z",
-      "date_display": "27 Jun 22:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREKAING: US strikes target Iran's Qeshm Island",
-      "description": "BREKAING: US strikes target Iran's Qeshm Island",
-      "date": "2026-06-27T22:00Z",
-      "date_display": "27 Jun 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts heard in Sirik, southern Iran.",
-      "description": "<b>BREAKING:</b> Blasts heard in Sirik, southern Iran.",
-      "date": "2026-06-27T21:30Z",
-      "date_display": "27 Jun 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇫🇷 Ousmane Dembele: 4\n�...",
-      "description": "World Cup top scorers, so far.\n\n🇦🇷 Lionel Messi: 5\n🇫🇷 Kylian Mbappe: 4\n🇫🇷 Ousmane Dembele: 4\n🇧🇷 Vinicius Junior: 4\n🇳🇴 Erling Haaland: 4\n🇩🇪 Deniz Undav: 3\n🇨🇭 Johan Manzambi: 3\n🇸🇳 Ismaila Sarr: 3\n🇳🇱 Brian Brobbey: 3\n🇧🇷 Matheus Cunha: 3\n🇲🇦 Ismael Saibari: 3\n🇨🇦 Jonathan David: 3\n🇳🇿 Elijah Just: 3",
-      "date": "2026-06-27T20:50Z",
-      "date_display": "27 Jun 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

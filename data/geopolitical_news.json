@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-02T04:41Z",
+  "fetched_at": "2026-07-03T04:26Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 15,
+  "india_relevant_items": 11,
   "oil_signals": {
     "brent_mentioned": false,
     "hormuz_risk": true,
@@ -99,41 +99,57 @@
       "date_display": "26 Jun 22:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Fox News reports ongoing strikes against Iranian targets",
-      "description": "<b>BREAKING:</b> Fox News reports ongoing strikes against Iranian targets",
-      "date": "2026-06-26T21:00Z",
-      "date_display": "26 Jun 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Axios reports the US has conducted strikes near the Strait of Hormuz",
-      "description": "<b>BREAKING:</b> Axios reports the US has conducted strikes near the Strait of Hormuz",
-      "date": "2026-06-26T20:40Z",
-      "date_display": "26 Jun 20:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts heard in Sirik in southern Iran",
-      "description": "<b>BREAKING:</b> Blasts heard in Sirik in southern Iran",
-      "date": "2026-06-26T20:20Z",
-      "date_display": "26 Jun 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says regarding Iran ceasefire violation, 'I do not like it' and 'you will find out'....",
-      "description": "<b>BREAKING:</b> Trump says regarding Iran ceasefire violation, 'I do not like it' and 'you will find out'.",
-      "date": "2026-06-26T20:00Z",
-      "date_display": "26 Jun 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇵🇹 Portugal beat  🇭🇷 Croatia 2-1 and advance to round of sixteen",
+      "description": "<b>BREAKING:</b> 🇵🇹 Portugal beat  🇭🇷 Croatia 2-1 and advance to round of sixteen",
+      "date": "2026-07-03T01:10Z",
+      "date_display": "03 Jul 01:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Cristiano Ronaldo converts penalty, 🇵🇹 Portugal 1-1 with 🇭🇷 Croatia in 68th minute....",
+      "description": "<b>BREAKING:</b> Cristiano Ronaldo converts penalty, 🇵🇹 Portugal 1-1 with 🇭🇷 Croatia in 68th minute.",
+      "date": "2026-07-03T00:30Z",
+      "date_display": "03 Jul 00:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇭🇷 Croatia go 1-0 against 🇵🇹 Portugal in the 57th minute",
+      "description": "<b>BREAKING:</b> 🇭🇷 Croatia go 1-0 against 🇵🇹 Portugal in the 57th minute",
+      "date": "2026-07-03T00:20Z",
+      "date_display": "03 Jul 00:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Cristiano Ronaldo is set to retire from international football after the World Cup, accord...",
+      "description": "<b>BREAKING:</b> Cristiano Ronaldo is set to retire from international football after the World Cup, according to Marca report. https://t.co/yApFiuJMUY",
+      "date": "2026-07-02T22:20Z",
+      "date_display": "02 Jul 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "FIFA World Cup winners. https://t.co/xpH3m07YHw",
+      "description": "FIFA World Cup winners. https://t.co/xpH3m07YHw",
+      "date": "2026-07-02T22:00Z",
+      "date_display": "02 Jul 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 6 goals\n🇦🇷 Lionel Messi: 6 goals\n🇳🇴 Erling Haaland: ...",
+      "description": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 6 goals\n🇦🇷 Lionel Messi: 6 goals\n🇳🇴 Erling Haaland: 5 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇩🇪 Deniz Undav: 3 goals\n🇨🇭 Johan Manzambi: 3 goals\n🇲🇽 Julian Quinones: 3 goals\n🇳🇱 Cody Gakpo: 3 goals\n🇳🇱 Brian Brobbey: 3 goals\n🇺🇸 Folarin Balogun: 3 goals\n🇧🇷 Matheus Cunha: 3 goals\n🇳🇿 Elijah Just: 3 goals\n🇨🇦 Jonathan David: 3 goals\n🇲🇦 Ismael Saibari: 3 goals\n🇩🇪 Kai Havertz: 3 goals\n🇨🇩 Yoane Wissa: 3 goals",
+      "date": "2026-07-02T21:20Z",
+      "date_display": "02 Jul 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇺🇸 USA beat 🇧🇦 Bosnia and Herzegovina 2-0 and advance to round of sixteen",
       "description": "<b>BREAKING:</b> 🇺🇸 USA beat 🇧🇦 Bosnia and Herzegovina 2-0 and advance to round of sixteen",
@@ -324,54 +340,6 @@
       "date": "2026-06-28T21:40Z",
       "date_display": "28 Jun 21:40 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "World Cup knockout matches.\n\n🇩🇪 Germany vs 🇵🇾 Paraguay\n🇫🇷 France vs 🇸🇪 Sweden\n🇿🇦 South Afr...",
-      "description": "World Cup knockout matches.\n\n🇩🇪 Germany vs 🇵🇾 Paraguay\n🇫🇷 France vs 🇸🇪 Sweden\n🇿🇦 South Africa vs 🇨🇦 Canada\n🇳🇱 Netherlands vs 🇲🇦 Morocco\n🇵🇹 Portugal vs 🇭🇷 Croatia\n🇪🇸 Spain vs 🇦🇹 Austria\n🇺🇸 USA vs 🇧🇦 Bosnia and Herzegovina\n🇧🇪 Belgium vs 🇸🇳 Senegal\n🇧🇷 Brazil vs 🇯🇵 Japan\n🇨🇮 Côte d’Ivoire vs 🇳🇴 Norway\n🇲🇽 Mexico vs 🇪🇨 Ecuador\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇨🇩 DR Congo\n🇦🇷 Argentina vs 🇨🇻 Cape Verde\n🇦🇺 Australia vs 🇪🇬 Egypt\n🇨🇭 Switzerland vs 🇩🇿 Algeria\n🇨🇴 Colombia vs 🇬🇭 Ghana",
-      "date": "2026-06-28T09:00Z",
-      "date_display": "28 Jun 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 6\n🇫🇷 Kylian Mbappe: 4\n🇫🇷 Ousmane Dembele: 4\n🇧🇷 ...",
-      "description": "World Cup leading scorers.\n\n🇦🇷 Lionel Messi: 6\n🇫🇷 Kylian Mbappe: 4\n🇫🇷 Ousmane Dembele: 4\n🇧🇷 Vinicius Junior: 4\n🇳🇴 Erling Haaland: 4\n🇩🇪 Deniz Undav: 3\n🇨🇭 Johan Manzambi: 3\n🇸🇳 Ismaila Sarr: 3\n🇳🇱 Brian Brobbey: 3\n🇧🇷 Matheus Cunha: 3\n🇲🇦 Ismael Saibari: 3\n🇨🇦 Jonathan David: 3\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 3\n🇳🇿 Elijah Just: 3\n🇨🇩 Yoane Wissa: 3",
-      "date": "2026-06-28T04:30Z",
-      "date_display": "28 Jun 04:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇵🇹 Portugal advance to knockout phase of World Cup",
-      "description": "<b>BREAKING:</b> 🇵🇹 Portugal advance to knockout phase of World Cup",
-      "date": "2026-06-28T01:30Z",
-      "date_display": "28 Jun 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they have launched attacks against eight US targets...",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have launched attacks against eight US targets",
-      "date": "2026-06-28T01:00Z",
-      "date_display": "28 Jun 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Sirens are sounding in Bahrain amid suspected Iranian attack.",
-      "description": "Sirens are sounding in Bahrain amid suspected Iranian attack.",
-      "date": "2026-06-28T00:10Z",
-      "date_display": "28 Jun 00:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump post on new strikes against Iran. https://t.co/ntoT2D9Kxy",
-      "description": "Trump post on new strikes against Iran. https://t.co/ntoT2D9Kxy",
-      "date": "2026-06-27T23:30Z",
-      "date_display": "27 Jun 23:30 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

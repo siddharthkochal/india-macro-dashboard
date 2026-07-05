@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-04T04:20Z",
+  "fetched_at": "2026-07-05T04:41Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 7,
+  "india_relevant_items": 4,
   "oil_signals": {
     "brent_mentioned": false,
     "hormuz_risk": false,
@@ -43,33 +43,49 @@
       "date_display": "28 Jun 21:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they have launched attacks against eight US targets...",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have launched attacks against eight US targets",
-      "date": "2026-06-28T01:00Z",
-      "date_display": "28 Jun 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Sirens are sounding in Bahrain amid suspected Iranian attack.",
-      "description": "Sirens are sounding in Bahrain amid suspected Iranian attack.",
-      "date": "2026-06-28T00:10Z",
-      "date_display": "28 Jun 00:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump post on new strikes against Iran. https://t.co/ntoT2D9Kxy",
-      "description": "Trump post on new strikes against Iran. https://t.co/ntoT2D9Kxy",
-      "date": "2026-06-27T23:30Z",
-      "date_display": "27 Jun 23:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "🇻🇪 Venezuela earthquake death toll has risen to 2,954.",
+      "description": "🇻🇪 Venezuela earthquake death toll has risen to 2,954.",
+      "date": "2026-07-05T01:30Z",
+      "date_display": "05 Jul 01:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇫🇷 France beat 🇵🇾 Paraguay 1-0 and advance to the quarter finals",
+      "description": "<b>BREAKING:</b> 🇫🇷 France beat 🇵🇾 Paraguay 1-0 and advance to the quarter finals",
+      "date": "2026-07-04T23:10Z",
+      "date_display": "04 Jul 23:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Mbappe scores in 70th minute, 🇫🇷 France go 1-0 up against 🇵🇾 Paraguay.",
+      "description": "<b>BREAKING:</b> Mbappe scores in 70th minute, 🇫🇷 France go 1-0 up against 🇵🇾 Paraguay.",
+      "date": "2026-07-04T22:40Z",
+      "date_display": "04 Jul 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇲🇦 Morocco beat hosts 🇨🇦 Canada 3-0 and advance to quarter finals",
+      "description": "<b>BREAKING:</b> 🇲🇦 Morocco beat hosts 🇨🇦 Canada 3-0 and advance to quarter finals",
+      "date": "2026-07-04T19:10Z",
+      "date_display": "04 Jul 19:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup top scorers.\n\n🇦🇷 Lionel Messi: 7 goals\n🇫🇷 Kylian Mbappe: 6 goals\n🇳🇴 Erling Haaland: ...",
+      "description": "World Cup top scorers.\n\n🇦🇷 Lionel Messi: 7 goals\n🇫🇷 Kylian Mbappe: 6 goals\n🇳🇴 Erling Haaland: 5 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇩🇪 Deniz Undav: 3 goals\n🇨🇭 Johan Manzambi: 3 goals\n🇲🇽 Julian Quinones: 3 goals\n🇳🇱 Cody Gakpo: 3 goals\n🇳🇱 Brian Brobbey: 3 goals\n🇺🇸 Folarin Balogun: 3 goals\n🇧🇷 Matheus Cunha: 3 goals\n🇳🇿 Elijah Just: 3 goals\n🇨🇦 Jonathan David: 3 goals\n🇵🇹 Cristiano Ronaldo: 3 goals\n🇲🇦 Ismael Saibari: 3 goals\n🇩🇪 Kai Havertz: 3 goals\n🇨🇩 Yoane Wissa: 3 goals",
+      "date": "2026-07-04T07:30Z",
+      "date_display": "04 Jul 07:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇨🇴 Colombia beat 🇬🇭 Ghana 1-0",
       "description": "<b>BREAKING:</b> 🇨🇴 Colombia beat 🇬🇭 Ghana 1-0",
@@ -267,46 +283,6 @@
       "description": "<b>BREAKING:</b> 🇲🇽 Mexico beat 🇪🇨 Ecuador 2-0 and advance to round of sixteen",
       "date": "2026-07-01T04:10Z",
       "date_display": "01 Jul 04:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇲🇽 Mexico lead 🇪🇨 Ecuador 2-0 at half time",
-      "description": "🇲🇽 Mexico lead 🇪🇨 Ecuador 2-0 at half time",
-      "date": "2026-07-01T03:10Z",
-      "date_display": "01 Jul 03:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Anthropic announces US Department of Commerce has lifted export controls on Fable platform...",
-      "description": "<b>BREAKING:</b> Anthropic announces US Department of Commerce has lifted export controls on Fable platform https://t.co/LhznphO5d5",
-      "date": "2026-07-01T00:00Z",
-      "date_display": "01 Jul 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇫🇷 France beat 🇸🇪 Sweden 3-0 and advance to round of sixteen",
-      "description": "<b>BREAKING:</b> 🇫🇷 France beat 🇸🇪 Sweden 3-0 and advance to round of sixteen",
-      "date": "2026-06-30T23:00Z",
-      "date_display": "30 Jun 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup leading scorers.\n\n🇫🇷 Kylian Mbappe: 6 goals\n🇦🇷 Lionel Messi: 6 goals\n🇳🇴 Erling Haala...",
-      "description": "World Cup leading scorers.\n\n🇫🇷 Kylian Mbappe: 6 goals\n🇦🇷 Lionel Messi: 6 goals\n🇳🇴 Erling Haaland: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇩🇪 Deniz Undav: 3 goals\n🇨🇭 Johan Manzambi: 3 goals\n🇸🇳 Ismaila Sarr: 3 goals\n🇳🇱 Cody Gakpo: 3 goals\n🇳🇱 Brian Brobbey: 3 goals\n🇧🇷 Matheus Cunha: 3 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 3 goals\n🇳🇿 Elijah Just: 3 goals\n🇨🇩 Yoane Wissa: 3 goals\n🇨🇦 Jonathan David: 3 goals\n🇲🇦 Ismael Saibari: 3 goals\n🇩🇪 Kai Havertz: 3 goals",
-      "date": "2026-06-30T23:00Z",
-      "date_display": "30 Jun 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇫🇷 France go up 3-0 against 🇸🇪 Sweden as Mbappe scores his second goal of the game, be...",
-      "description": "<b>BREAKING:</b> 🇫🇷 France go up 3-0 against 🇸🇪 Sweden as Mbappe scores his second goal of the game, becomes joint top scorer at this tournament.",
-      "date": "2026-06-30T22:40Z",
-      "date_display": "30 Jun 22:40 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

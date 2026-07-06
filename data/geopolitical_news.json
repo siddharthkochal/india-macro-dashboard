@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-05T04:41Z",
+  "fetched_at": "2026-07-06T04:52Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 4,
+  "india_relevant_items": 3,
   "oil_signals": {
     "brent_mentioned": false,
     "hormuz_risk": false,
@@ -35,17 +35,81 @@
       "date_display": "30 Jun 10:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US and Iran agree to halt attacks and meet later this week, according to Axios report....",
-      "description": "<b>BREAKING:</b> US and Iran agree to halt attacks and meet later this week, according to Axios report.",
-      "date": "2026-06-28T21:40Z",
-      "date_display": "28 Jun 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇲🇽 Mexico 3-2 and advance to the quarter finals",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇲🇽 Mexico 3-2 and advance to the quarter finals",
+      "date": "2026-07-06T03:20Z",
+      "date_display": "06 Jul 03:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Neymar retires from international football",
+      "description": "<b>BREAKING:</b> Neymar retires from international football",
+      "date": "2026-07-05T23:20Z",
+      "date_display": "05 Jul 23:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: ...",
+      "description": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals",
+      "date": "2026-07-05T22:30Z",
+      "date_display": "05 Jul 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Five-time champions 🇧🇷 Brazil: Knocked out in round of 16\n\nFour-time champions 🇩🇪 Germany: Knock...",
+      "description": "Five-time champions 🇧🇷 Brazil: Knocked out in round of 16\n\nFour-time champions 🇩🇪 Germany: Knocked out in round of 32\n\nFour-time champions 🇮🇹 Italy: Did not qualify for the World Cup",
+      "date": "2026-07-05T22:20Z",
+      "date_display": "05 Jul 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇳🇴 NORWAY KNOCK FIVE-TIME CHAMPIONS 🇧🇷 BRAZIL OUT OF THE WORLD CUP",
+      "description": "<b>BREAKING:</b> 🇳🇴 NORWAY KNOCK FIVE-TIME CHAMPIONS 🇧🇷 BRAZIL OUT OF THE WORLD CUP",
+      "date": "2026-07-05T22:10Z",
+      "date_display": "05 Jul 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇳🇴 Norway 2-0 up against 🇧🇷 Brazil, now in injury time.",
+      "description": "<b>BREAKING:</b> 🇳🇴 Norway 2-0 up against 🇧🇷 Brazil, now in injury time.",
+      "date": "2026-07-05T22:00Z",
+      "date_display": "05 Jul 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇳🇴 Norway 1-0 up against 🇧🇷 Brazil in the 81st minute",
+      "description": "<b>BREAKING:</b> 🇳🇴 Norway 1-0 up against 🇧🇷 Brazil in the 81st minute",
+      "date": "2026-07-05T21:50Z",
+      "date_display": "05 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Jurgen Klopp is set to become the new head coach of Germany's football team. https://t.co/98DBqIKUjO",
+      "description": "Jurgen Klopp is set to become the new head coach of Germany's football team. https://t.co/98DBqIKUjO",
+      "date": "2026-07-05T10:10Z",
+      "date_display": "05 Jul 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: ...",
+      "description": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: 5 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇩🇪 Deniz Undav: 3 goals\n🇨🇭 Johan Manzambi: 3 goals\n🇲🇽 Julian Quinones: 3 goals\n🇳🇱 Cody Gakpo: 3 goals\n🇳🇱 Brian Brobbey: 3 goals\n🇺🇸 Folarin Balogun: 3 goals\n🇧🇷 Matheus Cunha: 3 goals\n🇳🇿 Elijah Just: 3 goals\n🇵🇹 Cristiano Ronaldo: 3 goals\n🇩🇪 Kai Havertz: 3 goals\n🇨🇩 Yoane Wissa: 3 goals\n🇲🇦 Ismael Saibari: 3 goals\n🇨🇦 Jonathan David: 3 goals",
+      "date": "2026-07-05T08:30Z",
+      "date_display": "05 Jul 08:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "🇻🇪 Venezuela earthquake death toll has risen to 2,954.",
       "description": "🇻🇪 Venezuela earthquake death toll has risen to 2,954.",
@@ -211,78 +275,6 @@
       "description": "<b>BREAKING:</b> 🇭🇷 Croatia go 1-0 against 🇵🇹 Portugal in the 57th minute",
       "date": "2026-07-03T00:20Z",
       "date_display": "03 Jul 00:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Cristiano Ronaldo is set to retire from international football after the World Cup, accord...",
-      "description": "<b>BREAKING:</b> Cristiano Ronaldo is set to retire from international football after the World Cup, according to Marca report. https://t.co/yApFiuJMUY",
-      "date": "2026-07-02T22:20Z",
-      "date_display": "02 Jul 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "FIFA World Cup winners. https://t.co/xpH3m07YHw",
-      "description": "FIFA World Cup winners. https://t.co/xpH3m07YHw",
-      "date": "2026-07-02T22:00Z",
-      "date_display": "02 Jul 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 6 goals\n🇦🇷 Lionel Messi: 6 goals\n🇳🇴 Erling Haaland: ...",
-      "description": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 6 goals\n🇦🇷 Lionel Messi: 6 goals\n🇳🇴 Erling Haaland: 5 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇩🇪 Deniz Undav: 3 goals\n🇨🇭 Johan Manzambi: 3 goals\n🇲🇽 Julian Quinones: 3 goals\n🇳🇱 Cody Gakpo: 3 goals\n🇳🇱 Brian Brobbey: 3 goals\n🇺🇸 Folarin Balogun: 3 goals\n🇧🇷 Matheus Cunha: 3 goals\n🇳🇿 Elijah Just: 3 goals\n🇨🇦 Jonathan David: 3 goals\n🇲🇦 Ismael Saibari: 3 goals\n🇩🇪 Kai Havertz: 3 goals\n🇨🇩 Yoane Wissa: 3 goals",
-      "date": "2026-07-02T21:20Z",
-      "date_display": "02 Jul 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 USA beat 🇧🇦 Bosnia and Herzegovina 2-0 and advance to round of sixteen",
-      "description": "<b>BREAKING:</b> 🇺🇸 USA beat 🇧🇦 Bosnia and Herzegovina 2-0 and advance to round of sixteen",
-      "date": "2026-07-02T02:10Z",
-      "date_display": "02 Jul 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇧🇪 Belgium beat 🇸🇳  Senegal 3-2 in incredible comeback to advance to round of sixteen...",
-      "description": "<b>BREAKING:</b> 🇧🇪 Belgium beat 🇸🇳  Senegal 3-2 in incredible comeback to advance to round of sixteen",
-      "date": "2026-07-01T23:00Z",
-      "date_display": "01 Jul 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇨🇳 China government debt as share of GDP.\n\n2006: 25%\n\n2026: 106%\n\n(IMF)",
-      "description": "🇨🇳 China government debt as share of GDP.\n\n2006: 25%\n\n2026: 106%\n\n(IMF)",
-      "date": "2026-07-01T22:20Z",
-      "date_display": "01 Jul 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump reports over $1.4 billion in income from family’s crypto ventures over the past year...",
-      "description": "President Trump reports over $1.4 billion in income from family’s crypto ventures over the past year. https://t.co/RLr85FFtWH",
-      "date": "2026-07-01T21:10Z",
-      "date_display": "01 Jul 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇸🇳 Senegal leads 🇧🇪 Belgium 1-0 at half time",
-      "description": "<b>BREAKING:</b> 🇸🇳 Senegal leads 🇧🇪 Belgium 1-0 at half time",
-      "date": "2026-07-01T21:00Z",
-      "date_display": "01 Jul 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇲🇽 Mexico beat 🇪🇨 Ecuador 2-0 and advance to round of sixteen",
-      "description": "<b>BREAKING:</b> 🇲🇽 Mexico beat 🇪🇨 Ecuador 2-0 and advance to round of sixteen",
-      "date": "2026-07-01T04:10Z",
-      "date_display": "01 Jul 04:10 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

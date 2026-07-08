@@ -1,17 +1,57 @@
 {
-  "fetched_at": "2026-07-07T04:33Z",
+  "fetched_at": "2026-07-08T03:54Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 3,
+  "india_relevant_items": 7,
   "oil_signals": {
-    "brent_mentioned": false,
+    "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": null,
-    "latest_oil_headline": null
+    "latest_oil_headline": "BREAKING: Saudi Arabia is considering expanding capacity of its east-west pipeline that transports c..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iranian media says a US drone has been downed in the country's south",
+      "description": "<b>BREAKING:</b> Iranian media says a US drone has been downed in the country's south",
+      "date": "2026-07-08T03:40Z",
+      "date_display": "08 Jul 03:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it today struck over 80 targets in Iran",
+      "description": "<b>BREAKING:</b> US military says it today struck over 80 targets in Iran",
+      "date": "2026-07-08T01:50Z",
+      "date_display": "08 Jul 01:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports blasts on Qeshm and Kharg islands amid ongoing US strikes",
+      "description": "<b>BREAKING:</b> Iranian media reports blasts on Qeshm and Kharg islands amid ongoing US strikes",
+      "date": "2026-07-08T00:40Z",
+      "date_display": "08 Jul 00:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US strikes on targets in southern Iran",
+      "description": "<b>BREAKING:</b> US strikes on targets in southern Iran",
+      "date": "2026-07-07T21:50Z",
+      "date_display": "07 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi Arabia is considering expanding capacity of its east-west pipeline that transports c...",
+      "description": "<b>BREAKING:</b> Saudi Arabia is considering expanding capacity of its east-west pipeline that transports crude oil to Red Sea coast, according to Reuters report.",
+      "date": "2026-07-07T09:50Z",
+      "date_display": "07 Jul 09:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Axios reports that Iranian military fired missiles at commercial ships passing through the Strait of...",
       "description": "Axios reports that Iranian military fired missiles at commercial ships passing through the Strait of Hormuz.",
@@ -27,17 +67,97 @@
       "date_display": "04 Jul 01:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "🇨🇳 China government debt as share of GDP.\n\n2006: 25%\n\n2026: 106%\n\n(IMF)",
-      "description": "🇨🇳 China government debt as share of GDP.\n\n2006: 25%\n\n2026: 106%\n\n(IMF)",
-      "date": "2026-07-01T22:20Z",
-      "date_display": "01 Jul 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Iranian media says a US drone has been downed in the country's south",
+      "description": "<b>BREAKING:</b> Iranian media says a US drone has been downed in the country's south",
+      "date": "2026-07-08T03:40Z",
+      "date_display": "08 Jul 03:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it today struck over 80 targets in Iran",
+      "description": "<b>BREAKING:</b> US military says it today struck over 80 targets in Iran",
+      "date": "2026-07-08T01:50Z",
+      "date_display": "08 Jul 01:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports blasts on Qeshm and Kharg islands amid ongoing US strikes",
+      "description": "<b>BREAKING:</b> Iranian media reports blasts on Qeshm and Kharg islands amid ongoing US strikes",
+      "date": "2026-07-08T00:40Z",
+      "date_display": "08 Jul 00:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "World Cup top scorers.\n\n🇦🇷 Lionel Messi: 8 goals\n🇫🇷 Kylian Mbappe: 7 goals\n🇳🇴 Erling Haaland: ...",
+      "description": "World Cup top scorers.\n\n🇦🇷 Lionel Messi: 8 goals\n🇫🇷 Kylian Mbappe: 7 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 4 goals\n🇧🇷 Vinicius Junior: 4 goals",
+      "date": "2026-07-08T00:00Z",
+      "date_display": "08 Jul 00:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup quarter finals. \n\n🇫🇷 France vs 🇲🇦 Morocco\n🇪🇸 Spain vs 🇧🇪 Belgium\n🇳🇴 Norway vs 🏴...",
+      "description": "World Cup quarter finals. \n\n🇫🇷 France vs 🇲🇦 Morocco\n🇪🇸 Spain vs 🇧🇪 Belgium\n🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England\n🇦🇷 Argentina vs 🇨🇭 Switzerland",
+      "date": "2026-07-07T23:40Z",
+      "date_display": "07 Jul 23:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US strikes on targets in southern Iran",
+      "description": "<b>BREAKING:</b> US strikes on targets in southern Iran",
+      "date": "2026-07-07T21:50Z",
+      "date_display": "07 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇦🇷 Argentina beat 🇪🇬 Egypt 3-2 and advance to quarter finals",
+      "description": "<b>BREAKING:</b> 🇦🇷 Argentina beat 🇪🇬 Egypt 3-2 and advance to quarter finals",
+      "date": "2026-07-07T18:10Z",
+      "date_display": "07 Jul 18:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇦🇷 Argentina go 3-2 up against 🇪🇬 Egypt in injury time",
+      "description": "<b>BREAKING:</b> 🇦🇷 Argentina go 3-2 up against 🇪🇬 Egypt in injury time",
+      "date": "2026-07-07T18:00Z",
+      "date_display": "07 Jul 18:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇪🇬 Egypt up 2-0 against 🇦🇷 Argentina",
+      "description": "<b>BREAKING:</b> 🇪🇬 Egypt up 2-0 against 🇦🇷 Argentina",
+      "date": "2026-07-07T17:40Z",
+      "date_display": "07 Jul 17:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇪🇬 Egypt up 1-0 against 🇦🇷 Argentina at half time",
+      "description": "<b>BREAKING:</b> 🇪🇬 Egypt up 1-0 against 🇦🇷 Argentina at half time",
+      "date": "2026-07-07T17:00Z",
+      "date_display": "07 Jul 17:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Saudi Arabia is considering expanding capacity of its east-west pipeline that transports c...",
+      "description": "<b>BREAKING:</b> Saudi Arabia is considering expanding capacity of its east-west pipeline that transports crude oil to Red Sea coast, according to Reuters report.",
+      "date": "2026-07-07T09:50Z",
+      "date_display": "07 Jul 09:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: 🇧🇪 Belgium knock hosts 🇺🇲 USA out of the World Cup after beating them 4-1",
       "description": "<b>BREAKING:</b> 🇧🇪 Belgium knock hosts 🇺🇲 USA out of the World Cup after beating them 4-1",
@@ -188,94 +308,6 @@
       "date": "2026-07-04T03:40Z",
       "date_display": "04 Jul 03:40 UTC",
       "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of ...",
-      "description": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of West Africa\n\n- Population of just over 500,000\n\n- Finished second in group including Spain, Uruguay and Saudi Arabia\n\n- Lost to reigning champions Argentina 3-2 in extra time",
-      "date": "2026-07-04T01:00Z",
-      "date_display": "04 Jul 01:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇦🇷 Argentina beats 🇨🇻 Cape Verde 3-2 in extra time",
-      "description": "<b>BREAKING:</b> 🇦🇷 Argentina beats 🇨🇻 Cape Verde 3-2 in extra time",
-      "date": "2026-07-04T00:50Z",
-      "date_display": "04 Jul 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇨🇻 Cape Verde equalize against 🇦🇷 Argentina 2-2",
-      "description": "<b>BREAKING:</b> 🇨🇻 Cape Verde equalize against 🇦🇷 Argentina 2-2",
-      "date": "2026-07-04T00:30Z",
-      "date_display": "04 Jul 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇨🇻 Cape Verde take reigning champions 🇦🇷 Argentina to extra time with 1-1 draw",
-      "description": "<b>BREAKING:</b> 🇨🇻 Cape Verde take reigning champions 🇦🇷 Argentina to extra time with 1-1 draw",
-      "date": "2026-07-04T00:10Z",
-      "date_display": "04 Jul 00:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇨🇻 Cape Verde equalize against 🇦🇷 Argentina, 1-1, in the 59th minute.",
-      "description": "<b>BREAKING:</b> 🇨🇻 Cape Verde equalize against 🇦🇷 Argentina, 1-1, in the 59th minute.",
-      "date": "2026-07-03T23:30Z",
-      "date_display": "03 Jul 23:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Messi goal, his seventh for the tournament, as 🇦🇷 Argentina leads 🇨🇻 Cape Verde 1-0 at half-time...",
-      "description": "Messi goal, his seventh for the tournament, as 🇦🇷 Argentina leads 🇨🇻 Cape Verde 1-0 at half-time.",
-      "date": "2026-07-03T23:10Z",
-      "date_display": "03 Jul 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇦🇷 Messi has now scored a total of 20 World Cup goals across his career, a new record high. https:...",
-      "description": "🇦🇷 Messi has now scored a total of 20 World Cup goals across his career, a new record high. https://t.co/RO5gGYnW0N",
-      "date": "2026-07-03T23:10Z",
-      "date_display": "03 Jul 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇪🇬 Egypt beat 🇦🇺 Australia on penalties",
-      "description": "<b>BREAKING:</b> 🇪🇬 Egypt beat 🇦🇺 Australia on penalties",
-      "date": "2026-07-03T21:00Z",
-      "date_display": "03 Jul 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇦🇺 Australia and 🇪🇬 Egypt go to penalties",
-      "description": "🇦🇺 Australia and 🇪🇬 Egypt go to penalties",
-      "date": "2026-07-03T20:40Z",
-      "date_display": "03 Jul 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump has issued a pardon for six people who he says were 'sent to prison for fixing their car'. htt...",
-      "description": "Trump has issued a pardon for six people who he says were 'sent to prison for fixing their car'. https://t.co/Oi8ICEJzQU",
-      "date": "2026-07-03T19:40Z",
-      "date_display": "03 Jul 19:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇪🇬 Egypt lead 🇦🇺 Australia 1-0 at half-time.",
-      "description": "🇪🇬 Egypt lead 🇦🇺 Australia 1-0 at half-time.",
-      "date": "2026-07-03T19:00Z",
-      "date_display": "03 Jul 19:00 UTC",
-      "severity": "medium",
       "is_india_relevant": false
     }
   ]

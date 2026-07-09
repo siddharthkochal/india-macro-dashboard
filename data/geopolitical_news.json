@@ -1,17 +1,121 @@
 {
-  "fetched_at": "2026-07-08T03:54Z",
+  "fetched_at": "2026-07-09T04:31Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 7,
+  "india_relevant_items": 20,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": null,
-    "latest_oil_headline": "BREAKING: Saudi Arabia is considering expanding capacity of its east-west pipeline that transports c..."
+    "price_direction": "up",
+    "latest_oil_headline": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iran is firing missiles at targets in Bahrain",
+      "description": "<b>BREAKING:</b> Iran is firing missiles at targets in Bahrain",
+      "date": "2026-07-09T00:50Z",
+      "date_display": "09 Jul 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian missile attack against targets in Kuwait",
+      "description": "<b>BREAKING:</b> Iranian missile attack against targets in Kuwait",
+      "date": "2026-07-09T00:50Z",
+      "date_display": "09 Jul 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Chances of US-Iran nuclear deal by the end of the year have fallen sharply to 32%, accordingly to pr...",
+      "description": "Chances of US-Iran nuclear deal by the end of the year have fallen sharply to 32%, accordingly to prediction market @Kalshi. https://t.co/QAehvQfotY",
+      "date": "2026-07-08T21:40Z",
+      "date_display": "08 Jul 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Ongoing US strikes on Iran",
+      "description": "<b>BREAKING:</b> Ongoing US strikes on Iran",
+      "date": "2026-07-08T21:30Z",
+      "date_display": "08 Jul 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇺🇸 US Secretary of War Pete Hegseth has cancelled his trip to Israel as US-Iran tensions rise and ...",
+      "description": "🇺🇸 US Secretary of War Pete Hegseth has cancelled his trip to Israel as US-Iran tensions rise and Trump says ceasefire is 'over'.",
+      "date": "2026-07-08T09:10Z",
+      "date_display": "08 Jul 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'.",
+      "description": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'.",
+      "date": "2026-07-08T09:10Z",
+      "date_display": "08 Jul 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says ceasefire memorandum of understanding Iran is 'over'",
+      "description": "<b>BREAKING:</b> Trump says ceasefire memorandum of understanding Iran is 'over'",
+      "date": "2026-07-08T08:30Z",
+      "date_display": "08 Jul 08:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices surge by 5% as US-Iran tensions rise",
+      "description": "<b>BREAKING:</b> Oil prices surge by 5% as US-Iran tensions rise",
+      "date": "2026-07-08T08:30Z",
+      "date_display": "08 Jul 08:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says Iran are 'dirty players' and 'scum'.",
+      "description": "President Trump says Iran are 'dirty players' and 'scum'.",
+      "date": "2026-07-08T08:20Z",
+      "date_display": "08 Jul 08:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices rise by over 3% amid worsening tensions between US and Iran.",
+      "description": "Oil prices rise by over 3% amid worsening tensions between US and Iran.",
+      "date": "2026-07-08T07:20Z",
+      "date_display": "08 Jul 07:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "ADNOC today launched a global liquefied natural gas (LNG) marketing and trading platform in Abu Dhab...",
+      "description": "ADNOC today launched a global liquefied natural gas (LNG) marketing and trading platform in Abu Dhabi Global Market, combining the marketing activities of ADNOC Gas and XRG with the trading and shipping capabilities of ADNOC Trading into an integrated platform. \n\nDesigned to enhance flexibility and optionality, the move supports ADNOC Gas’ expanding LNG portfolio, including Ruwais LNG, and XRG’s growing international LNG footprint, while strengthening customer access globally. The platform will enhance the ability to manage a growing and diverse LNG portfolio, building on ADNOC’s five-decade track record as a trusted LNG supplier. \n\nTargeting 47 million tonnes per annum (mtpa) of combined marketable LNG by 2035, the platform will rank among the leading global LNG players, scaling up ADNOC and XRG’s capacity to optimize a growing and diverse LNG portfolio and reinforce Abu Dhabi’s position as a global energy trading center.\n \nWith LNG demand set to grow substantially, the world will need reliable, responsible and trusted suppliers at scale. This world-class, integrated commercial LNG platform brings together the full strength of ADNOC’s marketing, trading and shipping capabilities to create a single global hub in Abu Dhabi. It marks a step-change in scale, flexibility and optionality of ADNOCs LNG marketing and trading platform and will further position ADNOC to meet the world’s growing demand for energy.\n\nThis is in context of the global demand for natural gas being expected to rise 15% over the next decade, driven partly by data centres and artificial intelligence.",
+      "date": "2026-07-08T06:50Z",
+      "date_display": "08 Jul 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "ENERGY: ADNOC launches global LNG marketing and trading platform in Abu Dhabi Global Market",
+      "description": "ENERGY: ADNOC launches global LNG marketing and trading platform in Abu Dhabi Global Market",
+      "date": "2026-07-08T06:50Z",
+      "date_display": "08 Jul 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran says it has targeted sites in Bahrain and Kuwait",
+      "description": "<b>BREAKING:</b> Iran says it has targeted sites in Bahrain and Kuwait",
+      "date": "2026-07-08T04:00Z",
+      "date_display": "08 Jul 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian media says a US drone has been downed in the country's south",
       "description": "<b>BREAKING:</b> Iranian media says a US drone has been downed in the country's south",
@@ -70,6 +174,110 @@
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Iran is firing missiles at targets in Bahrain",
+      "description": "<b>BREAKING:</b> Iran is firing missiles at targets in Bahrain",
+      "date": "2026-07-09T00:50Z",
+      "date_display": "09 Jul 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian missile attack against targets in Kuwait",
+      "description": "<b>BREAKING:</b> Iranian missile attack against targets in Kuwait",
+      "date": "2026-07-09T00:50Z",
+      "date_display": "09 Jul 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Chances of US-Iran nuclear deal by the end of the year have fallen sharply to 32%, accordingly to pr...",
+      "description": "Chances of US-Iran nuclear deal by the end of the year have fallen sharply to 32%, accordingly to prediction market @Kalshi. https://t.co/QAehvQfotY",
+      "date": "2026-07-08T21:40Z",
+      "date_display": "08 Jul 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Ongoing US strikes on Iran",
+      "description": "<b>BREAKING:</b> Ongoing US strikes on Iran",
+      "date": "2026-07-08T21:30Z",
+      "date_display": "08 Jul 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇺🇸 US Secretary of War Pete Hegseth has cancelled his trip to Israel as US-Iran tensions rise and ...",
+      "description": "🇺🇸 US Secretary of War Pete Hegseth has cancelled his trip to Israel as US-Iran tensions rise and Trump says ceasefire is 'over'.",
+      "date": "2026-07-08T09:10Z",
+      "date_display": "08 Jul 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'.",
+      "description": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'.",
+      "date": "2026-07-08T09:10Z",
+      "date_display": "08 Jul 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says ceasefire memorandum of understanding Iran is 'over'",
+      "description": "<b>BREAKING:</b> Trump says ceasefire memorandum of understanding Iran is 'over'",
+      "date": "2026-07-08T08:30Z",
+      "date_display": "08 Jul 08:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices surge by 5% as US-Iran tensions rise",
+      "description": "<b>BREAKING:</b> Oil prices surge by 5% as US-Iran tensions rise",
+      "date": "2026-07-08T08:30Z",
+      "date_display": "08 Jul 08:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says Iran are 'dirty players' and 'scum'.",
+      "description": "President Trump says Iran are 'dirty players' and 'scum'.",
+      "date": "2026-07-08T08:20Z",
+      "date_display": "08 Jul 08:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices rise by over 3% amid worsening tensions between US and Iran.",
+      "description": "Oil prices rise by over 3% amid worsening tensions between US and Iran.",
+      "date": "2026-07-08T07:20Z",
+      "date_display": "08 Jul 07:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "ADNOC today launched a global liquefied natural gas (LNG) marketing and trading platform in Abu Dhab...",
+      "description": "ADNOC today launched a global liquefied natural gas (LNG) marketing and trading platform in Abu Dhabi Global Market, combining the marketing activities of ADNOC Gas and XRG with the trading and shipping capabilities of ADNOC Trading into an integrated platform. \n\nDesigned to enhance flexibility and optionality, the move supports ADNOC Gas’ expanding LNG portfolio, including Ruwais LNG, and XRG’s growing international LNG footprint, while strengthening customer access globally. The platform will enhance the ability to manage a growing and diverse LNG portfolio, building on ADNOC’s five-decade track record as a trusted LNG supplier. \n\nTargeting 47 million tonnes per annum (mtpa) of combined marketable LNG by 2035, the platform will rank among the leading global LNG players, scaling up ADNOC and XRG’s capacity to optimize a growing and diverse LNG portfolio and reinforce Abu Dhabi’s position as a global energy trading center.\n \nWith LNG demand set to grow substantially, the world will need reliable, responsible and trusted suppliers at scale. This world-class, integrated commercial LNG platform brings together the full strength of ADNOC’s marketing, trading and shipping capabilities to create a single global hub in Abu Dhabi. It marks a step-change in scale, flexibility and optionality of ADNOCs LNG marketing and trading platform and will further position ADNOC to meet the world’s growing demand for energy.\n\nThis is in context of the global demand for natural gas being expected to rise 15% over the next decade, driven partly by data centres and artificial intelligence.",
+      "date": "2026-07-08T06:50Z",
+      "date_display": "08 Jul 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "ENERGY: ADNOC launches global LNG marketing and trading platform in Abu Dhabi Global Market",
+      "description": "ENERGY: ADNOC launches global LNG marketing and trading platform in Abu Dhabi Global Market",
+      "date": "2026-07-08T06:50Z",
+      "date_display": "08 Jul 06:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran says it has targeted sites in Bahrain and Kuwait",
+      "description": "<b>BREAKING:</b> Iran says it has targeted sites in Bahrain and Kuwait",
+      "date": "2026-07-08T04:00Z",
+      "date_display": "08 Jul 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian media says a US drone has been downed in the country's south",
       "description": "<b>BREAKING:</b> Iranian media says a US drone has been downed in the country's south",
@@ -203,110 +411,6 @@
       "description": "<b>BREAKING:</b> Neymar retires from international football",
       "date": "2026-07-05T23:20Z",
       "date_display": "05 Jul 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: ...",
-      "description": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals",
-      "date": "2026-07-05T22:30Z",
-      "date_display": "05 Jul 22:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Five-time champions 🇧🇷 Brazil: Knocked out in round of 16\n\nFour-time champions 🇩🇪 Germany: Knock...",
-      "description": "Five-time champions 🇧🇷 Brazil: Knocked out in round of 16\n\nFour-time champions 🇩🇪 Germany: Knocked out in round of 32\n\nFour-time champions 🇮🇹 Italy: Did not qualify for the World Cup",
-      "date": "2026-07-05T22:20Z",
-      "date_display": "05 Jul 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇳🇴 NORWAY KNOCK FIVE-TIME CHAMPIONS 🇧🇷 BRAZIL OUT OF THE WORLD CUP",
-      "description": "<b>BREAKING:</b> 🇳🇴 NORWAY KNOCK FIVE-TIME CHAMPIONS 🇧🇷 BRAZIL OUT OF THE WORLD CUP",
-      "date": "2026-07-05T22:10Z",
-      "date_display": "05 Jul 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇳🇴 Norway 2-0 up against 🇧🇷 Brazil, now in injury time.",
-      "description": "<b>BREAKING:</b> 🇳🇴 Norway 2-0 up against 🇧🇷 Brazil, now in injury time.",
-      "date": "2026-07-05T22:00Z",
-      "date_display": "05 Jul 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇳🇴 Norway 1-0 up against 🇧🇷 Brazil in the 81st minute",
-      "description": "<b>BREAKING:</b> 🇳🇴 Norway 1-0 up against 🇧🇷 Brazil in the 81st minute",
-      "date": "2026-07-05T21:50Z",
-      "date_display": "05 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Jurgen Klopp is set to become the new head coach of Germany's football team. https://t.co/98DBqIKUjO",
-      "description": "Jurgen Klopp is set to become the new head coach of Germany's football team. https://t.co/98DBqIKUjO",
-      "date": "2026-07-05T10:10Z",
-      "date_display": "05 Jul 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: ...",
-      "description": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: 5 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇩🇪 Deniz Undav: 3 goals\n🇨🇭 Johan Manzambi: 3 goals\n🇲🇽 Julian Quinones: 3 goals\n🇳🇱 Cody Gakpo: 3 goals\n🇳🇱 Brian Brobbey: 3 goals\n🇺🇸 Folarin Balogun: 3 goals\n🇧🇷 Matheus Cunha: 3 goals\n🇳🇿 Elijah Just: 3 goals\n🇵🇹 Cristiano Ronaldo: 3 goals\n🇩🇪 Kai Havertz: 3 goals\n🇨🇩 Yoane Wissa: 3 goals\n🇲🇦 Ismael Saibari: 3 goals\n🇨🇦 Jonathan David: 3 goals",
-      "date": "2026-07-05T08:30Z",
-      "date_display": "05 Jul 08:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇻🇪 Venezuela earthquake death toll has risen to 2,954.",
-      "description": "🇻🇪 Venezuela earthquake death toll has risen to 2,954.",
-      "date": "2026-07-05T01:30Z",
-      "date_display": "05 Jul 01:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇫🇷 France beat 🇵🇾 Paraguay 1-0 and advance to the quarter finals",
-      "description": "<b>BREAKING:</b> 🇫🇷 France beat 🇵🇾 Paraguay 1-0 and advance to the quarter finals",
-      "date": "2026-07-04T23:10Z",
-      "date_display": "04 Jul 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Mbappe scores in 70th minute, 🇫🇷 France go 1-0 up against 🇵🇾 Paraguay.",
-      "description": "<b>BREAKING:</b> Mbappe scores in 70th minute, 🇫🇷 France go 1-0 up against 🇵🇾 Paraguay.",
-      "date": "2026-07-04T22:40Z",
-      "date_display": "04 Jul 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇲🇦 Morocco beat hosts 🇨🇦 Canada 3-0 and advance to quarter finals",
-      "description": "<b>BREAKING:</b> 🇲🇦 Morocco beat hosts 🇨🇦 Canada 3-0 and advance to quarter finals",
-      "date": "2026-07-04T19:10Z",
-      "date_display": "04 Jul 19:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup top scorers.\n\n🇦🇷 Lionel Messi: 7 goals\n🇫🇷 Kylian Mbappe: 6 goals\n🇳🇴 Erling Haaland: ...",
-      "description": "World Cup top scorers.\n\n🇦🇷 Lionel Messi: 7 goals\n🇫🇷 Kylian Mbappe: 6 goals\n🇳🇴 Erling Haaland: 5 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 5 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇩🇪 Deniz Undav: 3 goals\n🇨🇭 Johan Manzambi: 3 goals\n🇲🇽 Julian Quinones: 3 goals\n🇳🇱 Cody Gakpo: 3 goals\n🇳🇱 Brian Brobbey: 3 goals\n🇺🇸 Folarin Balogun: 3 goals\n🇧🇷 Matheus Cunha: 3 goals\n🇳🇿 Elijah Just: 3 goals\n🇨🇦 Jonathan David: 3 goals\n🇵🇹 Cristiano Ronaldo: 3 goals\n🇲🇦 Ismael Saibari: 3 goals\n🇩🇪 Kai Havertz: 3 goals\n🇨🇩 Yoane Wissa: 3 goals",
-      "date": "2026-07-04T07:30Z",
-      "date_display": "04 Jul 07:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇨🇴 Colombia beat 🇬🇭 Ghana 1-0",
-      "description": "<b>BREAKING:</b> 🇨🇴 Colombia beat 🇬🇭 Ghana 1-0",
-      "date": "2026-07-04T03:40Z",
-      "date_display": "04 Jul 03:40 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

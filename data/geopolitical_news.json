@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-09T04:31Z",
+  "fetched_at": "2026-07-10T04:34Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -174,6 +174,38 @@
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇫🇷 France go to the semi-finals after beating 🇲🇦 Morocco",
+      "description": "<b>BREAKING:</b> 🇫🇷 France go to the semi-finals after beating 🇲🇦 Morocco",
+      "date": "2026-07-09T22:10Z",
+      "date_display": "09 Jul 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Ousmanne Dembele scores, 🇫🇷 France up 2-0 against 🇲🇦 Morocco.",
+      "description": "<b>BREAKING:</b> Ousmanne Dembele scores, 🇫🇷 France up 2-0 against 🇲🇦 Morocco.",
+      "date": "2026-07-09T21:40Z",
+      "date_display": "09 Jul 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Mbappe scores, 🇫🇷 France up 1-0 against 🇲🇦 Morocco in 60th minute.",
+      "description": "<b>BREAKING:</b> Mbappe scores, 🇫🇷 France up 1-0 against 🇲🇦 Morocco in 60th minute.",
+      "date": "2026-07-09T21:30Z",
+      "date_display": "09 Jul 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇫🇷 France and 🇲🇦Morocco are 0-0 at half-time.",
+      "description": "🇫🇷 France and 🇲🇦Morocco are 0-0 at half-time.",
+      "date": "2026-07-09T21:00Z",
+      "date_display": "09 Jul 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Iran is firing missiles at targets in Bahrain",
       "description": "<b>BREAKING:</b> Iran is firing missiles at targets in Bahrain",
@@ -381,38 +413,6 @@
       "date_display": "07 Jul 00:40 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "Marco Rubio leads chances of winning the 2028 Presidential Election with 18%, followed by JD Vance a...",
-      "description": "Marco Rubio leads chances of winning the 2028 Presidential Election with 18%, followed by JD Vance at 17% and Gavin Newsom at 13%, according to @Kalshi prediction market. https://t.co/dFJkJ62wq1",
-      "date": "2026-07-07T00:40Z",
-      "date_display": "07 Jul 00:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: ...",
-      "description": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 7 goals\n🇦🇷 Lionel Messi: 7 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 4 goals\n🇧🇷 Vinicius Junior: 4 goals",
-      "date": "2026-07-06T07:10Z",
-      "date_display": "06 Jul 07:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇲🇽 Mexico 3-2 and advance to the quarter finals",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇲🇽 Mexico 3-2 and advance to the quarter finals",
-      "date": "2026-07-06T03:20Z",
-      "date_display": "06 Jul 03:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Neymar retires from international football",
-      "description": "<b>BREAKING:</b> Neymar retires from international football",
-      "date": "2026-07-05T23:20Z",
-      "date_display": "05 Jul 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

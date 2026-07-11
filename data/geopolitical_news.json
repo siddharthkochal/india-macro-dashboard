@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-10T04:34Z",
+  "fetched_at": "2026-07-11T03:52Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 20,
+  "india_relevant_items": 19,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -163,17 +163,41 @@
       "date_display": "07 Jul 00:40 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of ...",
-      "description": "🇨🇻 CAPE VERDE\n\n- Archipelago nation of 10 volcanic islands in the Atlantic Ocean off the coast of West Africa\n\n- Population of just over 500,000\n\n- Finished second in group including Spain, Uruguay and Saudi Arabia\n\n- Lost to reigning champions Argentina 3-2 in extra time",
-      "date": "2026-07-04T01:00Z",
-      "date_display": "04 Jul 01:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "The Republican Party now has a 57% chance of winning the US Senate, compared to 43% for the Democrat...",
+      "description": "The Republican Party now has a 57% chance of winning the US Senate, compared to 43% for the Democrats, according to prediction market @Kalshi. https://t.co/WCEk46go0u",
+      "date": "2026-07-11T00:20Z",
+      "date_display": "11 Jul 00:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇻🇪 Venezuela authorities say earthquake death toll has passed 4,000.",
+      "description": "🇻🇪 Venezuela authorities say earthquake death toll has passed 4,000.",
+      "date": "2026-07-10T22:20Z",
+      "date_display": "10 Jul 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Electricity blackout in Cuba",
+      "description": "<b>BREAKING:</b> Electricity blackout in Cuba",
+      "date": "2026-07-10T22:00Z",
+      "date_display": "10 Jul 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 8 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: ...",
+      "description": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 8 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals",
+      "date": "2026-07-10T21:40Z",
+      "date_display": "10 Jul 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇫🇷 France go to the semi-finals after beating 🇲🇦 Morocco",
       "description": "<b>BREAKING:</b> 🇫🇷 France go to the semi-finals after beating 🇲🇦 Morocco",
@@ -381,38 +405,6 @@
       "date_display": "07 Jul 17:40 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇪🇬 Egypt up 1-0 against 🇦🇷 Argentina at half time",
-      "description": "<b>BREAKING:</b> 🇪🇬 Egypt up 1-0 against 🇦🇷 Argentina at half time",
-      "date": "2026-07-07T17:00Z",
-      "date_display": "07 Jul 17:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Saudi Arabia is considering expanding capacity of its east-west pipeline that transports c...",
-      "description": "<b>BREAKING:</b> Saudi Arabia is considering expanding capacity of its east-west pipeline that transports crude oil to Red Sea coast, according to Reuters report.",
-      "date": "2026-07-07T09:50Z",
-      "date_display": "07 Jul 09:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇧🇪 Belgium knock hosts 🇺🇲 USA out of the World Cup after beating them 4-1",
-      "description": "<b>BREAKING:</b> 🇧🇪 Belgium knock hosts 🇺🇲 USA out of the World Cup after beating them 4-1",
-      "date": "2026-07-07T02:00Z",
-      "date_display": "07 Jul 02:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Axios reports that Iranian military fired missiles at commercial ships passing through the Strait of...",
-      "description": "Axios reports that Iranian military fired missiles at commercial ships passing through the Strait of Hormuz.",
-      "date": "2026-07-07T00:40Z",
-      "date_display": "07 Jul 00:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ]
 }

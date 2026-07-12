@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-11T03:52Z",
+  "fetched_at": "2026-07-12T04:06Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 19,
+  "india_relevant_items": 20,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'."
   },
   "india_headlines": [
+    {
+      "title": "US military says it struck around 140 Iranian military targets.",
+      "description": "US military says it struck around 140 Iranian military targets.",
+      "date": "2026-07-12T03:50Z",
+      "date_display": "12 Jul 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iran is firing missiles at targets in Bahrain",
       "description": "<b>BREAKING:</b> Iran is firing missiles at targets in Bahrain",
@@ -166,6 +174,86 @@
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇦🇷 Argentina advance to the semi-finals to face 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+      "description": "<b>BREAKING:</b> 🇦🇷 Argentina advance to the semi-finals to face 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+      "date": "2026-07-12T03:50Z",
+      "date_display": "12 Jul 03:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US military says it struck around 140 Iranian military targets.",
+      "description": "US military says it struck around 140 Iranian military targets.",
+      "date": "2026-07-12T03:50Z",
+      "date_display": "12 Jul 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇦🇷 Argentina and 🇨🇭 Switzerland go to extra time",
+      "description": "<b>BREAKING:</b> 🇦🇷 Argentina and 🇨🇭 Switzerland go to extra time",
+      "date": "2026-07-12T03:10Z",
+      "date_display": "12 Jul 03:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇦🇷 Argentina are 1-0 up against 🇨🇭 Switzerland",
+      "description": "<b>BREAKING:</b> 🇦🇷 Argentina are 1-0 up against 🇨🇭 Switzerland",
+      "date": "2026-07-12T01:20Z",
+      "date_display": "12 Jul 01:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇳🇴 Norway 2-1 and advance to semi-finals",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇳🇴 Norway 2-1 and advance to semi-finals",
+      "date": "2026-07-11T23:50Z",
+      "date_display": "11 Jul 23:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 2-1 up against 🇳🇴 Norway in extra-time",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 2-1 up against 🇳🇴 Norway in extra-time",
+      "date": "2026-07-11T23:20Z",
+      "date_display": "11 Jul 23:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿England and 🇳🇴Norway go to extra time",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿England and 🇳🇴Norway go to extra time",
+      "date": "2026-07-11T23:10Z",
+      "date_display": "11 Jul 23:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇳🇴 Norway go 2-1 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+      "description": "<b>BREAKING:</b> 🇳🇴 Norway go 2-1 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+      "date": "2026-07-11T22:20Z",
+      "date_display": "11 Jul 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England equalize 1-1 against 🇳🇴 Norway just before half-time",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England equalize 1-1 against 🇳🇴 Norway just before half-time",
+      "date": "2026-07-11T21:50Z",
+      "date_display": "11 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇳🇴 Norway go 1-0 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+      "description": "<b>BREAKING:</b> 🇳🇴 Norway go 1-0 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
+      "date": "2026-07-11T21:40Z",
+      "date_display": "11 Jul 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "The Republican Party now has a 57% chance of winning the US Senate, compared to 43% for the Democrat...",
       "description": "The Republican Party now has a 57% chance of winning the US Senate, compared to 43% for the Democrats, according to prediction market @Kalshi. https://t.co/WCEk46go0u",
@@ -325,86 +413,6 @@
       "date_display": "08 Jul 06:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran says it has targeted sites in Bahrain and Kuwait",
-      "description": "<b>BREAKING:</b> Iran says it has targeted sites in Bahrain and Kuwait",
-      "date": "2026-07-08T04:00Z",
-      "date_display": "08 Jul 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media says a US drone has been downed in the country's south",
-      "description": "<b>BREAKING:</b> Iranian media says a US drone has been downed in the country's south",
-      "date": "2026-07-08T03:40Z",
-      "date_display": "08 Jul 03:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it today struck over 80 targets in Iran",
-      "description": "<b>BREAKING:</b> US military says it today struck over 80 targets in Iran",
-      "date": "2026-07-08T01:50Z",
-      "date_display": "08 Jul 01:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports blasts on Qeshm and Kharg islands amid ongoing US strikes",
-      "description": "<b>BREAKING:</b> Iranian media reports blasts on Qeshm and Kharg islands amid ongoing US strikes",
-      "date": "2026-07-08T00:40Z",
-      "date_display": "08 Jul 00:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "World Cup top scorers.\n\n🇦🇷 Lionel Messi: 8 goals\n🇫🇷 Kylian Mbappe: 7 goals\n🇳🇴 Erling Haaland: ...",
-      "description": "World Cup top scorers.\n\n🇦🇷 Lionel Messi: 8 goals\n🇫🇷 Kylian Mbappe: 7 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 4 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 4 goals\n🇧🇷 Vinicius Junior: 4 goals",
-      "date": "2026-07-08T00:00Z",
-      "date_display": "08 Jul 00:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup quarter finals. \n\n🇫🇷 France vs 🇲🇦 Morocco\n🇪🇸 Spain vs 🇧🇪 Belgium\n🇳🇴 Norway vs 🏴...",
-      "description": "World Cup quarter finals. \n\n🇫🇷 France vs 🇲🇦 Morocco\n🇪🇸 Spain vs 🇧🇪 Belgium\n🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England\n🇦🇷 Argentina vs 🇨🇭 Switzerland",
-      "date": "2026-07-07T23:40Z",
-      "date_display": "07 Jul 23:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US strikes on targets in southern Iran",
-      "description": "<b>BREAKING:</b> US strikes on targets in southern Iran",
-      "date": "2026-07-07T21:50Z",
-      "date_display": "07 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇦🇷 Argentina beat 🇪🇬 Egypt 3-2 and advance to quarter finals",
-      "description": "<b>BREAKING:</b> 🇦🇷 Argentina beat 🇪🇬 Egypt 3-2 and advance to quarter finals",
-      "date": "2026-07-07T18:10Z",
-      "date_display": "07 Jul 18:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇷 Argentina go 3-2 up against 🇪🇬 Egypt in injury time",
-      "description": "<b>BREAKING:</b> 🇦🇷 Argentina go 3-2 up against 🇪🇬 Egypt in injury time",
-      "date": "2026-07-07T18:00Z",
-      "date_display": "07 Jul 18:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇪🇬 Egypt up 2-0 against 🇦🇷 Argentina",
-      "description": "<b>BREAKING:</b> 🇪🇬 Egypt up 2-0 against 🇦🇷 Argentina",
-      "date": "2026-07-07T17:40Z",
-      "date_display": "07 Jul 17:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

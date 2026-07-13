@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T04:06Z",
+  "fetched_at": "2026-07-13T04:09Z",
   "source": "Yahoo Finance (free, no API key)",
   "prices": {
     "brent": {
@@ -7,9 +7,9 @@
       "name": "Brent Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_85",
-      "current_value": 76.01,
-      "change_from_prev": 0.0,
-      "direction": "flat",
+      "current_value": 79.09,
+      "change_from_prev": 3.08,
+      "direction": "up",
       "signal": "neutral",
       "series": [
         {
@@ -58,19 +58,19 @@
         },
         {
           "date": "Jul-26",
-          "value": 76.01
+          "value": 79.09
         }
       ],
-      "fetched_at": "2026-07-12T04:06Z"
+      "fetched_at": "2026-07-13T04:09Z"
     },
     "wti": {
       "symbol": "CL=F",
       "name": "WTI Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_80",
-      "current_value": 71.41,
-      "change_from_prev": 0.0,
-      "direction": "flat",
+      "current_value": 74.29,
+      "change_from_prev": 2.88,
+      "direction": "up",
       "signal": "neutral",
       "series": [
         {
@@ -119,19 +119,19 @@
         },
         {
           "date": "Jul-26",
-          "value": 71.41
+          "value": 74.29
         }
       ],
-      "fetched_at": "2026-07-12T04:06Z"
+      "fetched_at": "2026-07-13T04:09Z"
     },
     "gold": {
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/troy oz",
       "india_impact": "negative_via_import_demand",
-      "current_value": 4113.7,
-      "change_from_prev": 9.6,
-      "direction": "up",
+      "current_value": 4067.7,
+      "change_from_prev": -36.4,
+      "direction": "down",
       "signal": "bearish",
       "series": [
         {
@@ -180,19 +180,19 @@
         },
         {
           "date": "Jul-26",
-          "value": 4113.7
+          "value": 4067.7
         }
       ],
-      "fetched_at": "2026-07-12T04:06Z"
+      "fetched_at": "2026-07-13T04:09Z"
     },
     "inr": {
       "symbol": "USDINR=X",
       "name": "USD/INR",
       "unit": "INR per USD",
       "india_impact": "higher_is_bearish_for_india",
-      "current_value": 95.37,
-      "change_from_prev": -0.16,
-      "direction": "down",
+      "current_value": 95.73,
+      "change_from_prev": 0.2,
+      "direction": "up",
       "signal": "bearish",
       "series": [
         {
@@ -249,10 +249,10 @@
         },
         {
           "date": "Jul-26",
-          "value": 95.37
+          "value": 95.73
         }
       ],
-      "fetched_at": "2026-07-12T04:06Z"
+      "fetched_at": "2026-07-13T04:09Z"
     },
     "ovx": {
       "symbol": "^OVX",
@@ -321,17 +321,17 @@
           "value": 44.67
         }
       ],
-      "fetched_at": "2026-07-12T04:06Z"
+      "fetched_at": "2026-07-13T04:09Z"
     }
   },
   "india_oil_alert": {
     "severity": "warning",
     "alerts": [
       "Oil volatility index (OVX) at 45 \u2014 elevated supply disruption risk (Strait of Hormuz?)",
-      "USD/INR at 95.37 \u2014 weak rupee amplifies oil import cost in INR terms"
+      "USD/INR at 95.73 \u2014 weak rupee amplifies oil import cost in INR terms"
     ],
-    "brent": 76.01,
-    "inr": 95.37,
+    "brent": 79.09,
+    "inr": 95.73,
     "ovx": 44.67
   }
 }

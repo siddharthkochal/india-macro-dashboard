@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-07-12T04:06Z",
+  "fetched_at": "2026-07-13T04:09Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 20,
+  "india_relevant_items": 22,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": true,
+    "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'."
+    "latest_oil_headline": "BREAKING: Oil prices up by over 4% as Middle East tensions continue to rise"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iranian missile attack targets US military bases in Kuwait and Bahrain",
+      "description": "<b>BREAKING:</b> Iranian missile attack targets US military bases in Kuwait and Bahrain",
+      "date": "2026-07-13T02:20Z",
+      "date_display": "13 Jul 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices up by over 4% as Middle East tensions continue to rise",
+      "description": "<b>BREAKING:</b> Oil prices up by over 4% as Middle East tensions continue to rise",
+      "date": "2026-07-13T01:40Z",
+      "date_display": "13 Jul 01:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian ballistic missile launches, targets not yet known.",
+      "description": "Iranian ballistic missile launches, targets not yet known.",
+      "date": "2026-07-13T01:20Z",
+      "date_display": "13 Jul 01:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US military says it struck around 140 Iranian military targets.",
       "description": "US military says it struck around 140 Iranian military targets.",
@@ -147,33 +171,65 @@
       "date_display": "08 Jul 00:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes on targets in southern Iran",
-      "description": "<b>BREAKING:</b> US strikes on targets in southern Iran",
-      "date": "2026-07-07T21:50Z",
-      "date_display": "07 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia is considering expanding capacity of its east-west pipeline that transports c...",
-      "description": "<b>BREAKING:</b> Saudi Arabia is considering expanding capacity of its east-west pipeline that transports crude oil to Red Sea coast, according to Reuters report.",
-      "date": "2026-07-07T09:50Z",
-      "date_display": "07 Jul 09:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Axios reports that Iranian military fired missiles at commercial ships passing through the Strait of...",
-      "description": "Axios reports that Iranian military fired missiles at commercial ships passing through the Strait of Hormuz.",
-      "date": "2026-07-07T00:40Z",
-      "date_display": "07 Jul 00:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Iranian missile attack targets US military bases in Kuwait and Bahrain",
+      "description": "<b>BREAKING:</b> Iranian missile attack targets US military bases in Kuwait and Bahrain",
+      "date": "2026-07-13T02:20Z",
+      "date_display": "13 Jul 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇺🇸 Gavin Newsom's chances of becoming the 2028 Democratic presidential nominee have fallen to 20%,...",
+      "description": "🇺🇸 Gavin Newsom's chances of becoming the 2028 Democratic presidential nominee have fallen to 20%, followed by 15% for AOC, 13% for Jon Ossoff and 7.9% for Kamala Harris, according to @Kalshi prediction market. https://t.co/0ITHMMop8z",
+      "date": "2026-07-13T02:10Z",
+      "date_display": "13 Jul 02:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Oil prices up by over 4% as Middle East tensions continue to rise",
+      "description": "<b>BREAKING:</b> Oil prices up by over 4% as Middle East tensions continue to rise",
+      "date": "2026-07-13T01:40Z",
+      "date_display": "13 Jul 01:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian ballistic missile launches, targets not yet known.",
+      "description": "Iranian ballistic missile launches, targets not yet known.",
+      "date": "2026-07-13T01:20Z",
+      "date_display": "13 Jul 01:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Republican Senator Lindsey Graham has died after brief illness https://t.co/RqYCCSYG4b...",
+      "description": "<b>BREAKING:</b> Republican Senator Lindsey Graham has died after brief illness https://t.co/RqYCCSYG4b",
+      "date": "2026-07-12T07:50Z",
+      "date_display": "12 Jul 07:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Qatar's previous Emir Hamad bin Khalifa Al Thani has died https://t.co/ojEOJboUt8",
+      "description": "<b>BREAKING:</b> Qatar's previous Emir Hamad bin Khalifa Al Thani has died https://t.co/ojEOJboUt8",
+      "date": "2026-07-12T05:40Z",
+      "date_display": "12 Jul 05:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup leading scorers.\n\n🇫🇷 Kylian Mbappe: 8 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haala...",
+      "description": "World Cup leading scorers.\n\n🇫🇷 Kylian Mbappe: 8 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 6 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals",
+      "date": "2026-07-12T04:50Z",
+      "date_display": "12 Jul 04:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇦🇷 Argentina advance to the semi-finals to face 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
       "description": "<b>BREAKING:</b> 🇦🇷 Argentina advance to the semi-finals to face 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
@@ -355,62 +411,6 @@
       "description": "🇺🇸 US Secretary of War Pete Hegseth has cancelled his trip to Israel as US-Iran tensions rise and Trump says ceasefire is 'over'.",
       "date": "2026-07-08T09:10Z",
       "date_display": "08 Jul 09:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'.",
-      "description": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'.",
-      "date": "2026-07-08T09:10Z",
-      "date_display": "08 Jul 09:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says ceasefire memorandum of understanding Iran is 'over'",
-      "description": "<b>BREAKING:</b> Trump says ceasefire memorandum of understanding Iran is 'over'",
-      "date": "2026-07-08T08:30Z",
-      "date_display": "08 Jul 08:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices surge by 5% as US-Iran tensions rise",
-      "description": "<b>BREAKING:</b> Oil prices surge by 5% as US-Iran tensions rise",
-      "date": "2026-07-08T08:30Z",
-      "date_display": "08 Jul 08:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump says Iran are 'dirty players' and 'scum'.",
-      "description": "President Trump says Iran are 'dirty players' and 'scum'.",
-      "date": "2026-07-08T08:20Z",
-      "date_display": "08 Jul 08:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices rise by over 3% amid worsening tensions between US and Iran.",
-      "description": "Oil prices rise by over 3% amid worsening tensions between US and Iran.",
-      "date": "2026-07-08T07:20Z",
-      "date_display": "08 Jul 07:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "ADNOC today launched a global liquefied natural gas (LNG) marketing and trading platform in Abu Dhab...",
-      "description": "ADNOC today launched a global liquefied natural gas (LNG) marketing and trading platform in Abu Dhabi Global Market, combining the marketing activities of ADNOC Gas and XRG with the trading and shipping capabilities of ADNOC Trading into an integrated platform. \n\nDesigned to enhance flexibility and optionality, the move supports ADNOC Gas’ expanding LNG portfolio, including Ruwais LNG, and XRG’s growing international LNG footprint, while strengthening customer access globally. The platform will enhance the ability to manage a growing and diverse LNG portfolio, building on ADNOC’s five-decade track record as a trusted LNG supplier. \n\nTargeting 47 million tonnes per annum (mtpa) of combined marketable LNG by 2035, the platform will rank among the leading global LNG players, scaling up ADNOC and XRG’s capacity to optimize a growing and diverse LNG portfolio and reinforce Abu Dhabi’s position as a global energy trading center.\n \nWith LNG demand set to grow substantially, the world will need reliable, responsible and trusted suppliers at scale. This world-class, integrated commercial LNG platform brings together the full strength of ADNOC’s marketing, trading and shipping capabilities to create a single global hub in Abu Dhabi. It marks a step-change in scale, flexibility and optionality of ADNOCs LNG marketing and trading platform and will further position ADNOC to meet the world’s growing demand for energy.\n\nThis is in context of the global demand for natural gas being expected to rise 15% over the next decade, driven partly by data centres and artificial intelligence.",
-      "date": "2026-07-08T06:50Z",
-      "date_display": "08 Jul 06:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "ENERGY: ADNOC launches global LNG marketing and trading platform in Abu Dhabi Global Market",
-      "description": "ENERGY: ADNOC launches global LNG marketing and trading platform in Abu Dhabi Global Market",
-      "date": "2026-07-08T06:50Z",
-      "date_display": "08 Jul 06:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

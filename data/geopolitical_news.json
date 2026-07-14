@@ -1,17 +1,57 @@
 {
-  "fetched_at": "2026-07-13T04:09Z",
+  "fetched_at": "2026-07-14T03:44Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 22,
+  "india_relevant_items": 26,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Oil prices up by over 4% as Middle East tensions continue to rise"
+    "latest_oil_headline": "US crude oil back over $80"
   },
   "india_headlines": [
+    {
+      "title": "US crude oil back over $80",
+      "description": "US crude oil back over $80",
+      "date": "2026-07-14T00:50Z",
+      "date_display": "14 Jul 00:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Sirens are sounding across parts of Bahrain amid Iranian attack.",
+      "description": "Sirens are sounding across parts of Bahrain amid Iranian attack.",
+      "date": "2026-07-14T00:00Z",
+      "date_display": "14 Jul 00:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil price up over 10%",
+      "description": "<b>BREAKING:</b> Oil price up over 10%",
+      "date": "2026-07-13T23:40Z",
+      "date_display": "13 Jul 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: UAE says Iran attacked two oil tankers",
+      "description": "<b>BREAKING:</b> UAE says Iran attacked two oil tankers",
+      "date": "2026-07-13T22:50Z",
+      "date_display": "13 Jul 22:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says that Iran has killed '52,000 protesters'.",
+      "description": "Trump says that Iran has killed '52,000 protesters'.",
+      "date": "2026-07-13T22:10Z",
+      "date_display": "13 Jul 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian missile attack targets US military bases in Kuwait and Bahrain",
       "description": "<b>BREAKING:</b> Iranian missile attack targets US military bases in Kuwait and Bahrain",
@@ -131,49 +171,49 @@
       "date_display": "08 Jul 06:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "ENERGY: ADNOC launches global LNG marketing and trading platform in Abu Dhabi Global Market",
-      "description": "ENERGY: ADNOC launches global LNG marketing and trading platform in Abu Dhabi Global Market",
-      "date": "2026-07-08T06:50Z",
-      "date_display": "08 Jul 06:50 UTC",
+      "title": "US crude oil back over $80",
+      "description": "US crude oil back over $80",
+      "date": "2026-07-14T00:50Z",
+      "date_display": "14 Jul 00:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iran says it has targeted sites in Bahrain and Kuwait",
-      "description": "<b>BREAKING:</b> Iran says it has targeted sites in Bahrain and Kuwait",
-      "date": "2026-07-08T04:00Z",
-      "date_display": "08 Jul 04:00 UTC",
+      "title": "Sirens are sounding across parts of Bahrain amid Iranian attack.",
+      "description": "Sirens are sounding across parts of Bahrain amid Iranian attack.",
+      "date": "2026-07-14T00:00Z",
+      "date_display": "14 Jul 00:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil price up over 10%",
+      "description": "<b>BREAKING:</b> Oil price up over 10%",
+      "date": "2026-07-13T23:40Z",
+      "date_display": "13 Jul 23:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iranian media says a US drone has been downed in the country's south",
-      "description": "<b>BREAKING:</b> Iranian media says a US drone has been downed in the country's south",
-      "date": "2026-07-08T03:40Z",
-      "date_display": "08 Jul 03:40 UTC",
+      "title": "BREAKING: UAE says Iran attacked two oil tankers",
+      "description": "<b>BREAKING:</b> UAE says Iran attacked two oil tankers",
+      "date": "2026-07-13T22:50Z",
+      "date_display": "13 Jul 22:50 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: US military says it today struck over 80 targets in Iran",
-      "description": "<b>BREAKING:</b> US military says it today struck over 80 targets in Iran",
-      "date": "2026-07-08T01:50Z",
-      "date_display": "08 Jul 01:50 UTC",
-      "severity": "high",
+      "title": "Trump says that Iran has killed '52,000 protesters'.",
+      "description": "Trump says that Iran has killed '52,000 protesters'.",
+      "date": "2026-07-13T22:10Z",
+      "date_display": "13 Jul 22:10 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
-    {
-      "title": "BREAKING: Iranian media reports blasts on Qeshm and Kharg islands amid ongoing US strikes",
-      "description": "<b>BREAKING:</b> Iranian media reports blasts on Qeshm and Kharg islands amid ongoing US strikes",
-      "date": "2026-07-08T00:40Z",
-      "date_display": "08 Jul 00:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
     {
       "title": "BREAKING: Iranian missile attack targets US military bases in Kuwait and Bahrain",
       "description": "<b>BREAKING:</b> Iranian missile attack targets US military bases in Kuwait and Bahrain",
@@ -373,46 +413,6 @@
       "date_display": "09 Jul 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran is firing missiles at targets in Bahrain",
-      "description": "<b>BREAKING:</b> Iran is firing missiles at targets in Bahrain",
-      "date": "2026-07-09T00:50Z",
-      "date_display": "09 Jul 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian missile attack against targets in Kuwait",
-      "description": "<b>BREAKING:</b> Iranian missile attack against targets in Kuwait",
-      "date": "2026-07-09T00:50Z",
-      "date_display": "09 Jul 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Chances of US-Iran nuclear deal by the end of the year have fallen sharply to 32%, accordingly to pr...",
-      "description": "Chances of US-Iran nuclear deal by the end of the year have fallen sharply to 32%, accordingly to prediction market @Kalshi. https://t.co/QAehvQfotY",
-      "date": "2026-07-08T21:40Z",
-      "date_display": "08 Jul 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Ongoing US strikes on Iran",
-      "description": "<b>BREAKING:</b> Ongoing US strikes on Iran",
-      "date": "2026-07-08T21:30Z",
-      "date_display": "08 Jul 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 US Secretary of War Pete Hegseth has cancelled his trip to Israel as US-Iran tensions rise and ...",
-      "description": "🇺🇸 US Secretary of War Pete Hegseth has cancelled his trip to Israel as US-Iran tensions rise and Trump says ceasefire is 'over'.",
-      "date": "2026-07-08T09:10Z",
-      "date_display": "08 Jul 09:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

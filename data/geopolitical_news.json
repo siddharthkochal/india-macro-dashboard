@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T03:44Z",
+  "fetched_at": "2026-07-15T03:44Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,38 @@
     "latest_oil_headline": "US crude oil back over $80"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate...",
+      "description": "<b>BREAKING:</b> Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate",
+      "date": "2026-07-14T22:40Z",
+      "date_display": "14 Jul 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US strikes on targets in southern Iran",
+      "description": "<b>BREAKING:</b> US strikes on targets in southern Iran",
+      "date": "2026-07-14T22:10Z",
+      "date_display": "14 Jul 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says naval blockade against Iran is now in effect, with over 20 US navy warshi...",
+      "description": "<b>BREAKING:</b> US military says naval blockade against Iran is now in effect, with over 20 US navy warships operating with hundreds of military aircraft.",
+      "date": "2026-07-14T20:20Z",
+      "date_display": "14 Jul 20:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it is preparing to 'resume the naval blockade against Iranian ports and c...",
+      "description": "<b>BREAKING:</b> US military says it is preparing to 'resume the naval blockade against Iranian ports and coastal areas'",
+      "date": "2026-07-14T19:50Z",
+      "date_display": "14 Jul 19:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "US crude oil back over $80",
       "description": "US crude oil back over $80",
@@ -139,41 +171,65 @@
       "date_display": "08 Jul 08:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: Oil prices surge by 5% as US-Iran tensions rise",
-      "description": "<b>BREAKING:</b> Oil prices surge by 5% as US-Iran tensions rise",
-      "date": "2026-07-08T08:30Z",
-      "date_display": "08 Jul 08:30 UTC",
+      "title": "BREAKING: Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate...",
+      "description": "<b>BREAKING:</b> Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate",
+      "date": "2026-07-14T22:40Z",
+      "date_display": "14 Jul 22:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "President Trump says Iran are 'dirty players' and 'scum'.",
-      "description": "President Trump says Iran are 'dirty players' and 'scum'.",
-      "date": "2026-07-08T08:20Z",
-      "date_display": "08 Jul 08:20 UTC",
-      "severity": "medium",
+      "title": "BREAKING: US strikes on targets in southern Iran",
+      "description": "<b>BREAKING:</b> US strikes on targets in southern Iran",
+      "date": "2026-07-14T22:10Z",
+      "date_display": "14 Jul 22:10 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Oil prices rise by over 3% amid worsening tensions between US and Iran.",
-      "description": "Oil prices rise by over 3% amid worsening tensions between US and Iran.",
-      "date": "2026-07-08T07:20Z",
-      "date_display": "08 Jul 07:20 UTC",
-      "severity": "medium",
+      "title": "BREAKING: 🇪🇸 Spain advance to the World Cup final after beating 🇫🇷 France",
+      "description": "<b>BREAKING:</b> 🇪🇸 Spain advance to the World Cup final after beating 🇫🇷 France",
+      "date": "2026-07-14T21:00Z",
+      "date_display": "14 Jul 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇪🇸 Spain go 2-0 up against🇫🇷 France",
+      "description": "<b>BREAKING:</b> 🇪🇸 Spain go 2-0 up against🇫🇷 France",
+      "date": "2026-07-14T20:30Z",
+      "date_display": "14 Jul 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US military says naval blockade against Iran is now in effect, with over 20 US navy warshi...",
+      "description": "<b>BREAKING:</b> US military says naval blockade against Iran is now in effect, with over 20 US navy warships operating with hundreds of military aircraft.",
+      "date": "2026-07-14T20:20Z",
+      "date_display": "14 Jul 20:20 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "ADNOC today launched a global liquefied natural gas (LNG) marketing and trading platform in Abu Dhab...",
-      "description": "ADNOC today launched a global liquefied natural gas (LNG) marketing and trading platform in Abu Dhabi Global Market, combining the marketing activities of ADNOC Gas and XRG with the trading and shipping capabilities of ADNOC Trading into an integrated platform. \n\nDesigned to enhance flexibility and optionality, the move supports ADNOC Gas’ expanding LNG portfolio, including Ruwais LNG, and XRG’s growing international LNG footprint, while strengthening customer access globally. The platform will enhance the ability to manage a growing and diverse LNG portfolio, building on ADNOC’s five-decade track record as a trusted LNG supplier. \n\nTargeting 47 million tonnes per annum (mtpa) of combined marketable LNG by 2035, the platform will rank among the leading global LNG players, scaling up ADNOC and XRG’s capacity to optimize a growing and diverse LNG portfolio and reinforce Abu Dhabi’s position as a global energy trading center.\n \nWith LNG demand set to grow substantially, the world will need reliable, responsible and trusted suppliers at scale. This world-class, integrated commercial LNG platform brings together the full strength of ADNOC’s marketing, trading and shipping capabilities to create a single global hub in Abu Dhabi. It marks a step-change in scale, flexibility and optionality of ADNOCs LNG marketing and trading platform and will further position ADNOC to meet the world’s growing demand for energy.\n\nThis is in context of the global demand for natural gas being expected to rise 15% over the next decade, driven partly by data centres and artificial intelligence.",
-      "date": "2026-07-08T06:50Z",
-      "date_display": "08 Jul 06:50 UTC",
-      "severity": "medium",
+      "title": "BREAKING: 🇪🇸 Spain lead 🇫🇷 France 1-0 at half-time",
+      "description": "<b>BREAKING:</b> 🇪🇸 Spain lead 🇫🇷 France 1-0 at half-time",
+      "date": "2026-07-14T20:00Z",
+      "date_display": "14 Jul 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US military says it is preparing to 'resume the naval blockade against Iranian ports and c...",
+      "description": "<b>BREAKING:</b> US military says it is preparing to 'resume the naval blockade against Iranian ports and coastal areas'",
+      "date": "2026-07-14T19:50Z",
+      "date_display": "14 Jul 19:50 UTC",
+      "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "US crude oil back over $80",
       "description": "US crude oil back over $80",
@@ -355,62 +411,6 @@
       "description": "The Republican Party now has a 57% chance of winning the US Senate, compared to 43% for the Democrats, according to prediction market @Kalshi. https://t.co/WCEk46go0u",
       "date": "2026-07-11T00:20Z",
       "date_display": "11 Jul 00:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇻🇪 Venezuela authorities say earthquake death toll has passed 4,000.",
-      "description": "🇻🇪 Venezuela authorities say earthquake death toll has passed 4,000.",
-      "date": "2026-07-10T22:20Z",
-      "date_display": "10 Jul 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Electricity blackout in Cuba",
-      "description": "<b>BREAKING:</b> Electricity blackout in Cuba",
-      "date": "2026-07-10T22:00Z",
-      "date_display": "10 Jul 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 8 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: ...",
-      "description": "World Cup top scorers.\n\n🇫🇷 Kylian Mbappe: 8 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals",
-      "date": "2026-07-10T21:40Z",
-      "date_display": "10 Jul 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇫🇷 France go to the semi-finals after beating 🇲🇦 Morocco",
-      "description": "<b>BREAKING:</b> 🇫🇷 France go to the semi-finals after beating 🇲🇦 Morocco",
-      "date": "2026-07-09T22:10Z",
-      "date_display": "09 Jul 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Ousmanne Dembele scores, 🇫🇷 France up 2-0 against 🇲🇦 Morocco.",
-      "description": "<b>BREAKING:</b> Ousmanne Dembele scores, 🇫🇷 France up 2-0 against 🇲🇦 Morocco.",
-      "date": "2026-07-09T21:40Z",
-      "date_display": "09 Jul 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Mbappe scores, 🇫🇷 France up 1-0 against 🇲🇦 Morocco in 60th minute.",
-      "description": "<b>BREAKING:</b> Mbappe scores, 🇫🇷 France up 1-0 against 🇲🇦 Morocco in 60th minute.",
-      "date": "2026-07-09T21:30Z",
-      "date_display": "09 Jul 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇫🇷 France and 🇲🇦Morocco are 0-0 at half-time.",
-      "description": "🇫🇷 France and 🇲🇦Morocco are 0-0 at half-time.",
-      "date": "2026-07-09T21:00Z",
-      "date_display": "09 Jul 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

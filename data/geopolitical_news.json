@@ -1,17 +1,33 @@
 {
-  "fetched_at": "2026-07-15T03:44Z",
+  "fetched_at": "2026-07-16T03:47Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 26,
+  "india_relevant_items": 21,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": false,
+    "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
     "latest_oil_headline": "US crude oil back over $80"
   },
   "india_headlines": [
+    {
+      "title": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
+      "description": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
+      "date": "2026-07-15T04:00Z",
+      "date_display": "15 Jul 04:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇨🇳 China's economy grew 4.3% year-on-year in second quarter of 2026, the weakest growth since 2022...",
+      "description": "🇨🇳 China's economy grew 4.3% year-on-year in second quarter of 2026, the weakest growth since 2022.",
+      "date": "2026-07-15T03:40Z",
+      "date_display": "15 Jul 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate...",
       "description": "<b>BREAKING:</b> Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate",
@@ -155,25 +171,65 @@
       "date_display": "08 Jul 09:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'.",
-      "description": "Oil prices are now up by over 6% as Trump says ceasefire memorandum of understanding Iran is 'over'.",
-      "date": "2026-07-08T09:10Z",
-      "date_display": "08 Jul 09:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says ceasefire memorandum of understanding Iran is 'over'",
-      "description": "<b>BREAKING:</b> Trump says ceasefire memorandum of understanding Iran is 'over'",
-      "date": "2026-07-08T08:30Z",
-      "date_display": "08 Jul 08:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "🇦🇷 Messi now leads the all-time World Cup tally for both most goals and assists. https://t.co/VXEX...",
+      "description": "🇦🇷 Messi now leads the all-time World Cup tally for both most goals and assists. https://t.co/VXEXOnAW6V",
+      "date": "2026-07-16T00:20Z",
+      "date_display": "16 Jul 00:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇦🇷 Messi wins man of the match after his team beat 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and advanced to the Worl...",
+      "description": "🇦🇷 Messi wins man of the match after his team beat 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and advanced to the World Cup final.",
+      "date": "2026-07-15T21:20Z",
+      "date_display": "15 Jul 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇦🇷 Argentina beat 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and advance to the World Cup final",
+      "description": "<b>BREAKING:</b> 🇦🇷 Argentina beat 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and advance to the World Cup final",
+      "date": "2026-07-15T21:10Z",
+      "date_display": "15 Jul 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇦🇷 Argentina go 2-1 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England in injury time",
+      "description": "<b>BREAKING:</b> 🇦🇷 Argentina go 2-1 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England in injury time",
+      "date": "2026-07-15T21:00Z",
+      "date_display": "15 Jul 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇦🇷 Argentina equalize against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England in the 85th minute 1-1",
+      "description": "<b>BREAKING:</b> 🇦🇷 Argentina equalize against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England in the 85th minute 1-1",
+      "date": "2026-07-15T20:50Z",
+      "date_display": "15 Jul 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
+      "description": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
+      "date": "2026-07-15T04:00Z",
+      "date_display": "15 Jul 04:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇨🇳 China's economy grew 4.3% year-on-year in second quarter of 2026, the weakest growth since 2022...",
+      "description": "🇨🇳 China's economy grew 4.3% year-on-year in second quarter of 2026, the weakest growth since 2022.",
+      "date": "2026-07-15T03:40Z",
+      "date_display": "15 Jul 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate...",
       "description": "<b>BREAKING:</b> Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate",
@@ -356,62 +412,6 @@
       "date": "2026-07-12T01:20Z",
       "date_display": "12 Jul 01:20 UTC",
       "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇳🇴 Norway 2-1 and advance to semi-finals",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇳🇴 Norway 2-1 and advance to semi-finals",
-      "date": "2026-07-11T23:50Z",
-      "date_display": "11 Jul 23:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 2-1 up against 🇳🇴 Norway in extra-time",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 2-1 up against 🇳🇴 Norway in extra-time",
-      "date": "2026-07-11T23:20Z",
-      "date_display": "11 Jul 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿England and 🇳🇴Norway go to extra time",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿England and 🇳🇴Norway go to extra time",
-      "date": "2026-07-11T23:10Z",
-      "date_display": "11 Jul 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇳🇴 Norway go 2-1 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
-      "description": "<b>BREAKING:</b> 🇳🇴 Norway go 2-1 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
-      "date": "2026-07-11T22:20Z",
-      "date_display": "11 Jul 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England equalize 1-1 against 🇳🇴 Norway just before half-time",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England equalize 1-1 against 🇳🇴 Norway just before half-time",
-      "date": "2026-07-11T21:50Z",
-      "date_display": "11 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇳🇴 Norway go 1-0 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
-      "description": "<b>BREAKING:</b> 🇳🇴 Norway go 1-0 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
-      "date": "2026-07-11T21:40Z",
-      "date_display": "11 Jul 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Republican Party now has a 57% chance of winning the US Senate, compared to 43% for the Democrat...",
-      "description": "The Republican Party now has a 57% chance of winning the US Senate, compared to 43% for the Democrats, according to prediction market @Kalshi. https://t.co/WCEk46go0u",
-      "date": "2026-07-11T00:20Z",
-      "date_display": "11 Jul 00:20 UTC",
-      "severity": "medium",
       "is_india_relevant": false
     }
   ]

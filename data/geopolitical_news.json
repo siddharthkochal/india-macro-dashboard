@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T03:47Z",
+  "fetched_at": "2026-07-17T03:47Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "US crude oil back over $80"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iranian media reports that three bridges have now been attacked in US strikes",
+      "description": "<b>BREAKING:</b> Iranian media reports that three bridges have now been attacked in US strikes",
+      "date": "2026-07-16T22:00Z",
+      "date_display": "16 Jul 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military has struck a bridge in Iran's Bandar Abbas region",
+      "description": "<b>BREAKING:</b> US military has struck a bridge in Iran's Bandar Abbas region",
+      "date": "2026-07-16T21:00Z",
+      "date_display": "16 Jul 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
       "description": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
@@ -155,25 +171,25 @@
       "date_display": "08 Jul 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: Ongoing US strikes on Iran",
-      "description": "<b>BREAKING:</b> Ongoing US strikes on Iran",
-      "date": "2026-07-08T21:30Z",
-      "date_display": "08 Jul 21:30 UTC",
+      "title": "BREAKING: Iranian media reports that three bridges have now been attacked in US strikes",
+      "description": "<b>BREAKING:</b> Iranian media reports that three bridges have now been attacked in US strikes",
+      "date": "2026-07-16T22:00Z",
+      "date_display": "16 Jul 22:00 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "🇺🇸 US Secretary of War Pete Hegseth has cancelled his trip to Israel as US-Iran tensions rise and ...",
-      "description": "🇺🇸 US Secretary of War Pete Hegseth has cancelled his trip to Israel as US-Iran tensions rise and Trump says ceasefire is 'over'.",
-      "date": "2026-07-08T09:10Z",
-      "date_display": "08 Jul 09:10 UTC",
-      "severity": "medium",
+      "title": "BREAKING: US military has struck a bridge in Iran's Bandar Abbas region",
+      "description": "<b>BREAKING:</b> US military has struck a bridge in Iran's Bandar Abbas region",
+      "date": "2026-07-16T21:00Z",
+      "date_display": "16 Jul 21:00 UTC",
+      "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "🇦🇷 Messi now leads the all-time World Cup tally for both most goals and assists. https://t.co/VXEX...",
       "description": "🇦🇷 Messi now leads the all-time World Cup tally for both most goals and assists. https://t.co/VXEXOnAW6V",
@@ -397,22 +413,6 @@
       "date_display": "12 Jul 03:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇦🇷 Argentina and 🇨🇭 Switzerland go to extra time",
-      "description": "<b>BREAKING:</b> 🇦🇷 Argentina and 🇨🇭 Switzerland go to extra time",
-      "date": "2026-07-12T03:10Z",
-      "date_display": "12 Jul 03:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇷 Argentina are 1-0 up against 🇨🇭 Switzerland",
-      "description": "<b>BREAKING:</b> 🇦🇷 Argentina are 1-0 up against 🇨🇭 Switzerland",
-      "date": "2026-07-12T01:20Z",
-      "date_display": "12 Jul 01:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

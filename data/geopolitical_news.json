@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-17T03:47Z",
+  "fetched_at": "2026-07-18T03:41Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 21,
+  "india_relevant_items": 22,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,46 @@
     "latest_oil_headline": "US crude oil back over $80"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: New Iranian attack on Bahrain",
+      "description": "<b>BREAKING:</b> New Iranian attack on Bahrain",
+      "date": "2026-07-18T02:30Z",
+      "date_display": "18 Jul 02:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian military says it shot down a US drone",
+      "description": "<b>BREAKING:</b> Iranian military says it shot down a US drone",
+      "date": "2026-07-17T22:30Z",
+      "date_display": "17 Jul 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports that two oil tankers caught fire after they passed through mines in ...",
+      "description": "<b>BREAKING:</b> Iranian media reports that two oil tankers caught fire after they passed through mines in the Strait of Hormuz",
+      "date": "2026-07-17T22:20Z",
+      "date_display": "17 Jul 22:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: New US military strikes against Iran",
+      "description": "<b>BREAKING:</b> New US military strikes against Iran",
+      "date": "2026-07-17T20:30Z",
+      "date_display": "17 Jul 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Kuwait says Iranian attack targeted power plant",
+      "description": "<b>BREAKING:</b> Kuwait says Iranian attack targeted power plant",
+      "date": "2026-07-17T09:30Z",
+      "date_display": "17 Jul 09:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian media reports that three bridges have now been attacked in US strikes",
       "description": "<b>BREAKING:</b> Iranian media reports that three bridges have now been attacked in US strikes",
@@ -131,49 +171,49 @@
       "date_display": "13 Jul 01:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Iranian ballistic missile launches, targets not yet known.",
-      "description": "Iranian ballistic missile launches, targets not yet known.",
-      "date": "2026-07-13T01:20Z",
-      "date_display": "13 Jul 01:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US military says it struck around 140 Iranian military targets.",
-      "description": "US military says it struck around 140 Iranian military targets.",
-      "date": "2026-07-12T03:50Z",
-      "date_display": "12 Jul 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran is firing missiles at targets in Bahrain",
-      "description": "<b>BREAKING:</b> Iran is firing missiles at targets in Bahrain",
-      "date": "2026-07-09T00:50Z",
-      "date_display": "09 Jul 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian missile attack against targets in Kuwait",
-      "description": "<b>BREAKING:</b> Iranian missile attack against targets in Kuwait",
-      "date": "2026-07-09T00:50Z",
-      "date_display": "09 Jul 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Chances of US-Iran nuclear deal by the end of the year have fallen sharply to 32%, accordingly to pr...",
-      "description": "Chances of US-Iran nuclear deal by the end of the year have fallen sharply to 32%, accordingly to prediction market @Kalshi. https://t.co/QAehvQfotY",
-      "date": "2026-07-08T21:40Z",
-      "date_display": "08 Jul 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: New Iranian attack on Bahrain",
+      "description": "<b>BREAKING:</b> New Iranian attack on Bahrain",
+      "date": "2026-07-18T02:30Z",
+      "date_display": "18 Jul 02:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian military says it shot down a US drone",
+      "description": "<b>BREAKING:</b> Iranian military says it shot down a US drone",
+      "date": "2026-07-17T22:30Z",
+      "date_display": "17 Jul 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian media reports that two oil tankers caught fire after they passed through mines in ...",
+      "description": "<b>BREAKING:</b> Iranian media reports that two oil tankers caught fire after they passed through mines in the Strait of Hormuz",
+      "date": "2026-07-17T22:20Z",
+      "date_display": "17 Jul 22:20 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: New US military strikes against Iran",
+      "description": "<b>BREAKING:</b> New US military strikes against Iran",
+      "date": "2026-07-17T20:30Z",
+      "date_display": "17 Jul 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Kuwait says Iranian attack targeted power plant",
+      "description": "<b>BREAKING:</b> Kuwait says Iranian attack targeted power plant",
+      "date": "2026-07-17T09:30Z",
+      "date_display": "17 Jul 09:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian media reports that three bridges have now been attacked in US strikes",
       "description": "<b>BREAKING:</b> Iranian media reports that three bridges have now been attacked in US strikes",
@@ -371,46 +411,6 @@
       "description": "Iranian ballistic missile launches, targets not yet known.",
       "date": "2026-07-13T01:20Z",
       "date_display": "13 Jul 01:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Republican Senator Lindsey Graham has died after brief illness https://t.co/RqYCCSYG4b...",
-      "description": "<b>BREAKING:</b> Republican Senator Lindsey Graham has died after brief illness https://t.co/RqYCCSYG4b",
-      "date": "2026-07-12T07:50Z",
-      "date_display": "12 Jul 07:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Qatar's previous Emir Hamad bin Khalifa Al Thani has died https://t.co/ojEOJboUt8",
-      "description": "<b>BREAKING:</b> Qatar's previous Emir Hamad bin Khalifa Al Thani has died https://t.co/ojEOJboUt8",
-      "date": "2026-07-12T05:40Z",
-      "date_display": "12 Jul 05:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup leading scorers.\n\n🇫🇷 Kylian Mbappe: 8 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haala...",
-      "description": "World Cup leading scorers.\n\n🇫🇷 Kylian Mbappe: 8 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 6 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🇧🇷 Vinicius Junior: 4 goals\n🇪🇸 Mikel Oyarzabal: 4 goals",
-      "date": "2026-07-12T04:50Z",
-      "date_display": "12 Jul 04:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇷 Argentina advance to the semi-finals to face 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
-      "description": "<b>BREAKING:</b> 🇦🇷 Argentina advance to the semi-finals to face 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England",
-      "date": "2026-07-12T03:50Z",
-      "date_display": "12 Jul 03:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US military says it struck around 140 Iranian military targets.",
-      "description": "US military says it struck around 140 Iranian military targets.",
-      "date": "2026-07-12T03:50Z",
-      "date_display": "12 Jul 03:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-18T03:41Z",
+  "fetched_at": "2026-07-19T04:03Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 22,
+  "india_relevant_items": 26,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,46 @@
     "latest_oil_headline": "US crude oil back over $80"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Loud blasts in several parts of southern Iran",
+      "description": "<b>BREAKING:</b> Loud blasts in several parts of southern Iran",
+      "date": "2026-07-19T00:30Z",
+      "date_display": "19 Jul 00:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: New US strikes on Iran",
+      "description": "<b>BREAKING:</b> New US strikes on Iran",
+      "date": "2026-07-18T23:10Z",
+      "date_display": "18 Jul 23:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US officials tell the New York Times that several helicopters have been damaged in Iranian attack on...",
+      "description": "US officials tell the New York Times that several helicopters have been damaged in Iranian attack on Jordan.",
+      "date": "2026-07-18T21:00Z",
+      "date_display": "18 Jul 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran has targeted a US base in Jordan",
+      "description": "<b>BREAKING:</b> Iran has targeted a US base in Jordan",
+      "date": "2026-07-18T08:20Z",
+      "date_display": "18 Jul 08:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: New Iranian attack on targets in Kuwait",
+      "description": "<b>BREAKING:</b> New Iranian attack on targets in Kuwait",
+      "date": "2026-07-18T04:20Z",
+      "date_display": "18 Jul 04:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: New Iranian attack on Bahrain",
       "description": "<b>BREAKING:</b> New Iranian attack on Bahrain",
@@ -131,49 +171,161 @@
       "date_display": "14 Jul 00:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "World Cup all-time top scorers.\n\n🇫🇷 Kylian Mbappé: 22 goals\n🇦🇷 Lionel Messi: 21 goals\n🇩🇪 Miros...",
+      "description": "World Cup all-time top scorers.\n\n🇫🇷 Kylian Mbappé: 22 goals\n🇦🇷 Lionel Messi: 21 goals\n🇩🇪 Miroslav Klose: 16 goals\n🇧🇷 Ronaldo: 15 goals\n🇩🇪 Gerd Müller: 14 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 14 goals\n🇫🇷 Just Fontaine: 13 goals\n🇧🇷 Pelé: 12 goals\n🇭🇺 Sándor Kocsis: 11 goals\n🇩🇪 Jürgen Klinsmann: 11 goals\n🇵🇹 Cristiano Ronaldo: 10 goals\n🇩🇪 Helmut Rahn: 10 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gary Lineker: 10 goals\n🇦🇷 Gabriel Batistuta: 10 goals\n🇵🇪 Teófilo Cubillas: 10 goals\n🇩🇪 Thomas Müller: 10 goals\n🇵🇱 Grzegorz Lato: 10 goals",
+      "date": "2026-07-19T01:40Z",
+      "date_display": "19 Jul 01:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Oil price up over 10%",
-      "description": "<b>BREAKING:</b> Oil price up over 10%",
-      "date": "2026-07-13T23:40Z",
-      "date_display": "13 Jul 23:40 UTC",
+      "title": "BREAKING: Loud blasts in several parts of southern Iran",
+      "description": "<b>BREAKING:</b> Loud blasts in several parts of southern Iran",
+      "date": "2026-07-19T00:30Z",
+      "date_display": "19 Jul 00:30 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: UAE says Iran attacked two oil tankers",
-      "description": "<b>BREAKING:</b> UAE says Iran attacked two oil tankers",
-      "date": "2026-07-13T22:50Z",
-      "date_display": "13 Jul 22:50 UTC",
+      "title": "BREAKING: Andrew Tate and Tristan Tate arrested in the United States after UK prosecution brought fu...",
+      "description": "<b>BREAKING:</b> Andrew Tate and Tristan Tate arrested in the United States after UK prosecution brought further charges against them, with the UK seeking their extradition.",
+      "date": "2026-07-18T23:50Z",
+      "date_display": "18 Jul 23:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Andrew Tate and his brother Tristan Tate arrested in Miami, according to AP report.",
+      "description": "<b>BREAKING:</b> Andrew Tate and his brother Tristan Tate arrested in Miami, according to AP report.",
+      "date": "2026-07-18T23:40Z",
+      "date_display": "18 Jul 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Andrew Tate and his brother Tristan Tate arrested in Miami",
+      "description": "<b>BREAKING:</b> Andrew Tate and his brother Tristan Tate arrested in Miami",
+      "date": "2026-07-18T23:30Z",
+      "date_display": "18 Jul 23:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup 2026, top scorers.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Ha...",
+      "description": "World Cup 2026, top scorers.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇪🇸 Mikel Oyarzabal: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🇧🇷 Vinicius Junior: 4 goals",
+      "date": "2026-07-18T23:20Z",
+      "date_display": "18 Jul 23:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: New US strikes on Iran",
+      "description": "<b>BREAKING:</b> New US strikes on Iran",
+      "date": "2026-07-18T23:10Z",
+      "date_display": "18 Jul 23:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Trump says that Iran has killed '52,000 protesters'.",
-      "description": "Trump says that Iran has killed '52,000 protesters'.",
-      "date": "2026-07-13T22:10Z",
-      "date_display": "13 Jul 22:10 UTC",
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇫🇷 France 6-4 and win 3rd place at the World Cup",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇫🇷 France 6-4 and win 3rd place at the World Cup",
+      "date": "2026-07-18T23:10Z",
+      "date_display": "18 Jul 23:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "World Cup 2026, top scorers.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Ha...",
+      "description": "World Cup 2026, top scorers.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 6 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇪🇸 Mikel Oyarzabal: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🇧🇷 Vinicius Junior: 4 goals",
+      "date": "2026-07-18T23:10Z",
+      "date_display": "18 Jul 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Mbappe scores second goal,  🇫🇷 France now down 4-3 against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England....",
+      "description": "<b>BREAKING:</b> Mbappe scores second goal,  🇫🇷 France now down 4-3 against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England.",
+      "date": "2026-07-18T22:40Z",
+      "date_display": "18 Jul 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Mbappe passes Messi as all-time top World Cup scorer https://t.co/ZRdAGnWVb5",
+      "description": "<b>BREAKING:</b> Mbappe passes Messi as all-time top World Cup scorer https://t.co/ZRdAGnWVb5",
+      "date": "2026-07-18T22:40Z",
+      "date_display": "18 Jul 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Mbappe scores, becoming  top scorer at the World Cup, with 🇫🇷 France now down 4-1 against 🏴󠁧󠁢󠁥...",
+      "description": "Mbappe scores, becoming  top scorer at the World Cup, with 🇫🇷 France now down 4-1 against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England.",
+      "date": "2026-07-18T22:20Z",
+      "date_display": "18 Jul 22:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 4-0 up against 🇫🇷 France",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 4-0 up against 🇫🇷 France",
+      "date": "2026-07-18T21:50Z",
+      "date_display": "18 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 3-0 up against 🇫🇷 France in the 36th minute",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 3-0 up against 🇫🇷 France in the 36th minute",
+      "date": "2026-07-18T21:40Z",
+      "date_display": "18 Jul 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 2-0 up against 🇫🇷 France in the 19th minute",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 2-0 up against 🇫🇷 France in the 19th minute",
+      "date": "2026-07-18T21:20Z",
+      "date_display": "18 Jul 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 1-0 up against 🇫🇷 France in the 3rd minute",
+      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 1-0 up against 🇫🇷 France in the 3rd minute",
+      "date": "2026-07-18T21:10Z",
+      "date_display": "18 Jul 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US officials tell the New York Times that several helicopters have been damaged in Iranian attack on...",
+      "description": "US officials tell the New York Times that several helicopters have been damaged in Iranian attack on Jordan.",
+      "date": "2026-07-18T21:00Z",
+      "date_display": "18 Jul 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iranian missile attack targets US military bases in Kuwait and Bahrain",
-      "description": "<b>BREAKING:</b> Iranian missile attack targets US military bases in Kuwait and Bahrain",
-      "date": "2026-07-13T02:20Z",
-      "date_display": "13 Jul 02:20 UTC",
+      "title": "BREAKING: Iran has targeted a US base in Jordan",
+      "description": "<b>BREAKING:</b> Iran has targeted a US base in Jordan",
+      "date": "2026-07-18T08:20Z",
+      "date_display": "18 Jul 08:20 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Oil prices up by over 4% as Middle East tensions continue to rise",
-      "description": "<b>BREAKING:</b> Oil prices up by over 4% as Middle East tensions continue to rise",
-      "date": "2026-07-13T01:40Z",
-      "date_display": "13 Jul 01:40 UTC",
+      "title": "BREAKING: New Iranian attack on targets in Kuwait",
+      "description": "<b>BREAKING:</b> New Iranian attack on targets in Kuwait",
+      "date": "2026-07-18T04:20Z",
+      "date_display": "18 Jul 04:20 UTC",
       "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "BREAKING: New Iranian attack on Bahrain",
       "description": "<b>BREAKING:</b> New Iranian attack on Bahrain",
@@ -261,158 +413,6 @@
       "date_display": "15 Jul 21:00 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇷 Argentina equalize against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England in the 85th minute 1-1",
-      "description": "<b>BREAKING:</b> 🇦🇷 Argentina equalize against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England in the 85th minute 1-1",
-      "date": "2026-07-15T20:50Z",
-      "date_display": "15 Jul 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
-      "description": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
-      "date": "2026-07-15T04:00Z",
-      "date_display": "15 Jul 04:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇨🇳 China's economy grew 4.3% year-on-year in second quarter of 2026, the weakest growth since 2022...",
-      "description": "🇨🇳 China's economy grew 4.3% year-on-year in second quarter of 2026, the weakest growth since 2022.",
-      "date": "2026-07-15T03:40Z",
-      "date_display": "15 Jul 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate...",
-      "description": "<b>BREAKING:</b> Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate",
-      "date": "2026-07-14T22:40Z",
-      "date_display": "14 Jul 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes on targets in southern Iran",
-      "description": "<b>BREAKING:</b> US strikes on targets in southern Iran",
-      "date": "2026-07-14T22:10Z",
-      "date_display": "14 Jul 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇪🇸 Spain advance to the World Cup final after beating 🇫🇷 France",
-      "description": "<b>BREAKING:</b> 🇪🇸 Spain advance to the World Cup final after beating 🇫🇷 France",
-      "date": "2026-07-14T21:00Z",
-      "date_display": "14 Jul 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇪🇸 Spain go 2-0 up against🇫🇷 France",
-      "description": "<b>BREAKING:</b> 🇪🇸 Spain go 2-0 up against🇫🇷 France",
-      "date": "2026-07-14T20:30Z",
-      "date_display": "14 Jul 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US military says naval blockade against Iran is now in effect, with over 20 US navy warshi...",
-      "description": "<b>BREAKING:</b> US military says naval blockade against Iran is now in effect, with over 20 US navy warships operating with hundreds of military aircraft.",
-      "date": "2026-07-14T20:20Z",
-      "date_display": "14 Jul 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇪🇸 Spain lead 🇫🇷 France 1-0 at half-time",
-      "description": "<b>BREAKING:</b> 🇪🇸 Spain lead 🇫🇷 France 1-0 at half-time",
-      "date": "2026-07-14T20:00Z",
-      "date_display": "14 Jul 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US military says it is preparing to 'resume the naval blockade against Iranian ports and c...",
-      "description": "<b>BREAKING:</b> US military says it is preparing to 'resume the naval blockade against Iranian ports and coastal areas'",
-      "date": "2026-07-14T19:50Z",
-      "date_display": "14 Jul 19:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil back over $80",
-      "description": "US crude oil back over $80",
-      "date": "2026-07-14T00:50Z",
-      "date_display": "14 Jul 00:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Sirens are sounding across parts of Bahrain amid Iranian attack.",
-      "description": "Sirens are sounding across parts of Bahrain amid Iranian attack.",
-      "date": "2026-07-14T00:00Z",
-      "date_display": "14 Jul 00:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil price up over 10%",
-      "description": "<b>BREAKING:</b> Oil price up over 10%",
-      "date": "2026-07-13T23:40Z",
-      "date_display": "13 Jul 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: UAE says Iran attacked two oil tankers",
-      "description": "<b>BREAKING:</b> UAE says Iran attacked two oil tankers",
-      "date": "2026-07-13T22:50Z",
-      "date_display": "13 Jul 22:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Iran has killed '52,000 protesters'.",
-      "description": "Trump says that Iran has killed '52,000 protesters'.",
-      "date": "2026-07-13T22:10Z",
-      "date_display": "13 Jul 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian missile attack targets US military bases in Kuwait and Bahrain",
-      "description": "<b>BREAKING:</b> Iranian missile attack targets US military bases in Kuwait and Bahrain",
-      "date": "2026-07-13T02:20Z",
-      "date_display": "13 Jul 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 Gavin Newsom's chances of becoming the 2028 Democratic presidential nominee have fallen to 20%,...",
-      "description": "🇺🇸 Gavin Newsom's chances of becoming the 2028 Democratic presidential nominee have fallen to 20%, followed by 15% for AOC, 13% for Jon Ossoff and 7.9% for Kamala Harris, according to @Kalshi prediction market. https://t.co/0ITHMMop8z",
-      "date": "2026-07-13T02:10Z",
-      "date_display": "13 Jul 02:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Oil prices up by over 4% as Middle East tensions continue to rise",
-      "description": "<b>BREAKING:</b> Oil prices up by over 4% as Middle East tensions continue to rise",
-      "date": "2026-07-13T01:40Z",
-      "date_display": "13 Jul 01:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian ballistic missile launches, targets not yet known.",
-      "description": "Iranian ballistic missile launches, targets not yet known.",
-      "date": "2026-07-13T01:20Z",
-      "date_display": "13 Jul 01:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

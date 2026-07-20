@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-19T04:03Z",
+  "fetched_at": "2026-07-20T04:22Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 26,
+  "india_relevant_items": 22,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "US crude oil back over $80"
   },
   "india_headlines": [
+    {
+      "title": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 U...",
+      "description": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 Uruguay: 2\n🇪🇸 Spain: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England: 1 https://t.co/YiNrDuO9qK",
+      "date": "2026-07-19T22:10Z",
+      "date_display": "19 Jul 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Loud blasts in several parts of southern Iran",
       "description": "<b>BREAKING:</b> Loud blasts in several parts of southern Iran",
@@ -163,17 +171,65 @@
       "date_display": "14 Jul 00:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Sirens are sounding across parts of Bahrain amid Iranian attack.",
-      "description": "Sirens are sounding across parts of Bahrain amid Iranian attack.",
-      "date": "2026-07-14T00:00Z",
-      "date_display": "14 Jul 00:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "World Cup 2026 top scorers, final tally.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳...",
+      "description": "World Cup 2026 top scorers, final tally.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇪🇸 Mikel Oyarzabal: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🇧🇷 Vinicius Junior: 4 goals",
+      "date": "2026-07-20T01:30Z",
+      "date_display": "20 Jul 01:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "LAMINE YAMAL\n\n- 19 years old\n- Ballon d’Or runner-up\n- Three La Liga titles\n- UEFA European Champion...",
+      "description": "LAMINE YAMAL\n\n- 19 years old\n- Ballon d’Or runner-up\n- Three La Liga titles\n- UEFA European Championship winner\n- World Cup winner https://t.co/1xxM3j6RUx",
+      "date": "2026-07-19T22:30Z",
+      "date_display": "19 Jul 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇪🇸 SPAIN WIN THE WORLD CUP",
+      "description": "<b>BREAKING:</b> 🇪🇸 SPAIN WIN THE WORLD CUP",
+      "date": "2026-07-19T22:10Z",
+      "date_display": "19 Jul 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "SPAIN ARE THE CHAMPIONS OF THE WORLD FOR THE SECOND TIME https://t.co/UNz3nIOOGu",
+      "description": "SPAIN ARE THE CHAMPIONS OF THE WORLD FOR THE SECOND TIME https://t.co/UNz3nIOOGu",
+      "date": "2026-07-19T22:10Z",
+      "date_display": "19 Jul 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 U...",
+      "description": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 Uruguay: 2\n🇪🇸 Spain: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England: 1 https://t.co/YiNrDuO9qK",
+      "date": "2026-07-19T22:10Z",
+      "date_display": "19 Jul 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇪🇸 Spain go 1-0 up against 🇦🇷 Argentina in extra-time",
+      "description": "<b>BREAKING:</b> 🇪🇸 Spain go 1-0 up against 🇦🇷 Argentina in extra-time",
+      "date": "2026-07-19T21:50Z",
+      "date_display": "19 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇪🇸 Spain and 🇦🇷 Argentina go to extra-time",
+      "description": "<b>BREAKING:</b> 🇪🇸 Spain and 🇦🇷 Argentina go to extra-time",
+      "date": "2026-07-19T21:20Z",
+      "date_display": "19 Jul 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "World Cup all-time top scorers.\n\n🇫🇷 Kylian Mbappé: 22 goals\n🇦🇷 Lionel Messi: 21 goals\n🇩🇪 Miros...",
       "description": "World Cup all-time top scorers.\n\n🇫🇷 Kylian Mbappé: 22 goals\n🇦🇷 Lionel Messi: 21 goals\n🇩🇪 Miroslav Klose: 16 goals\n🇧🇷 Ronaldo: 15 goals\n🇩🇪 Gerd Müller: 14 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 14 goals\n🇫🇷 Just Fontaine: 13 goals\n🇧🇷 Pelé: 12 goals\n🇭🇺 Sándor Kocsis: 11 goals\n🇩🇪 Jürgen Klinsmann: 11 goals\n🇵🇹 Cristiano Ronaldo: 10 goals\n🇩🇪 Helmut Rahn: 10 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gary Lineker: 10 goals\n🇦🇷 Gabriel Batistuta: 10 goals\n🇵🇪 Teófilo Cubillas: 10 goals\n🇩🇪 Thomas Müller: 10 goals\n🇵🇱 Grzegorz Lato: 10 goals",
@@ -357,62 +413,6 @@
       "date_display": "17 Jul 20:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Kuwait says Iranian attack targeted power plant",
-      "description": "<b>BREAKING:</b> Kuwait says Iranian attack targeted power plant",
-      "date": "2026-07-17T09:30Z",
-      "date_display": "17 Jul 09:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that three bridges have now been attacked in US strikes",
-      "description": "<b>BREAKING:</b> Iranian media reports that three bridges have now been attacked in US strikes",
-      "date": "2026-07-16T22:00Z",
-      "date_display": "16 Jul 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military has struck a bridge in Iran's Bandar Abbas region",
-      "description": "<b>BREAKING:</b> US military has struck a bridge in Iran's Bandar Abbas region",
-      "date": "2026-07-16T21:00Z",
-      "date_display": "16 Jul 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇦🇷 Messi now leads the all-time World Cup tally for both most goals and assists. https://t.co/VXEX...",
-      "description": "🇦🇷 Messi now leads the all-time World Cup tally for both most goals and assists. https://t.co/VXEXOnAW6V",
-      "date": "2026-07-16T00:20Z",
-      "date_display": "16 Jul 00:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇦🇷 Messi wins man of the match after his team beat 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and advanced to the Worl...",
-      "description": "🇦🇷 Messi wins man of the match after his team beat 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and advanced to the World Cup final.",
-      "date": "2026-07-15T21:20Z",
-      "date_display": "15 Jul 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇷 Argentina beat 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and advance to the World Cup final",
-      "description": "<b>BREAKING:</b> 🇦🇷 Argentina beat 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England and advance to the World Cup final",
-      "date": "2026-07-15T21:10Z",
-      "date_display": "15 Jul 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇷 Argentina go 2-1 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England in injury time",
-      "description": "<b>BREAKING:</b> 🇦🇷 Argentina go 2-1 up against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England in injury time",
-      "date": "2026-07-15T21:00Z",
-      "date_display": "15 Jul 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

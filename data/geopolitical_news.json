@@ -1,17 +1,49 @@
 {
-  "fetched_at": "2026-07-20T04:22Z",
+  "fetched_at": "2026-07-21T03:56Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
   "india_relevant_items": 22,
   "oil_signals": {
-    "brent_mentioned": true,
+    "brent_mentioned": false,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "up",
-    "latest_oil_headline": "US crude oil back over $80"
+    "price_direction": null,
+    "latest_oil_headline": null
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
+      "date": "2026-07-21T02:20Z",
+      "date_display": "21 Jul 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US is set to impose 50% tariffs on a range of 🇨🇦 Canadian goods",
+      "description": "<b>BREAKING:</b> 🇺🇸 US is set to impose 50% tariffs on a range of 🇨🇦 Canadian goods",
+      "date": "2026-07-20T21:20Z",
+      "date_display": "20 Jul 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇸🇦 Saudi Arabia condemns Houthi announcement that they will impose a naval blockade on t...",
+      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia condemns Houthi announcement that they will impose a naval blockade on the Kingdom, with Riyadh saying it will take measures to protect its ships.",
+      "date": "2026-07-20T21:00Z",
+      "date_display": "20 Jul 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it is carrying out new round of strikes against Iran",
+      "description": "<b>BREAKING:</b> US military says it is carrying out new round of strikes against Iran",
+      "date": "2026-07-20T20:30Z",
+      "date_display": "20 Jul 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 U...",
       "description": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 Uruguay: 2\n🇪🇸 Spain: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England: 1 https://t.co/YiNrDuO9qK",
@@ -139,41 +171,41 @@
       "date_display": "14 Jul 22:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US strikes on targets in southern Iran",
-      "description": "<b>BREAKING:</b> US strikes on targets in southern Iran",
-      "date": "2026-07-14T22:10Z",
-      "date_display": "14 Jul 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says naval blockade against Iran is now in effect, with over 20 US navy warshi...",
-      "description": "<b>BREAKING:</b> US military says naval blockade against Iran is now in effect, with over 20 US navy warships operating with hundreds of military aircraft.",
-      "date": "2026-07-14T20:20Z",
-      "date_display": "14 Jul 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it is preparing to 'resume the naval blockade against Iranian ports and c...",
-      "description": "<b>BREAKING:</b> US military says it is preparing to 'resume the naval blockade against Iranian ports and coastal areas'",
-      "date": "2026-07-14T19:50Z",
-      "date_display": "14 Jul 19:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil back over $80",
-      "description": "US crude oil back over $80",
-      "date": "2026-07-14T00:50Z",
-      "date_display": "14 Jul 00:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
+      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
+      "date": "2026-07-21T02:20Z",
+      "date_display": "21 Jul 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US is set to impose 50% tariffs on a range of 🇨🇦 Canadian goods",
+      "description": "<b>BREAKING:</b> 🇺🇸 US is set to impose 50% tariffs on a range of 🇨🇦 Canadian goods",
+      "date": "2026-07-20T21:20Z",
+      "date_display": "20 Jul 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇸🇦 Saudi Arabia condemns Houthi announcement that they will impose a naval blockade on t...",
+      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia condemns Houthi announcement that they will impose a naval blockade on the Kingdom, with Riyadh saying it will take measures to protect its ships.",
+      "date": "2026-07-20T21:00Z",
+      "date_display": "20 Jul 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it is carrying out new round of strikes against Iran",
+      "description": "<b>BREAKING:</b> US military says it is carrying out new round of strikes against Iran",
+      "date": "2026-07-20T20:30Z",
+      "date_display": "20 Jul 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "World Cup 2026 top scorers, final tally.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳...",
       "description": "World Cup 2026 top scorers, final tally.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇪🇸 Mikel Oyarzabal: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🇧🇷 Vinicius Junior: 4 goals",
@@ -379,38 +411,6 @@
       "description": "<b>BREAKING:</b> New Iranian attack on targets in Kuwait",
       "date": "2026-07-18T04:20Z",
       "date_display": "18 Jul 04:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New Iranian attack on Bahrain",
-      "description": "<b>BREAKING:</b> New Iranian attack on Bahrain",
-      "date": "2026-07-18T02:30Z",
-      "date_display": "18 Jul 02:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian military says it shot down a US drone",
-      "description": "<b>BREAKING:</b> Iranian military says it shot down a US drone",
-      "date": "2026-07-17T22:30Z",
-      "date_display": "17 Jul 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that two oil tankers caught fire after they passed through mines in ...",
-      "description": "<b>BREAKING:</b> Iranian media reports that two oil tankers caught fire after they passed through mines in the Strait of Hormuz",
-      "date": "2026-07-17T22:20Z",
-      "date_display": "17 Jul 22:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New US military strikes against Iran",
-      "description": "<b>BREAKING:</b> New US military strikes against Iran",
-      "date": "2026-07-17T20:30Z",
-      "date_display": "17 Jul 20:30 UTC",
       "severity": "high",
       "is_india_relevant": true
     }

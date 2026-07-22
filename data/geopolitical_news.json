@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-07-21T03:56Z",
+  "fetched_at": "2026-07-22T03:57Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 22,
+  "india_relevant_items": 24,
   "oil_signals": {
-    "brent_mentioned": false,
+    "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": null,
-    "latest_oil_headline": null
+    "latest_oil_headline": "US crude oil price\n\n1st of July: $71\n\nNow: $91.5 https://t.co/ZTaoZ0olO4"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear en...",
+      "description": "<b>BREAKING:</b> US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear enrichment in the country, according to Wall Street Journal report.",
+      "date": "2026-07-22T01:10Z",
+      "date_display": "22 Jul 01:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price\n\n1st of July: $71\n\nNow: $91.5 https://t.co/ZTaoZ0olO4",
+      "description": "US crude oil price\n\n1st of July: $71\n\nNow: $91.5 https://t.co/ZTaoZ0olO4",
+      "date": "2026-07-21T22:10Z",
+      "date_display": "21 Jul 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Sirens are sounding in Kuwait amid Iranian attack",
+      "description": "<b>BREAKING:</b> Sirens are sounding in Kuwait amid Iranian attack",
+      "date": "2026-07-21T21:50Z",
+      "date_display": "21 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian military says any US targeting of Iranian nuclear or sensitive sites would result ...",
+      "description": "<b>BREAKING:</b> Iranian military says any US targeting of Iranian nuclear or sensitive sites would result in an expansion of the war across the region",
+      "date": "2026-07-21T21:10Z",
+      "date_display": "21 Jul 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UK Prime Minister Andy Burnham has approved US use of British military bases for 'defensive strikes'...",
+      "description": "UK Prime Minister Andy Burnham has approved US use of British military bases for 'defensive strikes' against Iran, according to Bloomberg report. https://t.co/UDhlKdOlEJ",
+      "date": "2026-07-21T20:20Z",
+      "date_display": "21 Jul 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Kuwait says that Iran has attacked water desalination and power facilities",
+      "description": "<b>BREAKING:</b> Kuwait says that Iran has attacked water desalination and power facilities",
+      "date": "2026-07-21T12:10Z",
+      "date_display": "21 Jul 12:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
       "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
@@ -123,57 +171,65 @@
       "date_display": "17 Jul 20:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: Kuwait says Iranian attack targeted power plant",
-      "description": "<b>BREAKING:</b> Kuwait says Iranian attack targeted power plant",
-      "date": "2026-07-17T09:30Z",
-      "date_display": "17 Jul 09:30 UTC",
+      "title": "BREAKING: US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear en...",
+      "description": "<b>BREAKING:</b> US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear enrichment in the country, according to Wall Street Journal report.",
+      "date": "2026-07-22T01:10Z",
+      "date_display": "22 Jul 01:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iranian media reports that three bridges have now been attacked in US strikes",
-      "description": "<b>BREAKING:</b> Iranian media reports that three bridges have now been attacked in US strikes",
-      "date": "2026-07-16T22:00Z",
-      "date_display": "16 Jul 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military has struck a bridge in Iran's Bandar Abbas region",
-      "description": "<b>BREAKING:</b> US military has struck a bridge in Iran's Bandar Abbas region",
-      "date": "2026-07-16T21:00Z",
-      "date_display": "16 Jul 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
-      "description": "Iranian Revolutionary Guards announce that the Strait of Hormuz is shut until US attacks end.",
-      "date": "2026-07-15T04:00Z",
-      "date_display": "15 Jul 04:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇨🇳 China's economy grew 4.3% year-on-year in second quarter of 2026, the weakest growth since 2022...",
-      "description": "🇨🇳 China's economy grew 4.3% year-on-year in second quarter of 2026, the weakest growth since 2022.",
-      "date": "2026-07-15T03:40Z",
-      "date_display": "15 Jul 03:40 UTC",
+      "title": "US crude oil price\n\n1st of July: $71\n\nNow: $91.5 https://t.co/ZTaoZ0olO4",
+      "description": "US crude oil price\n\n1st of July: $71\n\nNow: $91.5 https://t.co/ZTaoZ0olO4",
+      "date": "2026-07-21T22:10Z",
+      "date_display": "21 Jul 22:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate...",
-      "description": "<b>BREAKING:</b> Trump threatens to strike Iranian bridges and power plants if Tehran does not negotiate",
-      "date": "2026-07-14T22:40Z",
-      "date_display": "14 Jul 22:40 UTC",
+      "title": "BREAKING: Sirens are sounding in Kuwait amid Iranian attack",
+      "description": "<b>BREAKING:</b> Sirens are sounding in Kuwait amid Iranian attack",
+      "date": "2026-07-21T21:50Z",
+      "date_display": "21 Jul 21:50 UTC",
       "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "BREAKING: Iranian military says any US targeting of Iranian nuclear or sensitive sites would result ...",
+      "description": "<b>BREAKING:</b> Iranian military says any US targeting of Iranian nuclear or sensitive sites would result in an expansion of the war across the region",
+      "date": "2026-07-21T21:10Z",
+      "date_display": "21 Jul 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "UK Prime Minister Andy Burnham has approved US use of British military bases for 'defensive strikes'...",
+      "description": "UK Prime Minister Andy Burnham has approved US use of British military bases for 'defensive strikes' against Iran, according to Bloomberg report. https://t.co/UDhlKdOlEJ",
+      "date": "2026-07-21T20:20Z",
+      "date_display": "21 Jul 20:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US data center spending was over $50 billion in April, for the first time exceeding public spending ...",
+      "description": "US data center spending was over $50 billion in April, for the first time exceeding public spending on transportation infrastructure, according to Bloomberg report.",
+      "date": "2026-07-21T14:00Z",
+      "date_display": "21 Jul 14:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Kuwait says that Iran has attacked water desalination and power facilities",
+      "description": "<b>BREAKING:</b> Kuwait says that Iran has attacked water desalination and power facilities",
+      "date": "2026-07-21T12:10Z",
+      "date_display": "21 Jul 12:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
       "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
@@ -357,62 +413,6 @@
       "date_display": "18 Jul 22:20 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 4-0 up against 🇫🇷 France",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 4-0 up against 🇫🇷 France",
-      "date": "2026-07-18T21:50Z",
-      "date_display": "18 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 3-0 up against 🇫🇷 France in the 36th minute",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 3-0 up against 🇫🇷 France in the 36th minute",
-      "date": "2026-07-18T21:40Z",
-      "date_display": "18 Jul 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 2-0 up against 🇫🇷 France in the 19th minute",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 2-0 up against 🇫🇷 France in the 19th minute",
-      "date": "2026-07-18T21:20Z",
-      "date_display": "18 Jul 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 1-0 up against 🇫🇷 France in the 3rd minute",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England go 1-0 up against 🇫🇷 France in the 3rd minute",
-      "date": "2026-07-18T21:10Z",
-      "date_display": "18 Jul 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US officials tell the New York Times that several helicopters have been damaged in Iranian attack on...",
-      "description": "US officials tell the New York Times that several helicopters have been damaged in Iranian attack on Jordan.",
-      "date": "2026-07-18T21:00Z",
-      "date_display": "18 Jul 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran has targeted a US base in Jordan",
-      "description": "<b>BREAKING:</b> Iran has targeted a US base in Jordan",
-      "date": "2026-07-18T08:20Z",
-      "date_display": "18 Jul 08:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New Iranian attack on targets in Kuwait",
-      "description": "<b>BREAKING:</b> New Iranian attack on targets in Kuwait",
-      "date": "2026-07-18T04:20Z",
-      "date_display": "18 Jul 04:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

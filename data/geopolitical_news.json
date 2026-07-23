@@ -1,17 +1,105 @@
 {
-  "fetched_at": "2026-07-22T03:57Z",
+  "fetched_at": "2026-07-23T03:54Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 24,
+  "india_relevant_items": 28,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": true,
+    "hormuz_risk": false,
     "opec_action": false,
-    "price_direction": null,
-    "latest_oil_headline": "US crude oil price\n\n1st of July: $71\n\nNow: $91.5 https://t.co/ZTaoZ0olO4"
+    "price_direction": "up",
+    "latest_oil_headline": "BREAKING: Brent crude oil is up to $96"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Brent crude oil is up to $96",
+      "description": "<b>BREAKING:</b> Brent crude oil is up to $96",
+      "date": "2026-07-23T02:20Z",
+      "date_display": "23 Jul 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it has launched more strikes at Iranian military targets and will 'contin...",
+      "description": "<b>BREAKING:</b> US military says it has launched more strikes at Iranian military targets and will 'continue to further degrade Iran's ability to threaten civilian mariners and commercial vessels'",
+      "date": "2026-07-22T22:20Z",
+      "date_display": "22 Jul 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Kuwait's military says it is intercepting a drone attack",
+      "description": "<b>BREAKING:</b> Kuwait's military says it is intercepting a drone attack",
+      "date": "2026-07-22T22:10Z",
+      "date_display": "22 Jul 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Yemen's Iran-backed Houthis say they have targeted Saudi oil tanker in the Red Sea",
+      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis say they have targeted Saudi oil tanker in the Red Sea",
+      "date": "2026-07-22T21:50Z",
+      "date_display": "22 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price\n\n1st of July: $68\n\nNow: $86 https://t.co/LbzBiulKIX",
+      "description": "US crude oil price\n\n1st of July: $68\n\nNow: $86 https://t.co/LbzBiulKIX",
+      "date": "2026-07-22T21:40Z",
+      "date_display": "22 Jul 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil tanker hit by projectile in the Red Sea",
+      "description": "<b>BREAKING:</b> Oil tanker hit by projectile in the Red Sea",
+      "date": "2026-07-22T21:30Z",
+      "date_display": "22 Jul 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts reported across several sites in Iran",
+      "description": "<b>BREAKING:</b> Blasts reported across several sites in Iran",
+      "date": "2026-07-22T21:00Z",
+      "date_display": "22 Jul 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $95 https://t.co/HrzhUm0SS3",
+      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $95 https://t.co/HrzhUm0SS3",
+      "date": "2026-07-22T11:00Z",
+      "date_display": "22 Jul 11:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil price up 4%, rises to $95.",
+      "description": "<b>BREAKING:</b> US crude oil price up 4%, rises to $95.",
+      "date": "2026-07-22T10:20Z",
+      "date_display": "22 Jul 10:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $92.3 https://t.co/D1ykXkLK1o",
+      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $92.3 https://t.co/D1ykXkLK1o",
+      "date": "2026-07-22T05:20Z",
+      "date_display": "22 Jul 05:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US-Saudi nuclear deal is 'estimated to be worth tens of billions of dollars' and is 'designed to giv...",
+      "description": "US-Saudi nuclear deal is 'estimated to be worth tens of billions of dollars' and is 'designed to give American companies a central role in developing Saudi Arabia’s nuclear infrastructure while shutting out other foreign competitors', according to Wall Street Journal report. https://t.co/1MydZCLDOi",
+      "date": "2026-07-22T04:00Z",
+      "date_display": "22 Jul 04:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear en...",
       "description": "<b>BREAKING:</b> US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear enrichment in the country, according to Wall Street Journal report.",
@@ -83,97 +171,105 @@
       "date_display": "20 Jul 21:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it is carrying out new round of strikes against Iran",
-      "description": "<b>BREAKING:</b> US military says it is carrying out new round of strikes against Iran",
-      "date": "2026-07-20T20:30Z",
-      "date_display": "20 Jul 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 U...",
-      "description": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 Uruguay: 2\n🇪🇸 Spain: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England: 1 https://t.co/YiNrDuO9qK",
-      "date": "2026-07-19T22:10Z",
-      "date_display": "19 Jul 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Loud blasts in several parts of southern Iran",
-      "description": "<b>BREAKING:</b> Loud blasts in several parts of southern Iran",
-      "date": "2026-07-19T00:30Z",
-      "date_display": "19 Jul 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New US strikes on Iran",
-      "description": "<b>BREAKING:</b> New US strikes on Iran",
-      "date": "2026-07-18T23:10Z",
-      "date_display": "18 Jul 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US officials tell the New York Times that several helicopters have been damaged in Iranian attack on...",
-      "description": "US officials tell the New York Times that several helicopters have been damaged in Iranian attack on Jordan.",
-      "date": "2026-07-18T21:00Z",
-      "date_display": "18 Jul 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran has targeted a US base in Jordan",
-      "description": "<b>BREAKING:</b> Iran has targeted a US base in Jordan",
-      "date": "2026-07-18T08:20Z",
-      "date_display": "18 Jul 08:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New Iranian attack on targets in Kuwait",
-      "description": "<b>BREAKING:</b> New Iranian attack on targets in Kuwait",
-      "date": "2026-07-18T04:20Z",
-      "date_display": "18 Jul 04:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New Iranian attack on Bahrain",
-      "description": "<b>BREAKING:</b> New Iranian attack on Bahrain",
-      "date": "2026-07-18T02:30Z",
-      "date_display": "18 Jul 02:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian military says it shot down a US drone",
-      "description": "<b>BREAKING:</b> Iranian military says it shot down a US drone",
-      "date": "2026-07-17T22:30Z",
-      "date_display": "17 Jul 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian media reports that two oil tankers caught fire after they passed through mines in ...",
-      "description": "<b>BREAKING:</b> Iranian media reports that two oil tankers caught fire after they passed through mines in the Strait of Hormuz",
-      "date": "2026-07-17T22:20Z",
-      "date_display": "17 Jul 22:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New US military strikes against Iran",
-      "description": "<b>BREAKING:</b> New US military strikes against Iran",
-      "date": "2026-07-17T20:30Z",
-      "date_display": "17 Jul 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Brent crude oil is up to $96",
+      "description": "<b>BREAKING:</b> Brent crude oil is up to $96",
+      "date": "2026-07-23T02:20Z",
+      "date_display": "23 Jul 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it has launched more strikes at Iranian military targets and will 'contin...",
+      "description": "<b>BREAKING:</b> US military says it has launched more strikes at Iranian military targets and will 'continue to further degrade Iran's ability to threaten civilian mariners and commercial vessels'",
+      "date": "2026-07-22T22:20Z",
+      "date_display": "22 Jul 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Kuwait's military says it is intercepting a drone attack",
+      "description": "<b>BREAKING:</b> Kuwait's military says it is intercepting a drone attack",
+      "date": "2026-07-22T22:10Z",
+      "date_display": "22 Jul 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Yemen's Iran-backed Houthis say they have targeted Saudi oil tanker in the Red Sea",
+      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis say they have targeted Saudi oil tanker in the Red Sea",
+      "date": "2026-07-22T21:50Z",
+      "date_display": "22 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US crude oil price\n\n1st of July: $68\n\nNow: $86 https://t.co/LbzBiulKIX",
+      "description": "US crude oil price\n\n1st of July: $68\n\nNow: $86 https://t.co/LbzBiulKIX",
+      "date": "2026-07-22T21:40Z",
+      "date_display": "22 Jul 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil tanker hit by projectile in the Red Sea",
+      "description": "<b>BREAKING:</b> Oil tanker hit by projectile in the Red Sea",
+      "date": "2026-07-22T21:30Z",
+      "date_display": "22 Jul 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts reported across several sites in Iran",
+      "description": "<b>BREAKING:</b> Blasts reported across several sites in Iran",
+      "date": "2026-07-22T21:00Z",
+      "date_display": "22 Jul 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Google beats estimates and announces $119.8 billion in revenue for the second quarter of 2026. https...",
+      "description": "Google beats estimates and announces $119.8 billion in revenue for the second quarter of 2026. https://t.co/t17IEZw4KX",
+      "date": "2026-07-22T20:10Z",
+      "date_display": "22 Jul 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $95 https://t.co/HrzhUm0SS3",
+      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $95 https://t.co/HrzhUm0SS3",
+      "date": "2026-07-22T11:00Z",
+      "date_display": "22 Jul 11:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil price up 4%, rises to $95.",
+      "description": "<b>BREAKING:</b> US crude oil price up 4%, rises to $95.",
+      "date": "2026-07-22T10:20Z",
+      "date_display": "22 Jul 10:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $92.3 https://t.co/D1ykXkLK1o",
+      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $92.3 https://t.co/D1ykXkLK1o",
+      "date": "2026-07-22T05:20Z",
+      "date_display": "22 Jul 05:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US-Saudi nuclear deal is 'estimated to be worth tens of billions of dollars' and is 'designed to giv...",
+      "description": "US-Saudi nuclear deal is 'estimated to be worth tens of billions of dollars' and is 'designed to give American companies a central role in developing Saudi Arabia’s nuclear infrastructure while shutting out other foreign competitors', according to Wall Street Journal report. https://t.co/1MydZCLDOi",
+      "date": "2026-07-22T04:00Z",
+      "date_display": "22 Jul 04:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear en...",
       "description": "<b>BREAKING:</b> US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear enrichment in the country, according to Wall Street Journal report.",
@@ -316,102 +412,6 @@
       "date": "2026-07-19T21:20Z",
       "date_display": "19 Jul 21:20 UTC",
       "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup all-time top scorers.\n\n🇫🇷 Kylian Mbappé: 22 goals\n🇦🇷 Lionel Messi: 21 goals\n🇩🇪 Miros...",
-      "description": "World Cup all-time top scorers.\n\n🇫🇷 Kylian Mbappé: 22 goals\n🇦🇷 Lionel Messi: 21 goals\n🇩🇪 Miroslav Klose: 16 goals\n🇧🇷 Ronaldo: 15 goals\n🇩🇪 Gerd Müller: 14 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 14 goals\n🇫🇷 Just Fontaine: 13 goals\n🇧🇷 Pelé: 12 goals\n🇭🇺 Sándor Kocsis: 11 goals\n🇩🇪 Jürgen Klinsmann: 11 goals\n🇵🇹 Cristiano Ronaldo: 10 goals\n🇩🇪 Helmut Rahn: 10 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Gary Lineker: 10 goals\n🇦🇷 Gabriel Batistuta: 10 goals\n🇵🇪 Teófilo Cubillas: 10 goals\n🇩🇪 Thomas Müller: 10 goals\n🇵🇱 Grzegorz Lato: 10 goals",
-      "date": "2026-07-19T01:40Z",
-      "date_display": "19 Jul 01:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Loud blasts in several parts of southern Iran",
-      "description": "<b>BREAKING:</b> Loud blasts in several parts of southern Iran",
-      "date": "2026-07-19T00:30Z",
-      "date_display": "19 Jul 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Andrew Tate and Tristan Tate arrested in the United States after UK prosecution brought fu...",
-      "description": "<b>BREAKING:</b> Andrew Tate and Tristan Tate arrested in the United States after UK prosecution brought further charges against them, with the UK seeking their extradition.",
-      "date": "2026-07-18T23:50Z",
-      "date_display": "18 Jul 23:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Andrew Tate and his brother Tristan Tate arrested in Miami, according to AP report.",
-      "description": "<b>BREAKING:</b> Andrew Tate and his brother Tristan Tate arrested in Miami, according to AP report.",
-      "date": "2026-07-18T23:40Z",
-      "date_display": "18 Jul 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Andrew Tate and his brother Tristan Tate arrested in Miami",
-      "description": "<b>BREAKING:</b> Andrew Tate and his brother Tristan Tate arrested in Miami",
-      "date": "2026-07-18T23:30Z",
-      "date_display": "18 Jul 23:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup 2026, top scorers.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Ha...",
-      "description": "World Cup 2026, top scorers.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇪🇸 Mikel Oyarzabal: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🇧🇷 Vinicius Junior: 4 goals",
-      "date": "2026-07-18T23:20Z",
-      "date_display": "18 Jul 23:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: New US strikes on Iran",
-      "description": "<b>BREAKING:</b> New US strikes on Iran",
-      "date": "2026-07-18T23:10Z",
-      "date_display": "18 Jul 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇫🇷 France 6-4 and win 3rd place at the World Cup",
-      "description": "<b>BREAKING:</b> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England beat 🇫🇷 France 6-4 and win 3rd place at the World Cup",
-      "date": "2026-07-18T23:10Z",
-      "date_display": "18 Jul 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "World Cup 2026, top scorers.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Ha...",
-      "description": "World Cup 2026, top scorers.\n\n🇫🇷 Kylian Mbappe: 10 goals\n🇦🇷 Lionel Messi: 8 goals\n🇳🇴 Erling Haaland: 7 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Jude Bellingham: 6 goals\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Harry Kane: 6 goals\n🇫🇷 Ousmane Dembele: 5 goals\n🇪🇸 Mikel Oyarzabal: 5 goals\n🇸🇳 Ismaila Sarr: 4 goals\n🇲🇽 Julian Quinones: 4 goals\n🇧🇷 Vinicius Junior: 4 goals",
-      "date": "2026-07-18T23:10Z",
-      "date_display": "18 Jul 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Mbappe scores second goal,  🇫🇷 France now down 4-3 against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England....",
-      "description": "<b>BREAKING:</b> Mbappe scores second goal,  🇫🇷 France now down 4-3 against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England.",
-      "date": "2026-07-18T22:40Z",
-      "date_display": "18 Jul 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Mbappe passes Messi as all-time top World Cup scorer https://t.co/ZRdAGnWVb5",
-      "description": "<b>BREAKING:</b> Mbappe passes Messi as all-time top World Cup scorer https://t.co/ZRdAGnWVb5",
-      "date": "2026-07-18T22:40Z",
-      "date_display": "18 Jul 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Mbappe scores, becoming  top scorer at the World Cup, with 🇫🇷 France now down 4-1 against 🏴󠁧󠁢󠁥...",
-      "description": "Mbappe scores, becoming  top scorer at the World Cup, with 🇫🇷 France now down 4-1 against 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England.",
-      "date": "2026-07-18T22:20Z",
-      "date_display": "18 Jul 22:20 UTC",
-      "severity": "medium",
       "is_india_relevant": false
     }
   ]

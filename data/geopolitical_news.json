@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-07-23T03:54Z",
+  "fetched_at": "2026-07-24T03:54Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 28,
+  "india_relevant_items": 30,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Brent crude oil is up to $96"
+    "latest_oil_headline": "BREAKING: Brent crude oil hits $100"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: New York Times reports that Iran rejected a US ceasefire proposal that was conveyed by Ira...",
+      "description": "<b>BREAKING:</b> New York Times reports that Iran rejected a US ceasefire proposal that was conveyed by Iraq's Prime Minister",
+      "date": "2026-07-24T02:50Z",
+      "date_display": "24 Jul 02:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Widespread US strikes across different regions of Iran",
+      "description": "<b>BREAKING:</b> Widespread US strikes across different regions of Iran",
+      "date": "2026-07-24T01:10Z",
+      "date_display": "24 Jul 01:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil hits $100",
+      "description": "<b>BREAKING:</b> Brent crude oil hits $100",
+      "date": "2026-07-23T21:50Z",
+      "date_display": "23 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil up 4%, now trading at over $90 for first time in over a month.",
+      "description": "<b>BREAKING:</b> US crude oil up 4%, now trading at over $90 for first time in over a month.",
+      "date": "2026-07-23T09:30Z",
+      "date_display": "23 Jul 09:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil is up to $98",
+      "description": "<b>BREAKING:</b> Brent crude oil is up to $98",
+      "date": "2026-07-23T08:50Z",
+      "date_display": "23 Jul 08:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $96.6 https://t.co/VqnZKTX0Ip",
+      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $96.6 https://t.co/VqnZKTX0Ip",
+      "date": "2026-07-23T07:00Z",
+      "date_display": "23 Jul 07:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Brent crude oil is up to $96",
       "description": "<b>BREAKING:</b> Brent crude oil is up to $96",
@@ -123,57 +171,57 @@
       "date_display": "21 Jul 21:50 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian military says any US targeting of Iranian nuclear or sensitive sites would result ...",
-      "description": "<b>BREAKING:</b> Iranian military says any US targeting of Iranian nuclear or sensitive sites would result in an expansion of the war across the region",
-      "date": "2026-07-21T21:10Z",
-      "date_display": "21 Jul 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UK Prime Minister Andy Burnham has approved US use of British military bases for 'defensive strikes'...",
-      "description": "UK Prime Minister Andy Burnham has approved US use of British military bases for 'defensive strikes' against Iran, according to Bloomberg report. https://t.co/UDhlKdOlEJ",
-      "date": "2026-07-21T20:20Z",
-      "date_display": "21 Jul 20:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Kuwait says that Iran has attacked water desalination and power facilities",
-      "description": "<b>BREAKING:</b> Kuwait says that Iran has attacked water desalination and power facilities",
-      "date": "2026-07-21T12:10Z",
-      "date_display": "21 Jul 12:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have struck US targets in Bahrain and Kuwait",
-      "date": "2026-07-21T02:20Z",
-      "date_display": "21 Jul 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇺🇸 US is set to impose 50% tariffs on a range of 🇨🇦 Canadian goods",
-      "description": "<b>BREAKING:</b> 🇺🇸 US is set to impose 50% tariffs on a range of 🇨🇦 Canadian goods",
-      "date": "2026-07-20T21:20Z",
-      "date_display": "20 Jul 21:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇸🇦 Saudi Arabia condemns Houthi announcement that they will impose a naval blockade on t...",
-      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia condemns Houthi announcement that they will impose a naval blockade on the Kingdom, with Riyadh saying it will take measures to protect its ships.",
-      "date": "2026-07-20T21:00Z",
-      "date_display": "20 Jul 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: New York Times reports that Iran rejected a US ceasefire proposal that was conveyed by Ira...",
+      "description": "<b>BREAKING:</b> New York Times reports that Iran rejected a US ceasefire proposal that was conveyed by Iraq's Prime Minister",
+      "date": "2026-07-24T02:50Z",
+      "date_display": "24 Jul 02:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Widespread US strikes across different regions of Iran",
+      "description": "<b>BREAKING:</b> Widespread US strikes across different regions of Iran",
+      "date": "2026-07-24T01:10Z",
+      "date_display": "24 Jul 01:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil hits $100",
+      "description": "<b>BREAKING:</b> Brent crude oil hits $100",
+      "date": "2026-07-23T21:50Z",
+      "date_display": "23 Jul 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil up 4%, now trading at over $90 for first time in over a month.",
+      "description": "<b>BREAKING:</b> US crude oil up 4%, now trading at over $90 for first time in over a month.",
+      "date": "2026-07-23T09:30Z",
+      "date_display": "23 Jul 09:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil is up to $98",
+      "description": "<b>BREAKING:</b> Brent crude oil is up to $98",
+      "date": "2026-07-23T08:50Z",
+      "date_display": "23 Jul 08:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $96.6 https://t.co/VqnZKTX0Ip",
+      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $96.6 https://t.co/VqnZKTX0Ip",
+      "date": "2026-07-23T07:00Z",
+      "date_display": "23 Jul 07:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Brent crude oil is up to $96",
       "description": "<b>BREAKING:</b> Brent crude oil is up to $96",
@@ -364,54 +412,6 @@
       "date": "2026-07-20T01:30Z",
       "date_display": "20 Jul 01:30 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "LAMINE YAMAL\n\n- 19 years old\n- Ballon d’Or runner-up\n- Three La Liga titles\n- UEFA European Champion...",
-      "description": "LAMINE YAMAL\n\n- 19 years old\n- Ballon d’Or runner-up\n- Three La Liga titles\n- UEFA European Championship winner\n- World Cup winner https://t.co/1xxM3j6RUx",
-      "date": "2026-07-19T22:30Z",
-      "date_display": "19 Jul 22:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇪🇸 SPAIN WIN THE WORLD CUP",
-      "description": "<b>BREAKING:</b> 🇪🇸 SPAIN WIN THE WORLD CUP",
-      "date": "2026-07-19T22:10Z",
-      "date_display": "19 Jul 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "SPAIN ARE THE CHAMPIONS OF THE WORLD FOR THE SECOND TIME https://t.co/UNz3nIOOGu",
-      "description": "SPAIN ARE THE CHAMPIONS OF THE WORLD FOR THE SECOND TIME https://t.co/UNz3nIOOGu",
-      "date": "2026-07-19T22:10Z",
-      "date_display": "19 Jul 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 U...",
-      "description": "WORLD CUPS WON\n\n🇧🇷 Brazil: 5\n🇩🇪 Germany: 4\n🇮🇹 Italy: 4\n🇦🇷 Argentina: 3\n🇫🇷 France: 2\n🇺🇾 Uruguay: 2\n🇪🇸 Spain: 2\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England: 1 https://t.co/YiNrDuO9qK",
-      "date": "2026-07-19T22:10Z",
-      "date_display": "19 Jul 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇪🇸 Spain go 1-0 up against 🇦🇷 Argentina in extra-time",
-      "description": "<b>BREAKING:</b> 🇪🇸 Spain go 1-0 up against 🇦🇷 Argentina in extra-time",
-      "date": "2026-07-19T21:50Z",
-      "date_display": "19 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇪🇸 Spain and 🇦🇷 Argentina go to extra-time",
-      "description": "<b>BREAKING:</b> 🇪🇸 Spain and 🇦🇷 Argentina go to extra-time",
-      "date": "2026-07-19T21:20Z",
-      "date_display": "19 Jul 21:20 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

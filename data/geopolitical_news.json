@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T03:49Z",
+  "fetched_at": "2026-07-26T04:06Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,17 @@
     "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Brent crude oil price\n\n1st of July: $71\n\nNow: $98.3 https://t.co/PqA2FTgSjE"
+    "latest_oil_headline": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4"
   },
   "india_headlines": [
+    {
+      "title": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
+      "description": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
+      "date": "2026-07-25T21:10Z",
+      "date_display": "25 Jul 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Trump says that Congresswoman Ilhan Omar should 'get the hell out of our country'. https://t.co/vJa8...",
       "description": "Trump says that Congresswoman Ilhan Omar should 'get the hell out of our country'. https://t.co/vJa8wI4pL9",
@@ -163,17 +171,17 @@
       "date_display": "22 Jul 21:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts reported across several sites in Iran",
-      "description": "<b>BREAKING:</b> Blasts reported across several sites in Iran",
-      "date": "2026-07-22T21:00Z",
-      "date_display": "22 Jul 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
+      "description": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
+      "date": "2026-07-25T21:10Z",
+      "date_display": "25 Jul 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Trump says that Congresswoman Ilhan Omar should 'get the hell out of our country'. https://t.co/vJa8...",
       "description": "Trump says that Congresswoman Ilhan Omar should 'get the hell out of our country'. https://t.co/vJa8wI4pL9",
@@ -404,14 +412,6 @@
       "date": "2026-07-21T21:10Z",
       "date_display": "21 Jul 21:10 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "UK Prime Minister Andy Burnham has approved US use of British military bases for 'defensive strikes'...",
-      "description": "UK Prime Minister Andy Burnham has approved US use of British military bases for 'defensive strikes' against Iran, according to Bloomberg report. https://t.co/UDhlKdOlEJ",
-      "date": "2026-07-21T20:20Z",
-      "date_display": "21 Jul 20:20 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

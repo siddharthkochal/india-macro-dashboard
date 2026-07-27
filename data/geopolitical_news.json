@@ -1,17 +1,33 @@
 {
-  "fetched_at": "2026-07-26T04:06Z",
+  "fetched_at": "2026-07-27T04:22Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 37,
+  "india_relevant_items": 39,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4"
+    "latest_oil_headline": "BREAKING: Oil prices plunge by over 7%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Oil prices plunge by over 7%",
+      "description": "<b>BREAKING:</b> Oil prices plunge by over 7%",
+      "date": "2026-07-26T22:30Z",
+      "date_display": "26 Jul 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it will halt its attacks for as long the US does, according to Reuters report.",
+      "description": "Iran says it will halt its attacks for as long the US does, according to Reuters report.",
+      "date": "2026-07-26T21:00Z",
+      "date_display": "26 Jul 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
       "description": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
@@ -155,25 +171,25 @@
       "date_display": "22 Jul 21:50 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price\n\n1st of July: $68\n\nNow: $86 https://t.co/LbzBiulKIX",
-      "description": "US crude oil price\n\n1st of July: $68\n\nNow: $86 https://t.co/LbzBiulKIX",
-      "date": "2026-07-22T21:40Z",
-      "date_display": "22 Jul 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil tanker hit by projectile in the Red Sea",
-      "description": "<b>BREAKING:</b> Oil tanker hit by projectile in the Red Sea",
-      "date": "2026-07-22T21:30Z",
-      "date_display": "22 Jul 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Oil prices plunge by over 7%",
+      "description": "<b>BREAKING:</b> Oil prices plunge by over 7%",
+      "date": "2026-07-26T22:30Z",
+      "date_display": "26 Jul 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran says it will halt its attacks for as long the US does, according to Reuters report.",
+      "description": "Iran says it will halt its attacks for as long the US does, according to Reuters report.",
+      "date": "2026-07-26T21:00Z",
+      "date_display": "26 Jul 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
       "description": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
@@ -396,22 +412,6 @@
       "date": "2026-07-21T22:10Z",
       "date_display": "21 Jul 22:10 UTC",
       "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Sirens are sounding in Kuwait amid Iranian attack",
-      "description": "<b>BREAKING:</b> Sirens are sounding in Kuwait amid Iranian attack",
-      "date": "2026-07-21T21:50Z",
-      "date_display": "21 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian military says any US targeting of Iranian nuclear or sensitive sites would result ...",
-      "description": "<b>BREAKING:</b> Iranian military says any US targeting of Iranian nuclear or sensitive sites would result in an expansion of the war across the region",
-      "date": "2026-07-21T21:10Z",
-      "date_display": "21 Jul 21:10 UTC",
-      "severity": "high",
       "is_india_relevant": true
     }
   ]

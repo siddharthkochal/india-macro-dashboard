@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-07-27T04:22Z",
+  "fetched_at": "2026-07-28T03:47Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 39,
+  "india_relevant_items": 41,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": false,
+    "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
     "latest_oil_headline": "BREAKING: Oil prices plunge by over 7%"
   },
   "india_headlines": [
+    {
+      "title": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year,...",
+      "description": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year, according to @Kalshi prediction market. https://t.co/3FAgP1P8tI",
+      "date": "2026-07-27T21:50Z",
+      "date_display": "27 Jul 21:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "33% of Americans support the war on Iran, according to Reuters/Ipsos poll.",
+      "description": "33% of Americans support the war on Iran, according to Reuters/Ipsos poll.",
+      "date": "2026-07-27T21:20Z",
+      "date_display": "27 Jul 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls back past 18,000 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls back past 18,000 per US Dollar.",
+      "date": "2026-07-27T09:00Z",
+      "date_display": "27 Jul 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Oil prices plunge by over 7%",
       "description": "<b>BREAKING:</b> Oil prices plunge by over 7%",
@@ -147,33 +171,49 @@
       "date_display": "23 Jul 02:20 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it has launched more strikes at Iranian military targets and will 'contin...",
-      "description": "<b>BREAKING:</b> US military says it has launched more strikes at Iranian military targets and will 'continue to further degrade Iran's ability to threaten civilian mariners and commercial vessels'",
-      "date": "2026-07-22T22:20Z",
-      "date_display": "22 Jul 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Kuwait's military says it is intercepting a drone attack",
-      "description": "<b>BREAKING:</b> Kuwait's military says it is intercepting a drone attack",
-      "date": "2026-07-22T22:10Z",
-      "date_display": "22 Jul 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Yemen's Iran-backed Houthis say they have targeted Saudi oil tanker in the Red Sea",
-      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis say they have targeted Saudi oil tanker in the Red Sea",
-      "date": "2026-07-22T21:50Z",
-      "date_display": "22 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Trading halted on 🇰🇷 South Korea's KOSPI index after it plunges by almost 8%.",
+      "description": "Trading halted on 🇰🇷 South Korea's KOSPI index after it plunges by almost 8%.",
+      "date": "2026-07-28T01:20Z",
+      "date_display": "28 Jul 01:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇰🇷 South Korea's KOSPI index has plunged by over 6%.",
+      "description": "🇰🇷 South Korea's KOSPI index has plunged by over 6%.",
+      "date": "2026-07-28T00:30Z",
+      "date_display": "28 Jul 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year,...",
+      "description": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year, according to @Kalshi prediction market. https://t.co/3FAgP1P8tI",
+      "date": "2026-07-27T21:50Z",
+      "date_display": "27 Jul 21:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "33% of Americans support the war on Iran, according to Reuters/Ipsos poll.",
+      "description": "33% of Americans support the war on Iran, according to Reuters/Ipsos poll.",
+      "date": "2026-07-27T21:20Z",
+      "date_display": "27 Jul 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇮🇩 Indonesia's rupiah falls back past 18,000 per US Dollar.",
+      "description": "🇮🇩 Indonesia's rupiah falls back past 18,000 per US Dollar.",
+      "date": "2026-07-27T09:00Z",
+      "date_display": "27 Jul 09:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Oil prices plunge by over 7%",
       "description": "<b>BREAKING:</b> Oil prices plunge by over 7%",
@@ -371,46 +411,6 @@
       "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $95 https://t.co/HrzhUm0SS3",
       "date": "2026-07-22T11:00Z",
       "date_display": "22 Jul 11:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price up 4%, rises to $95.",
-      "description": "<b>BREAKING:</b> US crude oil price up 4%, rises to $95.",
-      "date": "2026-07-22T10:20Z",
-      "date_display": "22 Jul 10:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $92.3 https://t.co/D1ykXkLK1o",
-      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $92.3 https://t.co/D1ykXkLK1o",
-      "date": "2026-07-22T05:20Z",
-      "date_display": "22 Jul 05:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US-Saudi nuclear deal is 'estimated to be worth tens of billions of dollars' and is 'designed to giv...",
-      "description": "US-Saudi nuclear deal is 'estimated to be worth tens of billions of dollars' and is 'designed to give American companies a central role in developing Saudi Arabia’s nuclear infrastructure while shutting out other foreign competitors', according to Wall Street Journal report. https://t.co/1MydZCLDOi",
-      "date": "2026-07-22T04:00Z",
-      "date_display": "22 Jul 04:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear en...",
-      "description": "<b>BREAKING:</b> US has agreed to a 30-year nuclear deal with Saudi Arabia that could facilitate nuclear enrichment in the country, according to Wall Street Journal report.",
-      "date": "2026-07-22T01:10Z",
-      "date_display": "22 Jul 01:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price\n\n1st of July: $71\n\nNow: $91.5 https://t.co/ZTaoZ0olO4",
-      "description": "US crude oil price\n\n1st of July: $71\n\nNow: $91.5 https://t.co/ZTaoZ0olO4",
-      "date": "2026-07-21T22:10Z",
-      "date_display": "21 Jul 22:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

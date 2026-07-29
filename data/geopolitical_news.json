@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-07-28T03:47Z",
+  "fetched_at": "2026-07-29T03:50Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 41,
+  "india_relevant_items": 39,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Oil prices plunge by over 7%"
+    "latest_oil_headline": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THS..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation ov...",
+      "description": "<b>BREAKING:</b> Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation over drone attacks on its oil facilities.",
+      "date": "2026-07-29T00:40Z",
+      "date_display": "29 Jul 00:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran launches ballistic missile attack on targets in Jordan",
+      "description": "<b>BREAKING:</b> Iran launches ballistic missile attack on targets in Jordan",
+      "date": "2026-07-28T22:20Z",
+      "date_display": "28 Jul 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THS...",
+      "description": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THSQURQeF1",
+      "date": "2026-07-28T21:30Z",
+      "date_display": "28 Jul 21:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year,...",
       "description": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year, according to @Kalshi prediction market. https://t.co/3FAgP1P8tI",
@@ -147,33 +171,89 @@
       "date_display": "23 Jul 09:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil is up to $98",
-      "description": "<b>BREAKING:</b> Brent crude oil is up to $98",
-      "date": "2026-07-23T08:50Z",
-      "date_display": "23 Jul 08:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $96.6 https://t.co/VqnZKTX0Ip",
-      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $96.6 https://t.co/VqnZKTX0Ip",
-      "date": "2026-07-23T07:00Z",
-      "date_display": "23 Jul 07:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil is up to $96",
-      "description": "<b>BREAKING:</b> Brent crude oil is up to $96",
-      "date": "2026-07-23T02:20Z",
-      "date_display": "23 Jul 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index down by 7%",
+      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index down by 7%",
+      "date": "2026-07-29T03:10Z",
+      "date_display": "29 Jul 03:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation ov...",
+      "description": "<b>BREAKING:</b> Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation over drone attacks on its oil facilities.",
+      "date": "2026-07-29T00:40Z",
+      "date_display": "29 Jul 00:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The Democratic Party now has a 83% chance of winning the US House of Representatives, according to p...",
+      "description": "The Democratic Party now has a 83% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/Grsu7r851j",
+      "date": "2026-07-29T00:30Z",
+      "date_display": "29 Jul 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran launches ballistic missile attack on targets in Jordan",
+      "description": "<b>BREAKING:</b> Iran launches ballistic missile attack on targets in Jordan",
+      "date": "2026-07-28T22:20Z",
+      "date_display": "28 Jul 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THS...",
+      "description": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THSQURQeF1",
+      "date": "2026-07-28T21:30Z",
+      "date_display": "28 Jul 21:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump administration set to restrict import of Chinese humanoid robots, according to Reute...",
+      "description": "<b>BREAKING:</b> Trump administration set to restrict import of Chinese humanoid robots, according to Reuters report.",
+      "date": "2026-07-28T21:00Z",
+      "date_display": "28 Jul 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Zinedine Zidane appointed new France national team coach",
+      "description": "<b>BREAKING:</b> Zinedine Zidane appointed new France national team coach",
+      "date": "2026-07-28T09:20Z",
+      "date_display": "28 Jul 09:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 7.1 magnitude quake in southern Japan, tsunami alert issued.",
+      "description": "<b>BREAKING:</b> 7.1 magnitude quake in southern Japan, tsunami alert issued.",
+      "date": "2026-07-28T08:00Z",
+      "date_display": "28 Jul 08:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇦🇺 Melbourne to 🇫🇷 Toulouse test flight for new Airbus A350 ULR has now lasted over 24...",
+      "description": "<b>BREAKING:</b> 🇦🇺 Melbourne to 🇫🇷 Toulouse test flight for new Airbus A350 ULR has now lasted over 24 hours, crossing over the Pacific Ocean, North America and the Atlantic Ocean.",
+      "date": "2026-07-28T07:30Z",
+      "date_display": "28 Jul 07:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index down by 10.7%",
+      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index down by 10.7%",
+      "date": "2026-07-28T06:40Z",
+      "date_display": "28 Jul 06:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "Trading halted on 🇰🇷 South Korea's KOSPI index after it plunges by almost 8%.",
       "description": "Trading halted on 🇰🇷 South Korea's KOSPI index after it plunges by almost 8%.",
@@ -332,86 +412,6 @@
       "date": "2026-07-23T08:50Z",
       "date_display": "23 Jul 08:50 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $96.6 https://t.co/VqnZKTX0Ip",
-      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $96.6 https://t.co/VqnZKTX0Ip",
-      "date": "2026-07-23T07:00Z",
-      "date_display": "23 Jul 07:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil is up to $96",
-      "description": "<b>BREAKING:</b> Brent crude oil is up to $96",
-      "date": "2026-07-23T02:20Z",
-      "date_display": "23 Jul 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it has launched more strikes at Iranian military targets and will 'contin...",
-      "description": "<b>BREAKING:</b> US military says it has launched more strikes at Iranian military targets and will 'continue to further degrade Iran's ability to threaten civilian mariners and commercial vessels'",
-      "date": "2026-07-22T22:20Z",
-      "date_display": "22 Jul 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Kuwait's military says it is intercepting a drone attack",
-      "description": "<b>BREAKING:</b> Kuwait's military says it is intercepting a drone attack",
-      "date": "2026-07-22T22:10Z",
-      "date_display": "22 Jul 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Yemen's Iran-backed Houthis say they have targeted Saudi oil tanker in the Red Sea",
-      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis say they have targeted Saudi oil tanker in the Red Sea",
-      "date": "2026-07-22T21:50Z",
-      "date_display": "22 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price\n\n1st of July: $68\n\nNow: $86 https://t.co/LbzBiulKIX",
-      "description": "US crude oil price\n\n1st of July: $68\n\nNow: $86 https://t.co/LbzBiulKIX",
-      "date": "2026-07-22T21:40Z",
-      "date_display": "22 Jul 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil tanker hit by projectile in the Red Sea",
-      "description": "<b>BREAKING:</b> Oil tanker hit by projectile in the Red Sea",
-      "date": "2026-07-22T21:30Z",
-      "date_display": "22 Jul 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts reported across several sites in Iran",
-      "description": "<b>BREAKING:</b> Blasts reported across several sites in Iran",
-      "date": "2026-07-22T21:00Z",
-      "date_display": "22 Jul 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Google beats estimates and announces $119.8 billion in revenue for the second quarter of 2026. https...",
-      "description": "Google beats estimates and announces $119.8 billion in revenue for the second quarter of 2026. https://t.co/t17IEZw4KX",
-      "date": "2026-07-22T20:10Z",
-      "date_display": "22 Jul 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $95 https://t.co/HrzhUm0SS3",
-      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $95 https://t.co/HrzhUm0SS3",
-      "date": "2026-07-22T11:00Z",
-      "date_display": "22 Jul 11:00 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

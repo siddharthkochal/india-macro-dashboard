@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-29T03:50Z",
+  "fetched_at": "2026-07-30T03:41Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 39,
+  "india_relevant_items": 33,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,46 @@
     "latest_oil_headline": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THS..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: New blasts reported across parts of southern Iran amid US strikes",
+      "description": "<b>BREAKING:</b> New blasts reported across parts of southern Iran amid US strikes",
+      "date": "2026-07-30T01:30Z",
+      "date_display": "30 Jul 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it conducted strikes on Iran today as a 'powerful response to yesterday's...",
+      "description": "<b>BREAKING:</b> US military says it conducted strikes on Iran today as a 'powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East'",
+      "date": "2026-07-30T00:30Z",
+      "date_display": "30 Jul 00:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts reported in southwestern Iran",
+      "description": "<b>BREAKING:</b> Blasts reported in southwestern Iran",
+      "date": "2026-07-29T23:10Z",
+      "date_display": "29 Jul 23:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says will hit Iran 'hard'",
+      "description": "<b>BREAKING:</b> Trump says will hit Iran 'hard'",
+      "date": "2026-07-29T19:30Z",
+      "date_display": "29 Jul 19:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reuters reports that Iran is set to receive a 'a first shipment out of up to 400 Chinese-made should...",
+      "description": "Reuters reports that Iran is set to receive a 'a first shipment out of up to 400 Chinese-made shoulder-fired air-defence missile launchers' within weeks. https://t.co/qSmVmFJdJz",
+      "date": "2026-07-29T08:40Z",
+      "date_display": "29 Jul 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation ov...",
       "description": "<b>BREAKING:</b> Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation over drone attacks on its oil facilities.",
@@ -131,49 +171,113 @@
       "date_display": "24 Jul 20:20 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Sirens sound in Bahrain amid suspected Iranian attack",
-      "description": "<b>BREAKING:</b> Sirens sound in Bahrain amid suspected Iranian attack",
-      "date": "2026-07-24T08:00Z",
-      "date_display": "24 Jul 08:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New York Times reports that Iran rejected a US ceasefire proposal that was conveyed by Ira...",
-      "description": "<b>BREAKING:</b> New York Times reports that Iran rejected a US ceasefire proposal that was conveyed by Iraq's Prime Minister",
-      "date": "2026-07-24T02:50Z",
-      "date_display": "24 Jul 02:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Widespread US strikes across different regions of Iran",
-      "description": "<b>BREAKING:</b> Widespread US strikes across different regions of Iran",
-      "date": "2026-07-24T01:10Z",
-      "date_display": "24 Jul 01:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil hits $100",
-      "description": "<b>BREAKING:</b> Brent crude oil hits $100",
-      "date": "2026-07-23T21:50Z",
-      "date_display": "23 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil up 4%, now trading at over $90 for first time in over a month.",
-      "description": "<b>BREAKING:</b> US crude oil up 4%, now trading at over $90 for first time in over a month.",
-      "date": "2026-07-23T09:30Z",
-      "date_display": "23 Jul 09:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "JD Vance and Marco Rubio tied at 18% chance of winning US Presidential Election in 2028, followed by...",
+      "description": "JD Vance and Marco Rubio tied at 18% chance of winning US Presidential Election in 2028, followed by Gavin Newsom on 12% and Jon Ossoff on 11%, according to @Kalshi prediction market. https://t.co/7POu2mv1Ja",
+      "date": "2026-07-30T01:50Z",
+      "date_display": "30 Jul 01:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: New blasts reported across parts of southern Iran amid US strikes",
+      "description": "<b>BREAKING:</b> New blasts reported across parts of southern Iran amid US strikes",
+      "date": "2026-07-30T01:30Z",
+      "date_display": "30 Jul 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US military says it conducted strikes on Iran today as a 'powerful response to yesterday's...",
+      "description": "<b>BREAKING:</b> US military says it conducted strikes on Iran today as a 'powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East'",
+      "date": "2026-07-30T00:30Z",
+      "date_display": "30 Jul 00:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts reported in southwestern Iran",
+      "description": "<b>BREAKING:</b> Blasts reported in southwestern Iran",
+      "date": "2026-07-29T23:10Z",
+      "date_display": "29 Jul 23:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Microsoft shares have surged by 7.5% after earnings beat estimates. https://t.co/xRkawC4RqQ",
+      "description": "Microsoft shares have surged by 7.5% after earnings beat estimates. https://t.co/xRkawC4RqQ",
+      "date": "2026-07-29T23:10Z",
+      "date_display": "29 Jul 23:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Landing appears to be restricted at 🇸🇦 King Khalid International Airport in Riyadh, with the cause...",
+      "description": "Landing appears to be restricted at 🇸🇦 King Khalid International Airport in Riyadh, with the cause not yet known.",
+      "date": "2026-07-29T21:50Z",
+      "date_display": "29 Jul 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US stock market lost over $1 trillion in value today",
+      "description": "<b>BREAKING:</b> US stock market lost over $1 trillion in value today",
+      "date": "2026-07-29T20:30Z",
+      "date_display": "29 Jul 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump says that migration is 'killing' the United Kingdom and 'invading' Europe. https://t.co/BApPBe...",
+      "description": "Trump says that migration is 'killing' the United Kingdom and 'invading' Europe. https://t.co/BApPBeZS0c",
+      "date": "2026-07-29T19:50Z",
+      "date_display": "29 Jul 19:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US 30-Year Treasury bond yield is now at the highest since before the Global Financia...",
+      "description": "<b>BREAKING:</b> 🇺🇸 US 30-Year Treasury bond yield is now at the highest since before the Global Financial Crisis",
+      "date": "2026-07-29T19:40Z",
+      "date_display": "29 Jul 19:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says will hit Iran 'hard'",
+      "description": "<b>BREAKING:</b> Trump says will hit Iran 'hard'",
+      "date": "2026-07-29T19:30Z",
+      "date_display": "29 Jul 19:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Reuters reports that Iran is set to receive a 'a first shipment out of up to 400 Chinese-made should...",
+      "description": "Reuters reports that Iran is set to receive a 'a first shipment out of up to 400 Chinese-made shoulder-fired air-defence missile launchers' within weeks. https://t.co/qSmVmFJdJz",
+      "date": "2026-07-29T08:40Z",
+      "date_display": "29 Jul 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index has plunged by 11%",
+      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index has plunged by 11%",
+      "date": "2026-07-29T04:40Z",
+      "date_display": "29 Jul 04:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trading halted on 🇰🇷 South Korea's KOSPI index after it falls by 8%",
+      "description": "<b>BREAKING:</b> Trading halted on 🇰🇷 South Korea's KOSPI index after it falls by 8%",
+      "date": "2026-07-29T03:50Z",
+      "date_display": "29 Jul 03:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇰🇷 South Korea's KOSPI index down by 7%",
       "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index down by 7%",
@@ -308,110 +412,6 @@
       "date": "2026-07-26T21:00Z",
       "date_display": "26 Jul 21:00 UTC",
       "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
-      "description": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
-      "date": "2026-07-25T21:10Z",
-      "date_display": "25 Jul 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Congresswoman Ilhan Omar should 'get the hell out of our country'. https://t.co/vJa8...",
-      "description": "Trump says that Congresswoman Ilhan Omar should 'get the hell out of our country'. https://t.co/vJa8wI4pL9",
-      "date": "2026-07-25T02:40Z",
-      "date_display": "25 Jul 02:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $98.3 https://t.co/PqA2FTgSjE",
-      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $98.3 https://t.co/PqA2FTgSjE",
-      "date": "2026-07-25T00:30Z",
-      "date_display": "25 Jul 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US military says it has disabled a second commercial vessel that was trying to violate blockade agai...",
-      "description": "US military says it has disabled a second commercial vessel that was trying to violate blockade against Iran.",
-      "date": "2026-07-24T22:20Z",
-      "date_display": "24 Jul 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Warning sirens sound in Bahrain amid Iranian attack",
-      "description": "<b>BREAKING:</b> Warning sirens sound in Bahrain amid Iranian attack",
-      "date": "2026-07-24T21:10Z",
-      "date_display": "24 Jul 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Strikes on Yemen's Hodeidah port",
-      "description": "<b>BREAKING:</b> Strikes on Yemen's Hodeidah port",
-      "date": "2026-07-24T20:20Z",
-      "date_display": "24 Jul 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Wall Street Journal reports that 'Bahrain and Kuwait secretly sent jets to attack sites in...",
-      "description": "<b>BREAKING:</b> Wall Street Journal reports that 'Bahrain and Kuwait secretly sent jets to attack sites inside Iran, their first such direct retaliation against Tehran'.",
-      "date": "2026-07-24T20:20Z",
-      "date_display": "24 Jul 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Sirens sound in Bahrain amid suspected Iranian attack",
-      "description": "<b>BREAKING:</b> Sirens sound in Bahrain amid suspected Iranian attack",
-      "date": "2026-07-24T08:00Z",
-      "date_display": "24 Jul 08:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New York Times reports that Iran rejected a US ceasefire proposal that was conveyed by Ira...",
-      "description": "<b>BREAKING:</b> New York Times reports that Iran rejected a US ceasefire proposal that was conveyed by Iraq's Prime Minister",
-      "date": "2026-07-24T02:50Z",
-      "date_display": "24 Jul 02:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Widespread US strikes across different regions of Iran",
-      "description": "<b>BREAKING:</b> Widespread US strikes across different regions of Iran",
-      "date": "2026-07-24T01:10Z",
-      "date_display": "24 Jul 01:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil hits $100",
-      "description": "<b>BREAKING:</b> Brent crude oil hits $100",
-      "date": "2026-07-23T21:50Z",
-      "date_display": "23 Jul 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil up 4%, now trading at over $90 for first time in over a month.",
-      "description": "<b>BREAKING:</b> US crude oil up 4%, now trading at over $90 for first time in over a month.",
-      "date": "2026-07-23T09:30Z",
-      "date_display": "23 Jul 09:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil is up to $98",
-      "description": "<b>BREAKING:</b> Brent crude oil is up to $98",
-      "date": "2026-07-23T08:50Z",
-      "date_display": "23 Jul 08:50 UTC",
-      "severity": "high",
       "is_india_relevant": true
     }
   ]

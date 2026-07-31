@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-30T03:41Z",
+  "fetched_at": "2026-07-31T04:00Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 33,
+  "india_relevant_items": 31,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THS..."
   },
   "india_headlines": [
+    {
+      "title": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with I...",
+      "description": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with Iraqi armed groups', according to Reuters report.",
+      "date": "2026-07-30T21:40Z",
+      "date_display": "30 Jul 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇸🇦 Saudi Arabia is seeking to build an international coalition to 'protect shipping ‌in the Red Se...",
+      "description": "🇸🇦 Saudi Arabia is seeking to build an international coalition to 'protect shipping ‌in the Red Sea from Houthi attacks', according to Reuters report.",
+      "date": "2026-07-30T05:50Z",
+      "date_display": "30 Jul 05:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: New blasts reported across parts of southern Iran amid US strikes",
       "description": "<b>BREAKING:</b> New blasts reported across parts of southern Iran amid US strikes",
@@ -155,25 +171,41 @@
       "date_display": "24 Jul 21:10 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Strikes on Yemen's Hodeidah port",
-      "description": "<b>BREAKING:</b> Strikes on Yemen's Hodeidah port",
-      "date": "2026-07-24T20:20Z",
-      "date_display": "24 Jul 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Wall Street Journal reports that 'Bahrain and Kuwait secretly sent jets to attack sites in...",
-      "description": "<b>BREAKING:</b> Wall Street Journal reports that 'Bahrain and Kuwait secretly sent jets to attack sites inside Iran, their first such direct retaliation against Tehran'.",
-      "date": "2026-07-24T20:20Z",
-      "date_display": "24 Jul 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "🇰🇷 South Korea's KOSPI index surges by 15% as significant market volatility continues.",
+      "description": "🇰🇷 South Korea's KOSPI index surges by 15% as significant market volatility continues.",
+      "date": "2026-07-31T00:30Z",
+      "date_display": "31 Jul 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Apple share price is now down 7.3% after its reported revenue was weaker than expected. https://t.co...",
+      "description": "Apple share price is now down 7.3% after its reported revenue was weaker than expected. https://t.co/3k0ui1fVBB",
+      "date": "2026-07-30T22:00Z",
+      "date_display": "30 Jul 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with I...",
+      "description": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with Iraqi armed groups', according to Reuters report.",
+      "date": "2026-07-30T21:40Z",
+      "date_display": "30 Jul 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇸🇦 Saudi Arabia is seeking to build an international coalition to 'protect shipping ‌in the Red Se...",
+      "description": "🇸🇦 Saudi Arabia is seeking to build an international coalition to 'protect shipping ‌in the Red Sea from Houthi attacks', according to Reuters report.",
+      "date": "2026-07-30T05:50Z",
+      "date_display": "30 Jul 05:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "JD Vance and Marco Rubio tied at 18% chance of winning US Presidential Election in 2028, followed by...",
       "description": "JD Vance and Marco Rubio tied at 18% chance of winning US Presidential Election in 2028, followed by Gavin Newsom on 12% and Jon Ossoff on 11%, according to @Kalshi prediction market. https://t.co/7POu2mv1Ja",
@@ -380,38 +412,6 @@
       "date": "2026-07-27T21:50Z",
       "date_display": "27 Jul 21:50 UTC",
       "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "33% of Americans support the war on Iran, according to Reuters/Ipsos poll.",
-      "description": "33% of Americans support the war on Iran, according to Reuters/Ipsos poll.",
-      "date": "2026-07-27T21:20Z",
-      "date_display": "27 Jul 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇮🇩 Indonesia's rupiah falls back past 18,000 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls back past 18,000 per US Dollar.",
-      "date": "2026-07-27T09:00Z",
-      "date_display": "27 Jul 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices plunge by over 7%",
-      "description": "<b>BREAKING:</b> Oil prices plunge by over 7%",
-      "date": "2026-07-26T22:30Z",
-      "date_display": "26 Jul 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran says it will halt its attacks for as long the US does, according to Reuters report.",
-      "description": "Iran says it will halt its attacks for as long the US does, according to Reuters report.",
-      "date": "2026-07-26T21:00Z",
-      "date_display": "26 Jul 21:00 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

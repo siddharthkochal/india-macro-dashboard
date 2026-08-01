@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T04:00Z",
+  "fetched_at": "2026-08-01T04:01Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,25 @@
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THS..."
+    "latest_oil_headline": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: CBS News reports that the US and Israel are 'planning what would be one of the harshest bo...",
+      "description": "<b>BREAKING:</b> CBS News reports that the US and Israel are 'planning what would be one of the harshest bombing campaigns to date against energy infrastructure targets in Iran'.",
+      "date": "2026-08-01T01:10Z",
+      "date_display": "01 Aug 01:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1",
+      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1",
+      "date": "2026-08-01T01:00Z",
+      "date_display": "01 Aug 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with I...",
       "description": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with Iraqi armed groups', according to Reuters report.",
@@ -155,25 +171,25 @@
       "date_display": "25 Jul 00:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "US military says it has disabled a second commercial vessel that was trying to violate blockade agai...",
-      "description": "US military says it has disabled a second commercial vessel that was trying to violate blockade against Iran.",
-      "date": "2026-07-24T22:20Z",
-      "date_display": "24 Jul 22:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Warning sirens sound in Bahrain amid Iranian attack",
-      "description": "<b>BREAKING:</b> Warning sirens sound in Bahrain amid Iranian attack",
-      "date": "2026-07-24T21:10Z",
-      "date_display": "24 Jul 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: CBS News reports that the US and Israel are 'planning what would be one of the harshest bo...",
+      "description": "<b>BREAKING:</b> CBS News reports that the US and Israel are 'planning what would be one of the harshest bombing campaigns to date against energy infrastructure targets in Iran'.",
+      "date": "2026-08-01T01:10Z",
+      "date_display": "01 Aug 01:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1",
+      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1",
+      "date": "2026-08-01T01:00Z",
+      "date_display": "01 Aug 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "🇰🇷 South Korea's KOSPI index surges by 15% as significant market volatility continues.",
       "description": "🇰🇷 South Korea's KOSPI index surges by 15% as significant market volatility continues.",
@@ -397,22 +413,6 @@
       "date_display": "28 Jul 01:20 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "🇰🇷 South Korea's KOSPI index has plunged by over 6%.",
-      "description": "🇰🇷 South Korea's KOSPI index has plunged by over 6%.",
-      "date": "2026-07-28T00:30Z",
-      "date_display": "28 Jul 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year,...",
-      "description": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year, according to @Kalshi prediction market. https://t.co/3FAgP1P8tI",
-      "date": "2026-07-27T21:50Z",
-      "date_display": "27 Jul 21:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ]
 }

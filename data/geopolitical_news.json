@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-08-01T04:01Z",
+  "fetched_at": "2026-08-02T04:04Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 31,
+  "india_relevant_items": 29,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "up",
+    "price_direction": "down",
     "latest_oil_headline": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iran has threatened to 'strike other nations energy fields' if the US launches fresh attac...",
+      "description": "<b>BREAKING:</b> Iran has threatened to 'strike other nations energy fields' if the US launches fresh attacks, according to Reuters report.",
+      "date": "2026-08-02T01:40Z",
+      "date_display": "02 Aug 01:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +45%\nCotton: +27%\nWheat: +25%\nWool: +21%\nRubber: +20%\nCheese...",
+      "description": "Prices, since start of the year.\n\nRice: +45%\nCotton: +27%\nWheat: +25%\nWool: +21%\nRubber: +20%\nCheese: +16%\nTea: +15%\nSunflower oil: +15%\nPalm oil: +15%\nLumber: +14%\nSoybeans: +13%",
+      "date": "2026-08-01T21:00Z",
+      "date_display": "01 Aug 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Kuwait says latest Iranian attack has targeted a Kuwaiti government facility",
+      "description": "<b>BREAKING:</b> Kuwait says latest Iranian attack has targeted a Kuwaiti government facility",
+      "date": "2026-08-01T08:20Z",
+      "date_display": "01 Aug 08:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: CBS News reports that the US and Israel are 'planning what would be one of the harshest bo...",
       "description": "<b>BREAKING:</b> CBS News reports that the US and Israel are 'planning what would be one of the harshest bombing campaigns to date against energy infrastructure targets in Iran'.",
@@ -147,33 +171,49 @@
       "date_display": "26 Jul 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
-      "description": "US crude oil price\n\n1st of July: $68\n\nNow: $90 https://t.co/sKJs8MATN4",
-      "date": "2026-07-25T21:10Z",
-      "date_display": "25 Jul 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says that Congresswoman Ilhan Omar should 'get the hell out of our country'. https://t.co/vJa8...",
-      "description": "Trump says that Congresswoman Ilhan Omar should 'get the hell out of our country'. https://t.co/vJa8wI4pL9",
-      "date": "2026-07-25T02:40Z",
-      "date_display": "25 Jul 02:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $98.3 https://t.co/PqA2FTgSjE",
-      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $98.3 https://t.co/PqA2FTgSjE",
-      "date": "2026-07-25T00:30Z",
-      "date_display": "25 Jul 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Iran has threatened to 'strike other nations energy fields' if the US launches fresh attac...",
+      "description": "<b>BREAKING:</b> Iran has threatened to 'strike other nations energy fields' if the US launches fresh attacks, according to Reuters report.",
+      "date": "2026-08-02T01:40Z",
+      "date_display": "02 Aug 01:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 3 people killed in shooting in 🇺🇸 Twin Falls, Idaho",
+      "description": "<b>BREAKING:</b> 3 people killed in shooting in 🇺🇸 Twin Falls, Idaho",
+      "date": "2026-08-01T23:20Z",
+      "date_display": "01 Aug 23:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +45%\nCotton: +27%\nWheat: +25%\nWool: +21%\nRubber: +20%\nCheese...",
+      "description": "Prices, since start of the year.\n\nRice: +45%\nCotton: +27%\nWheat: +25%\nWool: +21%\nRubber: +20%\nCheese: +16%\nTea: +15%\nSunflower oil: +15%\nPalm oil: +15%\nLumber: +14%\nSoybeans: +13%",
+      "date": "2026-08-01T21:00Z",
+      "date_display": "01 Aug 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Israel’s Channel 12 reports that security forces are on the highest state of alert, amid rising tens...",
+      "description": "Israel’s Channel 12 reports that security forces are on the highest state of alert, amid rising tensions in the region.",
+      "date": "2026-08-01T20:40Z",
+      "date_display": "01 Aug 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Kuwait says latest Iranian attack has targeted a Kuwaiti government facility",
+      "description": "<b>BREAKING:</b> Kuwait says latest Iranian attack has targeted a Kuwaiti government facility",
+      "date": "2026-08-01T08:20Z",
+      "date_display": "01 Aug 08:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: CBS News reports that the US and Israel are 'planning what would be one of the harshest bo...",
       "description": "<b>BREAKING:</b> CBS News reports that the US and Israel are 'planning what would be one of the harshest bombing campaigns to date against energy infrastructure targets in Iran'.",
@@ -372,46 +412,6 @@
       "date": "2026-07-28T21:00Z",
       "date_display": "28 Jul 21:00 UTC",
       "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Zinedine Zidane appointed new France national team coach",
-      "description": "<b>BREAKING:</b> Zinedine Zidane appointed new France national team coach",
-      "date": "2026-07-28T09:20Z",
-      "date_display": "28 Jul 09:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 7.1 magnitude quake in southern Japan, tsunami alert issued.",
-      "description": "<b>BREAKING:</b> 7.1 magnitude quake in southern Japan, tsunami alert issued.",
-      "date": "2026-07-28T08:00Z",
-      "date_display": "28 Jul 08:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇦🇺 Melbourne to 🇫🇷 Toulouse test flight for new Airbus A350 ULR has now lasted over 24...",
-      "description": "<b>BREAKING:</b> 🇦🇺 Melbourne to 🇫🇷 Toulouse test flight for new Airbus A350 ULR has now lasted over 24 hours, crossing over the Pacific Ocean, North America and the Atlantic Ocean.",
-      "date": "2026-07-28T07:30Z",
-      "date_display": "28 Jul 07:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index down by 10.7%",
-      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index down by 10.7%",
-      "date": "2026-07-28T06:40Z",
-      "date_display": "28 Jul 06:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trading halted on 🇰🇷 South Korea's KOSPI index after it plunges by almost 8%.",
-      "description": "Trading halted on 🇰🇷 South Korea's KOSPI index after it plunges by almost 8%.",
-      "date": "2026-07-28T01:20Z",
-      "date_display": "28 Jul 01:20 UTC",
-      "severity": "medium",
       "is_india_relevant": false
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T04:01Z",
+  "fetched_at": "2026-08-02T04:04Z",
   "source": "Yahoo Finance (free, no API key)",
   "prices": {
     "brent": {
@@ -8,14 +8,10 @@
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_85",
       "current_value": 90.12,
-      "change_from_prev": 1.09,
+      "change_from_prev": 17.2,
       "direction": "up",
       "signal": "bearish",
       "series": [
-        {
-          "date": "Jul-25",
-          "value": 72.53
-        },
         {
           "date": "Aug-25",
           "value": 68.12
@@ -54,29 +50,21 @@
         },
         {
           "date": "Jul-26",
-          "value": 89.03
-        },
-        {
-          "date": "Jul-26",
           "value": 90.12
         }
       ],
-      "fetched_at": "2026-08-01T04:01Z"
+      "fetched_at": "2026-08-02T04:04Z"
     },
     "wti": {
       "symbol": "CL=F",
       "name": "WTI Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_80",
-      "current_value": 86.8,
-      "change_from_prev": 3.21,
+      "current_value": 84.67,
+      "change_from_prev": 15.17,
       "direction": "up",
       "signal": "bearish",
       "series": [
-        {
-          "date": "Jul-25",
-          "value": 69.26
-        },
         {
           "date": "Aug-25",
           "value": 64.01
@@ -115,29 +103,21 @@
         },
         {
           "date": "Jul-26",
-          "value": 83.59
-        },
-        {
-          "date": "Jul-26",
-          "value": 86.8
+          "value": 84.67
         }
       ],
-      "fetched_at": "2026-08-01T04:01Z"
+      "fetched_at": "2026-08-02T04:04Z"
     },
     "gold": {
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/troy oz",
       "india_impact": "negative_via_import_demand",
-      "current_value": 4098.6,
-      "change_from_prev": -1.5,
-      "direction": "down",
+      "current_value": 4107.0,
+      "change_from_prev": 84.1,
+      "direction": "up",
       "signal": "bearish",
       "series": [
-        {
-          "date": "Jul-25",
-          "value": 3293.2
-        },
         {
           "date": "Aug-25",
           "value": 3473.7
@@ -176,14 +156,10 @@
         },
         {
           "date": "Jul-26",
-          "value": 4100.1
-        },
-        {
-          "date": "Jul-26",
-          "value": 4098.6
+          "value": 4049.1
         }
       ],
-      "fetched_at": "2026-08-01T04:01Z"
+      "fetched_at": "2026-08-02T04:04Z"
     },
     "inr": {
       "symbol": "USDINR=X",
@@ -252,7 +228,7 @@
           "value": 95.39
         }
       ],
-      "fetched_at": "2026-08-01T04:01Z"
+      "fetched_at": "2026-08-02T04:04Z"
     },
     "ovx": {
       "symbol": "^OVX",
@@ -321,7 +297,7 @@
           "value": 63.04
         }
       ],
-      "fetched_at": "2026-08-01T04:01Z"
+      "fetched_at": "2026-08-02T04:04Z"
     }
   },
   "india_oil_alert": {

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T04:04Z",
+  "fetched_at": "2026-08-03T04:06Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,33 @@
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1"
+    "latest_oil_headline": "BREAKING: Oil prices fall by 5% after Trump calls off new strikes on Iran"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Oil prices fall by 5% after Trump calls off new strikes on Iran",
+      "description": "<b>BREAKING:</b> Oil prices fall by 5% after Trump calls off new strikes on Iran",
+      "date": "2026-08-02T22:40Z",
+      "date_display": "02 Aug 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says strikes on Iran, which have been called off, were supposed to be the 'biggest s...",
+      "description": "<b>BREAKING:</b> Trump says strikes on Iran, which have been called off, were supposed to be the 'biggest since World War II'.",
+      "date": "2026-08-02T22:40Z",
+      "date_display": "02 Aug 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +109%\nHeating oil: +93%\nGasoline: +82%\nUS cr...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +109%\nHeating oil: +93%\nGasoline: +82%\nUS crude oil: +47%\nGasoline: +47%\nBrent crude: +44%\nCoal: +24%",
+      "date": "2026-08-02T20:30Z",
+      "date_display": "02 Aug 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iran has threatened to 'strike other nations energy fields' if the US launches fresh attac...",
       "description": "<b>BREAKING:</b> Iran has threatened to 'strike other nations energy fields' if the US launches fresh attacks, according to Reuters report.",
@@ -147,33 +171,33 @@
       "date_display": "27 Jul 21:20 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "🇮🇩 Indonesia's rupiah falls back past 18,000 per US Dollar.",
-      "description": "🇮🇩 Indonesia's rupiah falls back past 18,000 per US Dollar.",
-      "date": "2026-07-27T09:00Z",
-      "date_display": "27 Jul 09:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices plunge by over 7%",
-      "description": "<b>BREAKING:</b> Oil prices plunge by over 7%",
-      "date": "2026-07-26T22:30Z",
-      "date_display": "26 Jul 22:30 UTC",
+      "title": "BREAKING: Oil prices fall by 5% after Trump calls off new strikes on Iran",
+      "description": "<b>BREAKING:</b> Oil prices fall by 5% after Trump calls off new strikes on Iran",
+      "date": "2026-08-02T22:40Z",
+      "date_display": "02 Aug 22:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Iran says it will halt its attacks for as long the US does, according to Reuters report.",
-      "description": "Iran says it will halt its attacks for as long the US does, according to Reuters report.",
-      "date": "2026-07-26T21:00Z",
-      "date_display": "26 Jul 21:00 UTC",
+      "title": "BREAKING: Trump says strikes on Iran, which have been called off, were supposed to be the 'biggest s...",
+      "description": "<b>BREAKING:</b> Trump says strikes on Iran, which have been called off, were supposed to be the 'biggest since World War II'.",
+      "date": "2026-08-02T22:40Z",
+      "date_display": "02 Aug 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +109%\nHeating oil: +93%\nGasoline: +82%\nUS cr...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +109%\nHeating oil: +93%\nGasoline: +82%\nUS crude oil: +47%\nGasoline: +47%\nBrent crude: +44%\nCoal: +24%",
+      "date": "2026-08-02T20:30Z",
+      "date_display": "02 Aug 20:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "BREAKING: Iran has threatened to 'strike other nations energy fields' if the US launches fresh attac...",
       "description": "<b>BREAKING:</b> Iran has threatened to 'strike other nations energy fields' if the US launches fresh attacks, according to Reuters report.",
@@ -388,30 +412,6 @@
       "date": "2026-07-29T00:30Z",
       "date_display": "29 Jul 00:30 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran launches ballistic missile attack on targets in Jordan",
-      "description": "<b>BREAKING:</b> Iran launches ballistic missile attack on targets in Jordan",
-      "date": "2026-07-28T22:20Z",
-      "date_display": "28 Jul 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THS...",
-      "description": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THSQURQeF1",
-      "date": "2026-07-28T21:30Z",
-      "date_display": "28 Jul 21:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump administration set to restrict import of Chinese humanoid robots, according to Reute...",
-      "description": "<b>BREAKING:</b> Trump administration set to restrict import of Chinese humanoid robots, according to Reuters report.",
-      "date": "2026-07-28T21:00Z",
-      "date_display": "28 Jul 21:00 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

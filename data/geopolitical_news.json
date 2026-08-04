@@ -1,17 +1,25 @@
 {
-  "fetched_at": "2026-08-03T04:06Z",
+  "fetched_at": "2026-08-04T03:48Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 29,
+  "india_relevant_items": 27,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "BREAKING: Oil prices fall by 5% after Trump calls off new strikes on Iran"
+    "latest_oil_headline": "BREAKING: Oil prices down by over 5%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Oil prices down by over 5%",
+      "description": "<b>BREAKING:</b> Oil prices down by over 5%",
+      "date": "2026-08-03T08:10Z",
+      "date_display": "03 Aug 08:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Oil prices fall by 5% after Trump calls off new strikes on Iran",
       "description": "<b>BREAKING:</b> Oil prices fall by 5% after Trump calls off new strikes on Iran",
@@ -163,17 +171,33 @@
       "date_display": "27 Jul 21:50 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "33% of Americans support the war on Iran, according to Reuters/Ipsos poll.",
-      "description": "33% of Americans support the war on Iran, according to Reuters/Ipsos poll.",
-      "date": "2026-07-27T21:20Z",
-      "date_display": "27 Jul 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "🇺🇸 US manufacturing PMI for July beats expectations and signals biggest expansion in factory activ...",
+      "description": "🇺🇸 US manufacturing PMI for July beats expectations and signals biggest expansion in factory activity since 2022. https://t.co/JF76MjqLck",
+      "date": "2026-08-03T19:50Z",
+      "date_display": "03 Aug 19:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The 🇺🇸 US economy under President Trump https://t.co/dtRFiYvkmV",
+      "description": "The 🇺🇸 US economy under President Trump https://t.co/dtRFiYvkmV",
+      "date": "2026-08-03T19:20Z",
+      "date_display": "03 Aug 19:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Oil prices down by over 5%",
+      "description": "<b>BREAKING:</b> Oil prices down by over 5%",
+      "date": "2026-08-03T08:10Z",
+      "date_display": "03 Aug 08:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Oil prices fall by 5% after Trump calls off new strikes on Iran",
       "description": "<b>BREAKING:</b> Oil prices fall by 5% after Trump calls off new strikes on Iran",
@@ -388,30 +412,6 @@
       "date": "2026-07-29T03:50Z",
       "date_display": "29 Jul 03:50 UTC",
       "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index down by 7%",
-      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index down by 7%",
-      "date": "2026-07-29T03:10Z",
-      "date_display": "29 Jul 03:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation ov...",
-      "description": "<b>BREAKING:</b> Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation over drone attacks on its oil facilities.",
-      "date": "2026-07-29T00:40Z",
-      "date_display": "29 Jul 00:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Democratic Party now has a 83% chance of winning the US House of Representatives, according to p...",
-      "description": "The Democratic Party now has a 83% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/Grsu7r851j",
-      "date": "2026-07-29T00:30Z",
-      "date_display": "29 Jul 00:30 UTC",
-      "severity": "medium",
       "is_india_relevant": false
     }
   ]

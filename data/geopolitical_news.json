@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-04T03:48Z",
+  "fetched_at": "2026-08-05T03:44Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 27,
+  "india_relevant_items": 26,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "BREAKING: Oil prices down by over 5%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Axios reports that the US and Iran are nearing on a new interim agreement to reopen Strait...",
+      "description": "<b>BREAKING:</b> Axios reports that the US and Iran are nearing on a new interim agreement to reopen Strait of Hormuz",
+      "date": "2026-08-05T03:00Z",
+      "date_display": "05 Aug 03:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: CNN reports the US military has 'used up nearly 80% of key missile interceptors' as senior...",
+      "description": "<b>BREAKING:</b> CNN reports the US military has 'used up nearly 80% of key missile interceptors' as senior military commanders are 'warning that the Pentagon’s munitions stockpile is dangerously low'",
+      "date": "2026-08-04T21:00Z",
+      "date_display": "04 Aug 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Oil prices down by over 5%",
       "description": "<b>BREAKING:</b> Oil prices down by over 5%",
@@ -155,25 +171,33 @@
       "date_display": "28 Jul 22:20 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THS...",
-      "description": "Brent crude oil price is down over 5% amid reports of progress on Strait of Hormuz. https://t.co/THSQURQeF1",
-      "date": "2026-07-28T21:30Z",
-      "date_display": "28 Jul 21:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year,...",
-      "description": "There is a 49% chance of traffic in the Strait of Hormuz returning to normal by the end of the year, according to @Kalshi prediction market. https://t.co/3FAgP1P8tI",
-      "date": "2026-07-27T21:50Z",
-      "date_display": "27 Jul 21:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Axios reports that the US and Iran are nearing on a new interim agreement to reopen Strait...",
+      "description": "<b>BREAKING:</b> Axios reports that the US and Iran are nearing on a new interim agreement to reopen Strait of Hormuz",
+      "date": "2026-08-05T03:00Z",
+      "date_display": "05 Aug 03:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: OpenAI reports new incidents of models breaching testing boundaries",
+      "description": "<b>BREAKING:</b> OpenAI reports new incidents of models breaching testing boundaries",
+      "date": "2026-08-04T21:20Z",
+      "date_display": "04 Aug 21:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: CNN reports the US military has 'used up nearly 80% of key missile interceptors' as senior...",
+      "description": "<b>BREAKING:</b> CNN reports the US military has 'used up nearly 80% of key missile interceptors' as senior military commanders are 'warning that the Pentagon’s munitions stockpile is dangerously low'",
+      "date": "2026-08-04T21:00Z",
+      "date_display": "04 Aug 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "🇺🇸 US manufacturing PMI for July beats expectations and signals biggest expansion in factory activ...",
       "description": "🇺🇸 US manufacturing PMI for July beats expectations and signals biggest expansion in factory activity since 2022. https://t.co/JF76MjqLck",
@@ -389,30 +413,6 @@
       "date_display": "29 Jul 19:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Reuters reports that Iran is set to receive a 'a first shipment out of up to 400 Chinese-made should...",
-      "description": "Reuters reports that Iran is set to receive a 'a first shipment out of up to 400 Chinese-made shoulder-fired air-defence missile launchers' within weeks. https://t.co/qSmVmFJdJz",
-      "date": "2026-07-29T08:40Z",
-      "date_display": "29 Jul 08:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇰🇷 South Korea's KOSPI index has plunged by 11%",
-      "description": "<b>BREAKING:</b> 🇰🇷 South Korea's KOSPI index has plunged by 11%",
-      "date": "2026-07-29T04:40Z",
-      "date_display": "29 Jul 04:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trading halted on 🇰🇷 South Korea's KOSPI index after it falls by 8%",
-      "description": "<b>BREAKING:</b> Trading halted on 🇰🇷 South Korea's KOSPI index after it falls by 8%",
-      "date": "2026-07-29T03:50Z",
-      "date_display": "29 Jul 03:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

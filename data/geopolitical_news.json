@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-05T03:44Z",
+  "fetched_at": "2026-08-06T03:50Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 26,
+  "india_relevant_items": 25,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "BREAKING: Oil prices down by over 5%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Yemen's Iran-backed Houthis claim responsibility for targeting Saudi oil tanker in the Gul...",
+      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis claim responsibility for targeting Saudi oil tanker in the Gulf of Aden",
+      "date": "2026-08-05T20:20Z",
+      "date_display": "05 Aug 20:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state television say current talks with Oman are not related to any immediate reop...",
+      "description": "<b>BREAKING:</b> Iranian state television say current talks with Oman are not related to any immediate reopening of Strait of Hormuz",
+      "date": "2026-08-05T09:00Z",
+      "date_display": "05 Aug 09:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Axios reports that the US and Iran are nearing on a new interim agreement to reopen Strait...",
       "description": "<b>BREAKING:</b> Axios reports that the US and Iran are nearing on a new interim agreement to reopen Strait of Hormuz",
@@ -155,25 +171,33 @@
       "date_display": "29 Jul 08:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation ov...",
-      "description": "<b>BREAKING:</b> Saudi Arabia says it conducted strikes in Iraq, coordinated with the US, in retaliation over drone attacks on its oil facilities.",
-      "date": "2026-07-29T00:40Z",
-      "date_display": "29 Jul 00:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran launches ballistic missile attack on targets in Jordan",
-      "description": "<b>BREAKING:</b> Iran launches ballistic missile attack on targets in Jordan",
-      "date": "2026-07-28T22:20Z",
-      "date_display": "28 Jul 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "🇺🇸 Gavin Newsom's chances of becoming the 2028 Democratic presidential nominee have fallen to 17%,...",
+      "description": "🇺🇸 Gavin Newsom's chances of becoming the 2028 Democratic presidential nominee have fallen to 17%, followed by 15% for Jon Ossoff, 13% for AOC  and 10% for Kamala Harris, according to @Kalshi prediction market. https://t.co/502I0LBXHc",
+      "date": "2026-08-05T20:40Z",
+      "date_display": "05 Aug 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Yemen's Iran-backed Houthis claim responsibility for targeting Saudi oil tanker in the Gul...",
+      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis claim responsibility for targeting Saudi oil tanker in the Gulf of Aden",
+      "date": "2026-08-05T20:20Z",
+      "date_display": "05 Aug 20:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state television say current talks with Oman are not related to any immediate reop...",
+      "description": "<b>BREAKING:</b> Iranian state television say current talks with Oman are not related to any immediate reopening of Strait of Hormuz",
+      "date": "2026-08-05T09:00Z",
+      "date_display": "05 Aug 09:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Axios reports that the US and Iran are nearing on a new interim agreement to reopen Strait...",
       "description": "<b>BREAKING:</b> Axios reports that the US and Iran are nearing on a new interim agreement to reopen Strait of Hormuz",
@@ -389,30 +413,6 @@
       "date_display": "29 Jul 20:30 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "Trump says that migration is 'killing' the United Kingdom and 'invading' Europe. https://t.co/BApPBe...",
-      "description": "Trump says that migration is 'killing' the United Kingdom and 'invading' Europe. https://t.co/BApPBeZS0c",
-      "date": "2026-07-29T19:50Z",
-      "date_display": "29 Jul 19:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 US 30-Year Treasury bond yield is now at the highest since before the Global Financia...",
-      "description": "<b>BREAKING:</b> 🇺🇸 US 30-Year Treasury bond yield is now at the highest since before the Global Financial Crisis",
-      "date": "2026-07-29T19:40Z",
-      "date_display": "29 Jul 19:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says will hit Iran 'hard'",
-      "description": "<b>BREAKING:</b> Trump says will hit Iran 'hard'",
-      "date": "2026-07-29T19:30Z",
-      "date_display": "29 Jul 19:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

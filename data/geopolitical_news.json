@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-08-06T03:50Z",
+  "fetched_at": "2026-08-07T03:30Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 25,
+  "india_relevant_items": 29,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "BREAKING: Oil prices down by over 5%"
+    "latest_oil_headline": "BREAKING: Brent crude oil price is up 5%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, ac...",
+      "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, according to Reuters report.",
+      "date": "2026-08-06T22:10Z",
+      "date_display": "06 Aug 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media says the military has struck 'hostile targets' in the Strait of Hormuz...",
+      "description": "<b>BREAKING:</b> Iranian state media says the military has struck 'hostile targets' in the Strait of Hormuz",
+      "date": "2026-08-06T20:10Z",
+      "date_display": "06 Aug 20:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil price is up 5%",
+      "description": "<b>BREAKING:</b> Brent crude oil price is up 5%",
+      "date": "2026-08-06T19:40Z",
+      "date_display": "06 Aug 19:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran warned Gulf states that 'any new U.S. attack on its territory' would  in turn 'trigge...",
+      "description": "<b>BREAKING:</b> Iran warned Gulf states that 'any new U.S. attack on its territory' would  in turn 'trigger ​retaliation against critical energy infrastructure across the region', according to Reuters report.",
+      "date": "2026-08-06T08:20Z",
+      "date_display": "06 Aug 08:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Japan says that North Korea has fired what could be a ballistic missile",
+      "description": "<b>BREAKING:</b> Japan says that North Korea has fired what could be a ballistic missile",
+      "date": "2026-08-06T08:20Z",
+      "date_display": "06 Aug 08:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +46%\nCotton: +29%\nWheat: +26%\nWool: +21%\nRubber: +20%\nPalm o...",
+      "description": "Prices, since start of the year.\n\nRice: +46%\nCotton: +29%\nWheat: +26%\nWool: +21%\nRubber: +20%\nPalm oil: +16%\nTea: +15%\nSunflower oil: +15%\nCheese: +12%\nSoybeans: +11%",
+      "date": "2026-08-06T05:30Z",
+      "date_display": "06 Aug 05:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Yemen's Iran-backed Houthis claim responsibility for targeting Saudi oil tanker in the Gul...",
       "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis claim responsibility for targeting Saudi oil tanker in the Gulf of Aden",
@@ -123,57 +171,65 @@
       "date_display": "30 Jul 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "🇸🇦 Saudi Arabia is seeking to build an international coalition to 'protect shipping ‌in the Red Se...",
-      "description": "🇸🇦 Saudi Arabia is seeking to build an international coalition to 'protect shipping ‌in the Red Sea from Houthi attacks', according to Reuters report.",
-      "date": "2026-07-30T05:50Z",
-      "date_display": "30 Jul 05:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New blasts reported across parts of southern Iran amid US strikes",
-      "description": "<b>BREAKING:</b> New blasts reported across parts of southern Iran amid US strikes",
-      "date": "2026-07-30T01:30Z",
-      "date_display": "30 Jul 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it conducted strikes on Iran today as a 'powerful response to yesterday's...",
-      "description": "<b>BREAKING:</b> US military says it conducted strikes on Iran today as a 'powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East'",
-      "date": "2026-07-30T00:30Z",
-      "date_display": "30 Jul 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts reported in southwestern Iran",
-      "description": "<b>BREAKING:</b> Blasts reported in southwestern Iran",
-      "date": "2026-07-29T23:10Z",
-      "date_display": "29 Jul 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says will hit Iran 'hard'",
-      "description": "<b>BREAKING:</b> Trump says will hit Iran 'hard'",
-      "date": "2026-07-29T19:30Z",
-      "date_display": "29 Jul 19:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Reuters reports that Iran is set to receive a 'a first shipment out of up to 400 Chinese-made should...",
-      "description": "Reuters reports that Iran is set to receive a 'a first shipment out of up to 400 Chinese-made shoulder-fired air-defence missile launchers' within weeks. https://t.co/qSmVmFJdJz",
-      "date": "2026-07-29T08:40Z",
-      "date_display": "29 Jul 08:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, ac...",
+      "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, according to Reuters report.",
+      "date": "2026-08-06T22:10Z",
+      "date_display": "06 Aug 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Copper prices have risen to a new record high, and are up 51% over the past year.",
+      "description": "Copper prices have risen to a new record high, and are up 51% over the past year.",
+      "date": "2026-08-06T21:20Z",
+      "date_display": "06 Aug 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iranian state media says the military has struck 'hostile targets' in the Strait of Hormuz...",
+      "description": "<b>BREAKING:</b> Iranian state media says the military has struck 'hostile targets' in the Strait of Hormuz",
+      "date": "2026-08-06T20:10Z",
+      "date_display": "06 Aug 20:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil price is up 5%",
+      "description": "<b>BREAKING:</b> Brent crude oil price is up 5%",
+      "date": "2026-08-06T19:40Z",
+      "date_display": "06 Aug 19:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran warned Gulf states that 'any new U.S. attack on its territory' would  in turn 'trigge...",
+      "description": "<b>BREAKING:</b> Iran warned Gulf states that 'any new U.S. attack on its territory' would  in turn 'trigger ​retaliation against critical energy infrastructure across the region', according to Reuters report.",
+      "date": "2026-08-06T08:20Z",
+      "date_display": "06 Aug 08:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Japan says that North Korea has fired what could be a ballistic missile",
+      "description": "<b>BREAKING:</b> Japan says that North Korea has fired what could be a ballistic missile",
+      "date": "2026-08-06T08:20Z",
+      "date_display": "06 Aug 08:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +46%\nCotton: +29%\nWheat: +26%\nWool: +21%\nRubber: +20%\nPalm o...",
+      "description": "Prices, since start of the year.\n\nRice: +46%\nCotton: +29%\nWheat: +26%\nWool: +21%\nRubber: +20%\nPalm oil: +16%\nTea: +15%\nSunflower oil: +15%\nCheese: +12%\nSoybeans: +11%",
+      "date": "2026-08-06T05:30Z",
+      "date_display": "06 Aug 05:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "🇺🇸 Gavin Newsom's chances of becoming the 2028 Democratic presidential nominee have fallen to 17%,...",
       "description": "🇺🇸 Gavin Newsom's chances of becoming the 2028 Democratic presidential nominee have fallen to 17%, followed by 15% for Jon Ossoff, 13% for AOC  and 10% for Kamala Harris, according to @Kalshi prediction market. https://t.co/502I0LBXHc",
@@ -357,62 +413,6 @@
       "date_display": "30 Jul 05:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "JD Vance and Marco Rubio tied at 18% chance of winning US Presidential Election in 2028, followed by...",
-      "description": "JD Vance and Marco Rubio tied at 18% chance of winning US Presidential Election in 2028, followed by Gavin Newsom on 12% and Jon Ossoff on 11%, according to @Kalshi prediction market. https://t.co/7POu2mv1Ja",
-      "date": "2026-07-30T01:50Z",
-      "date_display": "30 Jul 01:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: New blasts reported across parts of southern Iran amid US strikes",
-      "description": "<b>BREAKING:</b> New blasts reported across parts of southern Iran amid US strikes",
-      "date": "2026-07-30T01:30Z",
-      "date_display": "30 Jul 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US military says it conducted strikes on Iran today as a 'powerful response to yesterday's...",
-      "description": "<b>BREAKING:</b> US military says it conducted strikes on Iran today as a 'powerful response to yesterday's attempted Iranian attacks on U.S. forces based in the Middle East'",
-      "date": "2026-07-30T00:30Z",
-      "date_display": "30 Jul 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts reported in southwestern Iran",
-      "description": "<b>BREAKING:</b> Blasts reported in southwestern Iran",
-      "date": "2026-07-29T23:10Z",
-      "date_display": "29 Jul 23:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Microsoft shares have surged by 7.5% after earnings beat estimates. https://t.co/xRkawC4RqQ",
-      "description": "Microsoft shares have surged by 7.5% after earnings beat estimates. https://t.co/xRkawC4RqQ",
-      "date": "2026-07-29T23:10Z",
-      "date_display": "29 Jul 23:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Landing appears to be restricted at 🇸🇦 King Khalid International Airport in Riyadh, with the cause...",
-      "description": "Landing appears to be restricted at 🇸🇦 King Khalid International Airport in Riyadh, with the cause not yet known.",
-      "date": "2026-07-29T21:50Z",
-      "date_display": "29 Jul 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US stock market lost over $1 trillion in value today",
-      "description": "<b>BREAKING:</b> US stock market lost over $1 trillion in value today",
-      "date": "2026-07-29T20:30Z",
-      "date_display": "29 Jul 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

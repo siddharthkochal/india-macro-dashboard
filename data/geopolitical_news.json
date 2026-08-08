@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-07T03:30Z",
+  "fetched_at": "2026-08-08T02:28Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 29,
+  "india_relevant_items": 30,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "BREAKING: Brent crude oil price is up 5%"
   },
   "india_headlines": [
+    {
+      "title": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
+      "description": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
+      "date": "2026-08-07T19:50Z",
+      "date_display": "07 Aug 19:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan sign a joint defense agreement",
+      "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan sign a joint defense agreement",
+      "date": "2026-08-07T11:00Z",
+      "date_display": "07 Aug 11:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement considers attack ...",
+      "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement considers attack on any member as being an attack on all.",
+      "date": "2026-08-07T11:00Z",
+      "date_display": "07 Aug 11:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, ac...",
       "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, according to Reuters report.",
@@ -147,33 +171,41 @@
       "date_display": "01 Aug 08:20 UTC",
       "severity": "high",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇺🇸 S&amp;P 500 closes at record high https://t.co/dI7JSjXfkz",
+      "description": "<b>BREAKING:</b> 🇺🇸 S&amp;P 500 closes at record high https://t.co/dI7JSjXfkz",
+      "date": "2026-08-07T20:30Z",
+      "date_display": "07 Aug 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: CBS News reports that the US and Israel are 'planning what would be one of the harshest bo...",
-      "description": "<b>BREAKING:</b> CBS News reports that the US and Israel are 'planning what would be one of the harshest bombing campaigns to date against energy infrastructure targets in Iran'.",
-      "date": "2026-08-01T01:10Z",
-      "date_display": "01 Aug 01:10 UTC",
+      "title": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
+      "description": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
+      "date": "2026-08-07T19:50Z",
+      "date_display": "07 Aug 19:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan sign a joint defense agreement",
+      "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan sign a joint defense agreement",
+      "date": "2026-08-07T11:00Z",
+      "date_display": "07 Aug 11:00 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1",
-      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1",
-      "date": "2026-08-01T01:00Z",
-      "date_display": "01 Aug 01:00 UTC",
-      "severity": "medium",
+      "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement considers attack ...",
+      "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement considers attack on any member as being an attack on all.",
+      "date": "2026-08-07T11:00Z",
+      "date_display": "07 Aug 11:00 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
-    {
-      "title": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with I...",
-      "description": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with Iraqi armed groups', according to Reuters report.",
-      "date": "2026-07-30T21:40Z",
-      "date_display": "30 Jul 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
     {
       "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, ac...",
       "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, according to Reuters report.",
@@ -379,38 +411,6 @@
       "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1",
       "date": "2026-08-01T01:00Z",
       "date_display": "01 Aug 01:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇰🇷 South Korea's KOSPI index surges by 15% as significant market volatility continues.",
-      "description": "🇰🇷 South Korea's KOSPI index surges by 15% as significant market volatility continues.",
-      "date": "2026-07-31T00:30Z",
-      "date_display": "31 Jul 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Apple share price is now down 7.3% after its reported revenue was weaker than expected. https://t.co...",
-      "description": "Apple share price is now down 7.3% after its reported revenue was weaker than expected. https://t.co/3k0ui1fVBB",
-      "date": "2026-07-30T22:00Z",
-      "date_display": "30 Jul 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with I...",
-      "description": "Yemen's Iran-backed Houthis attacked Saudi Arabia 'from Iraqi territory' and 'in coordination with Iraqi armed groups', according to Reuters report.",
-      "date": "2026-07-30T21:40Z",
-      "date_display": "30 Jul 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇸🇦 Saudi Arabia is seeking to build an international coalition to 'protect shipping ‌in the Red Se...",
-      "description": "🇸🇦 Saudi Arabia is seeking to build an international coalition to 'protect shipping ‌in the Red Sea from Houthi attacks', according to Reuters report.",
-      "date": "2026-07-30T05:50Z",
-      "date_display": "30 Jul 05:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-08-08T02:28Z",
+  "fetched_at": "2026-08-09T02:35Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 30,
+  "india_relevant_items": 32,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "BREAKING: Brent crude oil price is up 5%"
+    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent ..."
   },
   "india_headlines": [
+    {
+      "title": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes sto...",
+      "description": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes stocks', according to Washington Post report. https://t.co/Z59H8W8bv2",
+      "date": "2026-08-08T22:00Z",
+      "date_display": "08 Aug 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent ...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent crude: +37%\nUS crude oil: +36%\nCoal: +19%",
+      "date": "2026-08-08T21:10Z",
+      "date_display": "08 Aug 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $83.5 https://t.co/PkXanU20ee",
+      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $83.5 https://t.co/PkXanU20ee",
+      "date": "2026-08-08T08:40Z",
+      "date_display": "08 Aug 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
       "description": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
@@ -147,33 +171,41 @@
       "date_display": "02 Aug 20:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: Iran has threatened to 'strike other nations energy fields' if the US launches fresh attac...",
-      "description": "<b>BREAKING:</b> Iran has threatened to 'strike other nations energy fields' if the US launches fresh attacks, according to Reuters report.",
-      "date": "2026-08-02T01:40Z",
-      "date_display": "02 Aug 01:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nRice: +45%\nCotton: +27%\nWheat: +25%\nWool: +21%\nRubber: +20%\nCheese...",
-      "description": "Prices, since start of the year.\n\nRice: +45%\nCotton: +27%\nWheat: +25%\nWool: +21%\nRubber: +20%\nCheese: +16%\nTea: +15%\nSunflower oil: +15%\nPalm oil: +15%\nLumber: +14%\nSoybeans: +13%",
-      "date": "2026-08-01T21:00Z",
-      "date_display": "01 Aug 21:00 UTC",
+      "title": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes sto...",
+      "description": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes stocks', according to Washington Post report. https://t.co/Z59H8W8bv2",
+      "date": "2026-08-08T22:00Z",
+      "date_display": "08 Aug 22:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Kuwait says latest Iranian attack has targeted a Kuwaiti government facility",
-      "description": "<b>BREAKING:</b> Kuwait says latest Iranian attack has targeted a Kuwaiti government facility",
-      "date": "2026-08-01T08:20Z",
-      "date_display": "01 Aug 08:20 UTC",
-      "severity": "high",
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent ...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent crude: +37%\nUS crude oil: +36%\nCoal: +19%",
+      "date": "2026-08-08T21:10Z",
+      "date_display": "08 Aug 21:10 UTC",
+      "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $83.5 https://t.co/PkXanU20ee",
+      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $83.5 https://t.co/PkXanU20ee",
+      "date": "2026-08-08T08:40Z",
+      "date_display": "08 Aug 08:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Todd Blanche confirmed by US Senate as Attorney General https://t.co/3c8xeYYwJ2",
+      "description": "<b>BREAKING:</b> Todd Blanche confirmed by US Senate as Attorney General https://t.co/3c8xeYYwJ2",
+      "date": "2026-08-08T08:40Z",
+      "date_display": "08 Aug 08:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇺🇸 S&amp;P 500 closes at record high https://t.co/dI7JSjXfkz",
       "description": "<b>BREAKING:</b> 🇺🇸 S&amp;P 500 closes at record high https://t.co/dI7JSjXfkz",
@@ -379,38 +411,6 @@
       "description": "Prices, since start of the year.\n\nRice: +45%\nCotton: +27%\nWheat: +25%\nWool: +21%\nRubber: +20%\nCheese: +16%\nTea: +15%\nSunflower oil: +15%\nPalm oil: +15%\nLumber: +14%\nSoybeans: +13%",
       "date": "2026-08-01T21:00Z",
       "date_display": "01 Aug 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Israel’s Channel 12 reports that security forces are on the highest state of alert, amid rising tens...",
-      "description": "Israel’s Channel 12 reports that security forces are on the highest state of alert, amid rising tensions in the region.",
-      "date": "2026-08-01T20:40Z",
-      "date_display": "01 Aug 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Kuwait says latest Iranian attack has targeted a Kuwaiti government facility",
-      "description": "<b>BREAKING:</b> Kuwait says latest Iranian attack has targeted a Kuwaiti government facility",
-      "date": "2026-08-01T08:20Z",
-      "date_display": "01 Aug 08:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: CBS News reports that the US and Israel are 'planning what would be one of the harshest bo...",
-      "description": "<b>BREAKING:</b> CBS News reports that the US and Israel are 'planning what would be one of the harshest bombing campaigns to date against energy infrastructure targets in Iran'.",
-      "date": "2026-08-01T01:10Z",
-      "date_display": "01 Aug 01:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1",
-      "description": "Brent crude oil price\n\n1st of July: $71\n\nNow: $90.2 https://t.co/awdjpFZ4e1",
-      "date": "2026-08-01T01:00Z",
-      "date_display": "01 Aug 01:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
     }

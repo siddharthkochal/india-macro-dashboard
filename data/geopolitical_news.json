@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T02:35Z",
+  "fetched_at": "2026-08-10T02:41Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent ..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
+      "description": "<b>BREAKING:</b> New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
+      "date": "2026-08-09T20:10Z",
+      "date_display": "09 Aug 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's foreign minister says his country is not currently negotiating with the United Stat...",
+      "description": "<b>BREAKING:</b> Iran's foreign minister says his country is not currently negotiating with the United States",
+      "date": "2026-08-09T09:00Z",
+      "date_display": "09 Aug 09:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes sto...",
       "description": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes stocks', according to Washington Post report. https://t.co/Z59H8W8bv2",
@@ -155,25 +171,41 @@
       "date_display": "02 Aug 22:40 UTC",
       "severity": "high",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "Gadi Eizenkot has a 59% chance of being Israel's prime minister after this year's election, compared...",
+      "description": "Gadi Eizenkot has a 59% chance of being Israel's prime minister after this year's election, compared with 33% for Netanyahu, according to @Kalshi prediction market. https://t.co/PhsdFyoiCw",
+      "date": "2026-08-09T21:00Z",
+      "date_display": "09 Aug 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Trump says strikes on Iran, which have been called off, were supposed to be the 'biggest s...",
-      "description": "<b>BREAKING:</b> Trump says strikes on Iran, which have been called off, were supposed to be the 'biggest since World War II'.",
-      "date": "2026-08-02T22:40Z",
-      "date_display": "02 Aug 22:40 UTC",
+      "title": "Israel's PM Netanyahu says that he 'does not accept' Trump's 15-point plan for Gaza. https://t.co/8P...",
+      "description": "Israel's PM Netanyahu says that he 'does not accept' Trump's 15-point plan for Gaza. https://t.co/8Phk78OFaw",
+      "date": "2026-08-09T20:50Z",
+      "date_display": "09 Aug 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
+      "description": "<b>BREAKING:</b> New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
+      "date": "2026-08-09T20:10Z",
+      "date_display": "09 Aug 20:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +109%\nHeating oil: +93%\nGasoline: +82%\nUS cr...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +109%\nHeating oil: +93%\nGasoline: +82%\nUS crude oil: +47%\nGasoline: +47%\nBrent crude: +44%\nCoal: +24%",
-      "date": "2026-08-02T20:30Z",
-      "date_display": "02 Aug 20:30 UTC",
-      "severity": "medium",
+      "title": "BREAKING: Iran's foreign minister says his country is not currently negotiating with the United Stat...",
+      "description": "<b>BREAKING:</b> Iran's foreign minister says his country is not currently negotiating with the United States",
+      "date": "2026-08-09T09:00Z",
+      "date_display": "09 Aug 09:00 UTC",
+      "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes sto...",
       "description": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes stocks', according to Washington Post report. https://t.co/Z59H8W8bv2",
@@ -380,38 +412,6 @@
       "date": "2026-08-02T22:40Z",
       "date_display": "02 Aug 22:40 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +109%\nHeating oil: +93%\nGasoline: +82%\nUS cr...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +109%\nHeating oil: +93%\nGasoline: +82%\nUS crude oil: +47%\nGasoline: +47%\nBrent crude: +44%\nCoal: +24%",
-      "date": "2026-08-02T20:30Z",
-      "date_display": "02 Aug 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran has threatened to 'strike other nations energy fields' if the US launches fresh attac...",
-      "description": "<b>BREAKING:</b> Iran has threatened to 'strike other nations energy fields' if the US launches fresh attacks, according to Reuters report.",
-      "date": "2026-08-02T01:40Z",
-      "date_display": "02 Aug 01:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 3 people killed in shooting in 🇺🇸 Twin Falls, Idaho",
-      "description": "<b>BREAKING:</b> 3 people killed in shooting in 🇺🇸 Twin Falls, Idaho",
-      "date": "2026-08-01T23:20Z",
-      "date_display": "01 Aug 23:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Prices, since start of the year.\n\nRice: +45%\nCotton: +27%\nWheat: +25%\nWool: +21%\nRubber: +20%\nCheese...",
-      "description": "Prices, since start of the year.\n\nRice: +45%\nCotton: +27%\nWheat: +25%\nWool: +21%\nRubber: +20%\nCheese: +16%\nTea: +15%\nSunflower oil: +15%\nPalm oil: +15%\nLumber: +14%\nSoybeans: +13%",
-      "date": "2026-08-01T21:00Z",
-      "date_display": "01 Aug 21:00 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

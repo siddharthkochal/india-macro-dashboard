@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-08-10T02:41Z",
+  "fetched_at": "2026-08-11T02:35Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 32,
+  "india_relevant_items": 35,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "down",
-    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent ..."
+    "latest_oil_headline": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, a..."
   },
   "india_headlines": [
+    {
+      "title": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, a...",
+      "description": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, according to CNBC report. https://t.co/pbQNVUYm4v",
+      "date": "2026-08-10T21:50Z",
+      "date_display": "10 Aug 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Crude oil price\n\n1st of January: $57.3\n\nNow: $82.2 https://t.co/DEpp0Dxww9",
+      "description": "Crude oil price\n\n1st of January: $57.3\n\nNow: $82.2 https://t.co/DEpp0Dxww9",
+      "date": "2026-08-10T20:21Z",
+      "date_display": "10 Aug 20:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices up by 5%",
+      "description": "<b>BREAKING:</b> Oil prices up by 5%",
+      "date": "2026-08-10T20:00Z",
+      "date_display": "10 Aug 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
       "description": "<b>BREAKING:</b> New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
@@ -147,33 +171,41 @@
       "date_display": "05 Aug 03:00 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: CNN reports the US military has 'used up nearly 80% of key missile interceptors' as senior...",
-      "description": "<b>BREAKING:</b> CNN reports the US military has 'used up nearly 80% of key missile interceptors' as senior military commanders are 'warning that the Pentagon’s munitions stockpile is dangerously low'",
-      "date": "2026-08-04T21:00Z",
-      "date_display": "04 Aug 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices down by over 5%",
-      "description": "<b>BREAKING:</b> Oil prices down by over 5%",
-      "date": "2026-08-03T08:10Z",
-      "date_display": "03 Aug 08:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices fall by 5% after Trump calls off new strikes on Iran",
-      "description": "<b>BREAKING:</b> Oil prices fall by 5% after Trump calls off new strikes on Iran",
-      "date": "2026-08-02T22:40Z",
-      "date_display": "02 Aug 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, a...",
+      "description": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, according to CNBC report. https://t.co/pbQNVUYm4v",
+      "date": "2026-08-10T21:50Z",
+      "date_display": "10 Aug 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Crude oil price\n\n1st of January: $57.3\n\nNow: $82.2 https://t.co/DEpp0Dxww9",
+      "description": "Crude oil price\n\n1st of January: $57.3\n\nNow: $82.2 https://t.co/DEpp0Dxww9",
+      "date": "2026-08-10T20:21Z",
+      "date_display": "10 Aug 20:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices up by 5%",
+      "description": "<b>BREAKING:</b> Oil prices up by 5%",
+      "date": "2026-08-10T20:00Z",
+      "date_display": "10 Aug 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Over 111 people dead in Colombia earthquake",
+      "description": "<b>BREAKING:</b> Over 111 people dead in Colombia earthquake",
+      "date": "2026-08-10T20:00Z",
+      "date_display": "10 Aug 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "Gadi Eizenkot has a 59% chance of being Israel's prime minister after this year's election, compared...",
       "description": "Gadi Eizenkot has a 59% chance of being Israel's prime minister after this year's election, compared with 33% for Netanyahu, according to @Kalshi prediction market. https://t.co/PhsdFyoiCw",
@@ -381,38 +413,6 @@
       "date_display": "03 Aug 19:50 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "The 🇺🇸 US economy under President Trump https://t.co/dtRFiYvkmV",
-      "description": "The 🇺🇸 US economy under President Trump https://t.co/dtRFiYvkmV",
-      "date": "2026-08-03T19:20Z",
-      "date_display": "03 Aug 19:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Oil prices down by over 5%",
-      "description": "<b>BREAKING:</b> Oil prices down by over 5%",
-      "date": "2026-08-03T08:10Z",
-      "date_display": "03 Aug 08:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices fall by 5% after Trump calls off new strikes on Iran",
-      "description": "<b>BREAKING:</b> Oil prices fall by 5% after Trump calls off new strikes on Iran",
-      "date": "2026-08-02T22:40Z",
-      "date_display": "02 Aug 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says strikes on Iran, which have been called off, were supposed to be the 'biggest s...",
-      "description": "<b>BREAKING:</b> Trump says strikes on Iran, which have been called off, were supposed to be the 'biggest since World War II'.",
-      "date": "2026-08-02T22:40Z",
-      "date_display": "02 Aug 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

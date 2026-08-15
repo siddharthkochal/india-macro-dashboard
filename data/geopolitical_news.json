@@ -1,17 +1,57 @@
 {
-  "fetched_at": "2026-08-14T03:06Z",
+  "fetched_at": "2026-08-15T01:57Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 28,
+  "india_relevant_items": 27,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "down",
+    "price_direction": "up",
     "latest_oil_headline": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, a..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: UAE oil company says one of its vessels was attacked while passing through the Strait of H...",
+      "description": "<b>BREAKING:</b> UAE oil company says one of its vessels was attacked while passing through the Strait of Hormuz",
+      "date": "2026-08-14T22:30Z",
+      "date_display": "14 Aug 22:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says Iran's production of missiles has fallen by 82% and their manufacturing is 'lar...",
+      "description": "President Trump says Iran's production of missiles has fallen by 82% and their manufacturing is 'largely gone'. https://t.co/3E8SvSXHVK",
+      "date": "2026-08-14T21:00Z",
+      "date_display": "14 Aug 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says 'we are going to make a fortune with tariffs'. https://t.co/NcisYJvJSl",
+      "description": "President Trump says 'we are going to make a fortune with tariffs'. https://t.co/NcisYJvJSl",
+      "date": "2026-08-14T20:10Z",
+      "date_display": "14 Aug 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says after defeating Iran he will be declaring the Strait of Hormuz a 'territory of ...",
+      "description": "<b>BREAKING:</b> Trump says after defeating Iran he will be declaring the Strait of Hormuz a 'territory of the United States' https://t.co/xGGdZ1mxTS",
+      "date": "2026-08-14T20:10Z",
+      "date_display": "14 Aug 20:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Tanker has been hit by a drone in the Strait of Hormuz, according to United Kingdom Mariti...",
+      "description": "<b>BREAKING:</b> Tanker has been hit by a drone in the Strait of Hormuz, according to United Kingdom Maritime Trade Operations.",
+      "date": "2026-08-14T08:10Z",
+      "date_display": "14 Aug 08:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Reuters reports the US is threatening to 'maintain a naval blockade of Iran indefinitely'....",
       "description": "<b>BREAKING:</b> Reuters reports the US is threatening to 'maintain a naval blockade of Iran indefinitely'. https://t.co/1o9iVJlxZF",
@@ -131,49 +171,81 @@
       "date_display": "07 Aug 11:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, ac...",
-      "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan set to sign a joint defense agreement, according to Reuters report.",
-      "date": "2026-08-06T22:10Z",
-      "date_display": "06 Aug 22:10 UTC",
+      "title": "BREAKING: Tsunami warning issued after 7.7 magnitude quake off coast of Indonesia",
+      "description": "<b>BREAKING:</b> Tsunami warning issued after 7.7 magnitude quake off coast of Indonesia",
+      "date": "2026-08-15T00:30Z",
+      "date_display": "15 Aug 00:30 UTC",
       "severity": "high",
-      "is_india_relevant": true
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Iranian state media says the military has struck 'hostile targets' in the Strait of Hormuz...",
-      "description": "<b>BREAKING:</b> Iranian state media says the military has struck 'hostile targets' in the Strait of Hormuz",
-      "date": "2026-08-06T20:10Z",
-      "date_display": "06 Aug 20:10 UTC",
+      "title": "BREAKING: Five people killed in mass shooting in 🇺🇸 Missaukee County, Michigan.",
+      "description": "<b>BREAKING:</b> Five people killed in mass shooting in 🇺🇸 Missaukee County, Michigan.",
+      "date": "2026-08-15T00:10Z",
+      "date_display": "15 Aug 00:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 7.7 magnitude quake off coast of Indonesia",
+      "description": "<b>BREAKING:</b> 7.7 magnitude quake off coast of Indonesia",
+      "date": "2026-08-14T22:40Z",
+      "date_display": "14 Aug 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: UAE oil company says one of its vessels was attacked while passing through the Strait of H...",
+      "description": "<b>BREAKING:</b> UAE oil company says one of its vessels was attacked while passing through the Strait of Hormuz",
+      "date": "2026-08-14T22:30Z",
+      "date_display": "14 Aug 22:30 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Brent crude oil price is up 5%",
-      "description": "<b>BREAKING:</b> Brent crude oil price is up 5%",
-      "date": "2026-08-06T19:40Z",
-      "date_display": "06 Aug 19:40 UTC",
-      "severity": "high",
+      "title": "President Trump says Iran's production of missiles has fallen by 82% and their manufacturing is 'lar...",
+      "description": "President Trump says Iran's production of missiles has fallen by 82% and their manufacturing is 'largely gone'. https://t.co/3E8SvSXHVK",
+      "date": "2026-08-14T21:00Z",
+      "date_display": "14 Aug 21:00 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iran warned Gulf states that 'any new U.S. attack on its territory' would  in turn 'trigge...",
-      "description": "<b>BREAKING:</b> Iran warned Gulf states that 'any new U.S. attack on its territory' would  in turn 'trigger ​retaliation against critical energy infrastructure across the region', according to Reuters report.",
-      "date": "2026-08-06T08:20Z",
-      "date_display": "06 Aug 08:20 UTC",
-      "severity": "high",
+      "title": "President Trump says 'we are going to make a fortune with tariffs'. https://t.co/NcisYJvJSl",
+      "description": "President Trump says 'we are going to make a fortune with tariffs'. https://t.co/NcisYJvJSl",
+      "date": "2026-08-14T20:10Z",
+      "date_display": "14 Aug 20:10 UTC",
+      "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Japan says that North Korea has fired what could be a ballistic missile",
-      "description": "<b>BREAKING:</b> Japan says that North Korea has fired what could be a ballistic missile",
-      "date": "2026-08-06T08:20Z",
-      "date_display": "06 Aug 08:20 UTC",
-      "severity": "high",
+      "title": "BREAKING: Trump says after defeating Iran he will be declaring the Strait of Hormuz a 'territory of ...",
+      "description": "<b>BREAKING:</b> Trump says after defeating Iran he will be declaring the Strait of Hormuz a 'territory of the United States' https://t.co/xGGdZ1mxTS",
+      "date": "2026-08-14T20:10Z",
+      "date_display": "14 Aug 20:10 UTC",
+      "severity": "critical",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "BREAKING: UK government issues alert warning of 'very high risk of wildfires nationally'",
+      "description": "<b>BREAKING:</b> UK government issues alert warning of 'very high risk of wildfires nationally'",
+      "date": "2026-08-14T19:40Z",
+      "date_display": "14 Aug 19:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Tanker has been hit by a drone in the Strait of Hormuz, according to United Kingdom Mariti...",
+      "description": "<b>BREAKING:</b> Tanker has been hit by a drone in the Strait of Hormuz, according to United Kingdom Maritime Trade Operations.",
+      "date": "2026-08-14T08:10Z",
+      "date_display": "14 Aug 08:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Reuters reports the US is threatening to 'maintain a naval blockade of Iran indefinitely'....",
       "description": "<b>BREAKING:</b> Reuters reports the US is threatening to 'maintain a naval blockade of Iran indefinitely'. https://t.co/1o9iVJlxZF",
@@ -341,78 +413,6 @@
       "date_display": "09 Aug 21:00 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "Israel's PM Netanyahu says that he 'does not accept' Trump's 15-point plan for Gaza. https://t.co/8P...",
-      "description": "Israel's PM Netanyahu says that he 'does not accept' Trump's 15-point plan for Gaza. https://t.co/8Phk78OFaw",
-      "date": "2026-08-09T20:50Z",
-      "date_display": "09 Aug 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
-      "description": "<b>BREAKING:</b> New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
-      "date": "2026-08-09T20:10Z",
-      "date_display": "09 Aug 20:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran's foreign minister says his country is not currently negotiating with the United Stat...",
-      "description": "<b>BREAKING:</b> Iran's foreign minister says his country is not currently negotiating with the United States",
-      "date": "2026-08-09T09:00Z",
-      "date_display": "09 Aug 09:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes sto...",
-      "description": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes stocks', according to Washington Post report. https://t.co/Z59H8W8bv2",
-      "date": "2026-08-08T22:00Z",
-      "date_display": "08 Aug 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent ...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent crude: +37%\nUS crude oil: +36%\nCoal: +19%",
-      "date": "2026-08-08T21:10Z",
-      "date_display": "08 Aug 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $83.5 https://t.co/PkXanU20ee",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $83.5 https://t.co/PkXanU20ee",
-      "date": "2026-08-08T08:40Z",
-      "date_display": "08 Aug 08:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Todd Blanche confirmed by US Senate as Attorney General https://t.co/3c8xeYYwJ2",
-      "description": "<b>BREAKING:</b> Todd Blanche confirmed by US Senate as Attorney General https://t.co/3c8xeYYwJ2",
-      "date": "2026-08-08T08:40Z",
-      "date_display": "08 Aug 08:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 S&amp;P 500 closes at record high https://t.co/dI7JSjXfkz",
-      "description": "<b>BREAKING:</b> 🇺🇸 S&amp;P 500 closes at record high https://t.co/dI7JSjXfkz",
-      "date": "2026-08-07T20:30Z",
-      "date_display": "07 Aug 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
-      "description": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
-      "date": "2026-08-07T19:50Z",
-      "date_display": "07 Aug 19:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

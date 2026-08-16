@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-15T01:57Z",
+  "fetched_at": "2026-08-16T02:06Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 27,
+  "india_relevant_items": 26,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, a..."
   },
   "india_headlines": [
+    {
+      "title": "Prices, since start of the year.\n\nRice: +45%\nWheat: +33%\nCotton: +31%\nWool: +21%\nRubber: +20%\nSunflo...",
+      "description": "Prices, since start of the year.\n\nRice: +45%\nWheat: +33%\nCotton: +31%\nWool: +21%\nRubber: +20%\nSunflower oil: +17%\nPalm oil: +16%\nCheese: +16%\nTea: +15%\nSoybeans: +14%",
+      "date": "2026-08-15T21:10Z",
+      "date_display": "15 Aug 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: UAE oil company says one of its vessels was attacked while passing through the Strait of H...",
       "description": "<b>BREAKING:</b> UAE oil company says one of its vessels was attacked while passing through the Strait of Hormuz",
@@ -163,17 +171,33 @@
       "date_display": "07 Aug 11:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement considers attack ...",
-      "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement considers attack on any member as being an attack on all.",
-      "date": "2026-08-07T11:00Z",
-      "date_display": "07 Aug 11:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Bloomberg reports that Anthropic's revenue surged 'at least 14-fold versus the same period...",
+      "description": "<b>BREAKING:</b> Bloomberg reports that Anthropic's revenue surged 'at least 14-fold versus the same period a year ago' to over $11.5 billion in the latest quarter. https://t.co/ZAgDQdzLFE",
+      "date": "2026-08-15T22:10Z",
+      "date_display": "15 Aug 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +45%\nWheat: +33%\nCotton: +31%\nWool: +21%\nRubber: +20%\nSunflo...",
+      "description": "Prices, since start of the year.\n\nRice: +45%\nWheat: +33%\nCotton: +31%\nWool: +21%\nRubber: +20%\nSunflower oil: +17%\nPalm oil: +16%\nCheese: +16%\nTea: +15%\nSoybeans: +14%",
+      "date": "2026-08-15T21:10Z",
+      "date_display": "15 Aug 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 38 people have died in Indonesia earthquake",
+      "description": "<b>BREAKING:</b> 38 people have died in Indonesia earthquake",
+      "date": "2026-08-15T08:50Z",
+      "date_display": "15 Aug 08:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Tsunami warning issued after 7.7 magnitude quake off coast of Indonesia",
       "description": "<b>BREAKING:</b> Tsunami warning issued after 7.7 magnitude quake off coast of Indonesia",
@@ -389,30 +413,6 @@
       "date_display": "10 Aug 20:21 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices up by 5%",
-      "description": "<b>BREAKING:</b> Oil prices up by 5%",
-      "date": "2026-08-10T20:00Z",
-      "date_display": "10 Aug 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Over 111 people dead in Colombia earthquake",
-      "description": "<b>BREAKING:</b> Over 111 people dead in Colombia earthquake",
-      "date": "2026-08-10T20:00Z",
-      "date_display": "10 Aug 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Gadi Eizenkot has a 59% chance of being Israel's prime minister after this year's election, compared...",
-      "description": "Gadi Eizenkot has a 59% chance of being Israel's prime minister after this year's election, compared with 33% for Netanyahu, according to @Kalshi prediction market. https://t.co/PhsdFyoiCw",
-      "date": "2026-08-09T21:00Z",
-      "date_display": "09 Aug 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T01:57Z",
+  "fetched_at": "2026-08-16T02:06Z",
   "source": "Yahoo Finance (free, no API key)",
   "prices": {
     "brent": {
@@ -7,9 +7,9 @@
       "name": "Brent Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_85",
-      "current_value": 88.59,
-      "change_from_prev": 1.52,
-      "direction": "up",
+      "current_value": 88.52,
+      "change_from_prev": 0.0,
+      "direction": "flat",
       "signal": "bearish",
       "series": [
         {
@@ -54,14 +54,14 @@
         },
         {
           "date": "Aug-26",
-          "value": 87.07
+          "value": 88.52
         },
         {
           "date": "Aug-26",
-          "value": 88.59
+          "value": 88.52
         }
       ],
-      "fetched_at": "2026-08-15T01:57Z"
+      "fetched_at": "2026-08-16T02:06Z"
     },
     "wti": {
       "symbol": "CL=F",
@@ -69,8 +69,8 @@
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_80",
       "current_value": 82.4,
-      "change_from_prev": 1.15,
-      "direction": "up",
+      "change_from_prev": 0.0,
+      "direction": "flat",
       "signal": "bearish",
       "series": [
         {
@@ -115,22 +115,22 @@
         },
         {
           "date": "Aug-26",
-          "value": 81.25
+          "value": 82.4
         },
         {
           "date": "Aug-26",
           "value": 82.4
         }
       ],
-      "fetched_at": "2026-08-15T01:57Z"
+      "fetched_at": "2026-08-16T02:06Z"
     },
     "gold": {
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/troy oz",
       "india_impact": "negative_via_import_demand",
-      "current_value": 4432.0,
-      "change_from_prev": 68.4,
+      "current_value": 4437.3,
+      "change_from_prev": 56.9,
       "direction": "up",
       "signal": "bearish",
       "series": [
@@ -176,22 +176,22 @@
         },
         {
           "date": "Aug-26",
-          "value": 4363.6
+          "value": 4380.4
         },
         {
           "date": "Aug-26",
-          "value": 4432.0
+          "value": 4437.3
         }
       ],
-      "fetched_at": "2026-08-15T01:57Z"
+      "fetched_at": "2026-08-16T02:06Z"
     },
     "inr": {
       "symbol": "USDINR=X",
       "name": "USD/INR",
       "unit": "INR per USD",
       "india_impact": "higher_is_bearish_for_india",
-      "current_value": 95.42,
-      "change_from_prev": 0.08,
+      "current_value": 95.43,
+      "change_from_prev": 0.03,
       "direction": "up",
       "signal": "bearish",
       "series": [
@@ -245,14 +245,14 @@
         },
         {
           "date": "Jul-26",
-          "value": 95.34
+          "value": 95.4
         },
         {
           "date": "Aug-26",
-          "value": 95.42
+          "value": 95.43
         }
       ],
-      "fetched_at": "2026-08-15T01:57Z"
+      "fetched_at": "2026-08-16T02:06Z"
     },
     "ovx": {
       "symbol": "^OVX",
@@ -260,8 +260,8 @@
       "unit": "index",
       "india_impact": "above_40_signals_supply_risk",
       "current_value": 49.52,
-      "change_from_prev": 0.16,
-      "direction": "up",
+      "change_from_prev": 0.0,
+      "direction": "flat",
       "signal": "bearish",
       "series": [
         {
@@ -314,14 +314,14 @@
         },
         {
           "date": "Aug-26",
-          "value": 49.36
+          "value": 49.52
         },
         {
           "date": "Aug-26",
           "value": 49.52
         }
       ],
-      "fetched_at": "2026-08-15T01:57Z"
+      "fetched_at": "2026-08-16T02:06Z"
     }
   },
   "india_oil_alert": {
@@ -329,10 +329,10 @@
     "alerts": [
       "Brent at $89/barrel \u2014 above India comfort zone ($65\u201385)",
       "Oil volatility index (OVX) at 50 \u2014 elevated supply disruption risk (Strait of Hormuz?)",
-      "USD/INR at 95.42 \u2014 weak rupee amplifies oil import cost in INR terms"
+      "USD/INR at 95.43 \u2014 weak rupee amplifies oil import cost in INR terms"
     ],
-    "brent": 88.59,
-    "inr": 95.42,
+    "brent": 88.52,
+    "inr": 95.43,
     "ovx": 49.52
   }
 }

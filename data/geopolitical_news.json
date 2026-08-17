@@ -1,17 +1,57 @@
 {
-  "fetched_at": "2026-08-16T02:06Z",
+  "fetched_at": "2026-08-17T02:04Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 26,
+  "india_relevant_items": 24,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, a..."
+    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBren..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan join...",
+      "description": "<b>BREAKING:</b> Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement.",
+      "date": "2026-08-16T21:30Z",
+      "date_display": "16 Aug 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBren...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBrent crude: +45%\nUS crude oil: +43%\nCoal: +20%",
+      "date": "2026-08-16T20:50Z",
+      "date_display": "16 Aug 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Reports of large Ukrainian drone attack on Moscow",
+      "description": "<b>BREAKING:</b> Reports of large Ukrainian drone attack on Moscow",
+      "date": "2026-08-16T20:50Z",
+      "date_display": "16 Aug 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Massive Ukrainian drone attack on Moscow",
+      "description": "<b>BREAKING:</b> Massive Ukrainian drone attack on Moscow",
+      "date": "2026-08-16T07:50Z",
+      "date_display": "16 Aug 07:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Spanish fighter jet has shot down a drone that violated Romania's airspace",
+      "description": "<b>BREAKING:</b> Spanish fighter jet has shot down a drone that violated Romania's airspace",
+      "date": "2026-08-16T03:30Z",
+      "date_display": "16 Aug 03:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Prices, since start of the year.\n\nRice: +45%\nWheat: +33%\nCotton: +31%\nWool: +21%\nRubber: +20%\nSunflo...",
       "description": "Prices, since start of the year.\n\nRice: +45%\nWheat: +33%\nCotton: +31%\nWool: +21%\nRubber: +20%\nSunflower oil: +17%\nPalm oil: +16%\nCheese: +16%\nTea: +15%\nSoybeans: +14%",
@@ -131,49 +171,73 @@
       "date_display": "09 Aug 09:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes sto...",
-      "description": "🇺🇸 The Pentagon has issued a directive to defense firms to 'build weapons as Iran war depletes stocks', according to Washington Post report. https://t.co/Z59H8W8bv2",
-      "date": "2026-08-08T22:00Z",
-      "date_display": "08 Aug 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent ...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +97%\nHeating oil: +83%\nGasoline: +74%\nBrent crude: +37%\nUS crude oil: +36%\nCoal: +19%",
-      "date": "2026-08-08T21:10Z",
-      "date_display": "08 Aug 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $83.5 https://t.co/PkXanU20ee",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $83.5 https://t.co/PkXanU20ee",
-      "date": "2026-08-08T08:40Z",
-      "date_display": "08 Aug 08:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
-      "description": "Mexico's annual inflation rate has fallen to 3.12%, the lowest in six years. https://t.co/EkFOeSrYU2",
-      "date": "2026-08-07T19:50Z",
-      "date_display": "07 Aug 19:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan sign a joint defense agreement",
-      "description": "<b>BREAKING:</b> 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan sign a joint defense agreement",
-      "date": "2026-08-07T11:00Z",
-      "date_display": "07 Aug 11:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 5.9 magnitude earthquake off Indonesia coast",
+      "description": "<b>BREAKING:</b> 5.9 magnitude earthquake off Indonesia coast",
+      "date": "2026-08-17T01:10Z",
+      "date_display": "17 Aug 01:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Claude outage for many users across the globe https://t.co/i864jBTP4N",
+      "description": "<b>BREAKING:</b> Claude outage for many users across the globe https://t.co/i864jBTP4N",
+      "date": "2026-08-16T22:30Z",
+      "date_display": "16 Aug 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump orders Defense Secretary Pete Hegseth to reduce US-South Korea joint military exerci...",
+      "description": "<b>BREAKING:</b> Trump orders Defense Secretary Pete Hegseth to reduce US-South Korea joint military exercises, saying they are 'inappropriate and hostile' to North Korea, adding he has a 'very good relationship with Kim Jong Un'. https://t.co/QBpKuvyGU0",
+      "date": "2026-08-16T21:30Z",
+      "date_display": "16 Aug 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan join...",
+      "description": "<b>BREAKING:</b> Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement.",
+      "date": "2026-08-16T21:30Z",
+      "date_display": "16 Aug 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBren...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBrent crude: +45%\nUS crude oil: +43%\nCoal: +20%",
+      "date": "2026-08-16T20:50Z",
+      "date_display": "16 Aug 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Reports of large Ukrainian drone attack on Moscow",
+      "description": "<b>BREAKING:</b> Reports of large Ukrainian drone attack on Moscow",
+      "date": "2026-08-16T20:50Z",
+      "date_display": "16 Aug 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Massive Ukrainian drone attack on Moscow",
+      "description": "<b>BREAKING:</b> Massive Ukrainian drone attack on Moscow",
+      "date": "2026-08-16T07:50Z",
+      "date_display": "16 Aug 07:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Spanish fighter jet has shot down a drone that violated Romania's airspace",
+      "description": "<b>BREAKING:</b> Spanish fighter jet has shot down a drone that violated Romania's airspace",
+      "date": "2026-08-16T03:30Z",
+      "date_display": "16 Aug 03:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Bloomberg reports that Anthropic's revenue surged 'at least 14-fold versus the same period...",
       "description": "<b>BREAKING:</b> Bloomberg reports that Anthropic's revenue surged 'at least 14-fold versus the same period a year ago' to over $11.5 billion in the latest quarter. https://t.co/ZAgDQdzLFE",
@@ -349,70 +413,6 @@
       "date_display": "12 Aug 20:20 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "Greece unemployment rate\n\nFive years ago: 15.1%\n\nNow: 8% https://t.co/cF8BfNcS1f",
-      "description": "Greece unemployment rate\n\nFive years ago: 15.1%\n\nNow: 8% https://t.co/cF8BfNcS1f",
-      "date": "2026-08-12T07:00Z",
-      "date_display": "12 Aug 07:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: North Korea has test-fired a ballistic missile towards the Sea of Japan",
-      "description": "<b>BREAKING:</b> North Korea has test-fired a ballistic missile towards the Sea of Japan",
-      "date": "2026-08-12T02:10Z",
-      "date_display": "12 Aug 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "South Africa’s unemployment rate has risen to 33.6%, the highest in four years. https://t.co/F6oVuO8...",
-      "description": "South Africa’s unemployment rate has risen to 33.6%, the highest in four years. https://t.co/F6oVuO8QzV",
-      "date": "2026-08-11T20:40Z",
-      "date_display": "11 Aug 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iranian official says Strait of Hormuz will remain closed 'as long as the U.S. does not change its b...",
-      "description": "Iranian official says Strait of Hormuz will remain closed 'as long as the U.S. does not change its behaviour and accept Iran's conditions to end the war', according to Reuters report. https://t.co/w9Ean3GAEC",
-      "date": "2026-08-11T20:20Z",
-      "date_display": "11 Aug 20:20 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Syrian court sentences former President Bashar al-Assad and his brother Maher al-Assad, wh...",
-      "description": "<b>BREAKING:</b> Syrian court sentences former President Bashar al-Assad and his brother Maher al-Assad, who both reside in Russia, to death.",
-      "date": "2026-08-11T08:50Z",
-      "date_display": "11 Aug 08:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 JD Vance has a 41% chance of being the 2028 Republican presidential nominee, compared with 25% ...",
-      "description": "🇺🇸 JD Vance has a 41% chance of being the 2028 Republican presidential nominee, compared with 25% for Marco Rubio, according to @Kalshi prediction market. https://t.co/rdaZUMwTHp",
-      "date": "2026-08-11T04:30Z",
-      "date_display": "11 Aug 04:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, a...",
-      "description": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, according to CNBC report. https://t.co/pbQNVUYm4v",
-      "date": "2026-08-10T21:50Z",
-      "date_display": "10 Aug 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Crude oil price\n\n1st of January: $57.3\n\nNow: $82.2 https://t.co/DEpp0Dxww9",
-      "description": "Crude oil price\n\n1st of January: $57.3\n\nNow: $82.2 https://t.co/DEpp0Dxww9",
-      "date": "2026-08-10T20:21Z",
-      "date_display": "10 Aug 20:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

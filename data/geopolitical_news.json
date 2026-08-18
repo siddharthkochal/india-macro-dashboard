@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-17T02:04Z",
+  "fetched_at": "2026-08-18T01:58Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 24,
+  "india_relevant_items": 23,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBren..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iran reports annual food price inflation of 128%",
+      "description": "<b>BREAKING:</b> Iran reports annual food price inflation of 128%",
+      "date": "2026-08-17T20:40Z",
+      "date_display": "17 Aug 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Yemen's Iran-backed Houthis say they have targeted Saudi military vessels",
+      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis say they have targeted Saudi military vessels",
+      "date": "2026-08-17T12:00Z",
+      "date_display": "17 Aug 12:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan join...",
       "description": "<b>BREAKING:</b> Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement.",
@@ -155,25 +171,49 @@
       "date_display": "10 Aug 20:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
-      "description": "<b>BREAKING:</b> New attacks from Yemen's Iran-backed Houthis on the Red Sea port of Mokha",
-      "date": "2026-08-09T20:10Z",
-      "date_display": "09 Aug 20:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran's foreign minister says his country is not currently negotiating with the United Stat...",
-      "description": "<b>BREAKING:</b> Iran's foreign minister says his country is not currently negotiating with the United States",
-      "date": "2026-08-09T09:00Z",
-      "date_display": "09 Aug 09:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Trump's approval rating falls to 33%, the lowest of his presidency, according to Reuters/I...",
+      "description": "<b>BREAKING:</b> Trump's approval rating falls to 33%, the lowest of his presidency, according to Reuters/Ipsos poll. https://t.co/Dt3gj5Edbb",
+      "date": "2026-08-17T21:30Z",
+      "date_display": "17 Aug 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran reports annual food price inflation of 128%",
+      "description": "<b>BREAKING:</b> Iran reports annual food price inflation of 128%",
+      "date": "2026-08-17T20:40Z",
+      "date_display": "17 Aug 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US 30-year Treasury bonds rise to 5.3%, the highest since 2007. https://t.co/OG2U5dbYUz...",
+      "description": "<b>BREAKING:</b> US 30-year Treasury bonds rise to 5.3%, the highest since 2007. https://t.co/OG2U5dbYUz",
+      "date": "2026-08-17T20:30Z",
+      "date_display": "17 Aug 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Yemen's Iran-backed Houthis say they have targeted Saudi military vessels",
+      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis say they have targeted Saudi military vessels",
+      "date": "2026-08-17T12:00Z",
+      "date_display": "17 Aug 12:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 53 people have died in Indonesia earthquake",
+      "description": "<b>BREAKING:</b> 53 people have died in Indonesia earthquake",
+      "date": "2026-08-17T03:40Z",
+      "date_display": "17 Aug 03:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 5.9 magnitude earthquake off Indonesia coast",
       "description": "<b>BREAKING:</b> 5.9 magnitude earthquake off Indonesia coast",
@@ -372,46 +412,6 @@
       "date": "2026-08-13T12:10Z",
       "date_display": "13 Aug 12:10 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Price of Gold\n\nOne year ago: $3738\n\nNow: $4388 https://t.co/ugz8UZnxJm",
-      "description": "Price of Gold\n\nOne year ago: $3738\n\nNow: $4388 https://t.co/ugz8UZnxJm",
-      "date": "2026-08-13T10:50Z",
-      "date_display": "13 Aug 10:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Alexandria Ocasio-Cortez overtakes Gavin Newsom as favorite to win 2028 Democratic presidential nomi...",
-      "description": "Alexandria Ocasio-Cortez overtakes Gavin Newsom as favorite to win 2028 Democratic presidential nomination, according to @Kalshi prediction market. https://t.co/DaujU9qMHT",
-      "date": "2026-08-13T03:50Z",
-      "date_display": "13 Aug 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Over 265 people dead in Colombia earthquake",
-      "description": "<b>BREAKING:</b> Over 265 people dead in Colombia earthquake",
-      "date": "2026-08-12T22:30Z",
-      "date_display": "12 Aug 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iran has 'reorganized its military to be more aggressive abroad' and is 'preparing for a protracted ...",
-      "description": "Iran has 'reorganized its military to be more aggressive abroad' and is 'preparing for a protracted era of regional conflict', according to Bloomberg report. https://t.co/9CY9t0V5kz",
-      "date": "2026-08-12T20:30Z",
-      "date_display": "12 Aug 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says White House Press Secretary Karoline Leavitt is set to resign",
-      "description": "<b>BREAKING:</b> Trump says White House Press Secretary Karoline Leavitt is set to resign",
-      "date": "2026-08-12T20:20Z",
-      "date_display": "12 Aug 20:20 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

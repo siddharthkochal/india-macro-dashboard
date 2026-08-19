@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T01:58Z",
+  "fetched_at": "2026-08-19T02:02Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,33 @@
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBren..."
+    "latest_oil_headline": "Crude oil price\n\n1st of January: $57.3\n\nNow: $84.8 https://t.co/di5fFfDJJB"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: 🇫🇷 France set to expel two Iranian diplomats",
+      "description": "<b>BREAKING:</b> 🇫🇷 France set to expel two Iranian diplomats",
+      "date": "2026-08-18T22:00Z",
+      "date_display": "18 Aug 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: UAE suspends all trade, financial and commercial activity with Iran",
+      "description": "<b>BREAKING:</b> UAE suspends all trade, financial and commercial activity with Iran",
+      "date": "2026-08-18T20:20Z",
+      "date_display": "18 Aug 20:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Crude oil price\n\n1st of January: $57.3\n\nNow: $84.8 https://t.co/di5fFfDJJB",
+      "description": "Crude oil price\n\n1st of January: $57.3\n\nNow: $84.8 https://t.co/di5fFfDJJB",
+      "date": "2026-08-18T02:30Z",
+      "date_display": "18 Aug 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iran reports annual food price inflation of 128%",
       "description": "<b>BREAKING:</b> Iran reports annual food price inflation of 128%",
@@ -147,33 +171,49 @@
       "date_display": "11 Aug 20:20 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, a...",
-      "description": "Crude oil stockpiles in US Strategic Petroleum Reserves has fallen to the lowest level since 1983, according to CNBC report. https://t.co/pbQNVUYm4v",
-      "date": "2026-08-10T21:50Z",
-      "date_display": "10 Aug 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Crude oil price\n\n1st of January: $57.3\n\nNow: $82.2 https://t.co/DEpp0Dxww9",
-      "description": "Crude oil price\n\n1st of January: $57.3\n\nNow: $82.2 https://t.co/DEpp0Dxww9",
-      "date": "2026-08-10T20:21Z",
-      "date_display": "10 Aug 20:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices up by 5%",
-      "description": "<b>BREAKING:</b> Oil prices up by 5%",
-      "date": "2026-08-10T20:00Z",
-      "date_display": "10 Aug 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇫🇷 France set to expel two Iranian diplomats",
+      "description": "<b>BREAKING:</b> 🇫🇷 France set to expel two Iranian diplomats",
+      "date": "2026-08-18T22:00Z",
+      "date_display": "18 Aug 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Netanyahu calls the International Criminal Court a 'kangaroo court that cloaks its abuse of power in...",
+      "description": "Netanyahu calls the International Criminal Court a 'kangaroo court that cloaks its abuse of power in the language of international law'. https://t.co/ya2oeFUizz",
+      "date": "2026-08-18T20:50Z",
+      "date_display": "18 Aug 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: UAE suspends all trade, financial and commercial activity with Iran",
+      "description": "<b>BREAKING:</b> UAE suspends all trade, financial and commercial activity with Iran",
+      "date": "2026-08-18T20:20Z",
+      "date_display": "18 Aug 20:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Germany's 10-year bond yield rises to highest since 2011 https://t.co/25Rjx1EX0D",
+      "description": "<b>BREAKING:</b> Germany's 10-year bond yield rises to highest since 2011 https://t.co/25Rjx1EX0D",
+      "date": "2026-08-18T09:50Z",
+      "date_display": "18 Aug 09:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Crude oil price\n\n1st of January: $57.3\n\nNow: $84.8 https://t.co/di5fFfDJJB",
+      "description": "Crude oil price\n\n1st of January: $57.3\n\nNow: $84.8 https://t.co/di5fFfDJJB",
+      "date": "2026-08-18T02:30Z",
+      "date_display": "18 Aug 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump's approval rating falls to 33%, the lowest of his presidency, according to Reuters/I...",
       "description": "<b>BREAKING:</b> Trump's approval rating falls to 33%, the lowest of his presidency, according to Reuters/Ipsos poll. https://t.co/Dt3gj5Edbb",
@@ -373,46 +413,6 @@
       "date_display": "14 Aug 08:10 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reuters reports the US is threatening to 'maintain a naval blockade of Iran indefinitely'....",
-      "description": "<b>BREAKING:</b> Reuters reports the US is threatening to 'maintain a naval blockade of Iran indefinitely'. https://t.co/1o9iVJlxZF",
-      "date": "2026-08-14T00:30Z",
-      "date_display": "14 Aug 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reddit set to be added to the S&amp;P 500, its share price surges by over 10%. https://t.c...",
-      "description": "<b>BREAKING:</b> Reddit set to be added to the S&amp;P 500, its share price surges by over 10%. https://t.co/Huxw6aI35n",
-      "date": "2026-08-13T21:50Z",
-      "date_display": "13 Aug 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The US Federal Government budget deficit for July rose to $432 billion, a record high for the month....",
-      "description": "The US Federal Government budget deficit for July rose to $432 billion, a record high for the month. https://t.co/A2gjf3GZ54",
-      "date": "2026-08-13T20:40Z",
-      "date_display": "13 Aug 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 S&amp;P 500 has closed at a new record high. https://t.co/a9Y00sTp0x",
-      "description": "<b>BREAKING:</b> 🇺🇸 S&amp;P 500 has closed at a new record high. https://t.co/a9Y00sTp0x",
-      "date": "2026-08-13T20:30Z",
-      "date_display": "13 Aug 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "South Africa\n\nUnemployment rate: 33.6%\n\nYouth unemployment rate: 62.8% https://t.co/d72l5zPFYO",
-      "description": "South Africa\n\nUnemployment rate: 33.6%\n\nYouth unemployment rate: 62.8% https://t.co/d72l5zPFYO",
-      "date": "2026-08-13T12:10Z",
-      "date_display": "13 Aug 12:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

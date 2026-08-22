@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-21T02:08Z",
+  "fetched_at": "2026-08-22T01:58Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 24,
+  "india_relevant_items": 25,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "Prices, since start of the year.\n\nBrent crude: +53%\nUS crude oil: +51%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump says he views the Strait of Hormuz as 'an American territory right now'",
+      "description": "<b>BREAKING:</b> Trump says he views the Strait of Hormuz as 'an American territory right now'",
+      "date": "2026-08-21T23:30Z",
+      "date_display": "21 Aug 23:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "White House official says that Trump has destroyed Iran's military and is 'crushing what’s left of i...",
       "description": "White House official says that Trump has destroyed Iran's military and is 'crushing what’s left of its abysmal economy with the most successful naval blockade in world history', according to Washington Post report. https://t.co/g8AwgExbmP",
@@ -163,17 +171,17 @@
       "date_display": "14 Aug 22:30 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "President Trump says Iran's production of missiles has fallen by 82% and their manufacturing is 'lar...",
-      "description": "President Trump says Iran's production of missiles has fallen by 82% and their manufacturing is 'largely gone'. https://t.co/3E8SvSXHVK",
-      "date": "2026-08-14T21:00Z",
-      "date_display": "14 Aug 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Trump says he views the Strait of Hormuz as 'an American territory right now'",
+      "description": "<b>BREAKING:</b> Trump says he views the Strait of Hormuz as 'an American territory right now'",
+      "date": "2026-08-21T23:30Z",
+      "date_display": "21 Aug 23:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "White House official says that Trump has destroyed Iran's military and is 'crushing what’s left of i...",
       "description": "White House official says that Trump has destroyed Iran's military and is 'crushing what’s left of its abysmal economy with the most successful naval blockade in world history', according to Washington Post report. https://t.co/g8AwgExbmP",
@@ -404,14 +412,6 @@
       "date": "2026-08-16T21:30Z",
       "date_display": "16 Aug 21:30 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBren...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBrent crude: +45%\nUS crude oil: +43%\nCoal: +20%",
-      "date": "2026-08-16T20:50Z",
-      "date_display": "16 Aug 20:50 UTC",
-      "severity": "medium",
       "is_india_relevant": true
     }
   ]

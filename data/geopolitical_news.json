@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-22T01:58Z",
+  "fetched_at": "2026-08-23T02:09Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 25,
+  "india_relevant_items": 28,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "Prices, since start of the year.\n\nBrent crude: +53%\nUS crude oil: +51%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: US Energy Secretary says the country's oil and gas production is at an 'all-time high'...",
+      "description": "<b>BREAKING:</b> US Energy Secretary says the country's oil and gas production is at an 'all-time high'",
+      "date": "2026-08-22T23:40Z",
+      "date_display": "22 Aug 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Canada is set to impose equivalent tariffs on the United States",
+      "description": "<b>BREAKING:</b> Canada is set to impose equivalent tariffs on the United States",
+      "date": "2026-08-22T05:30Z",
+      "date_display": "22 Aug 05:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US and Canada trade talks collapse",
+      "description": "<b>BREAKING:</b> US and Canada trade talks collapse",
+      "date": "2026-08-22T04:40Z",
+      "date_display": "22 Aug 04:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump says he views the Strait of Hormuz as 'an American territory right now'",
       "description": "<b>BREAKING:</b> Trump says he views the Strait of Hormuz as 'an American territory right now'",
@@ -147,33 +171,33 @@
       "date_display": "16 Aug 07:50 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: Spanish fighter jet has shot down a drone that violated Romania's airspace",
-      "description": "<b>BREAKING:</b> Spanish fighter jet has shot down a drone that violated Romania's airspace",
-      "date": "2026-08-16T03:30Z",
-      "date_display": "16 Aug 03:30 UTC",
+      "title": "BREAKING: US Energy Secretary says the country's oil and gas production is at an 'all-time high'...",
+      "description": "<b>BREAKING:</b> US Energy Secretary says the country's oil and gas production is at an 'all-time high'",
+      "date": "2026-08-22T23:40Z",
+      "date_display": "22 Aug 23:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Prices, since start of the year.\n\nRice: +45%\nWheat: +33%\nCotton: +31%\nWool: +21%\nRubber: +20%\nSunflo...",
-      "description": "Prices, since start of the year.\n\nRice: +45%\nWheat: +33%\nCotton: +31%\nWool: +21%\nRubber: +20%\nSunflower oil: +17%\nPalm oil: +16%\nCheese: +16%\nTea: +15%\nSoybeans: +14%",
-      "date": "2026-08-15T21:10Z",
-      "date_display": "15 Aug 21:10 UTC",
-      "severity": "medium",
+      "title": "BREAKING: Canada is set to impose equivalent tariffs on the United States",
+      "description": "<b>BREAKING:</b> Canada is set to impose equivalent tariffs on the United States",
+      "date": "2026-08-22T05:30Z",
+      "date_display": "22 Aug 05:30 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: UAE oil company says one of its vessels was attacked while passing through the Strait of H...",
-      "description": "<b>BREAKING:</b> UAE oil company says one of its vessels was attacked while passing through the Strait of Hormuz",
-      "date": "2026-08-14T22:30Z",
-      "date_display": "14 Aug 22:30 UTC",
-      "severity": "critical",
+      "title": "BREAKING: US and Canada trade talks collapse",
+      "description": "<b>BREAKING:</b> US and Canada trade talks collapse",
+      "date": "2026-08-22T04:40Z",
+      "date_display": "22 Aug 04:40 UTC",
+      "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "BREAKING: Trump says he views the Strait of Hormuz as 'an American territory right now'",
       "description": "<b>BREAKING:</b> Trump says he views the Strait of Hormuz as 'an American territory right now'",
@@ -389,30 +413,6 @@
       "date_display": "17 Aug 01:10 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Claude outage for many users across the globe https://t.co/i864jBTP4N",
-      "description": "<b>BREAKING:</b> Claude outage for many users across the globe https://t.co/i864jBTP4N",
-      "date": "2026-08-16T22:30Z",
-      "date_display": "16 Aug 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump orders Defense Secretary Pete Hegseth to reduce US-South Korea joint military exerci...",
-      "description": "<b>BREAKING:</b> Trump orders Defense Secretary Pete Hegseth to reduce US-South Korea joint military exercises, saying they are 'inappropriate and hostile' to North Korea, adding he has a 'very good relationship with Kim Jong Un'. https://t.co/QBpKuvyGU0",
-      "date": "2026-08-16T21:30Z",
-      "date_display": "16 Aug 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan join...",
-      "description": "<b>BREAKING:</b> Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement.",
-      "date": "2026-08-16T21:30Z",
-      "date_display": "16 Aug 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

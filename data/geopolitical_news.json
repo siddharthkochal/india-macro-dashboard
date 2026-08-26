@@ -1,17 +1,33 @@
 {
-  "fetched_at": "2026-08-25T02:03Z",
+  "fetched_at": "2026-08-26T02:09Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 27,
+  "india_relevant_items": 25,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Prices, since start of the year.\n\nBrent crude: +53%\nUS crude oil: +51%"
+    "latest_oil_headline": "BREAKING: Oil prices fall by over 3%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump sends civil nuclear agreement with Saudi Arabia to Congress",
+      "description": "<b>BREAKING:</b> Trump sends civil nuclear agreement with Saudi Arabia to Congress",
+      "date": "2026-08-25T22:50Z",
+      "date_display": "25 Aug 22:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices fall by over 3%",
+      "description": "<b>BREAKING:</b> Oil prices fall by over 3%",
+      "date": "2026-08-25T22:22Z",
+      "date_display": "25 Aug 22:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: US Energy Secretary says the country's oil and gas production is at an 'all-time high'...",
       "description": "<b>BREAKING:</b> US Energy Secretary says the country's oil and gas production is at an 'all-time high'",
@@ -155,25 +171,49 @@
       "date_display": "16 Aug 20:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reports of large Ukrainian drone attack on Moscow",
-      "description": "<b>BREAKING:</b> Reports of large Ukrainian drone attack on Moscow",
-      "date": "2026-08-16T20:50Z",
-      "date_display": "16 Aug 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Massive Ukrainian drone attack on Moscow",
-      "description": "<b>BREAKING:</b> Massive Ukrainian drone attack on Moscow",
-      "date": "2026-08-16T07:50Z",
-      "date_display": "16 Aug 07:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Darline Graham, the sister of Lindsey Graham who died last month, wins South Carolina Repu...",
+      "description": "<b>BREAKING:</b> Darline Graham, the sister of Lindsey Graham who died last month, wins South Carolina Republican Senate Primary. https://t.co/ugkM8XgzeP",
+      "date": "2026-08-26T01:31Z",
+      "date_display": "26 Aug 01:31 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump sends civil nuclear agreement with Saudi Arabia to Congress",
+      "description": "<b>BREAKING:</b> Trump sends civil nuclear agreement with Saudi Arabia to Congress",
+      "date": "2026-08-25T22:50Z",
+      "date_display": "25 Aug 22:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "JD Vance leads chances of winning US Presidential Election on 19%, followed by Alexandria Ocasia-Cor...",
+      "description": "JD Vance leads chances of winning US Presidential Election on 19%, followed by Alexandria Ocasia-Cortez on 13%, according @Kalshi prediction market. https://t.co/WfmfN6dgD9",
+      "date": "2026-08-25T22:30Z",
+      "date_display": "25 Aug 22:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Oil prices fall by over 3%",
+      "description": "<b>BREAKING:</b> Oil prices fall by over 3%",
+      "date": "2026-08-25T22:22Z",
+      "date_display": "25 Aug 22:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Bitcoin hits $80,000",
+      "description": "<b>BREAKING:</b> Bitcoin hits $80,000",
+      "date": "2026-08-25T08:10Z",
+      "date_display": "25 Aug 08:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Syria's president thanks President Trump after Syria was removed from list of state sponso...",
       "description": "<b>BREAKING:</b> Syria's president thanks President Trump after Syria was removed from list of state sponsors of terrorism",
@@ -373,46 +413,6 @@
       "date_display": "18 Aug 02:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump's approval rating falls to 33%, the lowest of his presidency, according to Reuters/I...",
-      "description": "<b>BREAKING:</b> Trump's approval rating falls to 33%, the lowest of his presidency, according to Reuters/Ipsos poll. https://t.co/Dt3gj5Edbb",
-      "date": "2026-08-17T21:30Z",
-      "date_display": "17 Aug 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran reports annual food price inflation of 128%",
-      "description": "<b>BREAKING:</b> Iran reports annual food price inflation of 128%",
-      "date": "2026-08-17T20:40Z",
-      "date_display": "17 Aug 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US 30-year Treasury bonds rise to 5.3%, the highest since 2007. https://t.co/OG2U5dbYUz...",
-      "description": "<b>BREAKING:</b> US 30-year Treasury bonds rise to 5.3%, the highest since 2007. https://t.co/OG2U5dbYUz",
-      "date": "2026-08-17T20:30Z",
-      "date_display": "17 Aug 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Yemen's Iran-backed Houthis say they have targeted Saudi military vessels",
-      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis say they have targeted Saudi military vessels",
-      "date": "2026-08-17T12:00Z",
-      "date_display": "17 Aug 12:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 53 people have died in Indonesia earthquake",
-      "description": "<b>BREAKING:</b> 53 people have died in Indonesia earthquake",
-      "date": "2026-08-17T03:40Z",
-      "date_display": "17 Aug 03:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

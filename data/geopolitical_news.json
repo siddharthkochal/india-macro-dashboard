@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-26T02:09Z",
+  "fetched_at": "2026-08-27T10:09Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 25,
+  "india_relevant_items": 24,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "BREAKING: Oil prices fall by over 3%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Toll from Nepal-China flooding rises to 193 dead and 1,688 missing.",
+      "description": "<b>BREAKING:</b> Toll from Nepal-China flooding rises to 193 dead and 1,688 missing.",
+      "date": "2026-08-27T08:40Z",
+      "date_display": "27 Aug 08:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: British maritime agency says tanker has been struck in Strait of Hormuz",
+      "description": "<b>BREAKING:</b> British maritime agency says tanker has been struck in Strait of Hormuz",
+      "date": "2026-08-27T01:45Z",
+      "date_display": "27 Aug 01:45 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump sends civil nuclear agreement with Saudi Arabia to Congress",
       "description": "<b>BREAKING:</b> Trump sends civil nuclear agreement with Saudi Arabia to Congress",
@@ -155,25 +171,73 @@
       "date_display": "17 Aug 12:00 UTC",
       "severity": "high",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "BREAKING: Nepal flood death toll rises to 270",
+      "description": "<b>BREAKING:</b> Nepal flood death toll rises to 270",
+      "date": "2026-08-27T09:31Z",
+      "date_display": "27 Aug 09:31 UTC",
+      "severity": "high",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan join...",
-      "description": "<b>BREAKING:</b> Trump says he is 'very happy' to see 🇹🇷 Turkey, 🇸🇦 Saudi Arabia and 🇵🇰 Pakistan joint defense agreement.",
-      "date": "2026-08-16T21:30Z",
-      "date_display": "16 Aug 21:30 UTC",
+      "title": "BREAKING: Toll from Nepal-China flooding rises to 193 dead and 1,688 missing.",
+      "description": "<b>BREAKING:</b> Toll from Nepal-China flooding rises to 193 dead and 1,688 missing.",
+      "date": "2026-08-27T08:40Z",
+      "date_display": "27 Aug 08:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBren...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +117%\nHeating oil: +100%\nGasoline: +86%\nBrent crude: +45%\nUS crude oil: +43%\nCoal: +20%",
-      "date": "2026-08-16T20:50Z",
-      "date_display": "16 Aug 20:50 UTC",
-      "severity": "medium",
+      "title": "BREAKING: Japanese artist Yayoi Kusama has died at the age of 97",
+      "description": "<b>BREAKING:</b> Japanese artist Yayoi Kusama has died at the age of 97",
+      "date": "2026-08-27T04:21Z",
+      "date_display": "27 Aug 04:21 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: British maritime agency says tanker has been struck in Strait of Hormuz",
+      "description": "<b>BREAKING:</b> British maritime agency says tanker has been struck in Strait of Hormuz",
+      "date": "2026-08-27T01:45Z",
+      "date_display": "27 Aug 01:45 UTC",
+      "severity": "critical",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "BREAKING: 157 dead and hundreds missing in Nepal floods",
+      "description": "<b>BREAKING:</b> 157 dead and hundreds missing in Nepal floods",
+      "date": "2026-08-26T22:20Z",
+      "date_display": "26 Aug 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Meta is set to pay $18 billion to settle lawsuits over social media addiction among children in the ...",
+      "description": "Meta is set to pay $18 billion to settle lawsuits over social media addiction among children in the United States. https://t.co/jPIu7Mrdzs",
+      "date": "2026-08-26T22:10Z",
+      "date_display": "26 Aug 22:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: NVIDIA share price surges by over 5% after reporting record results.",
+      "description": "<b>BREAKING:</b> NVIDIA share price surges by over 5% after reporting record results.",
+      "date": "2026-08-26T21:50Z",
+      "date_display": "26 Aug 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Nepal says 403 people, including 341 foreign nationals, missing following floods.",
+      "description": "<b>BREAKING:</b> Nepal says 403 people, including 341 foreign nationals, missing following floods.",
+      "date": "2026-08-26T21:50Z",
+      "date_display": "26 Aug 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Darline Graham, the sister of Lindsey Graham who died last month, wins South Carolina Repu...",
       "description": "<b>BREAKING:</b> Darline Graham, the sister of Lindsey Graham who died last month, wins South Carolina Republican Senate Primary. https://t.co/ugkM8XgzeP",
@@ -349,70 +413,6 @@
       "date_display": "19 Aug 20:40 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Ukraine’s parliament reappoints Andrii Sybiha as foreign minister. https://t.co/opigDZuCrE...",
-      "description": "<b>BREAKING:</b> Ukraine’s parliament reappoints Andrii Sybiha as foreign minister. https://t.co/opigDZuCrE",
-      "date": "2026-08-19T10:10Z",
-      "date_display": "19 Aug 10:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran has weighed attacking US military targets in Europe if Trump escalates the war, accor...",
-      "description": "<b>BREAKING:</b> Iran has weighed attacking US military targets in Europe if Trump escalates the war, according to Financial Times report.",
-      "date": "2026-08-19T08:50Z",
-      "date_display": "19 Aug 08:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says he has paused 50% tariffs against Canada that were scheduled to start tomorrow ...",
-      "description": "<b>BREAKING:</b> Trump says he has paused 50% tariffs against Canada that were scheduled to start tomorrow after a deal was reached",
-      "date": "2026-08-19T03:00Z",
-      "date_display": "19 Aug 03:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇫🇷 France set to expel two Iranian diplomats",
-      "description": "<b>BREAKING:</b> 🇫🇷 France set to expel two Iranian diplomats",
-      "date": "2026-08-18T22:00Z",
-      "date_display": "18 Aug 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Netanyahu calls the International Criminal Court a 'kangaroo court that cloaks its abuse of power in...",
-      "description": "Netanyahu calls the International Criminal Court a 'kangaroo court that cloaks its abuse of power in the language of international law'. https://t.co/ya2oeFUizz",
-      "date": "2026-08-18T20:50Z",
-      "date_display": "18 Aug 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: UAE suspends all trade, financial and commercial activity with Iran",
-      "description": "<b>BREAKING:</b> UAE suspends all trade, financial and commercial activity with Iran",
-      "date": "2026-08-18T20:20Z",
-      "date_display": "18 Aug 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Germany's 10-year bond yield rises to highest since 2011 https://t.co/25Rjx1EX0D",
-      "description": "<b>BREAKING:</b> Germany's 10-year bond yield rises to highest since 2011 https://t.co/25Rjx1EX0D",
-      "date": "2026-08-18T09:50Z",
-      "date_display": "18 Aug 09:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Crude oil price\n\n1st of January: $57.3\n\nNow: $84.8 https://t.co/di5fFfDJJB",
-      "description": "Crude oil price\n\n1st of January: $57.3\n\nNow: $84.8 https://t.co/di5fFfDJJB",
-      "date": "2026-08-18T02:30Z",
-      "date_display": "18 Aug 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

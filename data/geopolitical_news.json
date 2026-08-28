@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-08-27T10:09Z",
+  "fetched_at": "2026-08-28T11:40Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 24,
+  "india_relevant_items": 25,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
-    "opec_action": false,
+    "opec_action": true,
     "price_direction": "up",
     "latest_oil_headline": "BREAKING: Oil prices fall by over 3%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: China has paused major rescue operation in Tibet amid concerns over new flooding",
+      "description": "<b>BREAKING:</b> China has paused major rescue operation in Tibet amid concerns over new flooding",
+      "date": "2026-08-28T05:00Z",
+      "date_display": "28 Aug 05:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Death toll from Nepal-China flood has risen to 469",
+      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 469",
+      "date": "2026-08-28T03:50Z",
+      "date_display": "28 Aug 03:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Venezuela is 'closely examining plans to leave OPEC', amid growing US influence in the cou...",
+      "description": "<b>BREAKING:</b> Venezuela is 'closely examining plans to leave OPEC', amid growing US influence in the country, according to Bloomberg report. https://t.co/bofwXWXvSn",
+      "date": "2026-08-28T00:10Z",
+      "date_display": "28 Aug 00:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Death toll from Nepal-China flood has risen to 392",
+      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 392",
+      "date": "2026-08-27T23:21Z",
+      "date_display": "27 Aug 23:21 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says that Iran is a 'Failing Nation!'",
+      "description": "<b>BREAKING:</b> Trump says that Iran is a 'Failing Nation!'",
+      "date": "2026-08-27T22:50Z",
+      "date_display": "27 Aug 22:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes at outskirts of Damascus",
+      "description": "<b>BREAKING:</b> Israeli strikes at outskirts of Damascus",
+      "date": "2026-08-27T21:22Z",
+      "date_display": "27 Aug 21:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Toll from Nepal-China flooding rises to 193 dead and 1,688 missing.",
       "description": "<b>BREAKING:</b> Toll from Nepal-China flooding rises to 193 dead and 1,688 missing.",
@@ -123,57 +171,81 @@
       "date_display": "19 Aug 08:50 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says he has paused 50% tariffs against Canada that were scheduled to start tomorrow ...",
-      "description": "<b>BREAKING:</b> Trump says he has paused 50% tariffs against Canada that were scheduled to start tomorrow after a deal was reached",
-      "date": "2026-08-19T03:00Z",
-      "date_display": "19 Aug 03:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇫🇷 France set to expel two Iranian diplomats",
-      "description": "<b>BREAKING:</b> 🇫🇷 France set to expel two Iranian diplomats",
-      "date": "2026-08-18T22:00Z",
-      "date_display": "18 Aug 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: UAE suspends all trade, financial and commercial activity with Iran",
-      "description": "<b>BREAKING:</b> UAE suspends all trade, financial and commercial activity with Iran",
-      "date": "2026-08-18T20:20Z",
-      "date_display": "18 Aug 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Crude oil price\n\n1st of January: $57.3\n\nNow: $84.8 https://t.co/di5fFfDJJB",
-      "description": "Crude oil price\n\n1st of January: $57.3\n\nNow: $84.8 https://t.co/di5fFfDJJB",
-      "date": "2026-08-18T02:30Z",
-      "date_display": "18 Aug 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran reports annual food price inflation of 128%",
-      "description": "<b>BREAKING:</b> Iran reports annual food price inflation of 128%",
-      "date": "2026-08-17T20:40Z",
-      "date_display": "17 Aug 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Yemen's Iran-backed Houthis say they have targeted Saudi military vessels",
-      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis say they have targeted Saudi military vessels",
-      "date": "2026-08-17T12:00Z",
-      "date_display": "17 Aug 12:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Death toll from Nepal flood has risen to 538",
+      "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 538",
+      "date": "2026-08-28T10:00Z",
+      "date_display": "28 Aug 10:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: King Harald V of Norway dies at the age of 89 https://t.co/yZNKUzQi46",
+      "description": "<b>BREAKING:</b> King Harald V of Norway dies at the age of 89 https://t.co/yZNKUzQi46",
+      "date": "2026-08-28T07:50Z",
+      "date_display": "28 Aug 07:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Lake in Nepal's northern region has broken its banks",
+      "description": "<b>BREAKING:</b> Lake in Nepal's northern region has broken its banks",
+      "date": "2026-08-28T06:31Z",
+      "date_display": "28 Aug 06:31 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: China has paused major rescue operation in Tibet amid concerns over new flooding",
+      "description": "<b>BREAKING:</b> China has paused major rescue operation in Tibet amid concerns over new flooding",
+      "date": "2026-08-28T05:00Z",
+      "date_display": "28 Aug 05:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Death toll from Nepal-China flood has risen to 469",
+      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 469",
+      "date": "2026-08-28T03:50Z",
+      "date_display": "28 Aug 03:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Venezuela is 'closely examining plans to leave OPEC', amid growing US influence in the cou...",
+      "description": "<b>BREAKING:</b> Venezuela is 'closely examining plans to leave OPEC', amid growing US influence in the country, according to Bloomberg report. https://t.co/bofwXWXvSn",
+      "date": "2026-08-28T00:10Z",
+      "date_display": "28 Aug 00:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Death toll from Nepal-China flood has risen to 392",
+      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 392",
+      "date": "2026-08-27T23:21Z",
+      "date_display": "27 Aug 23:21 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says that Iran is a 'Failing Nation!'",
+      "description": "<b>BREAKING:</b> Trump says that Iran is a 'Failing Nation!'",
+      "date": "2026-08-27T22:50Z",
+      "date_display": "27 Aug 22:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli strikes at outskirts of Damascus",
+      "description": "<b>BREAKING:</b> Israeli strikes at outskirts of Damascus",
+      "date": "2026-08-27T21:22Z",
+      "date_display": "27 Aug 21:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Nepal flood death toll rises to 270",
       "description": "<b>BREAKING:</b> Nepal flood death toll rises to 270",
@@ -339,78 +411,6 @@
       "description": "<b>BREAKING:</b> Anthropic preparing to file its IPO as soon as the end of this month, according to Bloomberg report. https://t.co/jLy8mNoGDW",
       "date": "2026-08-20T20:00Z",
       "date_display": "20 Aug 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Oil prices up 3%",
-      "description": "<b>BREAKING:</b> Oil prices up 3%",
-      "date": "2026-08-20T09:50Z",
-      "date_display": "20 Aug 09:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Germany producer prices increased at the fastest rate in over three years https://t.co/DYw...",
-      "description": "<b>BREAKING:</b> Germany producer prices increased at the fastest rate in over three years https://t.co/DYwdLPb6O7",
-      "date": "2026-08-20T09:30Z",
-      "date_display": "20 Aug 09:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: North Korea has launched a ballistic missile towards the Sea of Japan",
-      "description": "<b>BREAKING:</b> North Korea has launched a ballistic missile towards the Sea of Japan",
-      "date": "2026-08-20T08:40Z",
-      "date_display": "20 Aug 08:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 5.8 magnitude earthquake off coast of eastern Indonesia",
-      "description": "<b>BREAKING:</b> 5.8 magnitude earthquake off coast of eastern Indonesia",
-      "date": "2026-08-20T03:20Z",
-      "date_display": "20 Aug 03:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: South Korea's defense minister says that North Korea possesses between 80 to 120 nuclear w...",
-      "description": "<b>BREAKING:</b> South Korea's defense minister says that North Korea possesses between 80 to 120 nuclear warheads",
-      "date": "2026-08-20T02:30Z",
-      "date_display": "20 Aug 02:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump threatens the 'MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY' agai...",
-      "description": "<b>BREAKING:</b> Trump threatens the 'MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY' against Iran. https://t.co/HXHTq3xgrH",
-      "date": "2026-08-20T00:00Z",
-      "date_display": "20 Aug 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The price of rice has now gone up 50% so far in 2026. https://t.co/zd9Danen2X",
-      "description": "The price of rice has now gone up 50% so far in 2026. https://t.co/zd9Danen2X",
-      "date": "2026-08-19T21:00Z",
-      "date_display": "19 Aug 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US government debt hits $40 trillion https://t.co/VXwIZRmxZL",
-      "description": "<b>BREAKING:</b> US government debt hits $40 trillion https://t.co/VXwIZRmxZL",
-      "date": "2026-08-19T21:00Z",
-      "date_display": "19 Aug 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Gold price up by over 4%, trading at $4520. https://t.co/8dnWSz1ojM",
-      "description": "<b>BREAKING:</b> Gold price up by over 4%, trading at $4520. https://t.co/8dnWSz1ojM",
-      "date": "2026-08-19T20:40Z",
-      "date_display": "19 Aug 20:40 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

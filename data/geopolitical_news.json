@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T11:40Z",
+  "fetched_at": "2026-08-29T07:17Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,41 @@
     "hormuz_risk": true,
     "opec_action": true,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Oil prices fall by over 3%"
+    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +136%\nHeating oil: +104%\nGasoline: +102%\nBre..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump announces 'biggest oil deal in world history' with Venezuela. https://t.co/NmicNwkHa...",
+      "description": "<b>BREAKING:</b> Trump announces 'biggest oil deal in world history' with Venezuela. https://t.co/NmicNwkHag",
+      "date": "2026-08-28T23:00Z",
+      "date_display": "28 Aug 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Chances of 🇺🇸 US Federal Reserve maintaining rates, or hiking them by 25 basis points, are now tie...",
+      "description": "Chances of 🇺🇸 US Federal Reserve maintaining rates, or hiking them by 25 basis points, are now tied at 49%, according to @Kalshi prediction market. https://t.co/tb0zMm1zhG",
+      "date": "2026-08-28T21:40Z",
+      "date_display": "28 Aug 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +136%\nHeating oil: +104%\nGasoline: +102%\nBre...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +136%\nHeating oil: +104%\nGasoline: +102%\nBrent crude: +45%\nUS crude oil: +45%\nCoal: +29%",
+      "date": "2026-08-28T21:21Z",
+      "date_display": "28 Aug 21:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Revolutionary Guards says it now has 'decisive dominance' over the Strait of Hormuz. https://...",
+      "description": "Iran's Revolutionary Guards says it now has 'decisive dominance' over the Strait of Hormuz. https://t.co/YG4w0CpShh",
+      "date": "2026-08-28T20:50Z",
+      "date_display": "28 Aug 20:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: China has paused major rescue operation in Tibet amid concerns over new flooding",
       "description": "<b>BREAKING:</b> China has paused major rescue operation in Tibet amid concerns over new flooding",
@@ -139,41 +171,73 @@
       "date_display": "20 Aug 20:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices up 3%",
-      "description": "<b>BREAKING:</b> Oil prices up 3%",
-      "date": "2026-08-20T09:50Z",
-      "date_display": "20 Aug 09:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: North Korea has launched a ballistic missile towards the Sea of Japan",
-      "description": "<b>BREAKING:</b> North Korea has launched a ballistic missile towards the Sea of Japan",
-      "date": "2026-08-20T08:40Z",
-      "date_display": "20 Aug 08:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump threatens the 'MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY' agai...",
-      "description": "<b>BREAKING:</b> Trump threatens the 'MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY' against Iran. https://t.co/HXHTq3xgrH",
-      "date": "2026-08-20T00:00Z",
-      "date_display": "20 Aug 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran has weighed attacking US military targets in Europe if Trump escalates the war, accor...",
-      "description": "<b>BREAKING:</b> Iran has weighed attacking US military targets in Europe if Trump escalates the war, according to Financial Times report.",
-      "date": "2026-08-19T08:50Z",
-      "date_display": "19 Aug 08:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Death toll from Nepal flood has risen to 626",
+      "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 626",
+      "date": "2026-08-29T03:40Z",
+      "date_display": "29 Aug 03:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Number of those missing in Nepal flood rises to 1,924",
+      "description": "<b>BREAKING:</b> Number of those missing in Nepal flood rises to 1,924",
+      "date": "2026-08-29T00:50Z",
+      "date_display": "29 Aug 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Pete Hegseth has denied report he is considering to run for President in 2028. https://t.co/5SGIcRa4...",
+      "description": "Pete Hegseth has denied report he is considering to run for President in 2028. https://t.co/5SGIcRa4HD",
+      "date": "2026-08-28T23:50Z",
+      "date_display": "28 Aug 23:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump announces 'biggest oil deal in world history' with Venezuela. https://t.co/NmicNwkHa...",
+      "description": "<b>BREAKING:</b> Trump announces 'biggest oil deal in world history' with Venezuela. https://t.co/NmicNwkHag",
+      "date": "2026-08-28T23:00Z",
+      "date_display": "28 Aug 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Chances of 🇺🇸 US Federal Reserve maintaining rates, or hiking them by 25 basis points, are now tie...",
+      "description": "Chances of 🇺🇸 US Federal Reserve maintaining rates, or hiking them by 25 basis points, are now tied at 49%, according to @Kalshi prediction market. https://t.co/tb0zMm1zhG",
+      "date": "2026-08-28T21:40Z",
+      "date_display": "28 Aug 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +136%\nHeating oil: +104%\nGasoline: +102%\nBre...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +136%\nHeating oil: +104%\nGasoline: +102%\nBrent crude: +45%\nUS crude oil: +45%\nCoal: +29%",
+      "date": "2026-08-28T21:21Z",
+      "date_display": "28 Aug 21:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Revolutionary Guards says it now has 'decisive dominance' over the Strait of Hormuz. https://...",
+      "description": "Iran's Revolutionary Guards says it now has 'decisive dominance' over the Strait of Hormuz. https://t.co/YG4w0CpShh",
+      "date": "2026-08-28T20:50Z",
+      "date_display": "28 Aug 20:50 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Death toll from Nepal flood has risen to 579",
+      "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 579",
+      "date": "2026-08-28T20:40Z",
+      "date_display": "28 Aug 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Death toll from Nepal flood has risen to 538",
       "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 538",
@@ -347,70 +411,6 @@
       "description": "<b>BREAKING:</b> Bitcoin hits $80,000",
       "date": "2026-08-25T08:10Z",
       "date_display": "25 Aug 08:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Syria's president thanks President Trump after Syria was removed from list of state sponso...",
-      "description": "<b>BREAKING:</b> Syria's president thanks President Trump after Syria was removed from list of state sponsors of terrorism",
-      "date": "2026-08-24T22:30Z",
-      "date_display": "24 Aug 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US Energy Secretary says the country's oil and gas production is at an 'all-time high'...",
-      "description": "<b>BREAKING:</b> US Energy Secretary says the country's oil and gas production is at an 'all-time high'",
-      "date": "2026-08-22T23:40Z",
-      "date_display": "22 Aug 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Canada is set to impose equivalent tariffs on the United States",
-      "description": "<b>BREAKING:</b> Canada is set to impose equivalent tariffs on the United States",
-      "date": "2026-08-22T05:30Z",
-      "date_display": "22 Aug 05:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US and Canada trade talks collapse",
-      "description": "<b>BREAKING:</b> US and Canada trade talks collapse",
-      "date": "2026-08-22T04:40Z",
-      "date_display": "22 Aug 04:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says he views the Strait of Hormuz as 'an American territory right now'",
-      "description": "<b>BREAKING:</b> Trump says he views the Strait of Hormuz as 'an American territory right now'",
-      "date": "2026-08-21T23:30Z",
-      "date_display": "21 Aug 23:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "White House official says that Trump has destroyed Iran's military and is 'crushing what’s left of i...",
-      "description": "White House official says that Trump has destroyed Iran's military and is 'crushing what’s left of its abysmal economy with the most successful naval blockade in world history', according to Washington Post report. https://t.co/g8AwgExbmP",
-      "date": "2026-08-20T21:30Z",
-      "date_display": "20 Aug 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nBrent crude: +53%\nUS crude oil: +51%",
-      "description": "Prices, since start of the year.\n\nBrent crude: +53%\nUS crude oil: +51%",
-      "date": "2026-08-20T20:10Z",
-      "date_display": "20 Aug 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Anthropic preparing to file its IPO as soon as the end of this month, according to Bloombe...",
-      "description": "<b>BREAKING:</b> Anthropic preparing to file its IPO as soon as the end of this month, according to Bloomberg report. https://t.co/jLy8mNoGDW",
-      "date": "2026-08-20T20:00Z",
-      "date_display": "20 Aug 20:00 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

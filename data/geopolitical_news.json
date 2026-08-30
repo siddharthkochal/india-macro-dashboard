@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T07:17Z",
+  "fetched_at": "2026-08-30T05:40Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +136%\nHeating oil: +104%\nGasoline: +102%\nBre..."
   },
   "india_headlines": [
+    {
+      "title": "Prices, since start of the year.\n\nRice: +57%\nWheat: +51%\nCotton: +41%\nRubber: +32%\nSoybeans: +24%\nWo...",
+      "description": "Prices, since start of the year.\n\nRice: +57%\nWheat: +51%\nCotton: +41%\nRubber: +32%\nSoybeans: +24%\nWool: +21%\nPalm oil: +20%\nSunflower oil: +17%\nTea: +13%\nCheese: +9%",
+      "date": "2026-08-29T21:00Z",
+      "date_display": "29 Aug 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Death toll from Nepal-China flood has risen to 682, with 2,980 people missing.",
+      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 682, with 2,980 people missing.",
+      "date": "2026-08-29T20:50Z",
+      "date_display": "29 Aug 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Attack on the capital of Niger with state television going off air",
+      "description": "<b>BREAKING:</b> Attack on the capital of Niger with state television going off air",
+      "date": "2026-08-29T09:02Z",
+      "date_display": "29 Aug 09:02 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump announces 'biggest oil deal in world history' with Venezuela. https://t.co/NmicNwkHa...",
       "description": "<b>BREAKING:</b> Trump announces 'biggest oil deal in world history' with Venezuela. https://t.co/NmicNwkHag",
@@ -147,33 +171,81 @@
       "date_display": "22 Aug 04:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says he views the Strait of Hormuz as 'an American territory right now'",
-      "description": "<b>BREAKING:</b> Trump says he views the Strait of Hormuz as 'an American territory right now'",
-      "date": "2026-08-21T23:30Z",
-      "date_display": "21 Aug 23:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "White House official says that Trump has destroyed Iran's military and is 'crushing what’s left of i...",
-      "description": "White House official says that Trump has destroyed Iran's military and is 'crushing what’s left of its abysmal economy with the most successful naval blockade in world history', according to Washington Post report. https://t.co/g8AwgExbmP",
-      "date": "2026-08-20T21:30Z",
-      "date_display": "20 Aug 21:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nBrent crude: +53%\nUS crude oil: +51%",
-      "description": "Prices, since start of the year.\n\nBrent crude: +53%\nUS crude oil: +51%",
-      "date": "2026-08-20T20:10Z",
-      "date_display": "20 Aug 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Death toll from Nepal flood has risen to 734",
+      "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 734",
+      "date": "2026-08-30T04:10Z",
+      "date_display": "30 Aug 04:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Greece and Israel sign $3.6 billion air defense deal",
+      "description": "<b>BREAKING:</b> Greece and Israel sign $3.6 billion air defense deal",
+      "date": "2026-08-30T04:00Z",
+      "date_display": "30 Aug 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Jon Ossoff leads as favorite to win 2028 Democratic presidential nomination at 17%, followed by Alex...",
+      "description": "Jon Ossoff leads as favorite to win 2028 Democratic presidential nomination at 17%, followed by Alexandria Ocasio-Cortez at 16% and Gavin Newsom at 14%, according to @Kalshi prediction market. https://t.co/V1ZKbxbO66",
+      "date": "2026-08-29T22:50Z",
+      "date_display": "29 Aug 22:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Milo Yiannopoulos has been officially deported from the United States to the United Kingdom.",
+      "description": "Milo Yiannopoulos has been officially deported from the United States to the United Kingdom.",
+      "date": "2026-08-29T21:40Z",
+      "date_display": "29 Aug 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: North Korea's defense minister has been dismissed from his position https://t.co/Eb501msMt...",
+      "description": "<b>BREAKING:</b> North Korea's defense minister has been dismissed from his position https://t.co/Eb501msMt1",
+      "date": "2026-08-29T21:40Z",
+      "date_display": "29 Aug 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +57%\nWheat: +51%\nCotton: +41%\nRubber: +32%\nSoybeans: +24%\nWo...",
+      "description": "Prices, since start of the year.\n\nRice: +57%\nWheat: +51%\nCotton: +41%\nRubber: +32%\nSoybeans: +24%\nWool: +21%\nPalm oil: +20%\nSunflower oil: +17%\nTea: +13%\nCheese: +9%",
+      "date": "2026-08-29T21:00Z",
+      "date_display": "29 Aug 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Death toll from Nepal-China flood has risen to 682, with 2,980 people missing.",
+      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 682, with 2,980 people missing.",
+      "date": "2026-08-29T20:50Z",
+      "date_display": "29 Aug 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Reports of coup attempt in Niger",
+      "description": "<b>BREAKING:</b> Reports of coup attempt in Niger",
+      "date": "2026-08-29T10:00Z",
+      "date_display": "29 Aug 10:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Attack on the capital of Niger with state television going off air",
+      "description": "<b>BREAKING:</b> Attack on the capital of Niger with state television going off air",
+      "date": "2026-08-29T09:02Z",
+      "date_display": "29 Aug 09:02 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Death toll from Nepal flood has risen to 626",
       "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 626",
@@ -341,78 +413,6 @@
       "date_display": "27 Aug 01:45 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 157 dead and hundreds missing in Nepal floods",
-      "description": "<b>BREAKING:</b> 157 dead and hundreds missing in Nepal floods",
-      "date": "2026-08-26T22:20Z",
-      "date_display": "26 Aug 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Meta is set to pay $18 billion to settle lawsuits over social media addiction among children in the ...",
-      "description": "Meta is set to pay $18 billion to settle lawsuits over social media addiction among children in the United States. https://t.co/jPIu7Mrdzs",
-      "date": "2026-08-26T22:10Z",
-      "date_display": "26 Aug 22:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: NVIDIA share price surges by over 5% after reporting record results.",
-      "description": "<b>BREAKING:</b> NVIDIA share price surges by over 5% after reporting record results.",
-      "date": "2026-08-26T21:50Z",
-      "date_display": "26 Aug 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Nepal says 403 people, including 341 foreign nationals, missing following floods.",
-      "description": "<b>BREAKING:</b> Nepal says 403 people, including 341 foreign nationals, missing following floods.",
-      "date": "2026-08-26T21:50Z",
-      "date_display": "26 Aug 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Darline Graham, the sister of Lindsey Graham who died last month, wins South Carolina Repu...",
-      "description": "<b>BREAKING:</b> Darline Graham, the sister of Lindsey Graham who died last month, wins South Carolina Republican Senate Primary. https://t.co/ugkM8XgzeP",
-      "date": "2026-08-26T01:31Z",
-      "date_display": "26 Aug 01:31 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump sends civil nuclear agreement with Saudi Arabia to Congress",
-      "description": "<b>BREAKING:</b> Trump sends civil nuclear agreement with Saudi Arabia to Congress",
-      "date": "2026-08-25T22:50Z",
-      "date_display": "25 Aug 22:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "JD Vance leads chances of winning US Presidential Election on 19%, followed by Alexandria Ocasia-Cor...",
-      "description": "JD Vance leads chances of winning US Presidential Election on 19%, followed by Alexandria Ocasia-Cortez on 13%, according @Kalshi prediction market. https://t.co/WfmfN6dgD9",
-      "date": "2026-08-25T22:30Z",
-      "date_display": "25 Aug 22:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Oil prices fall by over 3%",
-      "description": "<b>BREAKING:</b> Oil prices fall by over 3%",
-      "date": "2026-08-25T22:22Z",
-      "date_display": "25 Aug 22:22 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Bitcoin hits $80,000",
-      "description": "<b>BREAKING:</b> Bitcoin hits $80,000",
-      "date": "2026-08-25T08:10Z",
-      "date_display": "25 Aug 08:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

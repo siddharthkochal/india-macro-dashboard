@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T05:57Z",
+  "fetched_at": "2026-09-01T05:30Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -8,10 +8,26 @@
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": true,
-    "price_direction": "down",
+    "price_direction": "up",
     "latest_oil_headline": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $90 https://t.co/Let9SJmDTV"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Saudi Arabia, Turkey and ​Pakistan will establish a ‌secretariat for their joint defence a...",
+      "description": "<b>BREAKING:</b> Saudi Arabia, Turkey and ​Pakistan will establish a ‌secretariat for their joint defence agreement",
+      "date": "2026-08-31T21:50Z",
+      "date_display": "31 Aug 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Death toll from Nepal-China flood has risen to 955, with over 4471 people missing.",
+      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 955, with over 4471 people missing.",
+      "date": "2026-08-31T21:00Z",
+      "date_display": "31 Aug 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump says Iran's strategic Kharg Island is being 'blown to smithereens!!!'",
       "description": "<b>BREAKING:</b> Trump says Iran's strategic Kharg Island is being 'blown to smithereens!!!'",
@@ -155,25 +171,49 @@
       "date_display": "28 Aug 03:50 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Venezuela is 'closely examining plans to leave OPEC', amid growing US influence in the cou...",
-      "description": "<b>BREAKING:</b> Venezuela is 'closely examining plans to leave OPEC', amid growing US influence in the country, according to Bloomberg report. https://t.co/bofwXWXvSn",
-      "date": "2026-08-28T00:10Z",
-      "date_display": "28 Aug 00:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Death toll from Nepal-China flood has risen to 392",
-      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 392",
-      "date": "2026-08-27T23:21Z",
-      "date_display": "27 Aug 23:21 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Duane Davis found guilty of killing Tupac Shakur https://t.co/Uq9815MsGu",
+      "description": "<b>BREAKING:</b> Duane Davis found guilty of killing Tupac Shakur https://t.co/Uq9815MsGu",
+      "date": "2026-09-01T00:50Z",
+      "date_display": "01 Sep 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US Army Secretary Dan Driscoll submits resignation amid tensions with Secretary of War Pet...",
+      "description": "<b>BREAKING:</b> US Army Secretary Dan Driscoll submits resignation amid tensions with Secretary of War Pete Hegseth",
+      "date": "2026-08-31T22:22Z",
+      "date_display": "31 Aug 22:22 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Saudi Arabia, Turkey and ​Pakistan will establish a ‌secretariat for their joint defence a...",
+      "description": "<b>BREAKING:</b> Saudi Arabia, Turkey and ​Pakistan will establish a ‌secretariat for their joint defence agreement",
+      "date": "2026-08-31T21:50Z",
+      "date_display": "31 Aug 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Death toll from Nepal-China flood has risen to 955, with over 4471 people missing.",
+      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 955, with over 4471 people missing.",
+      "date": "2026-08-31T21:00Z",
+      "date_display": "31 Aug 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israel's defense ministry confirms €3 billion deal to build Greece's air defense systems...",
+      "description": "<b>BREAKING:</b> Israel's defense ministry confirms €3 billion deal to build Greece's air defense systems",
+      "date": "2026-08-31T09:24Z",
+      "date_display": "31 Aug 09:24 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Death toll from Nepal flood has risen to 903, with over 4200 people missing.",
       "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 903, with over 4200 people missing.",
@@ -373,46 +413,6 @@
       "date_display": "28 Aug 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +136%\nHeating oil: +104%\nGasoline: +102%\nBre...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +136%\nHeating oil: +104%\nGasoline: +102%\nBrent crude: +45%\nUS crude oil: +45%\nCoal: +29%",
-      "date": "2026-08-28T21:21Z",
-      "date_display": "28 Aug 21:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's Revolutionary Guards says it now has 'decisive dominance' over the Strait of Hormuz. https://...",
-      "description": "Iran's Revolutionary Guards says it now has 'decisive dominance' over the Strait of Hormuz. https://t.co/YG4w0CpShh",
-      "date": "2026-08-28T20:50Z",
-      "date_display": "28 Aug 20:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Death toll from Nepal flood has risen to 579",
-      "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 579",
-      "date": "2026-08-28T20:40Z",
-      "date_display": "28 Aug 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Death toll from Nepal flood has risen to 538",
-      "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 538",
-      "date": "2026-08-28T10:00Z",
-      "date_display": "28 Aug 10:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: King Harald V of Norway dies at the age of 89 https://t.co/yZNKUzQi46",
-      "description": "<b>BREAKING:</b> King Harald V of Norway dies at the age of 89 https://t.co/yZNKUzQi46",
-      "date": "2026-08-28T07:50Z",
-      "date_display": "28 Aug 07:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

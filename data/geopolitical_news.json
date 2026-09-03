@@ -1,17 +1,57 @@
 {
-  "fetched_at": "2026-09-02T04:56Z",
+  "fetched_at": "2026-09-03T04:53Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 28,
+  "india_relevant_items": 26,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": true,
-    "opec_action": true,
+    "hormuz_risk": false,
+    "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Brent crude oil price up over 2%, now trading at $92."
+    "latest_oil_headline": "Brent crude oil price\n\nOne week ago: $85.9\n\nNow: $95.9 https://t.co/OtH4aYl7bq"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Kuwait says its air defenses are engaging an attack from Iran",
+      "description": "<b>BREAKING:</b> Kuwait says its air defenses are engaging an attack from Iran",
+      "date": "2026-09-03T02:20Z",
+      "date_display": "03 Sep 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: New attack on Kuwait, likely from Iranian forces.",
+      "description": "<b>BREAKING:</b> New attack on Kuwait, likely from Iranian forces.",
+      "date": "2026-09-03T02:10Z",
+      "date_display": "03 Sep 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Nepal-China flood death toll reaches 1,204 with over 4,200 people missing.",
+      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,204 with over 4,200 people missing.",
+      "date": "2026-09-02T21:10Z",
+      "date_display": "02 Sep 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Netanyahu says all of Israel's 'systems are working to bring down' the Iranian regime. https://t.co/...",
+      "description": "Netanyahu says all of Israel's 'systems are working to bring down' the Iranian regime. https://t.co/dof6l69wQF",
+      "date": "2026-09-02T21:01Z",
+      "date_display": "02 Sep 21:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\nOne week ago: $85.9\n\nNow: $95.9 https://t.co/OtH4aYl7bq",
+      "description": "Brent crude oil price\n\nOne week ago: $85.9\n\nNow: $95.9 https://t.co/OtH4aYl7bq",
+      "date": "2026-09-02T10:10Z",
+      "date_display": "02 Sep 10:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iranian attack on targets in Bahrain",
       "description": "<b>BREAKING:</b> Iranian attack on targets in Bahrain",
@@ -131,49 +171,105 @@
       "date_display": "30 Aug 22:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: The US military struck two rocket launchers in Iran",
-      "description": "<b>BREAKING:</b> The US military struck two rocket launchers in Iran",
-      "date": "2026-08-30T22:00Z",
-      "date_display": "30 Aug 22:00 UTC",
+      "title": "BREAKING: Kuwait says its air defenses are engaging an attack from Iran",
+      "description": "<b>BREAKING:</b> Kuwait says its air defenses are engaging an attack from Iran",
+      "date": "2026-09-03T02:20Z",
+      "date_display": "03 Sep 02:20 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Air defense systems in Jordan engage Iranian attack",
-      "description": "<b>BREAKING:</b> Air defense systems in Jordan engage Iranian attack",
-      "date": "2026-08-30T22:00Z",
-      "date_display": "30 Aug 22:00 UTC",
+      "title": "BREAKING: New attack on Kuwait, likely from Iranian forces.",
+      "description": "<b>BREAKING:</b> New attack on Kuwait, likely from Iranian forces.",
+      "date": "2026-09-03T02:10Z",
+      "date_display": "03 Sep 02:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Israel's energy minister says his country will attack Iran if Tehran renews its nuclear or...",
-      "description": "<b>BREAKING:</b> Israel's energy minister says his country will attack Iran if Tehran renews its nuclear or ballistic missile programs, 'even if there is a deal with the United States'.",
-      "date": "2026-08-30T08:22Z",
-      "date_display": "30 Aug 08:22 UTC",
+      "title": "BREAKING: Reports several people have been shot at  an apartment building in Minneapolis.",
+      "description": "<b>BREAKING:</b> Reports several people have been shot at  an apartment building in Minneapolis.",
+      "date": "2026-09-02T22:40Z",
+      "date_display": "02 Sep 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The 🇺🇸 US government's 10-year bond yield has risen to the highest since 2023, as global borrowing...",
+      "description": "The 🇺🇸 US government's 10-year bond yield has risen to the highest since 2023, as global borrowing costs continue to rise. https://t.co/u2GUCWUSfq",
+      "date": "2026-09-02T21:40Z",
+      "date_display": "02 Sep 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Nepal-China flood death toll reaches 1,204 with over 4,200 people missing.",
+      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,204 with over 4,200 people missing.",
+      "date": "2026-09-02T21:10Z",
+      "date_display": "02 Sep 21:10 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Prices, since start of the year.\n\nRice: +57%\nWheat: +51%\nCotton: +41%\nRubber: +32%\nSoybeans: +24%\nWo...",
-      "description": "Prices, since start of the year.\n\nRice: +57%\nWheat: +51%\nCotton: +41%\nRubber: +32%\nSoybeans: +24%\nWool: +21%\nPalm oil: +20%\nSunflower oil: +17%\nTea: +13%\nCheese: +9%",
-      "date": "2026-08-29T21:00Z",
-      "date_display": "29 Aug 21:00 UTC",
+      "title": "Netanyahu says all of Israel's 'systems are working to bring down' the Iranian regime. https://t.co/...",
+      "description": "Netanyahu says all of Israel's 'systems are working to bring down' the Iranian regime. https://t.co/dof6l69wQF",
+      "date": "2026-09-02T21:01Z",
+      "date_display": "02 Sep 21:01 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Death toll from Nepal-China flood has risen to 682, with 2,980 people missing.",
-      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 682, with 2,980 people missing.",
-      "date": "2026-08-29T20:50Z",
-      "date_display": "29 Aug 20:50 UTC",
+      "title": "BREAKING: The LA Clippers have been fined $30 million and lost five first-round draft picks for brea...",
+      "description": "<b>BREAKING:</b> The LA Clippers have been fined $30 million and lost five first-round draft picks for breaching salary cap rules over Kawhi Leonard https://t.co/xMnvZ4RK4N",
+      "date": "2026-09-02T21:01Z",
+      "date_display": "02 Sep 21:01 UTC",
       "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Uber set to cut 3,300 jobs to reduce layers in management https://t.co/dpmnJ1gweM",
+      "description": "<b>BREAKING:</b> Uber set to cut 3,300 jobs to reduce layers in management https://t.co/dpmnJ1gweM",
+      "date": "2026-09-02T11:31Z",
+      "date_display": "02 Sep 11:31 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Nepal flood death toll reaches 1,118 with over 3,900 people missing.",
+      "description": "<b>BREAKING:</b> Nepal flood death toll reaches 1,118 with over 3,900 people missing.",
+      "date": "2026-09-02T10:22Z",
+      "date_display": "02 Sep 10:22 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Brent crude oil price\n\nOne week ago: $85.9\n\nNow: $95.9 https://t.co/OtH4aYl7bq",
+      "description": "Brent crude oil price\n\nOne week ago: $85.9\n\nNow: $95.9 https://t.co/OtH4aYl7bq",
+      "date": "2026-09-02T10:10Z",
+      "date_display": "02 Sep 10:10 UTC",
+      "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "BREAKING: 16 people killed in bus crash in Sinai, Egypt.",
+      "description": "<b>BREAKING:</b> 16 people killed in bus crash in Sinai, Egypt.",
+      "date": "2026-09-02T06:21Z",
+      "date_display": "02 Sep 06:21 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Republican Party now has a 52% chance of winning the US Senate, according to prediction market @...",
+      "description": "The Republican Party now has a 52% chance of winning the US Senate, according to prediction market @Kalshi. https://t.co/v4h70sIRcR",
+      "date": "2026-09-02T05:21Z",
+      "date_display": "02 Sep 05:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "🇯🇵 Japan's 10-year government bond yield rises to 3.02%, continuing to rise beyond levels last see...",
       "description": "🇯🇵 Japan's 10-year government bond yield rises to 3.02%, continuing to rise beyond levels last seen three decades ago.",
@@ -315,102 +411,6 @@
       "description": "Chances of President Trump being impeached before the 1st of January, 2028 has risen to 61% according to @Kalshi prediction market. https://t.co/Xk8XE35HxO",
       "date": "2026-08-31T04:40Z",
       "date_display": "31 Aug 04:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says Iran's strategic Kharg Island is being 'blown to smithereens!!!'",
-      "description": "<b>BREAKING:</b> Trump says Iran's strategic Kharg Island is being 'blown to smithereens!!!'",
-      "date": "2026-08-31T04:10Z",
-      "date_display": "31 Aug 04:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Jordan says it has intercepted eight missiles fired by Iran",
-      "description": "<b>BREAKING:</b> Jordan says it has intercepted eight missiles fired by Iran",
-      "date": "2026-08-30T23:50Z",
-      "date_display": "30 Aug 23:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $90 https://t.co/Let9SJmDTV",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $90 https://t.co/Let9SJmDTV",
-      "date": "2026-08-30T22:40Z",
-      "date_display": "30 Aug 22:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil prices rise by over 2%, now trading at $90.",
-      "description": "<b>BREAKING:</b> Brent crude oil prices rise by over 2%, now trading at $90.",
-      "date": "2026-08-30T22:22Z",
-      "date_display": "30 Aug 22:22 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil price up by over 2%, now trading back over $90.",
-      "description": "<b>BREAKING:</b> Brent crude oil price up by over 2%, now trading back over $90.",
-      "date": "2026-08-30T22:10Z",
-      "date_display": "30 Aug 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran launches missiles at targets in Jordan",
-      "description": "<b>BREAKING:</b> Iran launches missiles at targets in Jordan",
-      "date": "2026-08-30T22:00Z",
-      "date_display": "30 Aug 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The US military struck two rocket launchers in Iran",
-      "description": "<b>BREAKING:</b> The US military struck two rocket launchers in Iran",
-      "date": "2026-08-30T22:00Z",
-      "date_display": "30 Aug 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Air defense systems in Jordan engage Iranian attack",
-      "description": "<b>BREAKING:</b> Air defense systems in Jordan engage Iranian attack",
-      "date": "2026-08-30T22:00Z",
-      "date_display": "30 Aug 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israel's energy minister says his country will attack Iran if Tehran renews its nuclear or...",
-      "description": "<b>BREAKING:</b> Israel's energy minister says his country will attack Iran if Tehran renews its nuclear or ballistic missile programs, 'even if there is a deal with the United States'.",
-      "date": "2026-08-30T08:22Z",
-      "date_display": "30 Aug 08:22 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Death toll from Nepal flood has risen to 734",
-      "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 734",
-      "date": "2026-08-30T04:10Z",
-      "date_display": "30 Aug 04:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Greece and Israel sign $3.6 billion air defense deal",
-      "description": "<b>BREAKING:</b> Greece and Israel sign $3.6 billion air defense deal",
-      "date": "2026-08-30T04:00Z",
-      "date_display": "30 Aug 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Jon Ossoff leads as favorite to win 2028 Democratic presidential nomination at 17%, followed by Alex...",
-      "description": "Jon Ossoff leads as favorite to win 2028 Democratic presidential nomination at 17%, followed by Alexandria Ocasio-Cortez at 16% and Gavin Newsom at 14%, according to @Kalshi prediction market. https://t.co/V1ZKbxbO66",
-      "date": "2026-08-29T22:50Z",
-      "date_display": "29 Aug 22:50 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

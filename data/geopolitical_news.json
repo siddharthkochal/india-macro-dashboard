@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-09-03T04:53Z",
+  "fetched_at": "2026-09-04T04:58Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
   "india_relevant_items": 26,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": false,
+    "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Brent crude oil price\n\nOne week ago: $85.9\n\nNow: $95.9 https://t.co/OtH4aYl7bq"
+    "latest_oil_headline": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe"
   },
   "india_headlines": [
+    {
+      "title": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
+      "description": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
+      "date": "2026-09-04T01:52Z",
+      "date_display": "04 Sep 01:52 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says that Syria is 'pitching itself as an alternative to the Strait of Hormuz'. http...",
+      "description": "<b>BREAKING:</b> Trump says that Syria is 'pitching itself as an alternative to the Strait of Hormuz'. https://t.co/5t77IWivkn",
+      "date": "2026-09-03T11:40Z",
+      "date_display": "03 Sep 11:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil price hits $97, the highest since July.",
+      "description": "<b>BREAKING:</b> Brent crude oil price hits $97, the highest since July.",
+      "date": "2026-09-03T10:40Z",
+      "date_display": "03 Sep 10:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Kuwait says its air defenses are engaging an attack from Iran",
       "description": "<b>BREAKING:</b> Kuwait says its air defenses are engaging an attack from Iran",
@@ -147,33 +171,65 @@
       "date_display": "30 Aug 22:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil prices rise by over 2%, now trading at $90.",
-      "description": "<b>BREAKING:</b> Brent crude oil prices rise by over 2%, now trading at $90.",
-      "date": "2026-08-30T22:22Z",
-      "date_display": "30 Aug 22:22 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil price up by over 2%, now trading back over $90.",
-      "description": "<b>BREAKING:</b> Brent crude oil price up by over 2%, now trading back over $90.",
-      "date": "2026-08-30T22:10Z",
-      "date_display": "30 Aug 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran launches missiles at targets in Jordan",
-      "description": "<b>BREAKING:</b> Iran launches missiles at targets in Jordan",
-      "date": "2026-08-30T22:00Z",
-      "date_display": "30 Aug 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
+      "description": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
+      "date": "2026-09-04T01:52Z",
+      "date_display": "04 Sep 01:52 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says Spain is going to be 'destroyed' due to its migration policy. https://t.co/Wujf...",
+      "description": "President Trump says Spain is going to be 'destroyed' due to its migration policy. https://t.co/Wujf68Bfqr",
+      "date": "2026-09-03T21:21Z",
+      "date_display": "03 Sep 21:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Bernie Sanders has introduced a bill to the Senate that would ban artificial intelligence that surpa...",
+      "description": "Bernie Sanders has introduced a bill to the Senate that would ban artificial intelligence that surpasses human intelligence, as well a pausing AI development until a new Federal agency is established. https://t.co/CHZFKsTtlF",
+      "date": "2026-09-03T20:50Z",
+      "date_display": "03 Sep 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "OpenAI has launched its most advanced model GPT-6 Astra, which is being described as a  'generationa...",
+      "description": "OpenAI has launched its most advanced model GPT-6 Astra, which is being described as a  'generational leap in capability'. https://t.co/LxHOZdTmUs",
+      "date": "2026-09-03T20:40Z",
+      "date_display": "03 Sep 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says that Syria is 'pitching itself as an alternative to the Strait of Hormuz'. http...",
+      "description": "<b>BREAKING:</b> Trump says that Syria is 'pitching itself as an alternative to the Strait of Hormuz'. https://t.co/5t77IWivkn",
+      "date": "2026-09-03T11:40Z",
+      "date_display": "03 Sep 11:40 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil price hits $97, the highest since July.",
+      "description": "<b>BREAKING:</b> Brent crude oil price hits $97, the highest since July.",
+      "date": "2026-09-03T10:40Z",
+      "date_display": "03 Sep 10:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Nepal flood death toll reaches 1,252 with over 4,875 people missing.",
+      "description": "<b>BREAKING:</b> Nepal flood death toll reaches 1,252 with over 4,875 people missing.",
+      "date": "2026-09-03T06:10Z",
+      "date_display": "03 Sep 06:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Kuwait says its air defenses are engaging an attack from Iran",
       "description": "<b>BREAKING:</b> Kuwait says its air defenses are engaging an attack from Iran",
@@ -355,62 +411,6 @@
       "description": "Gadi Eizenkot has a 55% chance of being Israel's prime minister after this year's election, compared with 27% for Netanyahu, according to @Kalshi prediction market. https://t.co/hM0A2AlWUj",
       "date": "2026-09-01T05:30Z",
       "date_display": "01 Sep 05:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Duane Davis found guilty of killing Tupac Shakur https://t.co/Uq9815MsGu",
-      "description": "<b>BREAKING:</b> Duane Davis found guilty of killing Tupac Shakur https://t.co/Uq9815MsGu",
-      "date": "2026-09-01T00:50Z",
-      "date_display": "01 Sep 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US Army Secretary Dan Driscoll submits resignation amid tensions with Secretary of War Pet...",
-      "description": "<b>BREAKING:</b> US Army Secretary Dan Driscoll submits resignation amid tensions with Secretary of War Pete Hegseth",
-      "date": "2026-08-31T22:22Z",
-      "date_display": "31 Aug 22:22 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Saudi Arabia, Turkey and ​Pakistan will establish a ‌secretariat for their joint defence a...",
-      "description": "<b>BREAKING:</b> Saudi Arabia, Turkey and ​Pakistan will establish a ‌secretariat for their joint defence agreement",
-      "date": "2026-08-31T21:50Z",
-      "date_display": "31 Aug 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Death toll from Nepal-China flood has risen to 955, with over 4471 people missing.",
-      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 955, with over 4471 people missing.",
-      "date": "2026-08-31T21:00Z",
-      "date_display": "31 Aug 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israel's defense ministry confirms €3 billion deal to build Greece's air defense systems...",
-      "description": "<b>BREAKING:</b> Israel's defense ministry confirms €3 billion deal to build Greece's air defense systems",
-      "date": "2026-08-31T09:24Z",
-      "date_display": "31 Aug 09:24 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Death toll from Nepal flood has risen to 903, with over 4200 people missing.",
-      "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 903, with over 4200 people missing.",
-      "date": "2026-08-31T05:30Z",
-      "date_display": "31 Aug 05:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Chances of President Trump being impeached before the 1st of January, 2028 has risen to 61% accordin...",
-      "description": "Chances of President Trump being impeached before the 1st of January, 2028 has risen to 61% according to @Kalshi prediction market. https://t.co/Xk8XE35HxO",
-      "date": "2026-08-31T04:40Z",
-      "date_display": "31 Aug 04:40 UTC",
       "severity": "medium",
       "is_india_relevant": false
     }

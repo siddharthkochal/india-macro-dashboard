@@ -1,17 +1,49 @@
 {
-  "fetched_at": "2026-09-04T04:58Z",
+  "fetched_at": "2026-09-05T04:50Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 26,
+  "india_relevant_items": 27,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe"
+    "latest_oil_headline": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days."
   },
   "india_headlines": [
+    {
+      "title": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days.",
+      "description": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days.",
+      "date": "2026-09-04T22:50Z",
+      "date_display": "04 Sep 22:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 38-year old woman from 🇺🇸 Frankfort, Illinois, has been charged with murder of her two-y...",
+      "description": "<b>BREAKING:</b> 38-year old woman from 🇺🇸 Frankfort, Illinois, has been charged with murder of her two-year old son, with court documents claiming she had 'become very invested' in Lindsay Clancy murder trial.",
+      "date": "2026-09-04T20:40Z",
+      "date_display": "04 Sep 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US approves $5.75 billion of potential military sales to Saudi Arabia",
+      "description": "<b>BREAKING:</b> US approves $5.75 billion of potential military sales to Saudi Arabia",
+      "date": "2026-09-04T20:10Z",
+      "date_display": "04 Sep 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Nepal-China flood death toll reaches 1,325 with over 5,584 people missing.",
+      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,325 with over 5,584 people missing.",
+      "date": "2026-09-04T19:01Z",
+      "date_display": "04 Sep 19:01 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
       "description": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
@@ -139,41 +171,65 @@
       "date_display": "31 Aug 21:50 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Death toll from Nepal-China flood has risen to 955, with over 4471 people missing.",
-      "description": "<b>BREAKING:</b> Death toll from Nepal-China flood has risen to 955, with over 4471 people missing.",
-      "date": "2026-08-31T21:00Z",
-      "date_display": "31 Aug 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says Iran's strategic Kharg Island is being 'blown to smithereens!!!'",
-      "description": "<b>BREAKING:</b> Trump says Iran's strategic Kharg Island is being 'blown to smithereens!!!'",
-      "date": "2026-08-31T04:10Z",
-      "date_display": "31 Aug 04:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Jordan says it has intercepted eight missiles fired by Iran",
-      "description": "<b>BREAKING:</b> Jordan says it has intercepted eight missiles fired by Iran",
-      "date": "2026-08-30T23:50Z",
-      "date_display": "30 Aug 23:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $90 https://t.co/Let9SJmDTV",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $90 https://t.co/Let9SJmDTV",
-      "date": "2026-08-30T22:40Z",
-      "date_display": "30 Aug 22:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Nepal flood death toll reaches 1,344",
+      "description": "<b>BREAKING:</b> Nepal flood death toll reaches 1,344",
+      "date": "2026-09-05T04:32Z",
+      "date_display": "05 Sep 04:32 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The price of rice has now gone up 60% so far in 2026. https://t.co/hFOvRgt6Qg",
+      "description": "The price of rice has now gone up 60% so far in 2026. https://t.co/hFOvRgt6Qg",
+      "date": "2026-09-05T01:50Z",
+      "date_display": "05 Sep 01:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days.",
+      "description": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days.",
+      "date": "2026-09-04T22:50Z",
+      "date_display": "04 Sep 22:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 38-year old woman from 🇺🇸 Frankfort, Illinois, has been charged with murder of her two-y...",
+      "description": "<b>BREAKING:</b> 38-year old woman from 🇺🇸 Frankfort, Illinois, has been charged with murder of her two-year old son, with court documents claiming she had 'become very invested' in Lindsay Clancy murder trial.",
+      "date": "2026-09-04T20:40Z",
+      "date_display": "04 Sep 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US approves $5.75 billion of potential military sales to Saudi Arabia",
+      "description": "<b>BREAKING:</b> US approves $5.75 billion of potential military sales to Saudi Arabia",
+      "date": "2026-09-04T20:10Z",
+      "date_display": "04 Sep 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Nepal-China flood death toll reaches 1,325 with over 5,584 people missing.",
+      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,325 with over 5,584 people missing.",
+      "date": "2026-09-04T19:01Z",
+      "date_display": "04 Sep 19:01 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Nepal flood death toll reaches 1,287 with over 5,083 people missing.",
+      "description": "<b>BREAKING:</b> Nepal flood death toll reaches 1,287 with over 5,083 people missing.",
+      "date": "2026-09-04T08:10Z",
+      "date_display": "04 Sep 08:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
       "description": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
@@ -357,62 +413,6 @@
       "date_display": "01 Sep 22:22 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "🇪🇺 Eurozone annual inflation rose to 3.3% in August, the highest in three years. https://t.co/8jTW...",
-      "description": "🇪🇺 Eurozone annual inflation rose to 3.3% in August, the highest in three years. https://t.co/8jTWMZoWfQ",
-      "date": "2026-09-01T21:10Z",
-      "date_display": "01 Sep 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Putin says the military has been instructed to launch large strikes against Ukrainian ener...",
-      "description": "<b>BREAKING:</b> Putin says the military has been instructed to launch large strikes against Ukrainian energy infrastructure",
-      "date": "2026-09-01T21:01Z",
-      "date_display": "01 Sep 21:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they have targeted a US Marine base in southern Jordan...",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have targeted a US Marine base in southern Jordan",
-      "date": "2026-09-01T21:01Z",
-      "date_display": "01 Sep 21:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Russia is helping Iran build 'advanced supersonic cruise missiles', according to Financial...",
-      "description": "<b>BREAKING:</b> Russia is helping Iran build 'advanced supersonic cruise missiles', according to Financial Times report.",
-      "date": "2026-09-01T20:50Z",
-      "date_display": "01 Sep 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Death toll from Nepal flood has risen to 1010, with 4599 people missing.",
-      "description": "<b>BREAKING:</b> Death toll from Nepal flood has risen to 1010, with 4599 people missing.",
-      "date": "2026-09-01T10:10Z",
-      "date_display": "01 Sep 10:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Brent crude oil price up over 2%, now trading at $92.",
-      "description": "<b>BREAKING:</b> Brent crude oil price up over 2%, now trading at $92.",
-      "date": "2026-09-01T10:01Z",
-      "date_display": "01 Sep 10:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Gadi Eizenkot has a 55% chance of being Israel's prime minister after this year's election, compared...",
-      "description": "Gadi Eizenkot has a 55% chance of being Israel's prime minister after this year's election, compared with 27% for Netanyahu, according to @Kalshi prediction market. https://t.co/hM0A2AlWUj",
-      "date": "2026-09-01T05:30Z",
-      "date_display": "01 Sep 05:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

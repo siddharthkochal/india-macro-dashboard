@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T04:50Z",
+  "fetched_at": "2026-09-06T04:58Z",
   "source": "Yahoo Finance (free, no API key)",
   "prices": {
     "brent": {
@@ -8,8 +8,8 @@
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_85",
       "current_value": 96.28,
-      "change_from_prev": 0.76,
-      "direction": "up",
+      "change_from_prev": 0.0,
+      "direction": "flat",
       "signal": "bearish",
       "series": [
         {
@@ -54,14 +54,14 @@
         },
         {
           "date": "Sep-26",
-          "value": 95.52
+          "value": 96.28
         },
         {
           "date": "Sep-26",
           "value": 96.28
         }
       ],
-      "fetched_at": "2026-09-05T04:50Z"
+      "fetched_at": "2026-09-06T04:58Z"
     },
     "wti": {
       "symbol": "CL=F",
@@ -69,8 +69,8 @@
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_80",
       "current_value": 91.48,
-      "change_from_prev": 0.18,
-      "direction": "up",
+      "change_from_prev": 0.0,
+      "direction": "flat",
       "signal": "bearish",
       "series": [
         {
@@ -115,14 +115,14 @@
         },
         {
           "date": "Sep-26",
-          "value": 91.3
+          "value": 91.48
         },
         {
           "date": "Sep-26",
           "value": 91.48
         }
       ],
-      "fetched_at": "2026-09-05T04:50Z"
+      "fetched_at": "2026-09-06T04:58Z"
     },
     "gold": {
       "symbol": "GC=F",
@@ -130,8 +130,8 @@
       "unit": "USD/troy oz",
       "india_impact": "negative_via_import_demand",
       "current_value": 4476.6,
-      "change_from_prev": -15.1,
-      "direction": "down",
+      "change_from_prev": 46.8,
+      "direction": "up",
       "signal": "bearish",
       "series": [
         {
@@ -176,14 +176,14 @@
         },
         {
           "date": "Sep-26",
-          "value": 4491.7
+          "value": 4429.8
         },
         {
           "date": "Sep-26",
           "value": 4476.6
         }
       ],
-      "fetched_at": "2026-09-05T04:50Z"
+      "fetched_at": "2026-09-06T04:58Z"
     },
     "inr": {
       "symbol": "USDINR=X",
@@ -191,8 +191,8 @@
       "unit": "INR per USD",
       "india_impact": "higher_is_bearish_for_india",
       "current_value": 94.49,
-      "change_from_prev": 0.0,
-      "direction": "flat",
+      "change_from_prev": 0.06,
+      "direction": "up",
       "signal": "bearish",
       "series": [
         {
@@ -245,14 +245,14 @@
         },
         {
           "date": "Aug-26",
-          "value": 94.49
+          "value": 94.43
         },
         {
           "date": "Sep-26",
           "value": 94.49
         }
       ],
-      "fetched_at": "2026-09-05T04:50Z"
+      "fetched_at": "2026-09-06T04:58Z"
     },
     "ovx": {
       "symbol": "^OVX",
@@ -260,8 +260,8 @@
       "unit": "index",
       "india_impact": "above_40_signals_supply_risk",
       "current_value": 44.96,
-      "change_from_prev": -1.45,
-      "direction": "down",
+      "change_from_prev": 0.0,
+      "direction": "flat",
       "signal": "bearish",
       "series": [
         {
@@ -314,14 +314,14 @@
         },
         {
           "date": "Sep-26",
-          "value": 46.41
+          "value": 44.96
         },
         {
           "date": "Sep-26",
           "value": 44.96
         }
       ],
-      "fetched_at": "2026-09-05T04:50Z"
+      "fetched_at": "2026-09-06T04:58Z"
     }
   },
   "india_oil_alert": {

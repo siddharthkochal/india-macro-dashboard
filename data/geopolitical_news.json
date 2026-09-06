@@ -1,17 +1,49 @@
 {
-  "fetched_at": "2026-09-05T04:50Z",
+  "fetched_at": "2026-09-06T04:58Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 27,
+  "india_relevant_items": 25,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days."
+    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBren..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destr...",
+      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destroyer with missiles.",
+      "date": "2026-09-05T23:40Z",
+      "date_display": "05 Sep 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +60%\nWheat: +41%\nCotton: +34%\nRubber: +29%\nSoybeans: +25%\nWo...",
+      "description": "Prices, since start of the year.\n\nRice: +60%\nWheat: +41%\nCotton: +34%\nRubber: +29%\nSoybeans: +25%\nWool: +21%\nPalm oil: +20%\nSunflower oil: +15%\nTea: +12%\nCheese: +9%",
+      "date": "2026-09-05T21:00Z",
+      "date_display": "05 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBren...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBrent crude: +59%\nUS crude oil: +59%\nCoal: +39%",
+      "date": "2026-09-05T20:50Z",
+      "date_display": "05 Sep 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Five dead in Israeli strikes on southern Lebanon",
+      "description": "<b>BREAKING:</b> Five dead in Israeli strikes on southern Lebanon",
+      "date": "2026-09-05T10:14Z",
+      "date_display": "05 Sep 10:14 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days.",
       "description": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days.",
@@ -139,41 +171,73 @@
       "date_display": "01 Sep 21:01 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian Revolutionary Guards say they have targeted a US Marine base in southern Jordan...",
-      "description": "<b>BREAKING:</b> Iranian Revolutionary Guards say they have targeted a US Marine base in southern Jordan",
-      "date": "2026-09-01T21:01Z",
-      "date_display": "01 Sep 21:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Russia is helping Iran build 'advanced supersonic cruise missiles', according to Financial...",
-      "description": "<b>BREAKING:</b> Russia is helping Iran build 'advanced supersonic cruise missiles', according to Financial Times report.",
-      "date": "2026-09-01T20:50Z",
-      "date_display": "01 Sep 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil price up over 2%, now trading at $92.",
-      "description": "<b>BREAKING:</b> Brent crude oil price up over 2%, now trading at $92.",
-      "date": "2026-09-01T10:01Z",
-      "date_display": "01 Sep 10:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia, Turkey and ​Pakistan will establish a ‌secretariat for their joint defence a...",
-      "description": "<b>BREAKING:</b> Saudi Arabia, Turkey and ​Pakistan will establish a ‌secretariat for their joint defence agreement",
-      "date": "2026-08-31T21:50Z",
-      "date_display": "31 Aug 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Wheat prices are now up 43% over the past year.\n\nExports from Ukraine and Russia continue to be affe...",
+      "description": "Wheat prices are now up 43% over the past year.\n\nExports from Ukraine and Russia continue to be affected by the war and US crop is heading for its lowest yield since 2015. https://t.co/cZvOCzhxZq",
+      "date": "2026-09-06T01:10Z",
+      "date_display": "06 Sep 01:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Volcanic ash from Indonesia's Mount Anak Krakatau forces suspension of flights at Jakarta ...",
+      "description": "<b>BREAKING:</b> Volcanic ash from Indonesia's Mount Anak Krakatau forces suspension of flights at Jakarta airport.",
+      "date": "2026-09-06T00:50Z",
+      "date_display": "06 Sep 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destr...",
+      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destroyer with missiles.",
+      "date": "2026-09-05T23:40Z",
+      "date_display": "05 Sep 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Egypt has sentenced television presenter Sarah Khalifa and eleven other people to death by hanging o...",
+      "description": "Egypt has sentenced television presenter Sarah Khalifa and eleven other people to death by hanging over drug charges. https://t.co/7qsgVpVZOx",
+      "date": "2026-09-05T22:00Z",
+      "date_display": "05 Sep 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇺🇸 President Trump approval rating\n\nApprove: 44%\nDisapprove: 55%\n\n(Rasmussen Reports) https://t.co...",
+      "description": "🇺🇸 President Trump approval rating\n\nApprove: 44%\nDisapprove: 55%\n\n(Rasmussen Reports) https://t.co/cGIvceALyv",
+      "date": "2026-09-05T21:21Z",
+      "date_display": "05 Sep 21:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +60%\nWheat: +41%\nCotton: +34%\nRubber: +29%\nSoybeans: +25%\nWo...",
+      "description": "Prices, since start of the year.\n\nRice: +60%\nWheat: +41%\nCotton: +34%\nRubber: +29%\nSoybeans: +25%\nWool: +21%\nPalm oil: +20%\nSunflower oil: +15%\nTea: +12%\nCheese: +9%",
+      "date": "2026-09-05T21:00Z",
+      "date_display": "05 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBren...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBrent crude: +59%\nUS crude oil: +59%\nCoal: +39%",
+      "date": "2026-09-05T20:50Z",
+      "date_display": "05 Sep 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Five dead in Israeli strikes on southern Lebanon",
+      "description": "<b>BREAKING:</b> Five dead in Israeli strikes on southern Lebanon",
+      "date": "2026-09-05T10:14Z",
+      "date_display": "05 Sep 10:14 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Nepal flood death toll reaches 1,344",
       "description": "<b>BREAKING:</b> Nepal flood death toll reaches 1,344",
@@ -349,70 +413,6 @@
       "date_display": "02 Sep 11:31 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Nepal flood death toll reaches 1,118 with over 3,900 people missing.",
-      "description": "<b>BREAKING:</b> Nepal flood death toll reaches 1,118 with over 3,900 people missing.",
-      "date": "2026-09-02T10:22Z",
-      "date_display": "02 Sep 10:22 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Brent crude oil price\n\nOne week ago: $85.9\n\nNow: $95.9 https://t.co/OtH4aYl7bq",
-      "description": "Brent crude oil price\n\nOne week ago: $85.9\n\nNow: $95.9 https://t.co/OtH4aYl7bq",
-      "date": "2026-09-02T10:10Z",
-      "date_display": "02 Sep 10:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 16 people killed in bus crash in Sinai, Egypt.",
-      "description": "<b>BREAKING:</b> 16 people killed in bus crash in Sinai, Egypt.",
-      "date": "2026-09-02T06:21Z",
-      "date_display": "02 Sep 06:21 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Republican Party now has a 52% chance of winning the US Senate, according to prediction market @...",
-      "description": "The Republican Party now has a 52% chance of winning the US Senate, according to prediction market @Kalshi. https://t.co/v4h70sIRcR",
-      "date": "2026-09-02T05:21Z",
-      "date_display": "02 Sep 05:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇯🇵 Japan's 10-year government bond yield rises to 3.02%, continuing to rise beyond levels last see...",
-      "description": "🇯🇵 Japan's 10-year government bond yield rises to 3.02%, continuing to rise beyond levels last seen three decades ago.",
-      "date": "2026-09-02T04:10Z",
-      "date_display": "02 Sep 04:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Republican Party now has a 52% chance of winning the US House of Representatives, according to p...",
-      "description": "The Republican Party now has a 52% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/zYu4enX5XT",
-      "date": "2026-09-02T03:30Z",
-      "date_display": "02 Sep 03:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iranian attack on targets in Bahrain",
-      "description": "<b>BREAKING:</b> Iranian attack on targets in Bahrain",
-      "date": "2026-09-01T23:50Z",
-      "date_display": "01 Sep 23:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian attack on targets in Kuwait",
-      "description": "<b>BREAKING:</b> Iranian attack on targets in Kuwait",
-      "date": "2026-09-01T22:22Z",
-      "date_display": "01 Sep 22:22 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

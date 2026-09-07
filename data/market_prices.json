@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T04:58Z",
+  "fetched_at": "2026-09-07T05:05Z",
   "source": "Yahoo Finance (free, no API key)",
   "prices": {
     "brent": {
@@ -61,7 +61,7 @@
           "value": 96.28
         }
       ],
-      "fetched_at": "2026-09-06T04:58Z"
+      "fetched_at": "2026-09-07T05:05Z"
     },
     "wti": {
       "symbol": "CL=F",
@@ -122,7 +122,7 @@
           "value": 91.48
         }
       ],
-      "fetched_at": "2026-09-06T04:58Z"
+      "fetched_at": "2026-09-07T05:05Z"
     },
     "gold": {
       "symbol": "GC=F",
@@ -183,16 +183,16 @@
           "value": 4476.6
         }
       ],
-      "fetched_at": "2026-09-06T04:58Z"
+      "fetched_at": "2026-09-07T05:05Z"
     },
     "inr": {
       "symbol": "USDINR=X",
       "name": "USD/INR",
       "unit": "INR per USD",
       "india_impact": "higher_is_bearish_for_india",
-      "current_value": 94.49,
-      "change_from_prev": 0.06,
-      "direction": "up",
+      "current_value": 94.4,
+      "change_from_prev": -0.03,
+      "direction": "down",
       "signal": "bearish",
       "series": [
         {
@@ -249,10 +249,10 @@
         },
         {
           "date": "Sep-26",
-          "value": 94.49
+          "value": 94.4
         }
       ],
-      "fetched_at": "2026-09-06T04:58Z"
+      "fetched_at": "2026-09-07T05:05Z"
     },
     "ovx": {
       "symbol": "^OVX",
@@ -321,7 +321,7 @@
           "value": 44.96
         }
       ],
-      "fetched_at": "2026-09-06T04:58Z"
+      "fetched_at": "2026-09-07T05:05Z"
     }
   },
   "india_oil_alert": {
@@ -329,10 +329,10 @@
     "alerts": [
       "Brent at $96/barrel \u2014 above India comfort zone ($65\u201385)",
       "Oil volatility index (OVX) at 45 \u2014 elevated supply disruption risk (Strait of Hormuz?)",
-      "USD/INR at 94.49 \u2014 weak rupee amplifies oil import cost in INR terms"
+      "USD/INR at 94.40 \u2014 weak rupee amplifies oil import cost in INR terms"
     ],
     "brent": 96.28,
-    "inr": 94.49,
+    "inr": 94.4,
     "ovx": 44.96
   }
 }

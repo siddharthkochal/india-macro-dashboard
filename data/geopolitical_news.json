@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T04:58Z",
+  "fetched_at": "2026-09-07T05:05Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,41 @@
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBren..."
+    "latest_oil_headline": "🇺🇸 US Crude Oil prices are now up 31% since the start of July. https://t.co/saZqv1q9Qz"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Nepal-China flood death toll reaches 1,385 with over 5,515 people missing.",
+      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,385 with over 5,515 people missing.",
+      "date": "2026-09-07T02:40Z",
+      "date_display": "07 Sep 02:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Japan's foreign reserves fell by a record $79.6 billion in August, to the lowest level sin...",
+      "description": "<b>BREAKING:</b> Japan's foreign reserves fell by a record $79.6 billion in August, to the lowest level since 2022.\n\nThis comes as the country has launched massive Yen-purchasing initiatives to strengthen the weakening currency against the US Dollar. https://t.co/8ULdzVzJU8",
+      "date": "2026-09-07T01:30Z",
+      "date_display": "07 Sep 01:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇺🇸 US Crude Oil prices are now up 31% since the start of July. https://t.co/saZqv1q9Qz",
+      "description": "🇺🇸 US Crude Oil prices are now up 31% since the start of July. https://t.co/saZqv1q9Qz",
+      "date": "2026-09-06T21:10Z",
+      "date_display": "06 Sep 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iran's Speaker of Parliament says that the United States needs to realize that the 'rules of the gam...",
+      "description": "Iran's Speaker of Parliament says that the United States needs to realize that the 'rules of the game have changed'. https://t.co/XFBfbYXA9x",
+      "date": "2026-09-06T10:21Z",
+      "date_display": "06 Sep 10:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destr...",
       "description": "<b>BREAKING:</b> Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destroyer with missiles.",
@@ -139,41 +171,81 @@
       "date_display": "02 Sep 10:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "Jakarta airport will remain close until at least later today, leaving over 170,000 travellers strand...",
+      "description": "Jakarta airport will remain close until at least later today, leaving over 170,000 travellers stranded, amid eruptions at Mount ⁠Anak Krakatau. https://t.co/elgqb2Bg76",
+      "date": "2026-09-07T03:10Z",
+      "date_display": "07 Sep 03:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Iranian attack on targets in Bahrain",
-      "description": "<b>BREAKING:</b> Iranian attack on targets in Bahrain",
-      "date": "2026-09-01T23:50Z",
-      "date_display": "01 Sep 23:50 UTC",
+      "title": "BREAKING: Nepal-China flood death toll reaches 1,385 with over 5,515 people missing.",
+      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,385 with over 5,515 people missing.",
+      "date": "2026-09-07T02:40Z",
+      "date_display": "07 Sep 02:40 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iranian attack on targets in Kuwait",
-      "description": "<b>BREAKING:</b> Iranian attack on targets in Kuwait",
-      "date": "2026-09-01T22:22Z",
-      "date_display": "01 Sep 22:22 UTC",
+      "title": "BREAKING: Japan's foreign reserves fell by a record $79.6 billion in August, to the lowest level sin...",
+      "description": "<b>BREAKING:</b> Japan's foreign reserves fell by a record $79.6 billion in August, to the lowest level since 2022.\n\nThis comes as the country has launched massive Yen-purchasing initiatives to strengthen the weakening currency against the US Dollar. https://t.co/8ULdzVzJU8",
+      "date": "2026-09-07T01:30Z",
+      "date_display": "07 Sep 01:30 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "🇪🇺 Eurozone annual inflation rose to 3.3% in August, the highest in three years. https://t.co/8jTW...",
-      "description": "🇪🇺 Eurozone annual inflation rose to 3.3% in August, the highest in three years. https://t.co/8jTWMZoWfQ",
-      "date": "2026-09-01T21:10Z",
-      "date_display": "01 Sep 21:10 UTC",
+      "title": "Nike's market value has fallen by around 80% since its 2021 peak, taking its valuation from about $2...",
+      "description": "Nike's market value has fallen by around 80% since its 2021 peak, taking its valuation from about $280 billion to $57 billion.\n\nThis has been caused by reducing ties with retailers and relying on direct-to-consumer selling, as well as reduced innovation and increased competition. https://t.co/sVR9oQ7IYA",
+      "date": "2026-09-06T23:50Z",
+      "date_display": "06 Sep 23:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Five people killed after Amazon cargo plane crashed at Miami airport",
+      "description": "<b>BREAKING:</b> Five people killed after Amazon cargo plane crashed at Miami airport",
+      "date": "2026-09-06T21:40Z",
+      "date_display": "06 Sep 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇺🇸 US Crude Oil prices are now up 31% since the start of July. https://t.co/saZqv1q9Qz",
+      "description": "🇺🇸 US Crude Oil prices are now up 31% since the start of July. https://t.co/saZqv1q9Qz",
+      "date": "2026-09-06T21:10Z",
+      "date_display": "06 Sep 21:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Putin says the military has been instructed to launch large strikes against Ukrainian ener...",
-      "description": "<b>BREAKING:</b> Putin says the military has been instructed to launch large strikes against Ukrainian energy infrastructure",
-      "date": "2026-09-01T21:01Z",
-      "date_display": "01 Sep 21:01 UTC",
-      "severity": "high",
+      "title": "President Trump's approval rating has fallen to record low of 33% in new Financial Times poll. https...",
+      "description": "President Trump's approval rating has fallen to record low of 33% in new Financial Times poll. https://t.co/k7RgHK458V",
+      "date": "2026-09-06T20:50Z",
+      "date_display": "06 Sep 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iran's Speaker of Parliament says that the United States needs to realize that the 'rules of the gam...",
+      "description": "Iran's Speaker of Parliament says that the United States needs to realize that the 'rules of the game have changed'. https://t.co/XFBfbYXA9x",
+      "date": "2026-09-06T10:21Z",
+      "date_display": "06 Sep 10:21 UTC",
+      "severity": "medium",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
+    {
+      "title": "Russian deputy foreign minister Sergei Ryabkov says that a trilateral meeting between Trump, Putin a...",
+      "description": "Russian deputy foreign minister Sergei Ryabkov says that a trilateral meeting between Trump, Putin and Xi Jinping has not been ruled out.",
+      "date": "2026-09-06T08:50Z",
+      "date_display": "06 Sep 08:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Wheat prices are now up 43% over the past year.\n\nExports from Ukraine and Russia continue to be affe...",
       "description": "Wheat prices are now up 43% over the past year.\n\nExports from Ukraine and Russia continue to be affected by the war and US crop is heading for its lowest yield since 2015. https://t.co/cZvOCzhxZq",
@@ -341,78 +413,6 @@
       "date_display": "03 Sep 10:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Nepal flood death toll reaches 1,252 with over 4,875 people missing.",
-      "description": "<b>BREAKING:</b> Nepal flood death toll reaches 1,252 with over 4,875 people missing.",
-      "date": "2026-09-03T06:10Z",
-      "date_display": "03 Sep 06:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Kuwait says its air defenses are engaging an attack from Iran",
-      "description": "<b>BREAKING:</b> Kuwait says its air defenses are engaging an attack from Iran",
-      "date": "2026-09-03T02:20Z",
-      "date_display": "03 Sep 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: New attack on Kuwait, likely from Iranian forces.",
-      "description": "<b>BREAKING:</b> New attack on Kuwait, likely from Iranian forces.",
-      "date": "2026-09-03T02:10Z",
-      "date_display": "03 Sep 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reports several people have been shot at  an apartment building in Minneapolis.",
-      "description": "<b>BREAKING:</b> Reports several people have been shot at  an apartment building in Minneapolis.",
-      "date": "2026-09-02T22:40Z",
-      "date_display": "02 Sep 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The 🇺🇸 US government's 10-year bond yield has risen to the highest since 2023, as global borrowing...",
-      "description": "The 🇺🇸 US government's 10-year bond yield has risen to the highest since 2023, as global borrowing costs continue to rise. https://t.co/u2GUCWUSfq",
-      "date": "2026-09-02T21:40Z",
-      "date_display": "02 Sep 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Nepal-China flood death toll reaches 1,204 with over 4,200 people missing.",
-      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,204 with over 4,200 people missing.",
-      "date": "2026-09-02T21:10Z",
-      "date_display": "02 Sep 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Netanyahu says all of Israel's 'systems are working to bring down' the Iranian regime. https://t.co/...",
-      "description": "Netanyahu says all of Israel's 'systems are working to bring down' the Iranian regime. https://t.co/dof6l69wQF",
-      "date": "2026-09-02T21:01Z",
-      "date_display": "02 Sep 21:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The LA Clippers have been fined $30 million and lost five first-round draft picks for brea...",
-      "description": "<b>BREAKING:</b> The LA Clippers have been fined $30 million and lost five first-round draft picks for breaching salary cap rules over Kawhi Leonard https://t.co/xMnvZ4RK4N",
-      "date": "2026-09-02T21:01Z",
-      "date_display": "02 Sep 21:01 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Uber set to cut 3,300 jobs to reduce layers in management https://t.co/dpmnJ1gweM",
-      "description": "<b>BREAKING:</b> Uber set to cut 3,300 jobs to reduce layers in management https://t.co/dpmnJ1gweM",
-      "date": "2026-09-02T11:31Z",
-      "date_display": "02 Sep 11:31 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

@@ -1,17 +1,89 @@
 {
-  "fetched_at": "2026-09-08T05:02Z",
+  "fetched_at": "2026-09-09T05:02Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 25,
+  "india_relevant_items": 28,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": true,
+    "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "President Trump says that oil prices will ultimately drop to under two Dollars a gallon when 'we win..."
+    "latest_oil_headline": "Oil prices rise by over 2%, with Brent crude now trading at $99 and US crude at $94. https://t.co/Il..."
   },
   "india_headlines": [
+    {
+      "title": "Jordan's military says Iran launched 20 ballistic missiles towards its territory, 18 of which were i...",
+      "description": "Jordan's military says Iran launched 20 ballistic missiles towards its territory, 18 of which were intercepted and 2 of which landed in remote areas. https://t.co/eaFvh8SqDL",
+      "date": "2026-09-09T00:50Z",
+      "date_display": "09 Sep 00:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Current Iranian missile attack is one of the biggest of recent months",
+      "description": "<b>BREAKING:</b> Current Iranian missile attack is one of the biggest of recent months",
+      "date": "2026-09-08T22:00Z",
+      "date_display": "08 Sep 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian ballistic missile attack on targets in Jordan",
+      "description": "<b>BREAKING:</b> Iranian ballistic missile attack on targets in Jordan",
+      "date": "2026-09-08T21:50Z",
+      "date_display": "08 Sep 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Missile launches from Iran",
+      "description": "<b>BREAKING:</b> Missile launches from Iran",
+      "date": "2026-09-08T21:30Z",
+      "date_display": "08 Sep 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices rise by over 2%, with Brent crude now trading at $99 and US crude at $94. https://t.co/Il...",
+      "description": "Oil prices rise by over 2%, with Brent crude now trading at $99 and US crude at $94. https://t.co/Il7eLBfKZi",
+      "date": "2026-09-08T20:21Z",
+      "date_display": "08 Sep 20:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's Revolutionary Guards warn of imminent attacks on oil tankers near Bahrain and Kuwai...",
+      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards warn of imminent attacks on oil tankers near Bahrain and Kuwait",
+      "date": "2026-09-08T20:10Z",
+      "date_display": "08 Sep 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The US military has struck targets, including Iranian tankers, near Kharg Island, accordin...",
+      "description": "<b>BREAKING:</b> The US military has struck targets, including Iranian tankers, near Kharg Island, according to Fox News report.",
+      "date": "2026-09-08T19:50Z",
+      "date_display": "08 Sep 19:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Bahrain, Kuwait and Qatar condemn attacks from Yemen's Iran-backed Houthis on Saudi Arabia...",
+      "description": "<b>BREAKING:</b> Bahrain, Kuwait and Qatar condemn attacks from Yemen's Iran-backed Houthis on Saudi Arabia",
+      "date": "2026-09-08T07:50Z",
+      "date_display": "08 Sep 07:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi military says 'terrorist Houthi' attacks are a 'dangerous escalation' and that the K...",
+      "description": "<b>BREAKING:</b> Saudi military says 'terrorist Houthi' attacks are a 'dangerous escalation' and that the Kingdom will respond 'firmly'.",
+      "date": "2026-09-08T05:10Z",
+      "date_display": "08 Sep 05:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "China's trade surplus has widened to a massive $119 billion in August, an increase of 17% compared w...",
       "description": "China's trade surplus has widened to a massive $119 billion in August, an increase of 17% compared with the same period last year.\n\nShipments to the United States increased by 34% compared with a year prior. https://t.co/3zSYUSRtbS",
@@ -99,81 +171,105 @@
       "date_display": "05 Sep 23:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nRice: +60%\nWheat: +41%\nCotton: +34%\nRubber: +29%\nSoybeans: +25%\nWo...",
-      "description": "Prices, since start of the year.\n\nRice: +60%\nWheat: +41%\nCotton: +34%\nRubber: +29%\nSoybeans: +25%\nWool: +21%\nPalm oil: +20%\nSunflower oil: +15%\nTea: +12%\nCheese: +9%",
-      "date": "2026-09-05T21:00Z",
-      "date_display": "05 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBren...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBrent crude: +59%\nUS crude oil: +59%\nCoal: +39%",
-      "date": "2026-09-05T20:50Z",
-      "date_display": "05 Sep 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Five dead in Israeli strikes on southern Lebanon",
-      "description": "<b>BREAKING:</b> Five dead in Israeli strikes on southern Lebanon",
-      "date": "2026-09-05T10:14Z",
-      "date_display": "05 Sep 10:14 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days.",
-      "description": "Oil prices up 9% for the week, as Iran and the United States exchanged strikes in recent days.",
-      "date": "2026-09-04T22:50Z",
-      "date_display": "04 Sep 22:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 38-year old woman from 🇺🇸 Frankfort, Illinois, has been charged with murder of her two-y...",
-      "description": "<b>BREAKING:</b> 38-year old woman from 🇺🇸 Frankfort, Illinois, has been charged with murder of her two-year old son, with court documents claiming she had 'become very invested' in Lindsay Clancy murder trial.",
-      "date": "2026-09-04T20:40Z",
-      "date_display": "04 Sep 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US approves $5.75 billion of potential military sales to Saudi Arabia",
-      "description": "<b>BREAKING:</b> US approves $5.75 billion of potential military sales to Saudi Arabia",
-      "date": "2026-09-04T20:10Z",
-      "date_display": "04 Sep 20:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Nepal-China flood death toll reaches 1,325 with over 5,584 people missing.",
-      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,325 with over 5,584 people missing.",
-      "date": "2026-09-04T19:01Z",
-      "date_display": "04 Sep 19:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
-      "description": "Brent crude oil price\n\nOne week ago: $88\n\nNow: $96 https://t.co/BuI8dzOOGe",
-      "date": "2026-09-04T01:52Z",
-      "date_display": "04 Sep 01:52 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says that Syria is 'pitching itself as an alternative to the Strait of Hormuz'. http...",
-      "description": "<b>BREAKING:</b> Trump says that Syria is 'pitching itself as an alternative to the Strait of Hormuz'. https://t.co/5t77IWivkn",
-      "date": "2026-09-03T11:40Z",
-      "date_display": "03 Sep 11:40 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Jordan's military says Iran launched 20 ballistic missiles towards its territory, 18 of which were i...",
+      "description": "Jordan's military says Iran launched 20 ballistic missiles towards its territory, 18 of which were intercepted and 2 of which landed in remote areas. https://t.co/eaFvh8SqDL",
+      "date": "2026-09-09T00:50Z",
+      "date_display": "09 Sep 00:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Current Iranian missile attack is one of the biggest of recent months",
+      "description": "<b>BREAKING:</b> Current Iranian missile attack is one of the biggest of recent months",
+      "date": "2026-09-08T22:00Z",
+      "date_display": "08 Sep 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian ballistic missile attack on targets in Jordan",
+      "description": "<b>BREAKING:</b> Iranian ballistic missile attack on targets in Jordan",
+      "date": "2026-09-08T21:50Z",
+      "date_display": "08 Sep 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Missile launches from Iran",
+      "description": "<b>BREAKING:</b> Missile launches from Iran",
+      "date": "2026-09-08T21:30Z",
+      "date_display": "08 Sep 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇺🇸 JD Vance has a 46% chance of being the 2028 Republican presidential nominee, compared with 21% ...",
+      "description": "🇺🇸 JD Vance has a 46% chance of being the 2028 Republican presidential nominee, compared with 21% for Marco Rubio, according to @Kalshi prediction market. https://t.co/OyFdFFfTjT",
+      "date": "2026-09-08T20:40Z",
+      "date_display": "08 Sep 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Oil prices rise by over 2%, with Brent crude now trading at $99 and US crude at $94. https://t.co/Il...",
+      "description": "Oil prices rise by over 2%, with Brent crude now trading at $99 and US crude at $94. https://t.co/Il7eLBfKZi",
+      "date": "2026-09-08T20:21Z",
+      "date_display": "08 Sep 20:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's Revolutionary Guards warn of imminent attacks on oil tankers near Bahrain and Kuwai...",
+      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards warn of imminent attacks on oil tankers near Bahrain and Kuwait",
+      "date": "2026-09-08T20:10Z",
+      "date_display": "08 Sep 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The US military has struck targets, including Iranian tankers, near Kharg Island, accordin...",
+      "description": "<b>BREAKING:</b> The US military has struck targets, including Iranian tankers, near Kharg Island, according to Fox News report.",
+      "date": "2026-09-08T19:50Z",
+      "date_display": "08 Sep 19:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇸🇬 The salary of Singapore's Prime Minister, already the highest paid leader in the world, is set ...",
+      "description": "🇸🇬 The salary of Singapore's Prime Minister, already the highest paid leader in the world, is set to increase from $1.7 million to $2.8 million a year, after an independent review.\n\nPrime Minister Lawrence Wong says that for the next five years he will donate the increase to charity.",
+      "date": "2026-09-08T10:22Z",
+      "date_display": "08 Sep 10:22 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Bahrain, Kuwait and Qatar condemn attacks from Yemen's Iran-backed Houthis on Saudi Arabia...",
+      "description": "<b>BREAKING:</b> Bahrain, Kuwait and Qatar condemn attacks from Yemen's Iran-backed Houthis on Saudi Arabia",
+      "date": "2026-09-08T07:50Z",
+      "date_display": "08 Sep 07:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The Philippines reports unemployment rate of 6%, the highest since 2022. https://t.co/xCiKhSt2JS",
+      "description": "The Philippines reports unemployment rate of 6%, the highest since 2022. https://t.co/xCiKhSt2JS",
+      "date": "2026-09-08T06:00Z",
+      "date_display": "08 Sep 06:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Saudi military says 'terrorist Houthi' attacks are a 'dangerous escalation' and that the K...",
+      "description": "<b>BREAKING:</b> Saudi military says 'terrorist Houthi' attacks are a 'dangerous escalation' and that the Kingdom will respond 'firmly'.",
+      "date": "2026-09-08T05:10Z",
+      "date_display": "08 Sep 05:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "China's trade surplus has widened to a massive $119 billion in August, an increase of 17% compared w...",
       "description": "China's trade surplus has widened to a massive $119 billion in August, an increase of 17% compared with the same period last year.\n\nShipments to the United States increased by 34% compared with a year prior. https://t.co/3zSYUSRtbS",
@@ -317,102 +413,6 @@
       "date_display": "06 Sep 21:40 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 US Crude Oil prices are now up 31% since the start of July. https://t.co/saZqv1q9Qz",
-      "description": "🇺🇸 US Crude Oil prices are now up 31% since the start of July. https://t.co/saZqv1q9Qz",
-      "date": "2026-09-06T21:10Z",
-      "date_display": "06 Sep 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump's approval rating has fallen to record low of 33% in new Financial Times poll. https...",
-      "description": "President Trump's approval rating has fallen to record low of 33% in new Financial Times poll. https://t.co/k7RgHK458V",
-      "date": "2026-09-06T20:50Z",
-      "date_display": "06 Sep 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Iran's Speaker of Parliament says that the United States needs to realize that the 'rules of the gam...",
-      "description": "Iran's Speaker of Parliament says that the United States needs to realize that the 'rules of the game have changed'. https://t.co/XFBfbYXA9x",
-      "date": "2026-09-06T10:21Z",
-      "date_display": "06 Sep 10:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Russian deputy foreign minister Sergei Ryabkov says that a trilateral meeting between Trump, Putin a...",
-      "description": "Russian deputy foreign minister Sergei Ryabkov says that a trilateral meeting between Trump, Putin and Xi Jinping has not been ruled out.",
-      "date": "2026-09-06T08:50Z",
-      "date_display": "06 Sep 08:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Wheat prices are now up 43% over the past year.\n\nExports from Ukraine and Russia continue to be affe...",
-      "description": "Wheat prices are now up 43% over the past year.\n\nExports from Ukraine and Russia continue to be affected by the war and US crop is heading for its lowest yield since 2015. https://t.co/cZvOCzhxZq",
-      "date": "2026-09-06T01:10Z",
-      "date_display": "06 Sep 01:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Volcanic ash from Indonesia's Mount Anak Krakatau forces suspension of flights at Jakarta ...",
-      "description": "<b>BREAKING:</b> Volcanic ash from Indonesia's Mount Anak Krakatau forces suspension of flights at Jakarta airport.",
-      "date": "2026-09-06T00:50Z",
-      "date_display": "06 Sep 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destr...",
-      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destroyer with missiles.",
-      "date": "2026-09-05T23:40Z",
-      "date_display": "05 Sep 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Egypt has sentenced television presenter Sarah Khalifa and eleven other people to death by hanging o...",
-      "description": "Egypt has sentenced television presenter Sarah Khalifa and eleven other people to death by hanging over drug charges. https://t.co/7qsgVpVZOx",
-      "date": "2026-09-05T22:00Z",
-      "date_display": "05 Sep 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 President Trump approval rating\n\nApprove: 44%\nDisapprove: 55%\n\n(Rasmussen Reports) https://t.co...",
-      "description": "🇺🇸 President Trump approval rating\n\nApprove: 44%\nDisapprove: 55%\n\n(Rasmussen Reports) https://t.co/cGIvceALyv",
-      "date": "2026-09-05T21:21Z",
-      "date_display": "05 Sep 21:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Prices, since start of the year.\n\nRice: +60%\nWheat: +41%\nCotton: +34%\nRubber: +29%\nSoybeans: +25%\nWo...",
-      "description": "Prices, since start of the year.\n\nRice: +60%\nWheat: +41%\nCotton: +34%\nRubber: +29%\nSoybeans: +25%\nWool: +21%\nPalm oil: +20%\nSunflower oil: +15%\nTea: +12%\nCheese: +9%",
-      "date": "2026-09-05T21:00Z",
-      "date_display": "05 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBren...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +155%\nHeating oil: +114%\nGasoline: +87%\nBrent crude: +59%\nUS crude oil: +59%\nCoal: +39%",
-      "date": "2026-09-05T20:50Z",
-      "date_display": "05 Sep 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Five dead in Israeli strikes on southern Lebanon",
-      "description": "<b>BREAKING:</b> Five dead in Israeli strikes on southern Lebanon",
-      "date": "2026-09-05T10:14Z",
-      "date_display": "05 Sep 10:14 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

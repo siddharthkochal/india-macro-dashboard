@@ -1,17 +1,73 @@
 {
-  "fetched_at": "2026-09-09T05:02Z",
+  "fetched_at": "2026-09-10T05:05Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 28,
+  "india_relevant_items": 27,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": false,
+    "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices rise by over 2%, with Brent crude now trading at $99 and US crude at $94. https://t.co/Il..."
+    "latest_oil_headline": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs"
   },
   "india_headlines": [
+    {
+      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
+      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
+      "date": "2026-09-10T02:30Z",
+      "date_display": "10 Sep 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says the Strait of Hormuz should be renamed after him. https://t.co/bl6p7EhTSq",
+      "description": "Trump says the Strait of Hormuz should be renamed after him. https://t.co/bl6p7EhTSq",
+      "date": "2026-09-10T02:10Z",
+      "date_display": "10 Sep 02:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iranian state media reports blasts on Qeshm Island",
+      "description": "<b>BREAKING:</b> Iranian state media reports blasts on Qeshm Island",
+      "date": "2026-09-09T21:22Z",
+      "date_display": "09 Sep 21:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts across several parts of southern Iran",
+      "description": "<b>BREAKING:</b> Blasts across several parts of southern Iran",
+      "date": "2026-09-09T21:22Z",
+      "date_display": "09 Sep 21:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices up almost 4%, with US crude oil trading at $96.6 and Brent crude at $101.5....",
+      "description": "<b>BREAKING:</b> Oil prices up almost 4%, with US crude oil trading at $96.6 and Brent crude at $101.5.",
+      "date": "2026-09-09T21:00Z",
+      "date_display": "09 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +181%\nHeating oil: +126%\nGasoline: +88%\nBren...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +181%\nHeating oil: +126%\nGasoline: +88%\nBrent crude: +67%\nUS crude oil: +67%\nCoal: +37%",
+      "date": "2026-09-09T21:00Z",
+      "date_display": "09 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil price hits $100 for first time since 23rd of July",
+      "description": "<b>BREAKING:</b> Brent crude oil price hits $100 for first time since 23rd of July",
+      "date": "2026-09-09T08:00Z",
+      "date_display": "09 Sep 08:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Jordan's military says Iran launched 20 ballistic missiles towards its territory, 18 of which were i...",
       "description": "Jordan's military says Iran launched 20 ballistic missiles towards its territory, 18 of which were intercepted and 2 of which landed in remote areas. https://t.co/eaFvh8SqDL",
@@ -115,65 +171,97 @@
       "date_display": "07 Sep 22:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $97 https://t.co/IFQ9Sht0EA",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $97 https://t.co/IFQ9Sht0EA",
-      "date": "2026-09-07T20:50Z",
-      "date_display": "07 Sep 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇯🇵 Japan's yen is trading at its strongest against the US Dollar since February, as expe...",
-      "description": "<b>BREAKING:</b> 🇯🇵 Japan's yen is trading at its strongest against the US Dollar since February, as expectations grow that the Bank of Japan will raise interest rates.",
-      "date": "2026-09-07T09:10Z",
-      "date_display": "07 Sep 09:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Nepal-China flood death toll reaches 1,385 with over 5,515 people missing.",
-      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,385 with over 5,515 people missing.",
-      "date": "2026-09-07T02:40Z",
-      "date_display": "07 Sep 02:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Japan's foreign reserves fell by a record $79.6 billion in August, to the lowest level sin...",
-      "description": "<b>BREAKING:</b> Japan's foreign reserves fell by a record $79.6 billion in August, to the lowest level since 2022.\n\nThis comes as the country has launched massive Yen-purchasing initiatives to strengthen the weakening currency against the US Dollar. https://t.co/8ULdzVzJU8",
-      "date": "2026-09-07T01:30Z",
-      "date_display": "07 Sep 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 US Crude Oil prices are now up 31% since the start of July. https://t.co/saZqv1q9Qz",
-      "description": "🇺🇸 US Crude Oil prices are now up 31% since the start of July. https://t.co/saZqv1q9Qz",
-      "date": "2026-09-06T21:10Z",
-      "date_display": "06 Sep 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Iran's Speaker of Parliament says that the United States needs to realize that the 'rules of the gam...",
-      "description": "Iran's Speaker of Parliament says that the United States needs to realize that the 'rules of the game have changed'. https://t.co/XFBfbYXA9x",
-      "date": "2026-09-06T10:21Z",
-      "date_display": "06 Sep 10:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destr...",
-      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards claim to have targeted a US aircraft carrier and a naval destroyer with missiles.",
-      "date": "2026-09-05T23:40Z",
-      "date_display": "05 Sep 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "The Spectator Index | The Index Briefing\n\nWebsite: https://t.co/Onr7xPHH6R\nNewsletter subscription: ...",
+      "description": "The Spectator Index | The Index Briefing\n\nWebsite: https://t.co/Onr7xPHH6R\nNewsletter subscription: https://t.co/qyEP94uIet\nInstagram: https://t.co/TyIBKVpoDm\nYouTube: https://t.co/k1N0sweXOO\nTikTok: https://t.co/we1eXhYEFB https://t.co/S5tn7KQkWZ",
+      "date": "2026-09-10T04:40Z",
+      "date_display": "10 Sep 04:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
+      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
+      "date": "2026-09-10T02:30Z",
+      "date_display": "10 Sep 02:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Trump says the Strait of Hormuz should be renamed after him. https://t.co/bl6p7EhTSq",
+      "description": "Trump says the Strait of Hormuz should be renamed after him. https://t.co/bl6p7EhTSq",
+      "date": "2026-09-10T02:10Z",
+      "date_display": "10 Sep 02:10 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US 10-year government bond yields have risen to the highest since October, 2023. https://t...",
+      "description": "<b>BREAKING:</b> US 10-year government bond yields have risen to the highest since October, 2023. https://t.co/Psu3BxfmC2",
+      "date": "2026-09-09T21:50Z",
+      "date_display": "09 Sep 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iranian state media reports blasts on Qeshm Island",
+      "description": "<b>BREAKING:</b> Iranian state media reports blasts on Qeshm Island",
+      "date": "2026-09-09T21:22Z",
+      "date_display": "09 Sep 21:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blasts across several parts of southern Iran",
+      "description": "<b>BREAKING:</b> Blasts across several parts of southern Iran",
+      "date": "2026-09-09T21:22Z",
+      "date_display": "09 Sep 21:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices up almost 4%, with US crude oil trading at $96.6 and Brent crude at $101.5....",
+      "description": "<b>BREAKING:</b> Oil prices up almost 4%, with US crude oil trading at $96.6 and Brent crude at $101.5.",
+      "date": "2026-09-09T21:00Z",
+      "date_display": "09 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +181%\nHeating oil: +126%\nGasoline: +88%\nBren...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +181%\nHeating oil: +126%\nGasoline: +88%\nBrent crude: +67%\nUS crude oil: +67%\nCoal: +37%",
+      "date": "2026-09-09T21:00Z",
+      "date_display": "09 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇯🇵 Japan's shrinking population. https://t.co/AWCQ5vDwga",
+      "description": "🇯🇵 Japan's shrinking population. https://t.co/AWCQ5vDwga",
+      "date": "2026-09-09T09:40Z",
+      "date_display": "09 Sep 09:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Brent crude oil price hits $100 for first time since 23rd of July",
+      "description": "<b>BREAKING:</b> Brent crude oil price hits $100 for first time since 23rd of July",
+      "date": "2026-09-09T08:00Z",
+      "date_display": "09 Sep 08:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israel has given 30 days notice for the closure of the British consulate in East Jerusalem...",
+      "description": "<b>BREAKING:</b> Israel has given 30 days notice for the closure of the British consulate in East Jerusalem, amid worsening relations between the countries, according to Reuters report.",
+      "date": "2026-09-09T06:00Z",
+      "date_display": "09 Sep 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "Jordan's military says Iran launched 20 ballistic missiles towards its territory, 18 of which were i...",
       "description": "Jordan's military says Iran launched 20 ballistic missiles towards its territory, 18 of which were intercepted and 2 of which landed in remote areas. https://t.co/eaFvh8SqDL",
@@ -324,94 +412,6 @@
       "date": "2026-09-07T21:21Z",
       "date_display": "07 Sep 21:21 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Israel's National Security Minister Itamar Ben Gvir calls on PM Netanyahu to recognize the Falkland ...",
-      "description": "Israel's National Security Minister Itamar Ben Gvir calls on PM Netanyahu to recognize the Falkland Islands as Argentinian territory and condemns British 'occupation'. https://t.co/clZz4m9ZLO",
-      "date": "2026-09-07T21:10Z",
-      "date_display": "07 Sep 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 Gasoline prices in the United States are at a record high for a Labor Day, with the national av...",
-      "description": "🇺🇸 Gasoline prices in the United States are at a record high for a Labor Day, with the national average currently at $4.15.",
-      "date": "2026-09-07T21:00Z",
-      "date_display": "07 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $97 https://t.co/IFQ9Sht0EA",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $97 https://t.co/IFQ9Sht0EA",
-      "date": "2026-09-07T20:50Z",
-      "date_display": "07 Sep 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Jaguar Land Rover set to cut 4,000 jobs over the next two years",
-      "description": "<b>BREAKING:</b> Jaguar Land Rover set to cut 4,000 jobs over the next two years",
-      "date": "2026-09-07T09:40Z",
-      "date_display": "07 Sep 09:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇬🇧 The United Kingdom has had seven Prime Ministers in 10 years. https://t.co/nOysr0d5RQ",
-      "description": "🇬🇧 The United Kingdom has had seven Prime Ministers in 10 years. https://t.co/nOysr0d5RQ",
-      "date": "2026-09-07T09:40Z",
-      "date_display": "07 Sep 09:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇯🇵 Japan's yen is trading at its strongest against the US Dollar since February, as expe...",
-      "description": "<b>BREAKING:</b> 🇯🇵 Japan's yen is trading at its strongest against the US Dollar since February, as expectations grow that the Bank of Japan will raise interest rates.",
-      "date": "2026-09-07T09:10Z",
-      "date_display": "07 Sep 09:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Jakarta airport will remain close until at least later today, leaving over 170,000 travellers strand...",
-      "description": "Jakarta airport will remain close until at least later today, leaving over 170,000 travellers stranded, amid eruptions at Mount ⁠Anak Krakatau. https://t.co/elgqb2Bg76",
-      "date": "2026-09-07T03:10Z",
-      "date_display": "07 Sep 03:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Nepal-China flood death toll reaches 1,385 with over 5,515 people missing.",
-      "description": "<b>BREAKING:</b> Nepal-China flood death toll reaches 1,385 with over 5,515 people missing.",
-      "date": "2026-09-07T02:40Z",
-      "date_display": "07 Sep 02:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Japan's foreign reserves fell by a record $79.6 billion in August, to the lowest level sin...",
-      "description": "<b>BREAKING:</b> Japan's foreign reserves fell by a record $79.6 billion in August, to the lowest level since 2022.\n\nThis comes as the country has launched massive Yen-purchasing initiatives to strengthen the weakening currency against the US Dollar. https://t.co/8ULdzVzJU8",
-      "date": "2026-09-07T01:30Z",
-      "date_display": "07 Sep 01:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Nike's market value has fallen by around 80% since its 2021 peak, taking its valuation from about $2...",
-      "description": "Nike's market value has fallen by around 80% since its 2021 peak, taking its valuation from about $280 billion to $57 billion.\n\nThis has been caused by reducing ties with retailers and relying on direct-to-consumer selling, as well as reduced innovation and increased competition. https://t.co/sVR9oQ7IYA",
-      "date": "2026-09-06T23:50Z",
-      "date_display": "06 Sep 23:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Five people killed after Amazon cargo plane crashed at Miami airport",
-      "description": "<b>BREAKING:</b> Five people killed after Amazon cargo plane crashed at Miami airport",
-      "date": "2026-09-06T21:40Z",
-      "date_display": "06 Sep 21:40 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

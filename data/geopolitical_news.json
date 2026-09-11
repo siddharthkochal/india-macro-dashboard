@@ -1,17 +1,89 @@
 {
-  "fetched_at": "2026-09-10T05:05Z",
+  "fetched_at": "2026-09-11T05:01Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 27,
+  "india_relevant_items": 32,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "up",
-    "latest_oil_headline": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs"
+    "price_direction": "down",
+    "latest_oil_headline": "BREAKING: Brent crude oil price hits $109 for first time since May"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Brent crude oil price hits $109 for first time since May",
+      "description": "<b>BREAKING:</b> Brent crude oil price hits $109 for first time since May",
+      "date": "2026-09-11T04:00Z",
+      "date_display": "11 Sep 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +192%\nHeating oil: +142%\nGasoline: +100%\nBre...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +192%\nHeating oil: +142%\nGasoline: +100%\nBrent crude: +81%\nUS crude oil: +79%\nCoal: +37%",
+      "date": "2026-09-10T21:40Z",
+      "date_display": "10 Sep 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Two vessels attacked near Strait of Hormuz, according to United Kingdom Maritime Trade Ope...",
+      "description": "<b>BREAKING:</b> Two vessels attacked near Strait of Hormuz, according to United Kingdom Maritime Trade Operations (UKMTO).",
+      "date": "2026-09-10T21:30Z",
+      "date_display": "10 Sep 21:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The US crude oil price has now risen by 81% compared with the 1st of January, 2026. https://t.co/DMw...",
+      "description": "The US crude oil price has now risen by 81% compared with the 1st of January, 2026. https://t.co/DMwZhzfSXx",
+      "date": "2026-09-10T21:00Z",
+      "date_display": "10 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Today has been a big day for the US economy.\n\nUS government 10-year bond yield rose to 4.96%\n\nUS cru...",
+      "description": "Today has been a big day for the US economy.\n\nUS government 10-year bond yield rose to 4.96%\n\nUS crude oil price surged by 8% to $104\n\nUS national average diesel price hit $6 for the first time https://t.co/XQoKcqN7HA",
+      "date": "2026-09-10T21:00Z",
+      "date_display": "10 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil price hits $104, the highest since the 19th of May.",
+      "description": "<b>BREAKING:</b> US crude oil price hits $104, the highest since the 19th of May.",
+      "date": "2026-09-10T20:50Z",
+      "date_display": "10 Sep 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices surge by 7%",
+      "description": "<b>BREAKING:</b> Oil prices surge by 7%",
+      "date": "2026-09-10T20:22Z",
+      "date_display": "10 Sep 20:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $108 https://t.co/k98QICQdqb",
+      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $108 https://t.co/k98QICQdqb",
+      "date": "2026-09-10T20:22Z",
+      "date_display": "10 Sep 20:22 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are now trading at the highest prices since May.\n\nUS crude is at $96 and Brent crude is a...",
+      "description": "Oil prices are now trading at the highest prices since May.\n\nUS crude is at $96 and Brent crude is at $101.",
+      "date": "2026-09-10T04:50Z",
+      "date_display": "10 Sep 04:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
       "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
@@ -99,81 +171,105 @@
       "date_display": "08 Sep 21:30 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices rise by over 2%, with Brent crude now trading at $99 and US crude at $94. https://t.co/Il...",
-      "description": "Oil prices rise by over 2%, with Brent crude now trading at $99 and US crude at $94. https://t.co/Il7eLBfKZi",
-      "date": "2026-09-08T20:21Z",
-      "date_display": "08 Sep 20:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran's Revolutionary Guards warn of imminent attacks on oil tankers near Bahrain and Kuwai...",
-      "description": "<b>BREAKING:</b> Iran's Revolutionary Guards warn of imminent attacks on oil tankers near Bahrain and Kuwait",
-      "date": "2026-09-08T20:10Z",
-      "date_display": "08 Sep 20:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The US military has struck targets, including Iranian tankers, near Kharg Island, accordin...",
-      "description": "<b>BREAKING:</b> The US military has struck targets, including Iranian tankers, near Kharg Island, according to Fox News report.",
-      "date": "2026-09-08T19:50Z",
-      "date_display": "08 Sep 19:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Bahrain, Kuwait and Qatar condemn attacks from Yemen's Iran-backed Houthis on Saudi Arabia...",
-      "description": "<b>BREAKING:</b> Bahrain, Kuwait and Qatar condemn attacks from Yemen's Iran-backed Houthis on Saudi Arabia",
-      "date": "2026-09-08T07:50Z",
-      "date_display": "08 Sep 07:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi military says 'terrorist Houthi' attacks are a 'dangerous escalation' and that the K...",
-      "description": "<b>BREAKING:</b> Saudi military says 'terrorist Houthi' attacks are a 'dangerous escalation' and that the Kingdom will respond 'firmly'.",
-      "date": "2026-09-08T05:10Z",
-      "date_display": "08 Sep 05:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's trade surplus has widened to a massive $119 billion in August, an increase of 17% compared w...",
-      "description": "China's trade surplus has widened to a massive $119 billion in August, an increase of 17% compared with the same period last year.\n\nShipments to the United States increased by 34% compared with a year prior. https://t.co/3zSYUSRtbS",
-      "date": "2026-09-08T04:50Z",
-      "date_display": "08 Sep 04:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Canada's tariffs on American products comes in to effect",
-      "description": "<b>BREAKING:</b> Canada's tariffs on American products comes in to effect",
-      "date": "2026-09-08T04:32Z",
-      "date_display": "08 Sep 04:32 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump says that oil prices will ultimately drop to under two Dollars a gallon when 'we win...",
-      "description": "President Trump says that oil prices will ultimately drop to under two Dollars a gallon when 'we win the war with Iran'. https://t.co/LjLmWQYzKI",
-      "date": "2026-09-08T00:30Z",
-      "date_display": "08 Sep 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The UK government is set to announce a trade ban on Israeli settlements in the West Bank, ...",
-      "description": "<b>BREAKING:</b> The UK government is set to announce a trade ban on Israeli settlements in the West Bank, according to Financial Times report.",
-      "date": "2026-09-07T22:30Z",
-      "date_display": "07 Sep 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Brent crude oil price hits $109 for first time since May",
+      "description": "<b>BREAKING:</b> Brent crude oil price hits $109 for first time since May",
+      "date": "2026-09-11T04:00Z",
+      "date_display": "11 Sep 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US government 30-year bond yield rises to 5.38%, a new high since 2007.",
+      "description": "<b>BREAKING:</b> 🇺🇸 US government 30-year bond yield rises to 5.38%, a new high since 2007.",
+      "date": "2026-09-11T01:00Z",
+      "date_display": "11 Sep 01:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +192%\nHeating oil: +142%\nGasoline: +100%\nBre...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +192%\nHeating oil: +142%\nGasoline: +100%\nBrent crude: +81%\nUS crude oil: +79%\nCoal: +37%",
+      "date": "2026-09-10T21:40Z",
+      "date_display": "10 Sep 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Two vessels attacked near Strait of Hormuz, according to United Kingdom Maritime Trade Ope...",
+      "description": "<b>BREAKING:</b> Two vessels attacked near Strait of Hormuz, according to United Kingdom Maritime Trade Operations (UKMTO).",
+      "date": "2026-09-10T21:30Z",
+      "date_display": "10 Sep 21:30 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The US crude oil price has now risen by 81% compared with the 1st of January, 2026. https://t.co/DMw...",
+      "description": "The US crude oil price has now risen by 81% compared with the 1st of January, 2026. https://t.co/DMwZhzfSXx",
+      "date": "2026-09-10T21:00Z",
+      "date_display": "10 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Today has been a big day for the US economy.\n\nUS government 10-year bond yield rose to 4.96%\n\nUS cru...",
+      "description": "Today has been a big day for the US economy.\n\nUS government 10-year bond yield rose to 4.96%\n\nUS crude oil price surged by 8% to $104\n\nUS national average diesel price hit $6 for the first time https://t.co/XQoKcqN7HA",
+      "date": "2026-09-10T21:00Z",
+      "date_display": "10 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil price hits $104, the highest since the 19th of May.",
+      "description": "<b>BREAKING:</b> US crude oil price hits $104, the highest since the 19th of May.",
+      "date": "2026-09-10T20:50Z",
+      "date_display": "10 Sep 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US national average diesel price hits $6 for the first time",
+      "description": "<b>BREAKING:</b> US national average diesel price hits $6 for the first time",
+      "date": "2026-09-10T20:40Z",
+      "date_display": "10 Sep 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US government 10-year bond yield rises to 4.96%, the highest since 2023.",
+      "description": "<b>BREAKING:</b> US government 10-year bond yield rises to 4.96%, the highest since 2023.",
+      "date": "2026-09-10T20:30Z",
+      "date_display": "10 Sep 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Oil prices surge by 7%",
+      "description": "<b>BREAKING:</b> Oil prices surge by 7%",
+      "date": "2026-09-10T20:22Z",
+      "date_display": "10 Sep 20:22 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $108 https://t.co/k98QICQdqb",
+      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $108 https://t.co/k98QICQdqb",
+      "date": "2026-09-10T20:22Z",
+      "date_display": "10 Sep 20:22 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Oil prices are now trading at the highest prices since May.\n\nUS crude is at $96 and Brent crude is a...",
+      "description": "Oil prices are now trading at the highest prices since May.\n\nUS crude is at $96 and Brent crude is at $101.",
+      "date": "2026-09-10T04:50Z",
+      "date_display": "10 Sep 04:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "The Spectator Index | The Index Briefing\n\nWebsite: https://t.co/Onr7xPHH6R\nNewsletter subscription: ...",
       "description": "The Spectator Index | The Index Briefing\n\nWebsite: https://t.co/Onr7xPHH6R\nNewsletter subscription: https://t.co/qyEP94uIet\nInstagram: https://t.co/TyIBKVpoDm\nYouTube: https://t.co/k1N0sweXOO\nTikTok: https://t.co/we1eXhYEFB https://t.co/S5tn7KQkWZ",
@@ -317,102 +413,6 @@
       "date_display": "08 Sep 20:10 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The US military has struck targets, including Iranian tankers, near Kharg Island, accordin...",
-      "description": "<b>BREAKING:</b> The US military has struck targets, including Iranian tankers, near Kharg Island, according to Fox News report.",
-      "date": "2026-09-08T19:50Z",
-      "date_display": "08 Sep 19:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇸🇬 The salary of Singapore's Prime Minister, already the highest paid leader in the world, is set ...",
-      "description": "🇸🇬 The salary of Singapore's Prime Minister, already the highest paid leader in the world, is set to increase from $1.7 million to $2.8 million a year, after an independent review.\n\nPrime Minister Lawrence Wong says that for the next five years he will donate the increase to charity.",
-      "date": "2026-09-08T10:22Z",
-      "date_display": "08 Sep 10:22 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Bahrain, Kuwait and Qatar condemn attacks from Yemen's Iran-backed Houthis on Saudi Arabia...",
-      "description": "<b>BREAKING:</b> Bahrain, Kuwait and Qatar condemn attacks from Yemen's Iran-backed Houthis on Saudi Arabia",
-      "date": "2026-09-08T07:50Z",
-      "date_display": "08 Sep 07:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Philippines reports unemployment rate of 6%, the highest since 2022. https://t.co/xCiKhSt2JS",
-      "description": "The Philippines reports unemployment rate of 6%, the highest since 2022. https://t.co/xCiKhSt2JS",
-      "date": "2026-09-08T06:00Z",
-      "date_display": "08 Sep 06:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Saudi military says 'terrorist Houthi' attacks are a 'dangerous escalation' and that the K...",
-      "description": "<b>BREAKING:</b> Saudi military says 'terrorist Houthi' attacks are a 'dangerous escalation' and that the Kingdom will respond 'firmly'.",
-      "date": "2026-09-08T05:10Z",
-      "date_display": "08 Sep 05:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's trade surplus has widened to a massive $119 billion in August, an increase of 17% compared w...",
-      "description": "China's trade surplus has widened to a massive $119 billion in August, an increase of 17% compared with the same period last year.\n\nShipments to the United States increased by 34% compared with a year prior. https://t.co/3zSYUSRtbS",
-      "date": "2026-09-08T04:50Z",
-      "date_display": "08 Sep 04:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Canada's tariffs on American products comes in to effect",
-      "description": "<b>BREAKING:</b> Canada's tariffs on American products comes in to effect",
-      "date": "2026-09-08T04:32Z",
-      "date_display": "08 Sep 04:32 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Powerful blasts heard in Kyiv, Ukraine.",
-      "description": "<b>BREAKING:</b> Powerful blasts heard in Kyiv, Ukraine.",
-      "date": "2026-09-08T00:50Z",
-      "date_display": "08 Sep 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "President Trump says that oil prices will ultimately drop to under two Dollars a gallon when 'we win...",
-      "description": "President Trump says that oil prices will ultimately drop to under two Dollars a gallon when 'we win the war with Iran'. https://t.co/LjLmWQYzKI",
-      "date": "2026-09-08T00:30Z",
-      "date_display": "08 Sep 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The UK government is set to announce a trade ban on Israeli settlements in the West Bank, ...",
-      "description": "<b>BREAKING:</b> The UK government is set to announce a trade ban on Israeli settlements in the West Bank, according to Financial Times report.",
-      "date": "2026-09-07T22:30Z",
-      "date_display": "07 Sep 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 Interest payments on the US national debt reached $763 billion in the first ten months of fisca...",
-      "description": "🇺🇸 Interest payments on the US national debt reached $763 billion in the first ten months of fiscal year 2026, an 18% increase compared with the last year.\n\nDefense spending for the same period was $728 billion. https://t.co/i7tiXVkmD0",
-      "date": "2026-09-07T22:00Z",
-      "date_display": "07 Sep 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇩🇪 Germany's industrial production fell by 1.1% month-on-month in July.\n\nNotably, the downturn cam...",
-      "description": "🇩🇪 Germany's industrial production fell by 1.1% month-on-month in July.\n\nNotably, the downturn came as automotive sector production plunged by 9.2% over the period due to temporary production shutdowns. https://t.co/mZ2KdEdkUF",
-      "date": "2026-09-07T21:21Z",
-      "date_display": "07 Sep 21:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

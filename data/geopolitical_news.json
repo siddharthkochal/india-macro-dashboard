@@ -1,17 +1,33 @@
 {
-  "fetched_at": "2026-09-12T04:53Z",
+  "fetched_at": "2026-09-13T05:13Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 37,
+  "india_relevant_items": 35,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
-    "price_direction": "down",
-    "latest_oil_headline": "US crude oil price\n\n1st of January: $57\n\nNow: $100 https://t.co/PrPkHiEF9z"
+    "price_direction": "up",
+    "latest_oil_headline": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL"
   },
   "india_headlines": [
+    {
+      "title": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
+      "description": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
+      "date": "2026-09-13T01:40Z",
+      "date_display": "13 Sep 01:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +62%\nWheat: +40%\nRubber: +39%\nCotton: +34%\nSoybeans: +25%\nWo...",
+      "description": "Prices, since start of the year.\n\nRice: +62%\nWheat: +40%\nRubber: +39%\nCotton: +34%\nSoybeans: +25%\nWool: +22%\nPalm oil: +20%\nSunflower oil: +14%\nTea: +11%\nCheese: +7%",
+      "date": "2026-09-12T20:40Z",
+      "date_display": "12 Sep 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US crude oil price\n\n1st of January: $57\n\nNow: $100 https://t.co/PrPkHiEF9z",
       "description": "US crude oil price\n\n1st of January: $57\n\nNow: $100 https://t.co/PrPkHiEF9z",
@@ -155,25 +171,57 @@
       "date_display": "10 Sep 02:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Trump says the Strait of Hormuz should be renamed after him. https://t.co/bl6p7EhTSq",
-      "description": "Trump says the Strait of Hormuz should be renamed after him. https://t.co/bl6p7EhTSq",
-      "date": "2026-09-10T02:10Z",
-      "date_display": "10 Sep 02:10 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iranian state media reports blasts on Qeshm Island",
-      "description": "<b>BREAKING:</b> Iranian state media reports blasts on Qeshm Island",
-      "date": "2026-09-09T21:22Z",
-      "date_display": "09 Sep 21:22 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "US government net interest payments.\n\n2015 fiscal year: $223 billion\n\n2025 fiscal year: $970 billion...",
+      "description": "US government net interest payments.\n\n2015 fiscal year: $223 billion\n\n2025 fiscal year: $970 billion https://t.co/ScWxmdVmW5",
+      "date": "2026-09-13T02:40Z",
+      "date_display": "13 Sep 02:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
+      "description": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
+      "date": "2026-09-13T01:40Z",
+      "date_display": "13 Sep 01:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: OpenAI CEO Sam Altman says that the company won't go public this year 'given everything ha...",
+      "description": "<b>BREAKING:</b> OpenAI CEO Sam Altman says that the company won't go public this year 'given everything happening with safety' of artificial intelligence. https://t.co/yJTiCEkuUr",
+      "date": "2026-09-12T22:30Z",
+      "date_display": "12 Sep 22:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Anthropic boss Dario Amodei, OpenAI CEO Sam Altman and xAI owner Elon Musk all agree over importance...",
+      "description": "Anthropic boss Dario Amodei, OpenAI CEO Sam Altman and xAI owner Elon Musk all agree over importance of pacing and slowing down the development of Artificial Intelligence. https://t.co/TnmOu2QUXo",
+      "date": "2026-09-12T21:10Z",
+      "date_display": "12 Sep 21:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US government debt\n\n15 years ago: $14.8 trillion\n\nNow: $40.1 trillion https://t.co/W4IzjfgZJ4",
+      "description": "US government debt\n\n15 years ago: $14.8 trillion\n\nNow: $40.1 trillion https://t.co/W4IzjfgZJ4",
+      "date": "2026-09-12T20:50Z",
+      "date_display": "12 Sep 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Prices, since start of the year.\n\nRice: +62%\nWheat: +40%\nRubber: +39%\nCotton: +34%\nSoybeans: +25%\nWo...",
+      "description": "Prices, since start of the year.\n\nRice: +62%\nWheat: +40%\nRubber: +39%\nCotton: +34%\nSoybeans: +25%\nWool: +22%\nPalm oil: +20%\nSunflower oil: +14%\nTea: +11%\nCheese: +7%",
+      "date": "2026-09-12T20:40Z",
+      "date_display": "12 Sep 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "US crude oil price\n\n1st of January: $57\n\nNow: $100 https://t.co/PrPkHiEF9z",
       "description": "US crude oil price\n\n1st of January: $57\n\nNow: $100 https://t.co/PrPkHiEF9z",
@@ -365,54 +413,6 @@
       "date_display": "10 Sep 02:10 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US 10-year government bond yields have risen to the highest since October, 2023. https://t...",
-      "description": "<b>BREAKING:</b> US 10-year government bond yields have risen to the highest since October, 2023. https://t.co/Psu3BxfmC2",
-      "date": "2026-09-09T21:50Z",
-      "date_display": "09 Sep 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iranian state media reports blasts on Qeshm Island",
-      "description": "<b>BREAKING:</b> Iranian state media reports blasts on Qeshm Island",
-      "date": "2026-09-09T21:22Z",
-      "date_display": "09 Sep 21:22 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blasts across several parts of southern Iran",
-      "description": "<b>BREAKING:</b> Blasts across several parts of southern Iran",
-      "date": "2026-09-09T21:22Z",
-      "date_display": "09 Sep 21:22 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices up almost 4%, with US crude oil trading at $96.6 and Brent crude at $101.5....",
-      "description": "<b>BREAKING:</b> Oil prices up almost 4%, with US crude oil trading at $96.6 and Brent crude at $101.5.",
-      "date": "2026-09-09T21:00Z",
-      "date_display": "09 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +181%\nHeating oil: +126%\nGasoline: +88%\nBren...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +181%\nHeating oil: +126%\nGasoline: +88%\nBrent crude: +67%\nUS crude oil: +67%\nCoal: +37%",
-      "date": "2026-09-09T21:00Z",
-      "date_display": "09 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇯🇵 Japan's shrinking population. https://t.co/AWCQ5vDwga",
-      "description": "🇯🇵 Japan's shrinking population. https://t.co/AWCQ5vDwga",
-      "date": "2026-09-09T09:40Z",
-      "date_display": "09 Sep 09:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

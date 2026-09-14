@@ -1,17 +1,25 @@
 {
-  "fetched_at": "2026-09-13T05:13Z",
+  "fetched_at": "2026-09-14T05:19Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 35,
+  "india_relevant_items": 33,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL"
+    "latest_oil_headline": "BREAKING: Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
+      "description": "<b>BREAKING:</b> Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
+      "date": "2026-09-13T22:10Z",
+      "date_display": "13 Sep 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
       "description": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
@@ -163,17 +171,49 @@
       "date_display": "10 Sep 04:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
-      "date": "2026-09-10T02:30Z",
-      "date_display": "10 Sep 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Indonesian rescuers are searching for 129 people missing after ship sunk in the Java Sea...",
+      "description": "<b>BREAKING:</b> Indonesian rescuers are searching for 129 people missing after ship sunk in the Java Sea",
+      "date": "2026-09-14T02:50Z",
+      "date_display": "14 Sep 02:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Share price of Japanese tech investment giant SoftBank plunges by 12% as calls grow to slo...",
+      "description": "<b>BREAKING:</b> Share price of Japanese tech investment giant SoftBank plunges by 12% as calls grow to slow down development of AI. https://t.co/PyA2rUuAnK",
+      "date": "2026-09-14T00:50Z",
+      "date_display": "14 Sep 00:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
+      "description": "<b>BREAKING:</b> Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
+      "date": "2026-09-13T22:10Z",
+      "date_display": "13 Sep 22:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Germany's share of global GDP (purchasing power parity)\n\n1980: 6.98%\n\n2026: 2.88%\n\n(IMF) https://t.c...",
+      "description": "Germany's share of global GDP (purchasing power parity)\n\n1980: 6.98%\n\n2026: 2.88%\n\n(IMF) https://t.co/Pw4V62EUfk",
+      "date": "2026-09-13T20:40Z",
+      "date_display": "13 Sep 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Sweden's centre-left opposition bloc projected by country's public broadcaster to have 175...",
+      "description": "<b>BREAKING:</b> Sweden's centre-left opposition bloc projected by country's public broadcaster to have 175 seats in new parliament, compared to 174 for incumbent government. https://t.co/ndie7LbBpO",
+      "date": "2026-09-13T20:30Z",
+      "date_display": "13 Sep 20:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "US government net interest payments.\n\n2015 fiscal year: $223 billion\n\n2025 fiscal year: $970 billion...",
       "description": "US government net interest payments.\n\n2015 fiscal year: $223 billion\n\n2025 fiscal year: $970 billion https://t.co/ScWxmdVmW5",
@@ -372,46 +412,6 @@
       "date": "2026-09-10T20:22Z",
       "date_display": "10 Sep 20:22 UTC",
       "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $108 https://t.co/k98QICQdqb",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $108 https://t.co/k98QICQdqb",
-      "date": "2026-09-10T20:22Z",
-      "date_display": "10 Sep 20:22 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are now trading at the highest prices since May.\n\nUS crude is at $96 and Brent crude is a...",
-      "description": "Oil prices are now trading at the highest prices since May.\n\nUS crude is at $96 and Brent crude is at $101.",
-      "date": "2026-09-10T04:50Z",
-      "date_display": "10 Sep 04:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Spectator Index | The Index Briefing\n\nWebsite: https://t.co/Onr7xPHH6R\nNewsletter subscription: ...",
-      "description": "The Spectator Index | The Index Briefing\n\nWebsite: https://t.co/Onr7xPHH6R\nNewsletter subscription: https://t.co/qyEP94uIet\nInstagram: https://t.co/TyIBKVpoDm\nYouTube: https://t.co/k1N0sweXOO\nTikTok: https://t.co/we1eXhYEFB https://t.co/S5tn7KQkWZ",
-      "date": "2026-09-10T04:40Z",
-      "date_display": "10 Sep 04:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $101 https://t.co/y2ve4aaFDs",
-      "date": "2026-09-10T02:30Z",
-      "date_display": "10 Sep 02:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Trump says the Strait of Hormuz should be renamed after him. https://t.co/bl6p7EhTSq",
-      "description": "Trump says the Strait of Hormuz should be renamed after him. https://t.co/bl6p7EhTSq",
-      "date": "2026-09-10T02:10Z",
-      "date_display": "10 Sep 02:10 UTC",
-      "severity": "critical",
       "is_india_relevant": true
     }
   ]

@@ -1,17 +1,33 @@
 {
-  "fetched_at": "2026-09-14T05:19Z",
+  "fetched_at": "2026-09-15T05:10Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 33,
+  "india_relevant_items": 24,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5."
+    "latest_oil_headline": "BREAKING: Brent crude oil prices up 3%, now trading at $108."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Reports of Ukrainian attack on oil refinery in southwestern Russia",
+      "description": "<b>BREAKING:</b> Reports of Ukrainian attack on oil refinery in southwestern Russia",
+      "date": "2026-09-14T23:40Z",
+      "date_display": "14 Sep 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil prices up 3%, now trading at $108.",
+      "description": "<b>BREAKING:</b> Brent crude oil prices up 3%, now trading at $108.",
+      "date": "2026-09-14T08:50Z",
+      "date_display": "14 Sep 08:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
       "description": "<b>BREAKING:</b> Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
@@ -155,25 +171,129 @@
       "date_display": "10 Sep 20:22 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $108 https://t.co/k98QICQdqb",
-      "description": "Brent crude oil price\n\n1st of January: $60.7\n\nNow: $108 https://t.co/k98QICQdqb",
-      "date": "2026-09-10T20:22Z",
-      "date_display": "10 Sep 20:22 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices are now trading at the highest prices since May.\n\nUS crude is at $96 and Brent crude is a...",
-      "description": "Oil prices are now trading at the highest prices since May.\n\nUS crude is at $96 and Brent crude is at $101.",
-      "date": "2026-09-10T04:50Z",
-      "date_display": "10 Sep 04:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Malaysia now accounts for 13% of the global market in semiconductor packaging, assembly and testing,...",
+      "description": "Malaysia now accounts for 13% of the global market in semiconductor packaging, assembly and testing, according to the Malaysian Investment Development Authority. https://t.co/r266SKuyIZ",
+      "date": "2026-09-15T03:50Z",
+      "date_display": "15 Sep 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Copper price\n\nOne year ago: $4.53\n\nNow: $6.33 https://t.co/2NRHWjcG9J",
+      "description": "Copper price\n\nOne year ago: $4.53\n\nNow: $6.33 https://t.co/2NRHWjcG9J",
+      "date": "2026-09-15T03:30Z",
+      "date_display": "15 Sep 03:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇺🇸 President Trump approval rating\n\nApprove: 35%\nDisapprove: 62%\n\n(Reuters/Ipsos) https://t.co/4iy...",
+      "description": "🇺🇸 President Trump approval rating\n\nApprove: 35%\nDisapprove: 62%\n\n(Reuters/Ipsos) https://t.co/4iyOGZ5GvD",
+      "date": "2026-09-15T03:10Z",
+      "date_display": "15 Sep 03:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Reports of Ukrainian attack on oil refinery in southwestern Russia",
+      "description": "<b>BREAKING:</b> Reports of Ukrainian attack on oil refinery in southwestern Russia",
+      "date": "2026-09-14T23:40Z",
+      "date_display": "14 Sep 23:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 84-year old US Senator Mitch McConnell appears publicly for first time in three months and...",
+      "description": "<b>BREAKING:</b> 84-year old US Senator Mitch McConnell appears publicly for first time in three months and is now heading to vote in the Senate. https://t.co/eb8ThrCkvH",
+      "date": "2026-09-14T22:20Z",
+      "date_display": "14 Sep 22:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "German Natural Gas price.\n\n1st of January: $30\n\nNow: $84 https://t.co/mmL3G5aOxO",
+      "description": "German Natural Gas price.\n\n1st of January: $30\n\nNow: $84 https://t.co/mmL3G5aOxO",
+      "date": "2026-09-14T21:20Z",
+      "date_display": "14 Sep 21:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Democratic Party now has a 86% chance of winning the US House of Representatives, according to p...",
+      "description": "The Democratic Party now has a 86% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/xigtKoSjF1",
+      "date": "2026-09-14T20:50Z",
+      "date_display": "14 Sep 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Former Vice President Kamala Harris says that 'a slowdown is critical in order to ensure AI serves t...",
+      "description": "Former Vice President Kamala Harris says that 'a slowdown is critical in order to ensure AI serves the public interest'. https://t.co/cIKUJMTjhQ",
+      "date": "2026-09-14T20:50Z",
+      "date_display": "14 Sep 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇺🇸 President Trump approval rating\n\nApprove: 35%\nDisapprove: 63%\n\n(CNN Poll of Polls) https://t.co...",
+      "description": "🇺🇸 President Trump approval rating\n\nApprove: 35%\nDisapprove: 63%\n\n(CNN Poll of Polls) https://t.co/nye6X15aAZ",
+      "date": "2026-09-14T20:30Z",
+      "date_display": "14 Sep 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US national average diesel price hits $6.23 a gallon. https://t.co/DogKJlqNYY",
+      "description": "US national average diesel price hits $6.23 a gallon. https://t.co/DogKJlqNYY",
+      "date": "2026-09-14T20:21Z",
+      "date_display": "14 Sep 20:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "NVIDIA share price down 4% amid calls to slow down AI development. https://t.co/e9SYMHTmto",
+      "description": "NVIDIA share price down 4% amid calls to slow down AI development. https://t.co/e9SYMHTmto",
+      "date": "2026-09-14T13:40Z",
+      "date_display": "14 Sep 13:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US government 10-year bond yield hits 4.99%, the highest since 2007.",
+      "description": "<b>BREAKING:</b> US government 10-year bond yield hits 4.99%, the highest since 2007.",
+      "date": "2026-09-14T13:30Z",
+      "date_display": "14 Sep 13:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇺🇸 President Trump approval rating\n\nApprove: 39%\nDisapprove: 61%\n\n(CBS News) https://t.co/dNqQS1x8...",
+      "description": "🇺🇸 President Trump approval rating\n\nApprove: 39%\nDisapprove: 61%\n\n(CBS News) https://t.co/dNqQS1x85X",
+      "date": "2026-09-14T13:00Z",
+      "date_display": "14 Sep 13:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "European Natural Gas price.\n\n1st of January: $28\n\nNow: $83 https://t.co/ubRGoFZUU3",
+      "description": "European Natural Gas price.\n\n1st of January: $28\n\nNow: $83 https://t.co/ubRGoFZUU3",
+      "date": "2026-09-14T10:40Z",
+      "date_display": "14 Sep 10:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Brent crude oil prices up 3%, now trading at $108.",
+      "description": "<b>BREAKING:</b> Brent crude oil prices up 3%, now trading at $108.",
+      "date": "2026-09-14T08:50Z",
+      "date_display": "14 Sep 08:50 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Indonesian rescuers are searching for 129 people missing after ship sunk in the Java Sea...",
       "description": "<b>BREAKING:</b> Indonesian rescuers are searching for 129 people missing after ship sunk in the Java Sea",
@@ -291,126 +411,6 @@
       "description": "<b>BREAKING:</b> Saudi Arabia says  drone attack that targeted the key East-West oil pipeline came from Iraq",
       "date": "2026-09-11T21:00Z",
       "date_display": "11 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: President Trump says $5,000 dividend payment will happen https://t.co/S2VcqVL870",
-      "description": "<b>BREAKING:</b> President Trump says $5,000 dividend payment will happen https://t.co/S2VcqVL870",
-      "date": "2026-09-11T19:21Z",
-      "date_display": "11 Sep 19:21 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Chances of 🇺🇸 US Federal Reserve hiking rates by 25 basis points has surged to 81%, according to @...",
-      "description": "Chances of 🇺🇸 US Federal Reserve hiking rates by 25 basis points has surged to 81%, according to @Kalshi prediction market. https://t.co/EajzuUe6ZZ",
-      "date": "2026-09-11T19:00Z",
-      "date_display": "11 Sep 19:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia shuts down key East-West oil pipeline as a precautionary measure",
-      "description": "<b>BREAKING:</b> Saudi Arabia shuts down key East-West oil pipeline as a precautionary measure",
-      "date": "2026-09-11T18:40Z",
-      "date_display": "11 Sep 18:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "CNN reports that Saudi Arabia's key East-West oil pipeline was 'struck by projectiles' yesterday wit...",
-      "description": "CNN reports that Saudi Arabia's key East-West oil pipeline was 'struck by projectiles' yesterday with satellites detecting 'nine large fires' burning close to it.",
-      "date": "2026-09-11T18:30Z",
-      "date_display": "11 Sep 18:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Yemen's Iran-backed Houthis have taken control of the Bab al-Mandab area.",
-      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis have taken control of the Bab al-Mandab area.",
-      "date": "2026-09-11T09:21Z",
-      "date_display": "11 Sep 09:21 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil price hits $109 for first time since May",
-      "description": "<b>BREAKING:</b> Brent crude oil price hits $109 for first time since May",
-      "date": "2026-09-11T04:00Z",
-      "date_display": "11 Sep 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇺🇸 US government 30-year bond yield rises to 5.38%, a new high since 2007.",
-      "description": "<b>BREAKING:</b> 🇺🇸 US government 30-year bond yield rises to 5.38%, a new high since 2007.",
-      "date": "2026-09-11T01:00Z",
-      "date_display": "11 Sep 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +192%\nHeating oil: +142%\nGasoline: +100%\nBre...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +192%\nHeating oil: +142%\nGasoline: +100%\nBrent crude: +81%\nUS crude oil: +79%\nCoal: +37%",
-      "date": "2026-09-10T21:40Z",
-      "date_display": "10 Sep 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Two vessels attacked near Strait of Hormuz, according to United Kingdom Maritime Trade Ope...",
-      "description": "<b>BREAKING:</b> Two vessels attacked near Strait of Hormuz, according to United Kingdom Maritime Trade Operations (UKMTO).",
-      "date": "2026-09-10T21:30Z",
-      "date_display": "10 Sep 21:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US crude oil price has now risen by 81% compared with the 1st of January, 2026. https://t.co/DMw...",
-      "description": "The US crude oil price has now risen by 81% compared with the 1st of January, 2026. https://t.co/DMwZhzfSXx",
-      "date": "2026-09-10T21:00Z",
-      "date_display": "10 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Today has been a big day for the US economy.\n\nUS government 10-year bond yield rose to 4.96%\n\nUS cru...",
-      "description": "Today has been a big day for the US economy.\n\nUS government 10-year bond yield rose to 4.96%\n\nUS crude oil price surged by 8% to $104\n\nUS national average diesel price hit $6 for the first time https://t.co/XQoKcqN7HA",
-      "date": "2026-09-10T21:00Z",
-      "date_display": "10 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price hits $104, the highest since the 19th of May.",
-      "description": "<b>BREAKING:</b> US crude oil price hits $104, the highest since the 19th of May.",
-      "date": "2026-09-10T20:50Z",
-      "date_display": "10 Sep 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US national average diesel price hits $6 for the first time",
-      "description": "<b>BREAKING:</b> US national average diesel price hits $6 for the first time",
-      "date": "2026-09-10T20:40Z",
-      "date_display": "10 Sep 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US government 10-year bond yield rises to 4.96%, the highest since 2023.",
-      "description": "<b>BREAKING:</b> US government 10-year bond yield rises to 4.96%, the highest since 2023.",
-      "date": "2026-09-10T20:30Z",
-      "date_display": "10 Sep 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Oil prices surge by 7%",
-      "description": "<b>BREAKING:</b> Oil prices surge by 7%",
-      "date": "2026-09-10T20:22Z",
-      "date_display": "10 Sep 20:22 UTC",
       "severity": "high",
       "is_india_relevant": true
     }

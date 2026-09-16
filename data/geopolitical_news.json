@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-09-15T05:10Z",
+  "fetched_at": "2026-09-16T05:06Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 24,
+  "india_relevant_items": 22,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Brent crude oil prices up 3%, now trading at $108."
+    "latest_oil_headline": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im"
   },
   "india_headlines": [
+    {
+      "title": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressiona...",
+      "description": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressional Budget Office. https://t.co/0YupjuI9yQ",
+      "date": "2026-09-16T00:30Z",
+      "date_display": "16 Sep 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi Arabia destroys drone launched by Houthis that was entering airspace in the Mecca re...",
+      "description": "<b>BREAKING:</b> Saudi Arabia destroys drone launched by Houthis that was entering airspace in the Mecca region",
+      "date": "2026-09-16T00:00Z",
+      "date_display": "16 Sep 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Blast reported in Erbil, northern Iraq.",
+      "description": "<b>BREAKING:</b> Blast reported in Erbil, northern Iraq.",
+      "date": "2026-09-15T21:00Z",
+      "date_display": "15 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im",
+      "description": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im",
+      "date": "2026-09-15T20:40Z",
+      "date_display": "15 Sep 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Bloomberg reports that President Trump and his 'money managers' have made 'nearly 28,700 trades in t...",
+      "description": "Bloomberg reports that President Trump and his 'money managers' have made 'nearly 28,700 trades in the 17 months between his second inauguration and the end of June', more stock trades than all members of Congress combined for the same period. https://t.co/7knMrWQHtK",
+      "date": "2026-09-15T20:30Z",
+      "date_display": "15 Sep 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil up 5%, trading at $106.",
+      "description": "<b>BREAKING:</b> US crude oil up 5%, trading at $106.",
+      "date": "2026-09-15T20:10Z",
+      "date_display": "15 Sep 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Reports of Ukrainian attack on oil refinery in southwestern Russia",
       "description": "<b>BREAKING:</b> Reports of Ukrainian attack on oil refinery in southwestern Russia",
@@ -123,57 +171,97 @@
       "date_display": "11 Sep 04:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +192%\nHeating oil: +142%\nGasoline: +100%\nBre...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +192%\nHeating oil: +142%\nGasoline: +100%\nBrent crude: +81%\nUS crude oil: +79%\nCoal: +37%",
-      "date": "2026-09-10T21:40Z",
-      "date_display": "10 Sep 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Two vessels attacked near Strait of Hormuz, according to United Kingdom Maritime Trade Ope...",
-      "description": "<b>BREAKING:</b> Two vessels attacked near Strait of Hormuz, according to United Kingdom Maritime Trade Operations (UKMTO).",
-      "date": "2026-09-10T21:30Z",
-      "date_display": "10 Sep 21:30 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The US crude oil price has now risen by 81% compared with the 1st of January, 2026. https://t.co/DMw...",
-      "description": "The US crude oil price has now risen by 81% compared with the 1st of January, 2026. https://t.co/DMwZhzfSXx",
-      "date": "2026-09-10T21:00Z",
-      "date_display": "10 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Today has been a big day for the US economy.\n\nUS government 10-year bond yield rose to 4.96%\n\nUS cru...",
-      "description": "Today has been a big day for the US economy.\n\nUS government 10-year bond yield rose to 4.96%\n\nUS crude oil price surged by 8% to $104\n\nUS national average diesel price hit $6 for the first time https://t.co/XQoKcqN7HA",
-      "date": "2026-09-10T21:00Z",
-      "date_display": "10 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil price hits $104, the highest since the 19th of May.",
-      "description": "<b>BREAKING:</b> US crude oil price hits $104, the highest since the 19th of May.",
-      "date": "2026-09-10T20:50Z",
-      "date_display": "10 Sep 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices surge by 7%",
-      "description": "<b>BREAKING:</b> Oil prices surge by 7%",
-      "date": "2026-09-10T20:22Z",
-      "date_display": "10 Sep 20:22 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Cover of new edition of TIME magazine. https://t.co/iBy55wiz6n",
+      "description": "Cover of new edition of TIME magazine. https://t.co/iBy55wiz6n",
+      "date": "2026-09-16T03:00Z",
+      "date_display": "16 Sep 03:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Japan's exports in August rose by 19% compared with the year prior, driven by increased exports of m...",
+      "description": "Japan's exports in August rose by 19% compared with the year prior, driven by increased exports of machinery, electrical and semiconductor goods. https://t.co/9RVVRkuLTi",
+      "date": "2026-09-16T01:26Z",
+      "date_display": "16 Sep 01:26 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressiona...",
+      "description": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressional Budget Office. https://t.co/0YupjuI9yQ",
+      "date": "2026-09-16T00:30Z",
+      "date_display": "16 Sep 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi Arabia destroys drone launched by Houthis that was entering airspace in the Mecca re...",
+      "description": "<b>BREAKING:</b> Saudi Arabia destroys drone launched by Houthis that was entering airspace in the Mecca region",
+      "date": "2026-09-16T00:00Z",
+      "date_display": "16 Sep 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US Secretary of State Marco Rubio announces visa restrictions on those who enact or enable...",
+      "description": "<b>BREAKING:</b> US Secretary of State Marco Rubio announces visa restrictions on those who enact or enable race-based discrimination in South Africa https://t.co/KTd1fQVtCf",
+      "date": "2026-09-15T21:21Z",
+      "date_display": "15 Sep 21:21 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Blast reported in Erbil, northern Iraq.",
+      "description": "<b>BREAKING:</b> Blast reported in Erbil, northern Iraq.",
+      "date": "2026-09-15T21:00Z",
+      "date_display": "15 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im",
+      "description": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im",
+      "date": "2026-09-15T20:40Z",
+      "date_display": "15 Sep 20:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Bloomberg reports that President Trump and his 'money managers' have made 'nearly 28,700 trades in t...",
+      "description": "Bloomberg reports that President Trump and his 'money managers' have made 'nearly 28,700 trades in the 17 months between his second inauguration and the end of June', more stock trades than all members of Congress combined for the same period. https://t.co/7knMrWQHtK",
+      "date": "2026-09-15T20:30Z",
+      "date_display": "15 Sep 20:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US crude oil up 5%, trading at $106.",
+      "description": "<b>BREAKING:</b> US crude oil up 5%, trading at $106.",
+      "date": "2026-09-15T20:10Z",
+      "date_display": "15 Sep 20:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US government 10-year bond yield hits 5.04%, the highest since 2007.",
+      "description": "<b>BREAKING:</b> US government 10-year bond yield hits 5.04%, the highest since 2007.",
+      "date": "2026-09-15T10:30Z",
+      "date_display": "15 Sep 10:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Putin adviser Nikolai Patrushev says the state of Poland would cease to exist within two to three da...",
+      "description": "Putin adviser Nikolai Patrushev says the state of Poland would cease to exist within two to three days if it entered a war against Russia. https://t.co/roLXGy50NA",
+      "date": "2026-09-15T09:10Z",
+      "date_display": "15 Sep 09:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Malaysia now accounts for 13% of the global market in semiconductor packaging, assembly and testing,...",
       "description": "Malaysia now accounts for 13% of the global market in semiconductor packaging, assembly and testing, according to the Malaysian Investment Development Authority. https://t.co/r266SKuyIZ",
@@ -325,94 +413,6 @@
       "date_display": "13 Sep 20:40 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Sweden's centre-left opposition bloc projected by country's public broadcaster to have 175...",
-      "description": "<b>BREAKING:</b> Sweden's centre-left opposition bloc projected by country's public broadcaster to have 175 seats in new parliament, compared to 174 for incumbent government. https://t.co/ndie7LbBpO",
-      "date": "2026-09-13T20:30Z",
-      "date_display": "13 Sep 20:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US government net interest payments.\n\n2015 fiscal year: $223 billion\n\n2025 fiscal year: $970 billion...",
-      "description": "US government net interest payments.\n\n2015 fiscal year: $223 billion\n\n2025 fiscal year: $970 billion https://t.co/ScWxmdVmW5",
-      "date": "2026-09-13T02:40Z",
-      "date_display": "13 Sep 02:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
-      "description": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
-      "date": "2026-09-13T01:40Z",
-      "date_display": "13 Sep 01:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: OpenAI CEO Sam Altman says that the company won't go public this year 'given everything ha...",
-      "description": "<b>BREAKING:</b> OpenAI CEO Sam Altman says that the company won't go public this year 'given everything happening with safety' of artificial intelligence. https://t.co/yJTiCEkuUr",
-      "date": "2026-09-12T22:30Z",
-      "date_display": "12 Sep 22:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Anthropic boss Dario Amodei, OpenAI CEO Sam Altman and xAI owner Elon Musk all agree over importance...",
-      "description": "Anthropic boss Dario Amodei, OpenAI CEO Sam Altman and xAI owner Elon Musk all agree over importance of pacing and slowing down the development of Artificial Intelligence. https://t.co/TnmOu2QUXo",
-      "date": "2026-09-12T21:10Z",
-      "date_display": "12 Sep 21:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US government debt\n\n15 years ago: $14.8 trillion\n\nNow: $40.1 trillion https://t.co/W4IzjfgZJ4",
-      "description": "US government debt\n\n15 years ago: $14.8 trillion\n\nNow: $40.1 trillion https://t.co/W4IzjfgZJ4",
-      "date": "2026-09-12T20:50Z",
-      "date_display": "12 Sep 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Prices, since start of the year.\n\nRice: +62%\nWheat: +40%\nRubber: +39%\nCotton: +34%\nSoybeans: +25%\nWo...",
-      "description": "Prices, since start of the year.\n\nRice: +62%\nWheat: +40%\nRubber: +39%\nCotton: +34%\nSoybeans: +25%\nWool: +22%\nPalm oil: +20%\nSunflower oil: +14%\nTea: +11%\nCheese: +7%",
-      "date": "2026-09-12T20:40Z",
-      "date_display": "12 Sep 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price\n\n1st of January: $57\n\nNow: $100 https://t.co/PrPkHiEF9z",
-      "description": "US crude oil price\n\n1st of January: $57\n\nNow: $100 https://t.co/PrPkHiEF9z",
-      "date": "2026-09-12T00:01Z",
-      "date_display": "12 Sep 00:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi Arabia's East-West pipeline.\n\n- Runs 1,200km from Abqaiq in the Eastern Province to Yanbu on t...",
-      "description": "Saudi Arabia's East-West pipeline.\n\n- Runs 1,200km from Abqaiq in the Eastern Province to Yanbu on the Red Sea, letting Saudi crude bypass the Strait of Hormuz.\n\n- 7 million barrels a day since war began, the highest throughput in its history.\n\n- Allows Saudi exports from Red Sea ports, which have averaged 4.7 million barrels a day, almost three times the level a year earlier.\n\n- Targeted in drone attack originating from Iraq, the pipeline has now been shut down as a precautionary measure.",
-      "date": "2026-09-11T21:50Z",
-      "date_display": "11 Sep 21:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Gulf Cooperation Council condemns attack from Iraq on Saudi Arabia's East-West oil pipelin...",
-      "description": "<b>BREAKING:</b> Gulf Cooperation Council condemns attack from Iraq on Saudi Arabia's East-West oil pipeline as a 'dangerous escalation' https://t.co/VcC3cABnDe",
-      "date": "2026-09-11T21:30Z",
-      "date_display": "11 Sep 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia says  drone attack that targeted the key East-West oil pipeline came from Ira...",
-      "description": "<b>BREAKING:</b> Saudi Arabia says  drone attack that targeted the key East-West oil pipeline came from Iraq",
-      "date": "2026-09-11T21:00Z",
-      "date_display": "11 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

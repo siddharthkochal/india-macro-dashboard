@@ -1,17 +1,49 @@
 {
-  "fetched_at": "2026-09-16T05:06Z",
+  "fetched_at": "2026-09-17T05:08Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 22,
+  "india_relevant_items": 14,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": true,
+    "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
     "latest_oil_headline": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im"
   },
   "india_headlines": [
+    {
+      "title": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to preven...",
+      "description": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to prevent a trade war, according to the Financial Times. https://t.co/A8MxTP9KSR",
+      "date": "2026-09-17T04:10Z",
+      "date_display": "17 Sep 04:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says the US will stop trade with Europe if Canada joins the European Union as an 'as...",
+      "description": "<b>BREAKING:</b> Trump says the US will stop trade with Europe if Canada joins the European Union as an 'associate member'",
+      "date": "2026-09-17T01:00Z",
+      "date_display": "17 Sep 01:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: U.S. House of Representatives passes the Lindsey Graham Sanctioning Russia and Iran Act...",
+      "description": "<b>BREAKING:</b> U.S. House of Representatives passes the Lindsey Graham Sanctioning Russia and Iran Act",
+      "date": "2026-09-16T22:40Z",
+      "date_display": "16 Sep 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The White House says that Federal Reserve's interest rate hike is 'rather unfortunate'. https://t.co...",
+      "description": "The White House says that Federal Reserve's interest rate hike is 'rather unfortunate'. https://t.co/lbZFwpDjrR",
+      "date": "2026-09-16T20:50Z",
+      "date_display": "16 Sep 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressiona...",
       "description": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressional Budget Office. https://t.co/0YupjuI9yQ",
@@ -91,89 +123,129 @@
       "date_display": "13 Sep 01:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nRice: +62%\nWheat: +40%\nRubber: +39%\nCotton: +34%\nSoybeans: +25%\nWo...",
-      "description": "Prices, since start of the year.\n\nRice: +62%\nWheat: +40%\nRubber: +39%\nCotton: +34%\nSoybeans: +25%\nWool: +22%\nPalm oil: +20%\nSunflower oil: +14%\nTea: +11%\nCheese: +7%",
-      "date": "2026-09-12T20:40Z",
-      "date_display": "12 Sep 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US crude oil price\n\n1st of January: $57\n\nNow: $100 https://t.co/PrPkHiEF9z",
-      "description": "US crude oil price\n\n1st of January: $57\n\nNow: $100 https://t.co/PrPkHiEF9z",
-      "date": "2026-09-12T00:01Z",
-      "date_display": "12 Sep 00:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi Arabia's East-West pipeline.\n\n- Runs 1,200km from Abqaiq in the Eastern Province to Yanbu on t...",
-      "description": "Saudi Arabia's East-West pipeline.\n\n- Runs 1,200km from Abqaiq in the Eastern Province to Yanbu on the Red Sea, letting Saudi crude bypass the Strait of Hormuz.\n\n- 7 million barrels a day since war began, the highest throughput in its history.\n\n- Allows Saudi exports from Red Sea ports, which have averaged 4.7 million barrels a day, almost three times the level a year earlier.\n\n- Targeted in drone attack originating from Iraq, the pipeline has now been shut down as a precautionary measure.",
-      "date": "2026-09-11T21:50Z",
-      "date_display": "11 Sep 21:50 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Gulf Cooperation Council condemns attack from Iraq on Saudi Arabia's East-West oil pipelin...",
-      "description": "<b>BREAKING:</b> Gulf Cooperation Council condemns attack from Iraq on Saudi Arabia's East-West oil pipeline as a 'dangerous escalation' https://t.co/VcC3cABnDe",
-      "date": "2026-09-11T21:30Z",
-      "date_display": "11 Sep 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia says  drone attack that targeted the key East-West oil pipeline came from Ira...",
-      "description": "<b>BREAKING:</b> Saudi Arabia says  drone attack that targeted the key East-West oil pipeline came from Iraq",
-      "date": "2026-09-11T21:00Z",
-      "date_display": "11 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Chances of 🇺🇸 US Federal Reserve hiking rates by 25 basis points has surged to 81%, according to @...",
-      "description": "Chances of 🇺🇸 US Federal Reserve hiking rates by 25 basis points has surged to 81%, according to @Kalshi prediction market. https://t.co/EajzuUe6ZZ",
-      "date": "2026-09-11T19:00Z",
-      "date_display": "11 Sep 19:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia shuts down key East-West oil pipeline as a precautionary measure",
-      "description": "<b>BREAKING:</b> Saudi Arabia shuts down key East-West oil pipeline as a precautionary measure",
-      "date": "2026-09-11T18:40Z",
-      "date_display": "11 Sep 18:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "CNN reports that Saudi Arabia's key East-West oil pipeline was 'struck by projectiles' yesterday wit...",
-      "description": "CNN reports that Saudi Arabia's key East-West oil pipeline was 'struck by projectiles' yesterday with satellites detecting 'nine large fires' burning close to it.",
-      "date": "2026-09-11T18:30Z",
-      "date_display": "11 Sep 18:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Yemen's Iran-backed Houthis have taken control of the Bab al-Mandab area.",
-      "description": "<b>BREAKING:</b> Yemen's Iran-backed Houthis have taken control of the Bab al-Mandab area.",
-      "date": "2026-09-11T09:21Z",
-      "date_display": "11 Sep 09:21 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil price hits $109 for first time since May",
-      "description": "<b>BREAKING:</b> Brent crude oil price hits $109 for first time since May",
-      "date": "2026-09-11T04:00Z",
-      "date_display": "11 Sep 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to preven...",
+      "description": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to prevent a trade war, according to the Financial Times. https://t.co/A8MxTP9KSR",
+      "date": "2026-09-17T04:10Z",
+      "date_display": "17 Sep 04:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Link:\n\nhttps://t.co/7Rh2MDEtHu",
+      "description": "Link:\n\nhttps://t.co/7Rh2MDEtHu",
+      "date": "2026-09-17T03:50Z",
+      "date_display": "17 Sep 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US Gasoline RBOB futures (per gallon)\n\n1st of January: $1.7\n\nNow: $3.5 https://t.co/PxRyEfrjBO",
+      "description": "US Gasoline RBOB futures (per gallon)\n\n1st of January: $1.7\n\nNow: $3.5 https://t.co/PxRyEfrjBO",
+      "date": "2026-09-17T03:50Z",
+      "date_display": "17 Sep 03:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Link: https://t.co/7Rh2MDEtHu",
+      "description": "Link: https://t.co/7Rh2MDEtHu",
+      "date": "2026-09-17T03:40Z",
+      "date_display": "17 Sep 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US Gasoline prices (per gallon)\n\n1st of January: $1.7\n\nNow: $3.5 https://t.co/RHZK19H0Bc",
+      "description": "US Gasoline prices (per gallon)\n\n1st of January: $1.7\n\nNow: $3.5 https://t.co/RHZK19H0Bc",
+      "date": "2026-09-17T03:40Z",
+      "date_display": "17 Sep 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: The US has denied Palestinian President Mahmoud Abbas a visa to attend the UN General Asse...",
+      "description": "<b>BREAKING:</b> The US has denied Palestinian President Mahmoud Abbas a visa to attend the UN General Assembly in NY City",
+      "date": "2026-09-17T02:50Z",
+      "date_display": "17 Sep 02:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says the US will stop trade with Europe if Canada joins the European Union as an 'as...",
+      "description": "<b>BREAKING:</b> Trump says the US will stop trade with Europe if Canada joins the European Union as an 'associate member'",
+      "date": "2026-09-17T01:00Z",
+      "date_display": "17 Sep 01:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says Ukraine war is responsible for increased diesel prices.",
+      "description": "President Trump says Ukraine war is responsible for increased diesel prices.",
+      "date": "2026-09-17T00:30Z",
+      "date_display": "17 Sep 00:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: U.S. House of Representatives passes the Lindsey Graham Sanctioning Russia and Iran Act...",
+      "description": "<b>BREAKING:</b> U.S. House of Representatives passes the Lindsey Graham Sanctioning Russia and Iran Act",
+      "date": "2026-09-16T22:40Z",
+      "date_display": "16 Sep 22:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "FOOTBALL: Brighton knock Manchester United out of the Carabao Cup",
+      "description": "FOOTBALL: Brighton knock Manchester United out of the Carabao Cup",
+      "date": "2026-09-16T21:00Z",
+      "date_display": "16 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The White House says that Federal Reserve's interest rate hike is 'rather unfortunate'. https://t.co...",
+      "description": "The White House says that Federal Reserve's interest rate hike is 'rather unfortunate'. https://t.co/lbZFwpDjrR",
+      "date": "2026-09-16T20:50Z",
+      "date_display": "16 Sep 20:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump calls for interest rate cuts https://t.co/u2zEXHEmR5",
+      "description": "<b>BREAKING:</b> Trump calls for interest rate cuts https://t.co/u2zEXHEmR5",
+      "date": "2026-09-16T20:50Z",
+      "date_display": "16 Sep 20:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "European Commission President Ursula von der Leyen says she wants Canada to become the EU's first 'a...",
+      "description": "European Commission President Ursula von der Leyen says she wants Canada to become the EU's first 'associate member'. https://t.co/fgUZ0WTZbA",
+      "date": "2026-09-16T10:20Z",
+      "date_display": "16 Sep 10:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Price of rice (CBOT futures)\n\n1st of January, 2026: $9.5\n\nNow: $15.7 https://t.co/ung0QOKAdC",
+      "description": "Price of rice (CBOT futures)\n\n1st of January, 2026: $9.5\n\nNow: $15.7 https://t.co/ung0QOKAdC",
+      "date": "2026-09-16T06:21Z",
+      "date_display": "16 Sep 06:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Jeffrey Katzenberg’s investment firm WndrCo backs deal valuing fitness racing company HYROX at $700 ...",
+      "description": "Jeffrey Katzenberg’s investment firm WndrCo backs deal valuing fitness racing company HYROX at $700 million and returning control to its co-founders. https://t.co/TORWjETRxl",
+      "date": "2026-09-16T05:40Z",
+      "date_display": "16 Sep 05:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "Cover of new edition of TIME magazine. https://t.co/iBy55wiz6n",
       "description": "Cover of new edition of TIME magazine. https://t.co/iBy55wiz6n",
@@ -293,126 +365,6 @@
       "date_display": "14 Sep 23:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 84-year old US Senator Mitch McConnell appears publicly for first time in three months and...",
-      "description": "<b>BREAKING:</b> 84-year old US Senator Mitch McConnell appears publicly for first time in three months and is now heading to vote in the Senate. https://t.co/eb8ThrCkvH",
-      "date": "2026-09-14T22:20Z",
-      "date_display": "14 Sep 22:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "German Natural Gas price.\n\n1st of January: $30\n\nNow: $84 https://t.co/mmL3G5aOxO",
-      "description": "German Natural Gas price.\n\n1st of January: $30\n\nNow: $84 https://t.co/mmL3G5aOxO",
-      "date": "2026-09-14T21:20Z",
-      "date_display": "14 Sep 21:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Democratic Party now has a 86% chance of winning the US House of Representatives, according to p...",
-      "description": "The Democratic Party now has a 86% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/xigtKoSjF1",
-      "date": "2026-09-14T20:50Z",
-      "date_display": "14 Sep 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Former Vice President Kamala Harris says that 'a slowdown is critical in order to ensure AI serves t...",
-      "description": "Former Vice President Kamala Harris says that 'a slowdown is critical in order to ensure AI serves the public interest'. https://t.co/cIKUJMTjhQ",
-      "date": "2026-09-14T20:50Z",
-      "date_display": "14 Sep 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 President Trump approval rating\n\nApprove: 35%\nDisapprove: 63%\n\n(CNN Poll of Polls) https://t.co...",
-      "description": "🇺🇸 President Trump approval rating\n\nApprove: 35%\nDisapprove: 63%\n\n(CNN Poll of Polls) https://t.co/nye6X15aAZ",
-      "date": "2026-09-14T20:30Z",
-      "date_display": "14 Sep 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US national average diesel price hits $6.23 a gallon. https://t.co/DogKJlqNYY",
-      "description": "US national average diesel price hits $6.23 a gallon. https://t.co/DogKJlqNYY",
-      "date": "2026-09-14T20:21Z",
-      "date_display": "14 Sep 20:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "NVIDIA share price down 4% amid calls to slow down AI development. https://t.co/e9SYMHTmto",
-      "description": "NVIDIA share price down 4% amid calls to slow down AI development. https://t.co/e9SYMHTmto",
-      "date": "2026-09-14T13:40Z",
-      "date_display": "14 Sep 13:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US government 10-year bond yield hits 4.99%, the highest since 2007.",
-      "description": "<b>BREAKING:</b> US government 10-year bond yield hits 4.99%, the highest since 2007.",
-      "date": "2026-09-14T13:30Z",
-      "date_display": "14 Sep 13:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 President Trump approval rating\n\nApprove: 39%\nDisapprove: 61%\n\n(CBS News) https://t.co/dNqQS1x8...",
-      "description": "🇺🇸 President Trump approval rating\n\nApprove: 39%\nDisapprove: 61%\n\n(CBS News) https://t.co/dNqQS1x85X",
-      "date": "2026-09-14T13:00Z",
-      "date_display": "14 Sep 13:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "European Natural Gas price.\n\n1st of January: $28\n\nNow: $83 https://t.co/ubRGoFZUU3",
-      "description": "European Natural Gas price.\n\n1st of January: $28\n\nNow: $83 https://t.co/ubRGoFZUU3",
-      "date": "2026-09-14T10:40Z",
-      "date_display": "14 Sep 10:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Brent crude oil prices up 3%, now trading at $108.",
-      "description": "<b>BREAKING:</b> Brent crude oil prices up 3%, now trading at $108.",
-      "date": "2026-09-14T08:50Z",
-      "date_display": "14 Sep 08:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Indonesian rescuers are searching for 129 people missing after ship sunk in the Java Sea...",
-      "description": "<b>BREAKING:</b> Indonesian rescuers are searching for 129 people missing after ship sunk in the Java Sea",
-      "date": "2026-09-14T02:50Z",
-      "date_display": "14 Sep 02:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Share price of Japanese tech investment giant SoftBank plunges by 12% as calls grow to slo...",
-      "description": "<b>BREAKING:</b> Share price of Japanese tech investment giant SoftBank plunges by 12% as calls grow to slow down development of AI. https://t.co/PyA2rUuAnK",
-      "date": "2026-09-14T00:50Z",
-      "date_display": "14 Sep 00:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
-      "description": "<b>BREAKING:</b> Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
-      "date": "2026-09-13T22:10Z",
-      "date_display": "13 Sep 22:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Germany's share of global GDP (purchasing power parity)\n\n1980: 6.98%\n\n2026: 2.88%\n\n(IMF) https://t.c...",
-      "description": "Germany's share of global GDP (purchasing power parity)\n\n1980: 6.98%\n\n2026: 2.88%\n\n(IMF) https://t.co/Pw4V62EUfk",
-      "date": "2026-09-13T20:40Z",
-      "date_display": "13 Sep 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

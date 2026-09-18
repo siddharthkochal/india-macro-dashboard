@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T05:08Z",
+  "fetched_at": "2026-09-18T05:02Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billio...",
+      "description": "<b>BREAKING:</b> Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billion deal https://t.co/wX7Reii9Cx",
+      "date": "2026-09-17T20:20Z",
+      "date_display": "17 Sep 20:20 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Pakistan's defense minister says it is time to activate Mecca military pact following Hout...",
+      "description": "<b>BREAKING:</b> Pakistan's defense minister says it is time to activate Mecca military pact following Houthi attacks on Saudi Arabia",
+      "date": "2026-09-17T19:10Z",
+      "date_display": "17 Sep 19:10 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to preven...",
       "description": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to prevent a trade war, according to the Financial Times. https://t.co/A8MxTP9KSR",
@@ -107,25 +123,73 @@
       "date_display": "14 Sep 08:50 UTC",
       "severity": "high",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "BREAKING: Bank of Japan has raised interest rates by 25 basis points, rate is now at the highest in ...",
+      "description": "<b>BREAKING:</b> Bank of Japan has raised interest rates by 25 basis points, rate is now at the highest in over 30 years.",
+      "date": "2026-09-18T03:40Z",
+      "date_display": "18 Sep 03:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
-      "description": "<b>BREAKING:</b> Oil prices up 3%, with US crude at $102.6 and Brent crude at $107.5.",
-      "date": "2026-09-13T22:10Z",
-      "date_display": "13 Sep 22:10 UTC",
+      "title": "JD Vance leads chances of winning US Presidential Election on 23%, followed by Jon Ossoff on 12%, ac...",
+      "description": "JD Vance leads chances of winning US Presidential Election on 23%, followed by Jon Ossoff on 12%, according to @Kalshi prediction market. https://t.co/S6B3xHXj7E",
+      "date": "2026-09-18T03:40Z",
+      "date_display": "18 Sep 03:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Japan-Korea liquefied natural gas price.\n\n1st of January: $9.6\n\nNow: $26.7 https://t.co/ejPZWQTO1O",
+      "description": "Japan-Korea liquefied natural gas price.\n\n1st of January: $9.6\n\nNow: $26.7 https://t.co/ejPZWQTO1O",
+      "date": "2026-09-18T01:45Z",
+      "date_display": "18 Sep 01:45 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: The Pentagon is considering withdrawing 25,000 troops and planes, ships and other assets f...",
+      "description": "<b>BREAKING:</b> The Pentagon is considering withdrawing 25,000 troops and planes, ships and other assets from Europe, according to NBC News report.",
+      "date": "2026-09-17T21:10Z",
+      "date_display": "17 Sep 21:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billio...",
+      "description": "<b>BREAKING:</b> Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billion deal https://t.co/wX7Reii9Cx",
+      "date": "2026-09-17T20:20Z",
+      "date_display": "17 Sep 20:20 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
-      "description": "Brent crude oil price\n\n1st of January: $60\n\nNow: $104 https://t.co/GgkvvFsTzL",
-      "date": "2026-09-13T01:40Z",
-      "date_display": "13 Sep 01:40 UTC",
-      "severity": "medium",
+      "title": "BREAKING: F-16 fighter jet has crashed in Blair Township, Michigan, with the pilot appearing to have...",
+      "description": "<b>BREAKING:</b> F-16 fighter jet has crashed in Blair Township, Michigan, with the pilot appearing to have ejected safely.",
+      "date": "2026-09-17T19:31Z",
+      "date_display": "17 Sep 19:31 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US national average diesel price hits $6.4 for the first time",
+      "description": "<b>BREAKING:</b> US national average diesel price hits $6.4 for the first time",
+      "date": "2026-09-17T19:10Z",
+      "date_display": "17 Sep 19:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Pakistan's defense minister says it is time to activate Mecca military pact following Hout...",
+      "description": "<b>BREAKING:</b> Pakistan's defense minister says it is time to activate Mecca military pact following Houthi attacks on Saudi Arabia",
+      "date": "2026-09-17T19:10Z",
+      "date_display": "17 Sep 19:10 UTC",
+      "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to preven...",
       "description": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to prevent a trade war, according to the Financial Times. https://t.co/A8MxTP9KSR",
@@ -300,70 +364,6 @@
       "date": "2026-09-15T20:40Z",
       "date_display": "15 Sep 20:40 UTC",
       "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Bloomberg reports that President Trump and his 'money managers' have made 'nearly 28,700 trades in t...",
-      "description": "Bloomberg reports that President Trump and his 'money managers' have made 'nearly 28,700 trades in the 17 months between his second inauguration and the end of June', more stock trades than all members of Congress combined for the same period. https://t.co/7knMrWQHtK",
-      "date": "2026-09-15T20:30Z",
-      "date_display": "15 Sep 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil up 5%, trading at $106.",
-      "description": "<b>BREAKING:</b> US crude oil up 5%, trading at $106.",
-      "date": "2026-09-15T20:10Z",
-      "date_display": "15 Sep 20:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US government 10-year bond yield hits 5.04%, the highest since 2007.",
-      "description": "<b>BREAKING:</b> US government 10-year bond yield hits 5.04%, the highest since 2007.",
-      "date": "2026-09-15T10:30Z",
-      "date_display": "15 Sep 10:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Putin adviser Nikolai Patrushev says the state of Poland would cease to exist within two to three da...",
-      "description": "Putin adviser Nikolai Patrushev says the state of Poland would cease to exist within two to three days if it entered a war against Russia. https://t.co/roLXGy50NA",
-      "date": "2026-09-15T09:10Z",
-      "date_display": "15 Sep 09:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Malaysia now accounts for 13% of the global market in semiconductor packaging, assembly and testing,...",
-      "description": "Malaysia now accounts for 13% of the global market in semiconductor packaging, assembly and testing, according to the Malaysian Investment Development Authority. https://t.co/r266SKuyIZ",
-      "date": "2026-09-15T03:50Z",
-      "date_display": "15 Sep 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Copper price\n\nOne year ago: $4.53\n\nNow: $6.33 https://t.co/2NRHWjcG9J",
-      "description": "Copper price\n\nOne year ago: $4.53\n\nNow: $6.33 https://t.co/2NRHWjcG9J",
-      "date": "2026-09-15T03:30Z",
-      "date_display": "15 Sep 03:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 President Trump approval rating\n\nApprove: 35%\nDisapprove: 62%\n\n(Reuters/Ipsos) https://t.co/4iy...",
-      "description": "🇺🇸 President Trump approval rating\n\nApprove: 35%\nDisapprove: 62%\n\n(Reuters/Ipsos) https://t.co/4iyOGZ5GvD",
-      "date": "2026-09-15T03:10Z",
-      "date_display": "15 Sep 03:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Reports of Ukrainian attack on oil refinery in southwestern Russia",
-      "description": "<b>BREAKING:</b> Reports of Ukrainian attack on oil refinery in southwestern Russia",
-      "date": "2026-09-14T23:40Z",
-      "date_display": "14 Sep 23:40 UTC",
-      "severity": "high",
       "is_india_relevant": true
     }
   ]

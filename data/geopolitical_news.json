@@ -1,17 +1,57 @@
 {
-  "fetched_at": "2026-09-18T05:02Z",
+  "fetched_at": "2026-09-19T04:53Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 14,
+  "india_relevant_items": 17,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im"
+    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS ..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: 31 dead in attack on police headquarters in northwest Pakistan",
+      "description": "<b>BREAKING:</b> 31 dead in attack on police headquarters in northwest Pakistan",
+      "date": "2026-09-19T04:00Z",
+      "date_display": "19 Sep 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS ...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS crude oil: +73%\nBrent crude: +70%\nCoal: +33%",
+      "date": "2026-09-19T02:00Z",
+      "date_display": "19 Sep 02:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.04 https://t.co/skM1pYYglG",
+      "description": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.04 https://t.co/skM1pYYglG",
+      "date": "2026-09-19T00:50Z",
+      "date_display": "19 Sep 00:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump has signed the Russia-Iran sanctions bill into law.",
+      "description": "President Trump has signed the Russia-Iran sanctions bill into law.",
+      "date": "2026-09-18T21:50Z",
+      "date_display": "18 Sep 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The Washington Post reports that 'more American service members have died' in the Iran war...",
+      "description": "<b>BREAKING:</b> The Washington Post reports that 'more American service members have died' in the Iran war than 'the Pentagon has disclosed publicly'",
+      "date": "2026-09-18T20:40Z",
+      "date_display": "18 Sep 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billio...",
       "description": "<b>BREAKING:</b> Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billion deal https://t.co/wX7Reii9Cx",
@@ -107,25 +147,153 @@
       "date_display": "15 Sep 20:10 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Reports of Ukrainian attack on oil refinery in southwestern Russia",
-      "description": "<b>BREAKING:</b> Reports of Ukrainian attack on oil refinery in southwestern Russia",
-      "date": "2026-09-14T23:40Z",
-      "date_display": "14 Sep 23:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil prices up 3%, now trading at $108.",
-      "description": "<b>BREAKING:</b> Brent crude oil prices up 3%, now trading at $108.",
-      "date": "2026-09-14T08:50Z",
-      "date_display": "14 Sep 08:50 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 31 dead in attack on police headquarters in northwest Pakistan",
+      "description": "<b>BREAKING:</b> 31 dead in attack on police headquarters in northwest Pakistan",
+      "date": "2026-09-19T04:00Z",
+      "date_display": "19 Sep 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS ...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS crude oil: +73%\nBrent crude: +70%\nCoal: +33%",
+      "date": "2026-09-19T02:00Z",
+      "date_display": "19 Sep 02:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: US approves $2.6 billion sale of military equipment to Ukraine",
+      "description": "<b>BREAKING:</b> US approves $2.6 billion sale of military equipment to Ukraine",
+      "date": "2026-09-19T01:40Z",
+      "date_display": "19 Sep 01:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.04 https://t.co/skM1pYYglG",
+      "description": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.04 https://t.co/skM1pYYglG",
+      "date": "2026-09-19T00:50Z",
+      "date_display": "19 Sep 00:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Google Gemini artificial intelligence agent hacked three companies",
+      "description": "<b>BREAKING:</b> Google Gemini artificial intelligence agent hacked three companies",
+      "date": "2026-09-19T00:21Z",
+      "date_display": "19 Sep 00:21 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Flight activity halted at Luxembourg airport due to drone activity",
+      "description": "<b>BREAKING:</b> Flight activity halted at Luxembourg airport due to drone activity",
+      "date": "2026-09-18T21:50Z",
+      "date_display": "18 Sep 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "President Trump has signed the Russia-Iran sanctions bill into law.",
+      "description": "President Trump has signed the Russia-Iran sanctions bill into law.",
+      "date": "2026-09-18T21:50Z",
+      "date_display": "18 Sep 21:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says the United States will be 'developing a large military presence' in a part of G...",
+      "description": "<b>BREAKING:</b> Trump says the United States will be 'developing a large military presence' in a part of Greenland",
+      "date": "2026-09-18T21:40Z",
+      "date_display": "18 Sep 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Anthropic is now planning its IPO in November, according to Wall Street Journal.",
+      "description": "<b>BREAKING:</b> Anthropic is now planning its IPO in November, according to Wall Street Journal.",
+      "date": "2026-09-18T21:40Z",
+      "date_display": "18 Sep 21:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says the US has entered an agreement with Denmark and Greenland giving the United St...",
+      "description": "<b>BREAKING:</b> Trump says the US has entered an agreement with Denmark and Greenland giving the United States permanent control over its security needs in Greenland",
+      "date": "2026-09-18T21:30Z",
+      "date_display": "18 Sep 21:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US diesel prices have hit a new record high of $6.45 per gallon",
+      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.45 per gallon",
+      "date": "2026-09-18T20:40Z",
+      "date_display": "18 Sep 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: The Washington Post reports that 'more American service members have died' in the Iran war...",
+      "description": "<b>BREAKING:</b> The Washington Post reports that 'more American service members have died' in the Iran war than 'the Pentagon has disclosed publicly'",
+      "date": "2026-09-18T20:40Z",
+      "date_display": "18 Sep 20:40 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Drone hit cooling reactor at a nuclear power plant in western Russia, according to the ​In...",
+      "description": "<b>BREAKING:</b> Drone hit cooling reactor at a nuclear power plant in western Russia, according to the ​International Atomic Energy Agency, but is continuing to function.",
+      "date": "2026-09-18T20:22Z",
+      "date_display": "18 Sep 20:22 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The United States poverty rate has fallen to a record low of 10.2%, according to new Census Bureau d...",
+      "description": "The United States poverty rate has fallen to a record low of 10.2%, according to new Census Bureau data. https://t.co/QC6xAcEIli",
+      "date": "2026-09-18T20:10Z",
+      "date_display": "18 Sep 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "JUST IN: California Governor Gavin Newsom has signed an executive order for AI safety recommendation...",
+      "description": "JUST IN: California Governor Gavin Newsom has signed an executive order for AI safety recommendations, which includes a 'kill switch' for most advanced models.",
+      "date": "2026-09-18T20:01Z",
+      "date_display": "18 Sep 20:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says he is banning CNN, Politico and MS NOW from the White House",
+      "description": "<b>BREAKING:</b> Trump says he is banning CNN, Politico and MS NOW from the White House",
+      "date": "2026-09-18T19:50Z",
+      "date_display": "18 Sep 19:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Warren Buffett is stepping down immediately as Berkshire Hathaway chairman",
+      "description": "<b>BREAKING:</b> Warren Buffett is stepping down immediately as Berkshire Hathaway chairman",
+      "date": "2026-09-18T10:37Z",
+      "date_display": "18 Sep 10:37 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "JUST IN: Cyber researchers were able to access the account of an OpenAI employee using software made...",
+      "description": "JUST IN: Cyber researchers were able to access the account of an OpenAI employee using software made by its rival Anthropic, according to Financial Times report.",
+      "date": "2026-09-18T05:30Z",
+      "date_display": "18 Sep 05:30 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Bank of Japan has raised interest rates by 25 basis points, rate is now at the highest in ...",
       "description": "<b>BREAKING:</b> Bank of Japan has raised interest rates by 25 basis points, rate is now at the highest in over 30 years.",
@@ -221,150 +389,6 @@
       "date_display": "17 Sep 03:40 UTC",
       "severity": "medium",
       "is_india_relevant": false
-    },
-    {
-      "title": "US Gasoline prices (per gallon)\n\n1st of January: $1.7\n\nNow: $3.5 https://t.co/RHZK19H0Bc",
-      "description": "US Gasoline prices (per gallon)\n\n1st of January: $1.7\n\nNow: $3.5 https://t.co/RHZK19H0Bc",
-      "date": "2026-09-17T03:40Z",
-      "date_display": "17 Sep 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: The US has denied Palestinian President Mahmoud Abbas a visa to attend the UN General Asse...",
-      "description": "<b>BREAKING:</b> The US has denied Palestinian President Mahmoud Abbas a visa to attend the UN General Assembly in NY City",
-      "date": "2026-09-17T02:50Z",
-      "date_display": "17 Sep 02:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says the US will stop trade with Europe if Canada joins the European Union as an 'as...",
-      "description": "<b>BREAKING:</b> Trump says the US will stop trade with Europe if Canada joins the European Union as an 'associate member'",
-      "date": "2026-09-17T01:00Z",
-      "date_display": "17 Sep 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump says Ukraine war is responsible for increased diesel prices.",
-      "description": "President Trump says Ukraine war is responsible for increased diesel prices.",
-      "date": "2026-09-17T00:30Z",
-      "date_display": "17 Sep 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: U.S. House of Representatives passes the Lindsey Graham Sanctioning Russia and Iran Act...",
-      "description": "<b>BREAKING:</b> U.S. House of Representatives passes the Lindsey Graham Sanctioning Russia and Iran Act",
-      "date": "2026-09-16T22:40Z",
-      "date_display": "16 Sep 22:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "FOOTBALL: Brighton knock Manchester United out of the Carabao Cup",
-      "description": "FOOTBALL: Brighton knock Manchester United out of the Carabao Cup",
-      "date": "2026-09-16T21:00Z",
-      "date_display": "16 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The White House says that Federal Reserve's interest rate hike is 'rather unfortunate'. https://t.co...",
-      "description": "The White House says that Federal Reserve's interest rate hike is 'rather unfortunate'. https://t.co/lbZFwpDjrR",
-      "date": "2026-09-16T20:50Z",
-      "date_display": "16 Sep 20:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump calls for interest rate cuts https://t.co/u2zEXHEmR5",
-      "description": "<b>BREAKING:</b> Trump calls for interest rate cuts https://t.co/u2zEXHEmR5",
-      "date": "2026-09-16T20:50Z",
-      "date_display": "16 Sep 20:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "European Commission President Ursula von der Leyen says she wants Canada to become the EU's first 'a...",
-      "description": "European Commission President Ursula von der Leyen says she wants Canada to become the EU's first 'associate member'. https://t.co/fgUZ0WTZbA",
-      "date": "2026-09-16T10:20Z",
-      "date_display": "16 Sep 10:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Price of rice (CBOT futures)\n\n1st of January, 2026: $9.5\n\nNow: $15.7 https://t.co/ung0QOKAdC",
-      "description": "Price of rice (CBOT futures)\n\n1st of January, 2026: $9.5\n\nNow: $15.7 https://t.co/ung0QOKAdC",
-      "date": "2026-09-16T06:21Z",
-      "date_display": "16 Sep 06:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Jeffrey Katzenberg’s investment firm WndrCo backs deal valuing fitness racing company HYROX at $700 ...",
-      "description": "Jeffrey Katzenberg’s investment firm WndrCo backs deal valuing fitness racing company HYROX at $700 million and returning control to its co-founders. https://t.co/TORWjETRxl",
-      "date": "2026-09-16T05:40Z",
-      "date_display": "16 Sep 05:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Cover of new edition of TIME magazine. https://t.co/iBy55wiz6n",
-      "description": "Cover of new edition of TIME magazine. https://t.co/iBy55wiz6n",
-      "date": "2026-09-16T03:00Z",
-      "date_display": "16 Sep 03:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Japan's exports in August rose by 19% compared with the year prior, driven by increased exports of m...",
-      "description": "Japan's exports in August rose by 19% compared with the year prior, driven by increased exports of machinery, electrical and semiconductor goods. https://t.co/9RVVRkuLTi",
-      "date": "2026-09-16T01:26Z",
-      "date_display": "16 Sep 01:26 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressiona...",
-      "description": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressional Budget Office. https://t.co/0YupjuI9yQ",
-      "date": "2026-09-16T00:30Z",
-      "date_display": "16 Sep 00:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia destroys drone launched by Houthis that was entering airspace in the Mecca re...",
-      "description": "<b>BREAKING:</b> Saudi Arabia destroys drone launched by Houthis that was entering airspace in the Mecca region",
-      "date": "2026-09-16T00:00Z",
-      "date_display": "16 Sep 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US Secretary of State Marco Rubio announces visa restrictions on those who enact or enable...",
-      "description": "<b>BREAKING:</b> US Secretary of State Marco Rubio announces visa restrictions on those who enact or enable race-based discrimination in South Africa https://t.co/KTd1fQVtCf",
-      "date": "2026-09-15T21:21Z",
-      "date_display": "15 Sep 21:21 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Blast reported in Erbil, northern Iraq.",
-      "description": "<b>BREAKING:</b> Blast reported in Erbil, northern Iraq.",
-      "date": "2026-09-15T21:00Z",
-      "date_display": "15 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im",
-      "description": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im",
-      "date": "2026-09-15T20:40Z",
-      "date_display": "15 Sep 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ]
 }

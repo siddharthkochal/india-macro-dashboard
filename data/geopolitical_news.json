@@ -1,17 +1,25 @@
 {
-  "fetched_at": "2026-09-19T04:53Z",
+  "fetched_at": "2026-09-20T05:15Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 17,
+  "india_relevant_items": 13,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
     "opec_action": false,
-    "price_direction": "up",
+    "price_direction": null,
     "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS ..."
   },
   "india_headlines": [
+    {
+      "title": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 tril...",
+      "description": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 trillion\n\nCalifornia: $4.3 trillion",
+      "date": "2026-09-19T21:40Z",
+      "date_display": "19 Sep 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: 31 dead in attack on police headquarters in northwest Pakistan",
       "description": "<b>BREAKING:</b> 31 dead in attack on police headquarters in northwest Pakistan",
@@ -107,49 +115,57 @@
       "date_display": "16 Sep 00:30 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia destroys drone launched by Houthis that was entering airspace in the Mecca re...",
-      "description": "<b>BREAKING:</b> Saudi Arabia destroys drone launched by Houthis that was entering airspace in the Mecca region",
-      "date": "2026-09-16T00:00Z",
-      "date_display": "16 Sep 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Blast reported in Erbil, northern Iraq.",
-      "description": "<b>BREAKING:</b> Blast reported in Erbil, northern Iraq.",
-      "date": "2026-09-15T21:00Z",
-      "date_display": "15 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im",
-      "description": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.25 https://t.co/5VCb9Ii9im",
-      "date": "2026-09-15T20:40Z",
-      "date_display": "15 Sep 20:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Bloomberg reports that President Trump and his 'money managers' have made 'nearly 28,700 trades in t...",
-      "description": "Bloomberg reports that President Trump and his 'money managers' have made 'nearly 28,700 trades in the 17 months between his second inauguration and the end of June', more stock trades than all members of Congress combined for the same period. https://t.co/7knMrWQHtK",
-      "date": "2026-09-15T20:30Z",
-      "date_display": "15 Sep 20:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil up 5%, trading at $106.",
-      "description": "<b>BREAKING:</b> US crude oil up 5%, trading at $106.",
-      "date": "2026-09-15T20:10Z",
-      "date_display": "15 Sep 20:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: CNN reports the US is considering military options against the Houthis in Yemen",
+      "description": "<b>BREAKING:</b> CNN reports the US is considering military options against the Houthis in Yemen",
+      "date": "2026-09-20T02:20Z",
+      "date_display": "20 Sep 02:20 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: CNN reports the US is preparing a military operation against the Houthis in Yemen",
+      "description": "<b>BREAKING:</b> CNN reports the US is preparing a military operation against the Houthis in Yemen",
+      "date": "2026-09-20T02:10Z",
+      "date_display": "20 Sep 02:10 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 tril...",
+      "description": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 trillion\n\nCalifornia: $4.3 trillion",
+      "date": "2026-09-19T21:40Z",
+      "date_display": "19 Sep 21:40 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says that artificial intelligence could eventually make up 25% of the GDP of the Uni...",
+      "description": "President Trump says that artificial intelligence could eventually make up 25% of the GDP of the United States. https://t.co/ujTQZPrbMb",
+      "date": "2026-09-19T20:01Z",
+      "date_display": "19 Sep 20:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇺🇸 President Trump approval rating\n\nApprove: 41%\nDisapprove: 59%\n\n(Rasmussen Report) https://t.co/...",
+      "description": "🇺🇸 President Trump approval rating\n\nApprove: 41%\nDisapprove: 59%\n\n(Rasmussen Report) https://t.co/yojxtonRo1",
+      "date": "2026-09-19T19:01Z",
+      "date_display": "19 Sep 19:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US diesel prices have hit a new record high of $6.48 per gallon",
+      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.48 per gallon",
+      "date": "2026-09-19T18:40Z",
+      "date_display": "19 Sep 18:40 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 31 dead in attack on police headquarters in northwest Pakistan",
       "description": "<b>BREAKING:</b> 31 dead in attack on police headquarters in northwest Pakistan",
@@ -340,54 +356,6 @@
       "date": "2026-09-17T19:31Z",
       "date_display": "17 Sep 19:31 UTC",
       "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US national average diesel price hits $6.4 for the first time",
-      "description": "<b>BREAKING:</b> US national average diesel price hits $6.4 for the first time",
-      "date": "2026-09-17T19:10Z",
-      "date_display": "17 Sep 19:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Pakistan's defense minister says it is time to activate Mecca military pact following Hout...",
-      "description": "<b>BREAKING:</b> Pakistan's defense minister says it is time to activate Mecca military pact following Houthi attacks on Saudi Arabia",
-      "date": "2026-09-17T19:10Z",
-      "date_display": "17 Sep 19:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to preven...",
-      "description": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to prevent a trade war, according to the Financial Times. https://t.co/A8MxTP9KSR",
-      "date": "2026-09-17T04:10Z",
-      "date_display": "17 Sep 04:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Link:\n\nhttps://t.co/7Rh2MDEtHu",
-      "description": "Link:\n\nhttps://t.co/7Rh2MDEtHu",
-      "date": "2026-09-17T03:50Z",
-      "date_display": "17 Sep 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US Gasoline RBOB futures (per gallon)\n\n1st of January: $1.7\n\nNow: $3.5 https://t.co/PxRyEfrjBO",
-      "description": "US Gasoline RBOB futures (per gallon)\n\n1st of January: $1.7\n\nNow: $3.5 https://t.co/PxRyEfrjBO",
-      "date": "2026-09-17T03:50Z",
-      "date_display": "17 Sep 03:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Link: https://t.co/7Rh2MDEtHu",
-      "description": "Link: https://t.co/7Rh2MDEtHu",
-      "date": "2026-09-17T03:40Z",
-      "date_display": "17 Sep 03:40 UTC",
-      "severity": "medium",
       "is_india_relevant": false
     }
   ]

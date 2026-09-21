@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T05:15Z",
+  "fetched_at": "2026-09-21T05:18Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -8,10 +8,34 @@
     "brent_mentioned": true,
     "hormuz_risk": false,
     "opec_action": false,
-    "price_direction": null,
-    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS ..."
+    "price_direction": "up",
+    "latest_oil_headline": "BREAKING: US crude oil up 1%, trading at over $100."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: US crude oil up 1%, trading at over $100.",
+      "description": "<b>BREAKING:</b> US crude oil up 1%, trading at over $100.",
+      "date": "2026-09-20T22:21Z",
+      "date_display": "20 Sep 22:21 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi Arabia withdraws from China-led digital currency program that is 'part of China’s ef...",
+      "description": "<b>BREAKING:</b> Saudi Arabia withdraws from China-led digital currency program that is 'part of China’s efforts to develop an alternative cross-border payments system to the dollar', according to Financial Times report. https://t.co/4JpptApCOZ",
+      "date": "2026-09-20T08:00Z",
+      "date_display": "20 Sep 08:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Ukrainian attack on Moscow oil refinery",
+      "description": "<b>BREAKING:</b> Ukrainian attack on Moscow oil refinery",
+      "date": "2026-09-20T06:00Z",
+      "date_display": "20 Sep 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 tril...",
       "description": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 trillion\n\nCalifornia: $4.3 trillion",
@@ -91,33 +115,97 @@
       "date_display": "17 Sep 01:00 UTC",
       "severity": "high",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "The price of wheat is now up 43% since the start of the year. https://t.co/CF833MvAzT",
+      "description": "The price of wheat is now up 43% since the start of the year. https://t.co/CF833MvAzT",
+      "date": "2026-09-21T03:20Z",
+      "date_display": "21 Sep 03:20 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: U.S. House of Representatives passes the Lindsey Graham Sanctioning Russia and Iran Act...",
-      "description": "<b>BREAKING:</b> U.S. House of Representatives passes the Lindsey Graham Sanctioning Russia and Iran Act",
-      "date": "2026-09-16T22:40Z",
-      "date_display": "16 Sep 22:40 UTC",
+      "title": "Jon Ossoff leads as favorite to win 2028 Democratic presidential nomination at 16%, followed by Alex...",
+      "description": "Jon Ossoff leads as favorite to win 2028 Democratic presidential nomination at 16%, followed by Alexandria Ocasio-Cortez at 15% and Gavin Newsom at 14%, according to @Kalshi prediction market. https://t.co/tMWqU51ScX",
+      "date": "2026-09-21T01:50Z",
+      "date_display": "21 Sep 01:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: The Trump administration is preparing 'sweeping sanctions' on the International Criminal C...",
+      "description": "<b>BREAKING:</b> The Trump administration is preparing 'sweeping sanctions' on the International Criminal Court in an effort to 'dismantle the institution after it issued an arrest warrant for Israeli Prime Minister Benjamin Netanyahu', according to the Wall Street Journal. https://t.co/hihcnUHu2b",
+      "date": "2026-09-21T00:30Z",
+      "date_display": "21 Sep 00:30 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US crude oil up 1%, trading at over $100.",
+      "description": "<b>BREAKING:</b> US crude oil up 1%, trading at over $100.",
+      "date": "2026-09-20T22:21Z",
+      "date_display": "20 Sep 22:21 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "The White House says that Federal Reserve's interest rate hike is 'rather unfortunate'. https://t.co...",
-      "description": "The White House says that Federal Reserve's interest rate hike is 'rather unfortunate'. https://t.co/lbZFwpDjrR",
-      "date": "2026-09-16T20:50Z",
-      "date_display": "16 Sep 20:50 UTC",
+      "title": "US average diesel price\n\nOne year ago: $3.70\n\nNow: $6.50\n\n(AAA) https://t.co/VQtAAqjeuB",
+      "description": "US average diesel price\n\nOne year ago: $3.70\n\nNow: $6.50\n\n(AAA) https://t.co/VQtAAqjeuB",
+      "date": "2026-09-20T22:00Z",
+      "date_display": "20 Sep 22:00 UTC",
       "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US diesel prices have hit a new record high of $6.5 per gallon",
+      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.5 per gallon",
+      "date": "2026-09-20T21:50Z",
+      "date_display": "20 Sep 21:50 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Size of economy\n\n🇮🇹 Italy: $2.7 trillion\n🇧🇷 Brazil: $2.6 trillion\n🇷🇺 Russia: $2.6 trillion\n🇨�...",
+      "description": "Size of economy\n\n🇮🇹 Italy: $2.7 trillion\n🇧🇷 Brazil: $2.6 trillion\n🇷🇺 Russia: $2.6 trillion\n🇨🇦 Canada: $2.4 trillion\n\nTexas: $2.9 trillion",
+      "date": "2026-09-20T20:10Z",
+      "date_display": "20 Sep 20:10 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Agricultural commodity prices are surging. https://t.co/sXjtO8hZHx",
+      "description": "Agricultural commodity prices are surging. https://t.co/sXjtO8hZHx",
+      "date": "2026-09-20T19:50Z",
+      "date_display": "20 Sep 19:50 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Germany's Chancellor Friedrich Merz says he will stay in the position despite heavy losses for his p...",
+      "description": "Germany's Chancellor Friedrich Merz says he will stay in the position despite heavy losses for his party in several regional elections. https://t.co/uDWMfoRSGc",
+      "date": "2026-09-20T19:21Z",
+      "date_display": "20 Sep 19:21 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Saudi Arabia withdraws from China-led digital currency program that is 'part of China’s ef...",
+      "description": "<b>BREAKING:</b> Saudi Arabia withdraws from China-led digital currency program that is 'part of China’s efforts to develop an alternative cross-border payments system to the dollar', according to Financial Times report. https://t.co/4JpptApCOZ",
+      "date": "2026-09-20T08:00Z",
+      "date_display": "20 Sep 08:00 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressiona...",
-      "description": "The Iran War has cost the United States a total of $38 billion so far, according to the Congressional Budget Office. https://t.co/0YupjuI9yQ",
-      "date": "2026-09-16T00:30Z",
-      "date_display": "16 Sep 00:30 UTC",
-      "severity": "medium",
+      "title": "BREAKING: Ukrainian attack on Moscow oil refinery",
+      "description": "<b>BREAKING:</b> Ukrainian attack on Moscow oil refinery",
+      "date": "2026-09-20T06:00Z",
+      "date_display": "20 Sep 06:00 UTC",
+      "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "BREAKING: CNN reports the US is considering military options against the Houthis in Yemen",
       "description": "<b>BREAKING:</b> CNN reports the US is considering military options against the Houthis in Yemen",
@@ -267,94 +355,6 @@
       "description": "<b>BREAKING:</b> Drone hit cooling reactor at a nuclear power plant in western Russia, according to the ​International Atomic Energy Agency, but is continuing to function.",
       "date": "2026-09-18T20:22Z",
       "date_display": "18 Sep 20:22 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The United States poverty rate has fallen to a record low of 10.2%, according to new Census Bureau d...",
-      "description": "The United States poverty rate has fallen to a record low of 10.2%, according to new Census Bureau data. https://t.co/QC6xAcEIli",
-      "date": "2026-09-18T20:10Z",
-      "date_display": "18 Sep 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "JUST IN: California Governor Gavin Newsom has signed an executive order for AI safety recommendation...",
-      "description": "JUST IN: California Governor Gavin Newsom has signed an executive order for AI safety recommendations, which includes a 'kill switch' for most advanced models.",
-      "date": "2026-09-18T20:01Z",
-      "date_display": "18 Sep 20:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says he is banning CNN, Politico and MS NOW from the White House",
-      "description": "<b>BREAKING:</b> Trump says he is banning CNN, Politico and MS NOW from the White House",
-      "date": "2026-09-18T19:50Z",
-      "date_display": "18 Sep 19:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Warren Buffett is stepping down immediately as Berkshire Hathaway chairman",
-      "description": "<b>BREAKING:</b> Warren Buffett is stepping down immediately as Berkshire Hathaway chairman",
-      "date": "2026-09-18T10:37Z",
-      "date_display": "18 Sep 10:37 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "JUST IN: Cyber researchers were able to access the account of an OpenAI employee using software made...",
-      "description": "JUST IN: Cyber researchers were able to access the account of an OpenAI employee using software made by its rival Anthropic, according to Financial Times report.",
-      "date": "2026-09-18T05:30Z",
-      "date_display": "18 Sep 05:30 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Bank of Japan has raised interest rates by 25 basis points, rate is now at the highest in ...",
-      "description": "<b>BREAKING:</b> Bank of Japan has raised interest rates by 25 basis points, rate is now at the highest in over 30 years.",
-      "date": "2026-09-18T03:40Z",
-      "date_display": "18 Sep 03:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "JD Vance leads chances of winning US Presidential Election on 23%, followed by Jon Ossoff on 12%, ac...",
-      "description": "JD Vance leads chances of winning US Presidential Election on 23%, followed by Jon Ossoff on 12%, according to @Kalshi prediction market. https://t.co/S6B3xHXj7E",
-      "date": "2026-09-18T03:40Z",
-      "date_display": "18 Sep 03:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Japan-Korea liquefied natural gas price.\n\n1st of January: $9.6\n\nNow: $26.7 https://t.co/ejPZWQTO1O",
-      "description": "Japan-Korea liquefied natural gas price.\n\n1st of January: $9.6\n\nNow: $26.7 https://t.co/ejPZWQTO1O",
-      "date": "2026-09-18T01:45Z",
-      "date_display": "18 Sep 01:45 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: The Pentagon is considering withdrawing 25,000 troops and planes, ships and other assets f...",
-      "description": "<b>BREAKING:</b> The Pentagon is considering withdrawing 25,000 troops and planes, ships and other assets from Europe, according to NBC News report.",
-      "date": "2026-09-17T21:10Z",
-      "date_display": "17 Sep 21:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billio...",
-      "description": "<b>BREAKING:</b> Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billion deal https://t.co/wX7Reii9Cx",
-      "date": "2026-09-17T20:20Z",
-      "date_display": "17 Sep 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: F-16 fighter jet has crashed in Blair Township, Michigan, with the pilot appearing to have...",
-      "description": "<b>BREAKING:</b> F-16 fighter jet has crashed in Blair Township, Michigan, with the pilot appearing to have ejected safely.",
-      "date": "2026-09-17T19:31Z",
-      "date_display": "17 Sep 19:31 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

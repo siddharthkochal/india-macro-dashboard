@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-21T05:18Z",
+  "fetched_at": "2026-09-22T05:16Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 13,
+  "india_relevant_items": 12,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
@@ -107,17 +107,49 @@
       "date_display": "17 Sep 04:10 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says the US will stop trade with Europe if Canada joins the European Union as an 'as...",
-      "description": "<b>BREAKING:</b> Trump says the US will stop trade with Europe if Canada joins the European Union as an 'associate member'",
-      "date": "2026-09-17T01:00Z",
-      "date_display": "17 Sep 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "The price of rice is now up 67% since the start of the year. https://t.co/grVPcuWOM3",
+      "description": "The price of rice is now up 67% since the start of the year. https://t.co/grVPcuWOM3",
+      "date": "2026-09-21T21:01Z",
+      "date_display": "21 Sep 21:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Bitcoin hits $87,000, the highest since January.",
+      "description": "<b>BREAKING:</b> Bitcoin hits $87,000, the highest since January.",
+      "date": "2026-09-21T21:01Z",
+      "date_display": "21 Sep 21:01 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US diesel prices have hit a new record high of $6.51 per gallon",
+      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.51 per gallon",
+      "date": "2026-09-21T20:00Z",
+      "date_display": "21 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US average diesel price\n\nOne year ago: $3.67\n\nNow: $6.51\n\n(AAA) https://t.co/o86PxvuCEx",
+      "description": "US average diesel price\n\nOne year ago: $3.67\n\nNow: $6.51\n\n(AAA) https://t.co/o86PxvuCEx",
+      "date": "2026-09-21T20:00Z",
+      "date_display": "21 Sep 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Bitcoin hits $84,000, the highest since January.",
+      "description": "<b>BREAKING:</b> Bitcoin hits $84,000, the highest since January.",
+      "date": "2026-09-21T11:07Z",
+      "date_display": "21 Sep 11:07 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "The price of wheat is now up 43% since the start of the year. https://t.co/CF833MvAzT",
       "description": "The price of wheat is now up 43% since the start of the year. https://t.co/CF833MvAzT",
@@ -315,46 +347,6 @@
       "description": "<b>BREAKING:</b> Trump says the United States will be 'developing a large military presence' in a part of Greenland",
       "date": "2026-09-18T21:40Z",
       "date_display": "18 Sep 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Anthropic is now planning its IPO in November, according to Wall Street Journal.",
-      "description": "<b>BREAKING:</b> Anthropic is now planning its IPO in November, according to Wall Street Journal.",
-      "date": "2026-09-18T21:40Z",
-      "date_display": "18 Sep 21:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says the US has entered an agreement with Denmark and Greenland giving the United St...",
-      "description": "<b>BREAKING:</b> Trump says the US has entered an agreement with Denmark and Greenland giving the United States permanent control over its security needs in Greenland",
-      "date": "2026-09-18T21:30Z",
-      "date_display": "18 Sep 21:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US diesel prices have hit a new record high of $6.45 per gallon",
-      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.45 per gallon",
-      "date": "2026-09-18T20:40Z",
-      "date_display": "18 Sep 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: The Washington Post reports that 'more American service members have died' in the Iran war...",
-      "description": "<b>BREAKING:</b> The Washington Post reports that 'more American service members have died' in the Iran war than 'the Pentagon has disclosed publicly'",
-      "date": "2026-09-18T20:40Z",
-      "date_display": "18 Sep 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Drone hit cooling reactor at a nuclear power plant in western Russia, according to the ​In...",
-      "description": "<b>BREAKING:</b> Drone hit cooling reactor at a nuclear power plant in western Russia, according to the ​International Atomic Energy Agency, but is continuing to function.",
-      "date": "2026-09-18T20:22Z",
-      "date_display": "18 Sep 20:22 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

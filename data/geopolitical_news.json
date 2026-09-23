@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-22T05:16Z",
+  "fetched_at": "2026-09-23T05:01Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 12,
+  "india_relevant_items": 11,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "BREAKING: US crude oil up 1%, trading at over $100."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
+      "description": "<b>BREAKING:</b> Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
+      "date": "2026-09-22T20:01Z",
+      "date_display": "22 Sep 20:01 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇸🇦 Saudi Arabia has restarted operations at its East-West oil pipeline",
+      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia has restarted operations at its East-West oil pipeline",
+      "date": "2026-09-22T11:07Z",
+      "date_display": "22 Sep 11:07 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: US crude oil up 1%, trading at over $100.",
       "description": "<b>BREAKING:</b> US crude oil up 1%, trading at over $100.",
@@ -83,33 +99,73 @@
       "date_display": "18 Sep 20:40 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billio...",
-      "description": "<b>BREAKING:</b> Trump administration approves sale of 48 F-35 fighter jets to Saudi Arabia in $24.3 billion deal https://t.co/wX7Reii9Cx",
-      "date": "2026-09-17T20:20Z",
-      "date_display": "17 Sep 20:20 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Pakistan's defense minister says it is time to activate Mecca military pact following Hout...",
-      "description": "<b>BREAKING:</b> Pakistan's defense minister says it is time to activate Mecca military pact following Houthi attacks on Saudi Arabia",
-      "date": "2026-09-17T19:10Z",
-      "date_display": "17 Sep 19:10 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to preven...",
-      "description": "The European Union has asked China to voluntarily reduce hybrid vehicle exports in attempt to prevent a trade war, according to the Financial Times. https://t.co/A8MxTP9KSR",
-      "date": "2026-09-17T04:10Z",
-      "date_display": "17 Sep 04:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Copper price reaches record high",
+      "description": "<b>BREAKING:</b> Copper price reaches record high",
+      "date": "2026-09-23T04:00Z",
+      "date_display": "23 Sep 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Democratic Party now has a 63% chance of winning the US Senate, according to prediction market @...",
+      "description": "The Democratic Party now has a 63% chance of winning the US Senate, according to prediction market @Kalshi. https://t.co/r827jtGRDf",
+      "date": "2026-09-23T01:00Z",
+      "date_display": "23 Sep 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.52\n\n(AAA) https://t.co/SU0zoe0b6P",
+      "description": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.52\n\n(AAA) https://t.co/SU0zoe0b6P",
+      "date": "2026-09-22T21:00Z",
+      "date_display": "22 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "🇺🇸 Only 54% of Americans now drink alcohol, a record-low since 1939, and down from 67% in 2022, ac...",
+      "description": "🇺🇸 Only 54% of Americans now drink alcohol, a record-low since 1939, and down from 67% in 2022, according to Gallup study.",
+      "date": "2026-09-22T21:00Z",
+      "date_display": "22 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The United States will build two military bases in Greenland as part of deal signed with the Prime M...",
+      "description": "The United States will build two military bases in Greenland as part of deal signed with the Prime Ministers of Denmark and Greenland. https://t.co/RVKZKC8vck",
+      "date": "2026-09-22T20:01Z",
+      "date_display": "22 Sep 20:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US diesel prices have hit a new record high of $6.52 per gallon",
+      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.52 per gallon",
+      "date": "2026-09-22T20:01Z",
+      "date_display": "22 Sep 20:01 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
+      "description": "<b>BREAKING:</b> Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
+      "date": "2026-09-22T20:01Z",
+      "date_display": "22 Sep 20:01 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇸🇦 Saudi Arabia has restarted operations at its East-West oil pipeline",
+      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia has restarted operations at its East-West oil pipeline",
+      "date": "2026-09-22T11:07Z",
+      "date_display": "22 Sep 11:07 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "The price of rice is now up 67% since the start of the year. https://t.co/grVPcuWOM3",
       "description": "The price of rice is now up 67% since the start of the year. https://t.co/grVPcuWOM3",
@@ -283,70 +339,6 @@
       "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.48 per gallon",
       "date": "2026-09-19T18:40Z",
       "date_display": "19 Sep 18:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 31 dead in attack on police headquarters in northwest Pakistan",
-      "description": "<b>BREAKING:</b> 31 dead in attack on police headquarters in northwest Pakistan",
-      "date": "2026-09-19T04:00Z",
-      "date_display": "19 Sep 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS ...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS crude oil: +73%\nBrent crude: +70%\nCoal: +33%",
-      "date": "2026-09-19T02:00Z",
-      "date_display": "19 Sep 02:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US approves $2.6 billion sale of military equipment to Ukraine",
-      "description": "<b>BREAKING:</b> US approves $2.6 billion sale of military equipment to Ukraine",
-      "date": "2026-09-19T01:40Z",
-      "date_display": "19 Sep 01:40 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.04 https://t.co/skM1pYYglG",
-      "description": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.04 https://t.co/skM1pYYglG",
-      "date": "2026-09-19T00:50Z",
-      "date_display": "19 Sep 00:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Google Gemini artificial intelligence agent hacked three companies",
-      "description": "<b>BREAKING:</b> Google Gemini artificial intelligence agent hacked three companies",
-      "date": "2026-09-19T00:21Z",
-      "date_display": "19 Sep 00:21 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Flight activity halted at Luxembourg airport due to drone activity",
-      "description": "<b>BREAKING:</b> Flight activity halted at Luxembourg airport due to drone activity",
-      "date": "2026-09-18T21:50Z",
-      "date_display": "18 Sep 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "President Trump has signed the Russia-Iran sanctions bill into law.",
-      "description": "President Trump has signed the Russia-Iran sanctions bill into law.",
-      "date": "2026-09-18T21:50Z",
-      "date_display": "18 Sep 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says the United States will be 'developing a large military presence' in a part of G...",
-      "description": "<b>BREAKING:</b> Trump says the United States will be 'developing a large military presence' in a part of Greenland",
-      "date": "2026-09-18T21:40Z",
-      "date_display": "18 Sep 21:40 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

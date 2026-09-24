@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-09-23T05:01Z",
+  "fetched_at": "2026-09-24T05:12Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 11,
+  "india_relevant_items": 13,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: US crude oil up 1%, trading at over $100."
+    "latest_oil_headline": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO"
   },
   "india_headlines": [
+    {
+      "title": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t...",
+      "description": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t.co/bzcbrVUuP5",
+      "date": "2026-09-23T22:00Z",
+      "date_display": "23 Sep 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: China's government has 'taken possession of potentially sensitive F-35 stealth aircraft pa...",
+      "description": "<b>BREAKING:</b> China's government has 'taken possession of potentially sensitive F-35 stealth aircraft parts' that were diverted to Hong Kong while being sent to the US from Australia, and 'so far has not returned them', according to Bloomberg report. https://t.co/z9GazA4Uc6",
+      "date": "2026-09-23T21:00Z",
+      "date_display": "23 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO",
+      "description": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO",
+      "date": "2026-09-23T19:02Z",
+      "date_display": "23 Sep 19:02 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
       "description": "<b>BREAKING:</b> Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
@@ -91,17 +115,81 @@
       "date_display": "18 Sep 21:50 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: The Washington Post reports that 'more American service members have died' in the Iran war...",
-      "description": "<b>BREAKING:</b> The Washington Post reports that 'more American service members have died' in the Iran war than 'the Pentagon has disclosed publicly'",
-      "date": "2026-09-18T20:40Z",
-      "date_display": "18 Sep 20:40 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t...",
+      "description": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t.co/bzcbrVUuP5",
+      "date": "2026-09-23T22:00Z",
+      "date_display": "23 Sep 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: China's government has 'taken possession of potentially sensitive F-35 stealth aircraft pa...",
+      "description": "<b>BREAKING:</b> China's government has 'taken possession of potentially sensitive F-35 stealth aircraft parts' that were diverted to Hong Kong while being sent to the US from Australia, and 'so far has not returned them', according to Bloomberg report. https://t.co/z9GazA4Uc6",
+      "date": "2026-09-23T21:00Z",
+      "date_display": "23 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Australia's Prime Minister Anthony Albanese says OpenAI model hacked into government agenc...",
+      "description": "<b>BREAKING:</b> Australia's Prime Minister Anthony Albanese says OpenAI model hacked into government agency Services Australia",
+      "date": "2026-09-23T21:00Z",
+      "date_display": "23 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The global bond market is showing worrying signs, with broad increases in borrowing costs in recent ...",
+      "description": "The global bond market is showing worrying signs, with broad increases in borrowing costs in recent days.\n\n🇺🇸 US government 10-year bond yields have reached their highest since 2007, while 30-year yields have reached their highest since 2004.\n\n🇯🇵 Japan’s 10-year government bond yield has reached its highest in three decades.\n\n🇬🇧 The UK’s 10-year government bond yield has reached its highest since 2008.\n\n🇩🇪 Germany’s 10-year government bond yield has reached its highest since 2011.\n\n🇦🇺 Australia's 10-year government bond yield reached its highest since 2011.\n\n🇫🇷 France’s 10-year government bond yield has reached its highest since 2008, during the Global Financial Crisis.",
+      "date": "2026-09-23T20:01Z",
+      "date_display": "23 Sep 20:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump is preparing a 90-day ban on diesel exports, according to Politico report.",
+      "description": "<b>BREAKING:</b> Trump is preparing a 90-day ban on diesel exports, according to Politico report.",
+      "date": "2026-09-23T19:02Z",
+      "date_display": "23 Sep 19:02 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US government 10-year bond yield hits 5.12%, the highest since 2007.",
+      "description": "<b>BREAKING:</b> US government 10-year bond yield hits 5.12%, the highest since 2007.",
+      "date": "2026-09-23T19:02Z",
+      "date_display": "23 Sep 19:02 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US government 30-year bond yield hits 5.41%, the highest since 2004.",
+      "description": "<b>BREAKING:</b> 🇺🇸 US government 30-year bond yield hits 5.41%, the highest since 2004.",
+      "date": "2026-09-23T19:02Z",
+      "date_display": "23 Sep 19:02 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO",
+      "description": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO",
+      "date": "2026-09-23T19:02Z",
+      "date_display": "23 Sep 19:02 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 11 killed in a mass shooting in Durban, South Africa.",
+      "description": "<b>BREAKING:</b> 11 killed in a mass shooting in Durban, South Africa.",
+      "date": "2026-09-23T06:00Z",
+      "date_display": "23 Sep 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Copper price reaches record high",
       "description": "<b>BREAKING:</b> Copper price reaches record high",
@@ -268,78 +356,6 @@
       "date": "2026-09-20T19:50Z",
       "date_display": "20 Sep 19:50 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Germany's Chancellor Friedrich Merz says he will stay in the position despite heavy losses for his p...",
-      "description": "Germany's Chancellor Friedrich Merz says he will stay in the position despite heavy losses for his party in several regional elections. https://t.co/uDWMfoRSGc",
-      "date": "2026-09-20T19:21Z",
-      "date_display": "20 Sep 19:21 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Saudi Arabia withdraws from China-led digital currency program that is 'part of China’s ef...",
-      "description": "<b>BREAKING:</b> Saudi Arabia withdraws from China-led digital currency program that is 'part of China’s efforts to develop an alternative cross-border payments system to the dollar', according to Financial Times report. https://t.co/4JpptApCOZ",
-      "date": "2026-09-20T08:00Z",
-      "date_display": "20 Sep 08:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Ukrainian attack on Moscow oil refinery",
-      "description": "<b>BREAKING:</b> Ukrainian attack on Moscow oil refinery",
-      "date": "2026-09-20T06:00Z",
-      "date_display": "20 Sep 06:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: CNN reports the US is considering military options against the Houthis in Yemen",
-      "description": "<b>BREAKING:</b> CNN reports the US is considering military options against the Houthis in Yemen",
-      "date": "2026-09-20T02:20Z",
-      "date_display": "20 Sep 02:20 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: CNN reports the US is preparing a military operation against the Houthis in Yemen",
-      "description": "<b>BREAKING:</b> CNN reports the US is preparing a military operation against the Houthis in Yemen",
-      "date": "2026-09-20T02:10Z",
-      "date_display": "20 Sep 02:10 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 tril...",
-      "description": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 trillion\n\nCalifornia: $4.3 trillion",
-      "date": "2026-09-19T21:40Z",
-      "date_display": "19 Sep 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump says that artificial intelligence could eventually make up 25% of the GDP of the Uni...",
-      "description": "President Trump says that artificial intelligence could eventually make up 25% of the GDP of the United States. https://t.co/ujTQZPrbMb",
-      "date": "2026-09-19T20:01Z",
-      "date_display": "19 Sep 20:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 President Trump approval rating\n\nApprove: 41%\nDisapprove: 59%\n\n(Rasmussen Report) https://t.co/...",
-      "description": "🇺🇸 President Trump approval rating\n\nApprove: 41%\nDisapprove: 59%\n\n(Rasmussen Report) https://t.co/yojxtonRo1",
-      "date": "2026-09-19T19:01Z",
-      "date_display": "19 Sep 19:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US diesel prices have hit a new record high of $6.48 per gallon",
-      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.48 per gallon",
-      "date": "2026-09-19T18:40Z",
-      "date_display": "19 Sep 18:40 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

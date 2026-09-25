@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-09-24T05:12Z",
+  "fetched_at": "2026-09-25T05:14Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 13,
+  "india_relevant_items": 12,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": false,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO"
+    "latest_oil_headline": "BREAKING: Oil prices up 3%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Colombia cuts off diplomatic ties with Iran",
+      "description": "<b>BREAKING:</b> Colombia cuts off diplomatic ties with Iran",
+      "date": "2026-09-25T00:00Z",
+      "date_display": "25 Sep 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: All Iranian airline flights to the UAE have been cancelled",
+      "description": "<b>BREAKING:</b> All Iranian airline flights to the UAE have been cancelled",
+      "date": "2026-09-24T11:09Z",
+      "date_display": "24 Sep 11:09 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices up 3%",
+      "description": "<b>BREAKING:</b> Oil prices up 3%",
+      "date": "2026-09-24T09:01Z",
+      "date_display": "24 Sep 09:01 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t...",
       "description": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t.co/bzcbrVUuP5",
@@ -83,41 +107,97 @@
       "date_display": "19 Sep 21:40 UTC",
       "severity": "medium",
       "is_india_relevant": true
+    }
+  ],
+  "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇯🇵 Japanese government 10-year bond yield rises to 3.1%, the highest since August, 1996....",
+      "description": "<b>BREAKING:</b> 🇯🇵 Japanese government 10-year bond yield rises to 3.1%, the highest since August, 1996.",
+      "date": "2026-09-25T02:00Z",
+      "date_display": "25 Sep 02:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
     },
     {
-      "title": "BREAKING: 31 dead in attack on police headquarters in northwest Pakistan",
-      "description": "<b>BREAKING:</b> 31 dead in attack on police headquarters in northwest Pakistan",
-      "date": "2026-09-19T04:00Z",
-      "date_display": "19 Sep 04:00 UTC",
+      "title": "BREAKING: Colombia cuts off diplomatic ties with Iran",
+      "description": "<b>BREAKING:</b> Colombia cuts off diplomatic ties with Iran",
+      "date": "2026-09-25T00:00Z",
+      "date_display": "25 Sep 00:00 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS ...",
-      "description": "Prices, since start of the year.\n\nEuropean natural gas: +180%\nHeating oil: +137%\nGasoline: +105%\nUS crude oil: +73%\nBrent crude: +70%\nCoal: +33%",
-      "date": "2026-09-19T02:00Z",
-      "date_display": "19 Sep 02:00 UTC",
+      "title": "Over $350 million in crypto assets taken from wallets at Bitget exchange in a hacking incident.",
+      "description": "Over $350 million in crypto assets taken from wallets at Bitget exchange in a hacking incident.",
+      "date": "2026-09-24T23:00Z",
+      "date_display": "24 Sep 23:00 UTC",
       "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US government 10-year bond yield rises further and hits 5.2%, the highest since 2007....",
+      "description": "<b>BREAKING:</b> 🇺🇸 US government 10-year bond yield rises further and hits 5.2%, the highest since 2007.",
+      "date": "2026-09-24T23:00Z",
+      "date_display": "24 Sep 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "US average diesel price\n\nOne year ago: $3.69\n\nNow: $6.51\n\n(AAA) https://t.co/RmBluVdbwX",
+      "description": "US average diesel price\n\nOne year ago: $3.69\n\nNow: $6.51\n\n(AAA) https://t.co/RmBluVdbwX",
+      "date": "2026-09-24T20:02Z",
+      "date_display": "24 Sep 20:02 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US government 10-year bond yield hits 5.17%, the highest since 2007.",
+      "description": "<b>BREAKING:</b> US government 10-year bond yield hits 5.17%, the highest since 2007.",
+      "date": "2026-09-24T19:01Z",
+      "date_display": "24 Sep 19:01 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Several delegations walk out as Israeli Prime Minister Benjamin Netanyahu begins his speec...",
+      "description": "<b>BREAKING:</b> Several delegations walk out as Israeli Prime Minister Benjamin Netanyahu begins his speech at the UN General Assembly",
+      "date": "2026-09-24T19:01Z",
+      "date_display": "24 Sep 19:01 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Netanyahu calls those who walked out as he began his speech at the UN General Assembly 'mo...",
+      "description": "<b>BREAKING:</b> Netanyahu calls those who walked out as he began his speech at the UN General Assembly 'moral cowards'.",
+      "date": "2026-09-24T19:01Z",
+      "date_display": "24 Sep 19:01 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: All Iranian airline flights to the UAE have been cancelled",
+      "description": "<b>BREAKING:</b> All Iranian airline flights to the UAE have been cancelled",
+      "date": "2026-09-24T11:09Z",
+      "date_display": "24 Sep 11:09 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.04 https://t.co/skM1pYYglG",
-      "description": "US heating oil price per gallon\n\n1st of January: $2.12\n\nNow: $5.04 https://t.co/skM1pYYglG",
-      "date": "2026-09-19T00:50Z",
-      "date_display": "19 Sep 00:50 UTC",
-      "severity": "medium",
+      "title": "BREAKING: Oil prices up 3%",
+      "description": "<b>BREAKING:</b> Oil prices up 3%",
+      "date": "2026-09-24T09:01Z",
+      "date_display": "24 Sep 09:01 UTC",
+      "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "President Trump has signed the Russia-Iran sanctions bill into law.",
-      "description": "President Trump has signed the Russia-Iran sanctions bill into law.",
-      "date": "2026-09-18T21:50Z",
-      "date_display": "18 Sep 21:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+      "title": "BREAKING: Trump administration has been ordered to restore White House access to CNN, MS Now and Pol...",
+      "description": "<b>BREAKING:</b> Trump administration has been ordered to restore White House access to CNN, MS Now and Politico.",
+      "date": "2026-09-24T06:00Z",
+      "date_display": "24 Sep 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t...",
       "description": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t.co/bzcbrVUuP5",
@@ -268,94 +348,6 @@
       "date": "2026-09-21T21:01Z",
       "date_display": "21 Sep 21:01 UTC",
       "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US diesel prices have hit a new record high of $6.51 per gallon",
-      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.51 per gallon",
-      "date": "2026-09-21T20:00Z",
-      "date_display": "21 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US average diesel price\n\nOne year ago: $3.67\n\nNow: $6.51\n\n(AAA) https://t.co/o86PxvuCEx",
-      "description": "US average diesel price\n\nOne year ago: $3.67\n\nNow: $6.51\n\n(AAA) https://t.co/o86PxvuCEx",
-      "date": "2026-09-21T20:00Z",
-      "date_display": "21 Sep 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Bitcoin hits $84,000, the highest since January.",
-      "description": "<b>BREAKING:</b> Bitcoin hits $84,000, the highest since January.",
-      "date": "2026-09-21T11:07Z",
-      "date_display": "21 Sep 11:07 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The price of wheat is now up 43% since the start of the year. https://t.co/CF833MvAzT",
-      "description": "The price of wheat is now up 43% since the start of the year. https://t.co/CF833MvAzT",
-      "date": "2026-09-21T03:20Z",
-      "date_display": "21 Sep 03:20 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Jon Ossoff leads as favorite to win 2028 Democratic presidential nomination at 16%, followed by Alex...",
-      "description": "Jon Ossoff leads as favorite to win 2028 Democratic presidential nomination at 16%, followed by Alexandria Ocasio-Cortez at 15% and Gavin Newsom at 14%, according to @Kalshi prediction market. https://t.co/tMWqU51ScX",
-      "date": "2026-09-21T01:50Z",
-      "date_display": "21 Sep 01:50 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: The Trump administration is preparing 'sweeping sanctions' on the International Criminal C...",
-      "description": "<b>BREAKING:</b> The Trump administration is preparing 'sweeping sanctions' on the International Criminal Court in an effort to 'dismantle the institution after it issued an arrest warrant for Israeli Prime Minister Benjamin Netanyahu', according to the Wall Street Journal. https://t.co/hihcnUHu2b",
-      "date": "2026-09-21T00:30Z",
-      "date_display": "21 Sep 00:30 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US crude oil up 1%, trading at over $100.",
-      "description": "<b>BREAKING:</b> US crude oil up 1%, trading at over $100.",
-      "date": "2026-09-20T22:21Z",
-      "date_display": "20 Sep 22:21 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US average diesel price\n\nOne year ago: $3.70\n\nNow: $6.50\n\n(AAA) https://t.co/VQtAAqjeuB",
-      "description": "US average diesel price\n\nOne year ago: $3.70\n\nNow: $6.50\n\n(AAA) https://t.co/VQtAAqjeuB",
-      "date": "2026-09-20T22:00Z",
-      "date_display": "20 Sep 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US diesel prices have hit a new record high of $6.5 per gallon",
-      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.5 per gallon",
-      "date": "2026-09-20T21:50Z",
-      "date_display": "20 Sep 21:50 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Size of economy\n\n🇮🇹 Italy: $2.7 trillion\n🇧🇷 Brazil: $2.6 trillion\n🇷🇺 Russia: $2.6 trillion\n🇨�...",
-      "description": "Size of economy\n\n🇮🇹 Italy: $2.7 trillion\n🇧🇷 Brazil: $2.6 trillion\n🇷🇺 Russia: $2.6 trillion\n🇨🇦 Canada: $2.4 trillion\n\nTexas: $2.9 trillion",
-      "date": "2026-09-20T20:10Z",
-      "date_display": "20 Sep 20:10 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Agricultural commodity prices are surging. https://t.co/sXjtO8hZHx",
-      "description": "Agricultural commodity prices are surging. https://t.co/sXjtO8hZHx",
-      "date": "2026-09-20T19:50Z",
-      "date_display": "20 Sep 19:50 UTC",
-      "severity": "medium",
       "is_india_relevant": false
     }
   ]

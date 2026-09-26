@@ -1,17 +1,25 @@
 {
-  "fetched_at": "2026-09-25T05:14Z",
+  "fetched_at": "2026-09-26T05:18Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 12,
+  "india_relevant_items": 10,
   "oil_signals": {
     "brent_mentioned": true,
-    "hormuz_risk": false,
+    "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
     "latest_oil_headline": "BREAKING: Oil prices up 3%"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Iran's foreign minister says his country has offered the US a plan that would have Strait ...",
+      "description": "<b>BREAKING:</b> Iran's foreign minister says his country has offered the US a plan that would have Strait of Hormuz re-opened within a week, according to AFP report.",
+      "date": "2026-09-25T21:01Z",
+      "date_display": "25 Sep 21:01 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Colombia cuts off diplomatic ties with Iran",
       "description": "<b>BREAKING:</b> Colombia cuts off diplomatic ties with Iran",
@@ -83,33 +91,73 @@
       "date_display": "20 Sep 22:21 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Saudi Arabia withdraws from China-led digital currency program that is 'part of China’s ef...",
-      "description": "<b>BREAKING:</b> Saudi Arabia withdraws from China-led digital currency program that is 'part of China’s efforts to develop an alternative cross-border payments system to the dollar', according to Financial Times report. https://t.co/4JpptApCOZ",
-      "date": "2026-09-20T08:00Z",
-      "date_display": "20 Sep 08:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Ukrainian attack on Moscow oil refinery",
-      "description": "<b>BREAKING:</b> Ukrainian attack on Moscow oil refinery",
-      "date": "2026-09-20T06:00Z",
-      "date_display": "20 Sep 06:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 tril...",
-      "description": "Size of economy\n\n🇬🇧 United Kingdom: $4.2 trillion\n🇮🇳 India: $4.1 trillion\n🇫🇷 France: $3.6 trillion\n\nCalifornia: $4.3 trillion",
-      "date": "2026-09-19T21:40Z",
-      "date_display": "19 Sep 21:40 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.2 trill...",
+      "description": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.2 trillion\n🇩🇪 Entire German stock market: $3 trillion\n\n🇺🇸 NVIDIA: $5.4 trillion https://t.co/jpvlELjmBD",
+      "date": "2026-09-26T04:00Z",
+      "date_display": "26 Sep 04:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: OpenAI says its agents accessed and leaked 53 images from ChatGPT users",
+      "description": "<b>BREAKING:</b> OpenAI says its agents accessed and leaked 53 images from ChatGPT users",
+      "date": "2026-09-25T22:00Z",
+      "date_display": "25 Sep 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The price of rice futures (CBOT) is now up 73% since the start of the year. https://t.co/qvYZuVdA9j",
+      "description": "The price of rice futures (CBOT) is now up 73% since the start of the year. https://t.co/qvYZuVdA9j",
+      "date": "2026-09-25T21:01Z",
+      "date_display": "25 Sep 21:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's foreign minister says his country has offered the US a plan that would have Strait ...",
+      "description": "<b>BREAKING:</b> Iran's foreign minister says his country has offered the US a plan that would have Strait of Hormuz re-opened within a week, according to AFP report.",
+      "date": "2026-09-25T21:01Z",
+      "date_display": "25 Sep 21:01 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "United States in fiscal year 2025.\n\nNational Defense Spending: $874 billion\n\nNet Interest Payments: ...",
+      "description": "United States in fiscal year 2025.\n\nNational Defense Spending: $874 billion\n\nNet Interest Payments: $970 billion https://t.co/auqMaaE6C9",
+      "date": "2026-09-25T21:01Z",
+      "date_display": "25 Sep 21:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US 30-year fixed mortgage rate has risen to 7.49% according to Mortgage News Daily....",
+      "description": "<b>BREAKING:</b> 🇺🇸 US 30-year fixed mortgage rate has risen to 7.49% according to Mortgage News Daily.",
+      "date": "2026-09-25T20:00Z",
+      "date_display": "25 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The United States\n\n30-year fixed mortgage rate now at 7.49% \n\n10-year government bond yield is at th...",
+      "description": "The United States\n\n30-year fixed mortgage rate now at 7.49% \n\n10-year government bond yield is at the highest since 2007\n\n30-year government bond yield is at the highest since 2004\n\nDiesel prices at $6.5, near record-high. https://t.co/Ky92XHThi7",
+      "date": "2026-09-25T20:00Z",
+      "date_display": "25 Sep 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Bill Gates has warned that artificial intelligence is 'certainly powerful enough to drive events tha...",
+      "description": "Bill Gates has warned that artificial intelligence is 'certainly powerful enough to drive events that, you know, cause a billion deaths'. https://t.co/4zo8oqQx2x",
+      "date": "2026-09-25T20:00Z",
+      "date_display": "25 Sep 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇯🇵 Japanese government 10-year bond yield rises to 3.1%, the highest since August, 1996....",
       "description": "<b>BREAKING:</b> 🇯🇵 Japanese government 10-year bond yield rises to 3.1%, the highest since August, 1996.",
@@ -284,70 +332,6 @@
       "date": "2026-09-23T01:00Z",
       "date_display": "23 Sep 01:00 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.52\n\n(AAA) https://t.co/SU0zoe0b6P",
-      "description": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.52\n\n(AAA) https://t.co/SU0zoe0b6P",
-      "date": "2026-09-22T21:00Z",
-      "date_display": "22 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "🇺🇸 Only 54% of Americans now drink alcohol, a record-low since 1939, and down from 67% in 2022, ac...",
-      "description": "🇺🇸 Only 54% of Americans now drink alcohol, a record-low since 1939, and down from 67% in 2022, according to Gallup study.",
-      "date": "2026-09-22T21:00Z",
-      "date_display": "22 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The United States will build two military bases in Greenland as part of deal signed with the Prime M...",
-      "description": "The United States will build two military bases in Greenland as part of deal signed with the Prime Ministers of Denmark and Greenland. https://t.co/RVKZKC8vck",
-      "date": "2026-09-22T20:01Z",
-      "date_display": "22 Sep 20:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US diesel prices have hit a new record high of $6.52 per gallon",
-      "description": "<b>BREAKING:</b> US diesel prices have hit a new record high of $6.52 per gallon",
-      "date": "2026-09-22T20:01Z",
-      "date_display": "22 Sep 20:01 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
-      "description": "<b>BREAKING:</b> Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
-      "date": "2026-09-22T20:01Z",
-      "date_display": "22 Sep 20:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇸🇦 Saudi Arabia has restarted operations at its East-West oil pipeline",
-      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia has restarted operations at its East-West oil pipeline",
-      "date": "2026-09-22T11:07Z",
-      "date_display": "22 Sep 11:07 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The price of rice is now up 67% since the start of the year. https://t.co/grVPcuWOM3",
-      "description": "The price of rice is now up 67% since the start of the year. https://t.co/grVPcuWOM3",
-      "date": "2026-09-21T21:01Z",
-      "date_display": "21 Sep 21:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Bitcoin hits $87,000, the highest since January.",
-      "description": "<b>BREAKING:</b> Bitcoin hits $87,000, the highest since January.",
-      "date": "2026-09-21T21:01Z",
-      "date_display": "21 Sep 21:01 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

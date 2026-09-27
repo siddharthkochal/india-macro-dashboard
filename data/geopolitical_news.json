@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-26T05:18Z",
+  "fetched_at": "2026-09-27T05:36Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 10,
+  "india_relevant_items": 13,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "BREAKING: Oil prices up 3%"
   },
   "india_headlines": [
+    {
+      "title": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 ...",
+      "description": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 France: 2,760 km\n🇩🇪 Germany: 1,940 km\n🇺🇸 United States: 735 km\n\n🇨🇳 China: 50,400 km\n\n(UIC 2024; China Railway 2025) https://t.co/jk9I5nCMAj",
+      "date": "2026-09-26T23:00Z",
+      "date_display": "26 Sep 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Share of global commercial shipbuilding by gross tonnage, 2024.\n\n🇨🇳 China: 54%\n🇰🇷 South Korea: 2...",
+      "description": "Share of global commercial shipbuilding by gross tonnage, 2024.\n\n🇨🇳 China: 54%\n🇰🇷 South Korea: 28%\n🇯🇵 Japan: 13%\n🇺🇸 United States: 0.04%\n\n(UNCTAD data) https://t.co/XgKRBUKxkr",
+      "date": "2026-09-26T20:00Z",
+      "date_display": "26 Sep 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: President Trump 'rejected Iran’s proposal for a seven-day ceasefire' and 'expects to resum...",
+      "description": "<b>BREAKING:</b> President Trump 'rejected Iran’s proposal for a seven-day ceasefire' and 'expects to resume bombing Iran after the November midterms', according to Wall Street Journal report.",
+      "date": "2026-09-26T10:00Z",
+      "date_display": "26 Sep 10:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Iran's foreign minister says his country has offered the US a plan that would have Strait ...",
       "description": "<b>BREAKING:</b> Iran's foreign minister says his country has offered the US a plan that would have Strait of Hormuz re-opened within a week, according to AFP report.",
@@ -94,6 +118,38 @@
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 ...",
+      "description": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 France: 2,760 km\n🇩🇪 Germany: 1,940 km\n🇺🇸 United States: 735 km\n\n🇨🇳 China: 50,400 km\n\n(UIC 2024; China Railway 2025) https://t.co/jk9I5nCMAj",
+      "date": "2026-09-26T23:00Z",
+      "date_display": "26 Sep 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Share of global commercial shipbuilding by gross tonnage, 2024.\n\n🇨🇳 China: 54%\n🇰🇷 South Korea: 2...",
+      "description": "Share of global commercial shipbuilding by gross tonnage, 2024.\n\n🇨🇳 China: 54%\n🇰🇷 South Korea: 28%\n🇯🇵 Japan: 13%\n🇺🇸 United States: 0.04%\n\n(UNCTAD data) https://t.co/XgKRBUKxkr",
+      "date": "2026-09-26T20:00Z",
+      "date_display": "26 Sep 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The Democratic Party now has a 91% chance of winning the US House of Representatives, according to p...",
+      "description": "The Democratic Party now has a 91% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/tCD0jvy5kd",
+      "date": "2026-09-26T20:00Z",
+      "date_display": "26 Sep 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: President Trump 'rejected Iran’s proposal for a seven-day ceasefire' and 'expects to resum...",
+      "description": "<b>BREAKING:</b> President Trump 'rejected Iran’s proposal for a seven-day ceasefire' and 'expects to resume bombing Iran after the November midterms', according to Wall Street Journal report.",
+      "date": "2026-09-26T10:00Z",
+      "date_display": "26 Sep 10:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.2 trill...",
       "description": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.2 trillion\n🇩🇪 Entire German stock market: $3 trillion\n\n🇺🇸 NVIDIA: $5.4 trillion https://t.co/jpvlELjmBD",
@@ -300,38 +356,6 @@
       "date": "2026-09-23T19:02Z",
       "date_display": "23 Sep 19:02 UTC",
       "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO",
-      "description": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO",
-      "date": "2026-09-23T19:02Z",
-      "date_display": "23 Sep 19:02 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 11 killed in a mass shooting in Durban, South Africa.",
-      "description": "<b>BREAKING:</b> 11 killed in a mass shooting in Durban, South Africa.",
-      "date": "2026-09-23T06:00Z",
-      "date_display": "23 Sep 06:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Copper price reaches record high",
-      "description": "<b>BREAKING:</b> Copper price reaches record high",
-      "date": "2026-09-23T04:00Z",
-      "date_display": "23 Sep 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Democratic Party now has a 63% chance of winning the US Senate, according to prediction market @...",
-      "description": "The Democratic Party now has a 63% chance of winning the US Senate, according to prediction market @Kalshi. https://t.co/r827jtGRDf",
-      "date": "2026-09-23T01:00Z",
-      "date_display": "23 Sep 01:00 UTC",
-      "severity": "medium",
       "is_india_relevant": false
     }
   ]

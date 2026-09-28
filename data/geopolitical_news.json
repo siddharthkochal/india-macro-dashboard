@@ -1,17 +1,65 @@
 {
-  "fetched_at": "2026-09-27T05:36Z",
+  "fetched_at": "2026-09-28T05:43Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 13,
+  "india_relevant_items": 18,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Oil prices up 3%"
+    "latest_oil_headline": "Oil prices rise by 1% at open as US-Iran deal remains elusive."
   },
   "india_headlines": [
+    {
+      "title": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
+      "description": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
+      "date": "2026-09-27T23:00Z",
+      "date_display": "27 Sep 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Saudi Arabia is this month exporting 6 million barrels a day of crude oil, equivalent to its average...",
+      "description": "Saudi Arabia is this month exporting 6 million barrels a day of crude oil, equivalent to its average in 2025, according to Kpler. https://t.co/aggXwKeFAE",
+      "date": "2026-09-27T22:00Z",
+      "date_display": "27 Sep 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says the United States is 'about a year, maybe a year and a half' up on China when i...",
+      "description": "President Trump says the United States is 'about a year, maybe a year and a half' up on China when it comes to artificial intelligence and 'there is nobody in third place'. https://t.co/SI5R4eirM8",
+      "date": "2026-09-27T22:00Z",
+      "date_display": "27 Sep 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Egypt's intelligence chief Abbas Kamel warned Netanyahu in early October, 2023, of an 'imp...",
+      "description": "<b>BREAKING:</b> Egypt's intelligence chief Abbas Kamel warned Netanyahu in early October, 2023, of an 'impending attack on Israel' in one of 'multiple advance warnings', according to the Wall Street Journal.",
+      "date": "2026-09-27T22:00Z",
+      "date_display": "27 Sep 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Serbia's President Vucic has resigned ahead of elections",
+      "description": "<b>BREAKING:</b> Serbia's President Vucic has resigned ahead of elections",
+      "date": "2026-09-27T20:00Z",
+      "date_display": "27 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Netanyahu visited the UAE and met with its president earlier today, according to Channel 1...",
+      "description": "<b>BREAKING:</b> Netanyahu visited the UAE and met with its president earlier today, according to Channel 12 report.",
+      "date": "2026-09-27T20:00Z",
+      "date_display": "27 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 ...",
       "description": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 France: 2,760 km\n🇩🇪 Germany: 1,940 km\n🇺🇸 United States: 735 km\n\n🇨🇳 China: 50,400 km\n\n(UIC 2024; China Railway 2025) https://t.co/jk9I5nCMAj",
@@ -107,17 +155,73 @@
       "date_display": "22 Sep 11:07 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: US crude oil up 1%, trading at over $100.",
-      "description": "<b>BREAKING:</b> US crude oil up 1%, trading at over $100.",
-      "date": "2026-09-20T22:21Z",
-      "date_display": "20 Sep 22:21 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.47\n\n(AAA) https://t.co/ldwqZsfBd7",
+      "description": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.47\n\n(AAA) https://t.co/ldwqZsfBd7",
+      "date": "2026-09-28T00:00Z",
+      "date_display": "28 Sep 00:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
+      "description": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
+      "date": "2026-09-27T23:00Z",
+      "date_display": "27 Sep 23:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Saudi Arabia is this month exporting 6 million barrels a day of crude oil, equivalent to its average...",
+      "description": "Saudi Arabia is this month exporting 6 million barrels a day of crude oil, equivalent to its average in 2025, according to Kpler. https://t.co/aggXwKeFAE",
+      "date": "2026-09-27T22:00Z",
+      "date_display": "27 Sep 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says the United States is 'about a year, maybe a year and a half' up on China when i...",
+      "description": "President Trump says the United States is 'about a year, maybe a year and a half' up on China when it comes to artificial intelligence and 'there is nobody in third place'. https://t.co/SI5R4eirM8",
+      "date": "2026-09-27T22:00Z",
+      "date_display": "27 Sep 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Egypt's intelligence chief Abbas Kamel warned Netanyahu in early October, 2023, of an 'imp...",
+      "description": "<b>BREAKING:</b> Egypt's intelligence chief Abbas Kamel warned Netanyahu in early October, 2023, of an 'impending attack on Israel' in one of 'multiple advance warnings', according to the Wall Street Journal.",
+      "date": "2026-09-27T22:00Z",
+      "date_display": "27 Sep 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Serbia's President Vucic has resigned ahead of elections",
+      "description": "<b>BREAKING:</b> Serbia's President Vucic has resigned ahead of elections",
+      "date": "2026-09-27T20:00Z",
+      "date_display": "27 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Netanyahu visited the UAE and met with its president earlier today, according to Channel 1...",
+      "description": "<b>BREAKING:</b> Netanyahu visited the UAE and met with its president earlier today, according to Channel 12 report.",
+      "date": "2026-09-27T20:00Z",
+      "date_display": "27 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 17 people killed in mass shooting at bar in South Africa",
+      "description": "<b>BREAKING:</b> 17 people killed in mass shooting at bar in South Africa",
+      "date": "2026-09-27T07:01Z",
+      "date_display": "27 Sep 07:01 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
     {
       "title": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 ...",
       "description": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 France: 2,760 km\n🇩🇪 Germany: 1,940 km\n🇺🇸 United States: 735 km\n\n🇨🇳 China: 50,400 km\n\n(UIC 2024; China Railway 2025) https://t.co/jk9I5nCMAj",
@@ -293,70 +397,6 @@
       "date_display": "24 Sep 09:01 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump administration has been ordered to restore White House access to CNN, MS Now and Pol...",
-      "description": "<b>BREAKING:</b> Trump administration has been ordered to restore White House access to CNN, MS Now and Politico.",
-      "date": "2026-09-24T06:00Z",
-      "date_display": "24 Sep 06:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t...",
-      "description": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t.co/bzcbrVUuP5",
-      "date": "2026-09-23T22:00Z",
-      "date_display": "23 Sep 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: China's government has 'taken possession of potentially sensitive F-35 stealth aircraft pa...",
-      "description": "<b>BREAKING:</b> China's government has 'taken possession of potentially sensitive F-35 stealth aircraft parts' that were diverted to Hong Kong while being sent to the US from Australia, and 'so far has not returned them', according to Bloomberg report. https://t.co/z9GazA4Uc6",
-      "date": "2026-09-23T21:00Z",
-      "date_display": "23 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Australia's Prime Minister Anthony Albanese says OpenAI model hacked into government agenc...",
-      "description": "<b>BREAKING:</b> Australia's Prime Minister Anthony Albanese says OpenAI model hacked into government agency Services Australia",
-      "date": "2026-09-23T21:00Z",
-      "date_display": "23 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The global bond market is showing worrying signs, with broad increases in borrowing costs in recent ...",
-      "description": "The global bond market is showing worrying signs, with broad increases in borrowing costs in recent days.\n\n🇺🇸 US government 10-year bond yields have reached their highest since 2007, while 30-year yields have reached their highest since 2004.\n\n🇯🇵 Japan’s 10-year government bond yield has reached its highest in three decades.\n\n🇬🇧 The UK’s 10-year government bond yield has reached its highest since 2008.\n\n🇩🇪 Germany’s 10-year government bond yield has reached its highest since 2011.\n\n🇦🇺 Australia's 10-year government bond yield reached its highest since 2011.\n\n🇫🇷 France’s 10-year government bond yield has reached its highest since 2008, during the Global Financial Crisis.",
-      "date": "2026-09-23T20:01Z",
-      "date_display": "23 Sep 20:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump is preparing a 90-day ban on diesel exports, according to Politico report.",
-      "description": "<b>BREAKING:</b> Trump is preparing a 90-day ban on diesel exports, according to Politico report.",
-      "date": "2026-09-23T19:02Z",
-      "date_display": "23 Sep 19:02 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US government 10-year bond yield hits 5.12%, the highest since 2007.",
-      "description": "<b>BREAKING:</b> US government 10-year bond yield hits 5.12%, the highest since 2007.",
-      "date": "2026-09-23T19:02Z",
-      "date_display": "23 Sep 19:02 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 US government 30-year bond yield hits 5.41%, the highest since 2004.",
-      "description": "<b>BREAKING:</b> 🇺🇸 US government 30-year bond yield hits 5.41%, the highest since 2004.",
-      "date": "2026-09-23T19:02Z",
-      "date_display": "23 Sep 19:02 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

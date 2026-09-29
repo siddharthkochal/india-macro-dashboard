@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T05:43Z",
+  "fetched_at": "2026-09-29T06:01Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -9,9 +9,25 @@
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "Oil prices rise by 1% at open as US-Iran deal remains elusive."
+    "latest_oil_headline": "BREAKING: Brent crude oil price is up 3% and now trading at $107.5"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: President Trump denies reports he offered sanctions relief to Iran",
+      "description": "<b>BREAKING:</b> President Trump denies reports he offered sanctions relief to Iran",
+      "date": "2026-09-28T23:00Z",
+      "date_display": "28 Sep 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Brent crude oil price is up 3% and now trading at $107.5",
+      "description": "<b>BREAKING:</b> Brent crude oil price is up 3% and now trading at $107.5",
+      "date": "2026-09-28T06:00Z",
+      "date_display": "28 Sep 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
       "description": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
@@ -139,25 +155,41 @@
       "date_display": "23 Sep 19:02 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
-      "description": "<b>BREAKING:</b> Trump says the US 'may have to blow up Pickaxe Mountain' in Iran",
-      "date": "2026-09-22T20:01Z",
-      "date_display": "22 Sep 20:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇸🇦 Saudi Arabia has restarted operations at its East-West oil pipeline",
-      "description": "<b>BREAKING:</b> 🇸🇦 Saudi Arabia has restarted operations at its East-West oil pipeline",
-      "date": "2026-09-22T11:07Z",
-      "date_display": "22 Sep 11:07 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: President Trump denies reports he offered sanctions relief to Iran",
+      "description": "<b>BREAKING:</b> President Trump denies reports he offered sanctions relief to Iran",
+      "date": "2026-09-28T23:00Z",
+      "date_display": "28 Sep 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Pope Leo XIV says concerns about artificial intelligence 'should be taken seriously' https...",
+      "description": "<b>BREAKING:</b> Pope Leo XIV says concerns about artificial intelligence 'should be taken seriously' https://t.co/ep0EU344LB",
+      "date": "2026-09-28T21:00Z",
+      "date_display": "28 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US government 10-year bond yield rises further and reached 5.25%, the highest since 2...",
+      "description": "<b>BREAKING:</b> 🇺🇸 US government 10-year bond yield rises further and reached 5.25%, the highest since 2007.",
+      "date": "2026-09-28T21:00Z",
+      "date_display": "28 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Brent crude oil price is up 3% and now trading at $107.5",
+      "description": "<b>BREAKING:</b> Brent crude oil price is up 3% and now trading at $107.5",
+      "date": "2026-09-28T06:00Z",
+      "date_display": "28 Sep 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.47\n\n(AAA) https://t.co/ldwqZsfBd7",
       "description": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.47\n\n(AAA) https://t.co/ldwqZsfBd7",
@@ -365,38 +397,6 @@
       "date_display": "24 Sep 19:01 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Several delegations walk out as Israeli Prime Minister Benjamin Netanyahu begins his speec...",
-      "description": "<b>BREAKING:</b> Several delegations walk out as Israeli Prime Minister Benjamin Netanyahu begins his speech at the UN General Assembly",
-      "date": "2026-09-24T19:01Z",
-      "date_display": "24 Sep 19:01 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Netanyahu calls those who walked out as he began his speech at the UN General Assembly 'mo...",
-      "description": "<b>BREAKING:</b> Netanyahu calls those who walked out as he began his speech at the UN General Assembly 'moral cowards'.",
-      "date": "2026-09-24T19:01Z",
-      "date_display": "24 Sep 19:01 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: All Iranian airline flights to the UAE have been cancelled",
-      "description": "<b>BREAKING:</b> All Iranian airline flights to the UAE have been cancelled",
-      "date": "2026-09-24T11:09Z",
-      "date_display": "24 Sep 11:09 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices up 3%",
-      "description": "<b>BREAKING:</b> Oil prices up 3%",
-      "date": "2026-09-24T09:01Z",
-      "date_display": "24 Sep 09:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-29T06:01Z",
+  "fetched_at": "2026-09-30T05:50Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 18,
+  "india_relevant_items": 20,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "BREAKING: Brent crude oil price is up 3% and now trading at $107.5"
   },
   "india_headlines": [
+    {
+      "title": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans:...",
+      "description": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans: +23%\nWool: +20%\nPalm oil: +14%\nTea: +10%",
+      "date": "2026-09-30T04:00Z",
+      "date_display": "30 Sep 04:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "There is a 58% chance of traffic in the Strait of Hormuz returning to normal by the end of the year,...",
+      "description": "There is a 58% chance of traffic in the Strait of Hormuz returning to normal by the end of the year, according to @Kalshi prediction market. https://t.co/8gqyjzxUYk",
+      "date": "2026-09-30T02:08Z",
+      "date_display": "30 Sep 02:08 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's currency has fallen to 2.5 million per US Dollar, a record low.",
+      "description": "<b>BREAKING:</b> Iran's currency has fallen to 2.5 million per US Dollar, a record low.",
+      "date": "2026-09-29T11:08Z",
+      "date_display": "29 Sep 11:08 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: President Trump denies reports he offered sanctions relief to Iran",
       "description": "<b>BREAKING:</b> President Trump denies reports he offered sanctions relief to Iran",
@@ -147,17 +171,73 @@
       "date_display": "23 Sep 21:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO",
-      "description": "Brent crude oil prices are up 3.8%, trading at $103. https://t.co/PHCvTvdhbO",
-      "date": "2026-09-23T19:02Z",
-      "date_display": "23 Sep 19:02 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans:...",
+      "description": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans: +23%\nWool: +20%\nPalm oil: +14%\nTea: +10%",
+      "date": "2026-09-30T04:00Z",
+      "date_display": "30 Sep 04:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "There is a 58% chance of traffic in the Strait of Hormuz returning to normal by the end of the year,...",
+      "description": "There is a 58% chance of traffic in the Strait of Hormuz returning to normal by the end of the year, according to @Kalshi prediction market. https://t.co/8gqyjzxUYk",
+      "date": "2026-09-30T02:08Z",
+      "date_display": "30 Sep 02:08 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Rice futures price\n\n1st of January: $9.5\n\nNow: $16.3 https://t.co/jo5uXfeaY2",
+      "description": "Rice futures price\n\n1st of January: $9.5\n\nNow: $16.3 https://t.co/jo5uXfeaY2",
+      "date": "2026-09-30T00:00Z",
+      "date_display": "30 Sep 00:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump shares the accord signed by him and tech leaders on AI https://t.co/lbzrfOqLUZ...",
+      "description": "<b>BREAKING:</b> Trump shares the accord signed by him and tech leaders on AI https://t.co/lbzrfOqLUZ",
+      "date": "2026-09-29T22:00Z",
+      "date_display": "29 Sep 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: US military awards Boeing contract for sixth generation navy fighter jet https://t.co/SmVT...",
+      "description": "<b>BREAKING:</b> US military awards Boeing contract for sixth generation navy fighter jet https://t.co/SmVT4OgpYX",
+      "date": "2026-09-29T22:00Z",
+      "date_display": "29 Sep 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The price of rubber futures is up to $252, the highest since 2013. https://t.co/3isyUGxY9Y",
+      "description": "The price of rubber futures is up to $252, the highest since 2013. https://t.co/3isyUGxY9Y",
+      "date": "2026-09-29T21:00Z",
+      "date_display": "29 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Trump says he will appointment a 'Super Intelligence Czar' soon.",
+      "description": "Trump says he will appointment a 'Super Intelligence Czar' soon.",
+      "date": "2026-09-29T21:00Z",
+      "date_display": "29 Sep 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's currency has fallen to 2.5 million per US Dollar, a record low.",
+      "description": "<b>BREAKING:</b> Iran's currency has fallen to 2.5 million per US Dollar, a record low.",
+      "date": "2026-09-29T11:08Z",
+      "date_display": "29 Sep 11:08 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: President Trump denies reports he offered sanctions relief to Iran",
       "description": "<b>BREAKING:</b> President Trump denies reports he offered sanctions relief to Iran",
@@ -331,70 +411,6 @@
       "description": "<b>BREAKING:</b> 🇺🇸 US 30-year fixed mortgage rate has risen to 7.49% according to Mortgage News Daily.",
       "date": "2026-09-25T20:00Z",
       "date_display": "25 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The United States\n\n30-year fixed mortgage rate now at 7.49% \n\n10-year government bond yield is at th...",
-      "description": "The United States\n\n30-year fixed mortgage rate now at 7.49% \n\n10-year government bond yield is at the highest since 2007\n\n30-year government bond yield is at the highest since 2004\n\nDiesel prices at $6.5, near record-high. https://t.co/Ky92XHThi7",
-      "date": "2026-09-25T20:00Z",
-      "date_display": "25 Sep 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Bill Gates has warned that artificial intelligence is 'certainly powerful enough to drive events tha...",
-      "description": "Bill Gates has warned that artificial intelligence is 'certainly powerful enough to drive events that, you know, cause a billion deaths'. https://t.co/4zo8oqQx2x",
-      "date": "2026-09-25T20:00Z",
-      "date_display": "25 Sep 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇯🇵 Japanese government 10-year bond yield rises to 3.1%, the highest since August, 1996....",
-      "description": "<b>BREAKING:</b> 🇯🇵 Japanese government 10-year bond yield rises to 3.1%, the highest since August, 1996.",
-      "date": "2026-09-25T02:00Z",
-      "date_display": "25 Sep 02:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Colombia cuts off diplomatic ties with Iran",
-      "description": "<b>BREAKING:</b> Colombia cuts off diplomatic ties with Iran",
-      "date": "2026-09-25T00:00Z",
-      "date_display": "25 Sep 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Over $350 million in crypto assets taken from wallets at Bitget exchange in a hacking incident.",
-      "description": "Over $350 million in crypto assets taken from wallets at Bitget exchange in a hacking incident.",
-      "date": "2026-09-24T23:00Z",
-      "date_display": "24 Sep 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 US government 10-year bond yield rises further and hits 5.2%, the highest since 2007....",
-      "description": "<b>BREAKING:</b> 🇺🇸 US government 10-year bond yield rises further and hits 5.2%, the highest since 2007.",
-      "date": "2026-09-24T23:00Z",
-      "date_display": "24 Sep 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "US average diesel price\n\nOne year ago: $3.69\n\nNow: $6.51\n\n(AAA) https://t.co/RmBluVdbwX",
-      "description": "US average diesel price\n\nOne year ago: $3.69\n\nNow: $6.51\n\n(AAA) https://t.co/RmBluVdbwX",
-      "date": "2026-09-24T20:02Z",
-      "date_display": "24 Sep 20:02 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US government 10-year bond yield hits 5.17%, the highest since 2007.",
-      "description": "<b>BREAKING:</b> US government 10-year bond yield hits 5.17%, the highest since 2007.",
-      "date": "2026-09-24T19:01Z",
-      "date_display": "24 Sep 19:01 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

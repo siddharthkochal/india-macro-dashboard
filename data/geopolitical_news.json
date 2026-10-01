@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T05:50Z",
+  "fetched_at": "2026-10-01T06:23Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
@@ -12,6 +12,38 @@
     "latest_oil_headline": "BREAKING: Brent crude oil price is up 3% and now trading at $107.5"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe...",
+      "description": "<b>BREAKING:</b> Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe",
+      "date": "2026-09-30T21:00Z",
+      "date_display": "30 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: 🇩🇪 Germany's inflation rate rises to 3.3%, the highest since 2023.",
+      "description": "<b>BREAKING:</b> 🇩🇪 Germany's inflation rate rises to 3.3%, the highest since 2023.",
+      "date": "2026-09-30T20:00Z",
+      "date_display": "30 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli media reports emergency on board a Flydubai flight to Tel Aviv was due to an attem...",
+      "description": "<b>BREAKING:</b> Israeli media reports emergency on board a Flydubai flight to Tel Aviv was due to an attempted attack from one of the pilots",
+      "date": "2026-09-30T11:08Z",
+      "date_display": "30 Sep 11:08 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil tanker struck by projectile in the Strait of Hormuz according to UKMTO",
+      "description": "<b>BREAKING:</b> Oil tanker struck by projectile in the Strait of Hormuz according to UKMTO",
+      "date": "2026-09-30T10:00Z",
+      "date_display": "30 Sep 10:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans:...",
       "description": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans: +23%\nWool: +20%\nPalm oil: +14%\nTea: +10%",
@@ -139,41 +171,97 @@
       "date_display": "25 Sep 00:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: All Iranian airline flights to the UAE have been cancelled",
-      "description": "<b>BREAKING:</b> All Iranian airline flights to the UAE have been cancelled",
-      "date": "2026-09-24T11:09Z",
-      "date_display": "24 Sep 11:09 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices up 3%",
-      "description": "<b>BREAKING:</b> Oil prices up 3%",
-      "date": "2026-09-24T09:01Z",
-      "date_display": "24 Sep 09:01 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t...",
-      "description": "China's President Xi Jinping has arrived in Washington DC for summit with President Trump. https://t.co/bzcbrVUuP5",
-      "date": "2026-09-23T22:00Z",
-      "date_display": "23 Sep 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: China's government has 'taken possession of potentially sensitive F-35 stealth aircraft pa...",
-      "description": "<b>BREAKING:</b> China's government has 'taken possession of potentially sensitive F-35 stealth aircraft parts' that were diverted to Hong Kong while being sent to the US from Australia, and 'so far has not returned them', according to Bloomberg report. https://t.co/z9GazA4Uc6",
-      "date": "2026-09-23T21:00Z",
-      "date_display": "23 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Tennessee death row inmate Christa Pike is alive and being treated in hospital after two l...",
+      "description": "<b>BREAKING:</b> Tennessee death row inmate Christa Pike is alive and being treated in hospital after two lethal injections were administered and her execution failed.",
+      "date": "2026-10-01T04:00Z",
+      "date_display": "01 Oct 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Tennessee death row inmate Christa Pike's lawyer says she is still alive after two lethal ...",
+      "description": "<b>BREAKING:</b> Tennessee death row inmate Christa Pike's lawyer says she is still alive after two lethal injections were administered",
+      "date": "2026-10-01T03:00Z",
+      "date_display": "01 Oct 03:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe...",
+      "description": "<b>BREAKING:</b> Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe",
+      "date": "2026-09-30T21:00Z",
+      "date_display": "30 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Judge approves Paramount's $110 billion acquisition of Warner Brothers https://t.co/H3qJcC...",
+      "description": "<b>BREAKING:</b> Judge approves Paramount's $110 billion acquisition of Warner Brothers https://t.co/H3qJcCXW2X",
+      "date": "2026-09-30T21:00Z",
+      "date_display": "30 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Google introduces its new frontier AI model Gemini 4 Argon https://t.co/OO6TSMib8N",
+      "description": "<b>BREAKING:</b> Google introduces its new frontier AI model Gemini 4 Argon https://t.co/OO6TSMib8N",
+      "date": "2026-09-30T21:00Z",
+      "date_display": "30 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US 30-year fixed mortgage rate has risen to 7.6% according to Mortgage News Daily....",
+      "description": "<b>BREAKING:</b> 🇺🇸 US 30-year fixed mortgage rate has risen to 7.6% according to Mortgage News Daily.",
+      "date": "2026-09-30T21:00Z",
+      "date_display": "30 Sep 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇺🇸 US government 10-year bond yield rises further and reached 5.3%, the highest since 20...",
+      "description": "<b>BREAKING:</b> 🇺🇸 US government 10-year bond yield rises further and reached 5.3%, the highest since 2002.",
+      "date": "2026-09-30T20:00Z",
+      "date_display": "30 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Cristiano Ronaldo has left the national team camp in what appears to be a conflict between...",
+      "description": "<b>BREAKING:</b> Cristiano Ronaldo has left the national team camp in what appears to be a conflict between the player and team management",
+      "date": "2026-09-30T20:00Z",
+      "date_display": "30 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 🇩🇪 Germany's inflation rate rises to 3.3%, the highest since 2023.",
+      "description": "<b>BREAKING:</b> 🇩🇪 Germany's inflation rate rises to 3.3%, the highest since 2023.",
+      "date": "2026-09-30T20:00Z",
+      "date_display": "30 Sep 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Israeli media reports emergency on board a Flydubai flight to Tel Aviv was due to an attem...",
+      "description": "<b>BREAKING:</b> Israeli media reports emergency on board a Flydubai flight to Tel Aviv was due to an attempted attack from one of the pilots",
+      "date": "2026-09-30T11:08Z",
+      "date_display": "30 Sep 11:08 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil tanker struck by projectile in the Strait of Hormuz according to UKMTO",
+      "description": "<b>BREAKING:</b> Oil tanker struck by projectile in the Strait of Hormuz according to UKMTO",
+      "date": "2026-09-30T10:00Z",
+      "date_display": "30 Sep 10:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans:...",
       "description": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans: +23%\nWool: +20%\nPalm oil: +14%\nTea: +10%",
@@ -325,94 +413,6 @@
       "date_display": "27 Sep 20:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 17 people killed in mass shooting at bar in South Africa",
-      "description": "<b>BREAKING:</b> 17 people killed in mass shooting at bar in South Africa",
-      "date": "2026-09-27T07:01Z",
-      "date_display": "27 Sep 07:01 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 ...",
-      "description": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 France: 2,760 km\n🇩🇪 Germany: 1,940 km\n🇺🇸 United States: 735 km\n\n🇨🇳 China: 50,400 km\n\n(UIC 2024; China Railway 2025) https://t.co/jk9I5nCMAj",
-      "date": "2026-09-26T23:00Z",
-      "date_display": "26 Sep 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Share of global commercial shipbuilding by gross tonnage, 2024.\n\n🇨🇳 China: 54%\n🇰🇷 South Korea: 2...",
-      "description": "Share of global commercial shipbuilding by gross tonnage, 2024.\n\n🇨🇳 China: 54%\n🇰🇷 South Korea: 28%\n🇯🇵 Japan: 13%\n🇺🇸 United States: 0.04%\n\n(UNCTAD data) https://t.co/XgKRBUKxkr",
-      "date": "2026-09-26T20:00Z",
-      "date_display": "26 Sep 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "The Democratic Party now has a 91% chance of winning the US House of Representatives, according to p...",
-      "description": "The Democratic Party now has a 91% chance of winning the US House of Representatives, according to prediction market @Kalshi. https://t.co/tCD0jvy5kd",
-      "date": "2026-09-26T20:00Z",
-      "date_display": "26 Sep 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: President Trump 'rejected Iran’s proposal for a seven-day ceasefire' and 'expects to resum...",
-      "description": "<b>BREAKING:</b> President Trump 'rejected Iran’s proposal for a seven-day ceasefire' and 'expects to resume bombing Iran after the November midterms', according to Wall Street Journal report.",
-      "date": "2026-09-26T10:00Z",
-      "date_display": "26 Sep 10:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.2 trill...",
-      "description": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.2 trillion\n🇩🇪 Entire German stock market: $3 trillion\n\n🇺🇸 NVIDIA: $5.4 trillion https://t.co/jpvlELjmBD",
-      "date": "2026-09-26T04:00Z",
-      "date_display": "26 Sep 04:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: OpenAI says its agents accessed and leaked 53 images from ChatGPT users",
-      "description": "<b>BREAKING:</b> OpenAI says its agents accessed and leaked 53 images from ChatGPT users",
-      "date": "2026-09-25T22:00Z",
-      "date_display": "25 Sep 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The price of rice futures (CBOT) is now up 73% since the start of the year. https://t.co/qvYZuVdA9j",
-      "description": "The price of rice futures (CBOT) is now up 73% since the start of the year. https://t.co/qvYZuVdA9j",
-      "date": "2026-09-25T21:01Z",
-      "date_display": "25 Sep 21:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran's foreign minister says his country has offered the US a plan that would have Strait ...",
-      "description": "<b>BREAKING:</b> Iran's foreign minister says his country has offered the US a plan that would have Strait of Hormuz re-opened within a week, according to AFP report.",
-      "date": "2026-09-25T21:01Z",
-      "date_display": "25 Sep 21:01 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "United States in fiscal year 2025.\n\nNational Defense Spending: $874 billion\n\nNet Interest Payments: ...",
-      "description": "United States in fiscal year 2025.\n\nNational Defense Spending: $874 billion\n\nNet Interest Payments: $970 billion https://t.co/auqMaaE6C9",
-      "date": "2026-09-25T21:01Z",
-      "date_display": "25 Sep 21:01 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 US 30-year fixed mortgage rate has risen to 7.49% according to Mortgage News Daily....",
-      "description": "<b>BREAKING:</b> 🇺🇸 US 30-year fixed mortgage rate has risen to 7.49% according to Mortgage News Daily.",
-      "date": "2026-09-25T20:00Z",
-      "date_display": "25 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

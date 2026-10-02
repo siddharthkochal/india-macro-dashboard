@@ -1,17 +1,41 @@
 {
-  "fetched_at": "2026-10-01T06:23Z",
+  "fetched_at": "2026-10-02T06:01Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 20,
+  "india_relevant_items": 22,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Brent crude oil price is up 3% and now trading at $107.5"
+    "latest_oil_headline": "BREAKING: Oil prices are up 4% after China suspends fuel exports"
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that ...",
+      "description": "<b>BREAKING:</b> Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that the man was arrested for other reasons.",
+      "date": "2026-10-02T01:00Z",
+      "date_display": "02 Oct 01:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Tanker struck by projectile in the Strait of Hormuz according to UKMTO",
+      "description": "<b>BREAKING:</b> Tanker struck by projectile in the Strait of Hormuz according to UKMTO",
+      "date": "2026-10-01T21:00Z",
+      "date_display": "01 Oct 21:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Oil prices are up 4% after China suspends fuel exports",
+      "description": "<b>BREAKING:</b> Oil prices are up 4% after China suspends fuel exports",
+      "date": "2026-10-01T20:00Z",
+      "date_display": "01 Oct 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe...",
       "description": "<b>BREAKING:</b> Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe",
@@ -147,33 +171,73 @@
       "date_display": "26 Sep 20:00 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
+    }
+  ],
+  "all_recent_headlines": [
     {
-      "title": "BREAKING: President Trump 'rejected Iran’s proposal for a seven-day ceasefire' and 'expects to resum...",
-      "description": "<b>BREAKING:</b> President Trump 'rejected Iran’s proposal for a seven-day ceasefire' and 'expects to resume bombing Iran after the November midterms', according to Wall Street Journal report.",
-      "date": "2026-09-26T10:00Z",
-      "date_display": "26 Sep 10:00 UTC",
+      "title": "BREAKING: Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that ...",
+      "description": "<b>BREAKING:</b> Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that the man was arrested for other reasons.",
+      "date": "2026-10-02T01:00Z",
+      "date_display": "02 Oct 01:00 UTC",
       "severity": "high",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Iran's foreign minister says his country has offered the US a plan that would have Strait ...",
-      "description": "<b>BREAKING:</b> Iran's foreign minister says his country has offered the US a plan that would have Strait of Hormuz re-opened within a week, according to AFP report.",
-      "date": "2026-09-25T21:01Z",
-      "date_display": "25 Sep 21:01 UTC",
+      "title": "BREAKING: Randy Spivey, an attorney for Tennessee death row inmate Christa Pike, says he is 'haunted...",
+      "description": "<b>BREAKING:</b> Randy Spivey, an attorney for Tennessee death row inmate Christa Pike, says he is 'haunted by last night' and that the execution team tried to establish an IV line for an hour and at one point there were at least seven needles in one of her arms.",
+      "date": "2026-10-01T23:00Z",
+      "date_display": "01 Oct 23:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Nike share price falls by over 5%, and is now down 81% from its peak and trading at the lo...",
+      "description": "<b>BREAKING:</b> Nike share price falls by over 5%, and is now down 81% from its peak and trading at the lowest since 2014. https://t.co/mdiIrqVokL",
+      "date": "2026-10-01T21:00Z",
+      "date_display": "01 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Judge rejects request by her lawyers that Lindsay Clancy be found not guilty of ‌murder fo...",
+      "description": "<b>BREAKING:</b> Judge rejects request by her lawyers that Lindsay Clancy be found not guilty of ‌murder following mistrial",
+      "date": "2026-10-01T21:00Z",
+      "date_display": "01 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Egypt and Ethiopia expel embassy advisors from the other country as relations worsen...",
+      "description": "<b>BREAKING:</b> Egypt and Ethiopia expel embassy advisors from the other country as relations worsen",
+      "date": "2026-10-01T21:00Z",
+      "date_display": "01 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Tanker struck by projectile in the Strait of Hormuz according to UKMTO",
+      "description": "<b>BREAKING:</b> Tanker struck by projectile in the Strait of Hormuz according to UKMTO",
+      "date": "2026-10-01T21:00Z",
+      "date_display": "01 Oct 21:00 UTC",
       "severity": "critical",
       "is_india_relevant": true
     },
     {
-      "title": "BREAKING: Colombia cuts off diplomatic ties with Iran",
-      "description": "<b>BREAKING:</b> Colombia cuts off diplomatic ties with Iran",
-      "date": "2026-09-25T00:00Z",
-      "date_display": "25 Sep 00:00 UTC",
+      "title": "BREAKING: Tennessee death row inmate Christa Pike is receiving life-saving medical care after she su...",
+      "description": "<b>BREAKING:</b> Tennessee death row inmate Christa Pike is receiving life-saving medical care after she survived two doses of lethal injection, according to her attorney, who adds that the execution attempt yesterday was 'was not just inefficient, it was cruel and it was torturous'.",
+      "date": "2026-10-01T20:00Z",
+      "date_display": "01 Oct 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Oil prices are up 4% after China suspends fuel exports",
+      "description": "<b>BREAKING:</b> Oil prices are up 4% after China suspends fuel exports",
+      "date": "2026-10-01T20:00Z",
+      "date_display": "01 Oct 20:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    }
-  ],
-  "all_recent_headlines": [
+    },
     {
       "title": "BREAKING: Tennessee death row inmate Christa Pike is alive and being treated in hospital after two l...",
       "description": "<b>BREAKING:</b> Tennessee death row inmate Christa Pike is alive and being treated in hospital after two lethal injections were administered and her execution failed.",
@@ -349,70 +413,6 @@
       "date_display": "28 Sep 21:00 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Brent crude oil price is up 3% and now trading at $107.5",
-      "description": "<b>BREAKING:</b> Brent crude oil price is up 3% and now trading at $107.5",
-      "date": "2026-09-28T06:00Z",
-      "date_display": "28 Sep 06:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.47\n\n(AAA) https://t.co/ldwqZsfBd7",
-      "description": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.47\n\n(AAA) https://t.co/ldwqZsfBd7",
-      "date": "2026-09-28T00:00Z",
-      "date_display": "28 Sep 00:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
-      "description": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
-      "date": "2026-09-27T23:00Z",
-      "date_display": "27 Sep 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi Arabia is this month exporting 6 million barrels a day of crude oil, equivalent to its average...",
-      "description": "Saudi Arabia is this month exporting 6 million barrels a day of crude oil, equivalent to its average in 2025, according to Kpler. https://t.co/aggXwKeFAE",
-      "date": "2026-09-27T22:00Z",
-      "date_display": "27 Sep 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump says the United States is 'about a year, maybe a year and a half' up on China when i...",
-      "description": "President Trump says the United States is 'about a year, maybe a year and a half' up on China when it comes to artificial intelligence and 'there is nobody in third place'. https://t.co/SI5R4eirM8",
-      "date": "2026-09-27T22:00Z",
-      "date_display": "27 Sep 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Egypt's intelligence chief Abbas Kamel warned Netanyahu in early October, 2023, of an 'imp...",
-      "description": "<b>BREAKING:</b> Egypt's intelligence chief Abbas Kamel warned Netanyahu in early October, 2023, of an 'impending attack on Israel' in one of 'multiple advance warnings', according to the Wall Street Journal.",
-      "date": "2026-09-27T22:00Z",
-      "date_display": "27 Sep 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Serbia's President Vucic has resigned ahead of elections",
-      "description": "<b>BREAKING:</b> Serbia's President Vucic has resigned ahead of elections",
-      "date": "2026-09-27T20:00Z",
-      "date_display": "27 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Netanyahu visited the UAE and met with its president earlier today, according to Channel 1...",
-      "description": "<b>BREAKING:</b> Netanyahu visited the UAE and met with its president earlier today, according to Channel 12 report.",
-      "date": "2026-09-27T20:00Z",
-      "date_display": "27 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ]
 }

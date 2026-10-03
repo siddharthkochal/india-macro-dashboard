@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-02T06:01Z",
+  "fetched_at": "2026-10-03T05:36Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 22,
+  "india_relevant_items": 24,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,38 @@
     "latest_oil_headline": "BREAKING: Oil prices are up 4% after China suspends fuel exports"
   },
   "india_headlines": [
+    {
+      "title": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +42%\nOat: +35%\nWheat: +34%\nSugar: +32%\n...",
+      "description": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +42%\nOat: +35%\nWheat: +34%\nSugar: +32%\nSoybeans: +24%\nCotton: +22%\nWool: +18%\nPalm oil: +12%\nTea: +10%",
+      "date": "2026-10-03T02:07Z",
+      "date_display": "03 Oct 02:07 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "The Financial Times reports that 'shipping through the Arctic has reached record levels' as the Gulf...",
+      "description": "The Financial Times reports that 'shipping through the Arctic has reached record levels' as the Gulf war and global warming play a role in diverting shipping. https://t.co/MRKVDQUVST",
+      "date": "2026-10-03T02:07Z",
+      "date_display": "03 Oct 02:07 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: South Korea says that North Korea fired a ballistic missile",
+      "description": "<b>BREAKING:</b> South Korea says that North Korea fired a ballistic missile",
+      "date": "2026-10-03T00:00Z",
+      "date_display": "03 Oct 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: FlyDubai co-pilot who attacked pilot on flight to Tel Aviv had 'previously been banned fro...",
+      "description": "<b>BREAKING:</b> FlyDubai co-pilot who attacked pilot on flight to Tel Aviv had 'previously been banned from flying by Oman over concerns he had adopted radical ideological views', according to Wall Street Journal report.",
+      "date": "2026-10-02T21:00Z",
+      "date_display": "02 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that ...",
       "description": "<b>BREAKING:</b> Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that the man was arrested for other reasons.",
@@ -139,41 +171,81 @@
       "date_display": "27 Sep 22:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Serbia's President Vucic has resigned ahead of elections",
-      "description": "<b>BREAKING:</b> Serbia's President Vucic has resigned ahead of elections",
-      "date": "2026-09-27T20:00Z",
-      "date_display": "27 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Netanyahu visited the UAE and met with its president earlier today, according to Channel 1...",
-      "description": "<b>BREAKING:</b> Netanyahu visited the UAE and met with its president earlier today, according to Channel 12 report.",
-      "date": "2026-09-27T20:00Z",
-      "date_display": "27 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 ...",
-      "description": "High-speed rail network length, selected countries.\n\n🇪🇸 Spain: 3,990 km\n🇯🇵 Japan: 3,270 km\n🇫🇷 France: 2,760 km\n🇩🇪 Germany: 1,940 km\n🇺🇸 United States: 735 km\n\n🇨🇳 China: 50,400 km\n\n(UIC 2024; China Railway 2025) https://t.co/jk9I5nCMAj",
-      "date": "2026-09-26T23:00Z",
-      "date_display": "26 Sep 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Share of global commercial shipbuilding by gross tonnage, 2024.\n\n🇨🇳 China: 54%\n🇰🇷 South Korea: 2...",
-      "description": "Share of global commercial shipbuilding by gross tonnage, 2024.\n\n🇨🇳 China: 54%\n🇰🇷 South Korea: 28%\n🇯🇵 Japan: 13%\n🇺🇸 United States: 0.04%\n\n(UNCTAD data) https://t.co/XgKRBUKxkr",
-      "date": "2026-09-26T20:00Z",
-      "date_display": "26 Sep 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: Trump says he will give the $5,000 dividend to every US citizen, and not just US adults, i...",
+      "description": "<b>BREAKING:</b> Trump says he will give the $5,000 dividend to every US citizen, and not just US adults, if Republicans win the midterms.",
+      "date": "2026-10-03T04:00Z",
+      "date_display": "03 Oct 04:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +42%\nOat: +35%\nWheat: +34%\nSugar: +32%\n...",
+      "description": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +42%\nOat: +35%\nWheat: +34%\nSugar: +32%\nSoybeans: +24%\nCotton: +22%\nWool: +18%\nPalm oil: +12%\nTea: +10%",
+      "date": "2026-10-03T02:07Z",
+      "date_display": "03 Oct 02:07 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "California average diesel price\n\nOne year ago: $5.16\n\nNow: $8.37\n\n(AAA) https://t.co/sW1h3c2kjW",
+      "description": "California average diesel price\n\nOne year ago: $5.16\n\nNow: $8.37\n\n(AAA) https://t.co/sW1h3c2kjW",
+      "date": "2026-10-03T02:07Z",
+      "date_display": "03 Oct 02:07 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Financial Times reports that 'shipping through the Arctic has reached record levels' as the Gulf...",
+      "description": "The Financial Times reports that 'shipping through the Arctic has reached record levels' as the Gulf war and global warming play a role in diverting shipping. https://t.co/MRKVDQUVST",
+      "date": "2026-10-03T02:07Z",
+      "date_display": "03 Oct 02:07 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: South Korea says that North Korea fired a ballistic missile",
+      "description": "<b>BREAKING:</b> South Korea says that North Korea fired a ballistic missile",
+      "date": "2026-10-03T00:00Z",
+      "date_display": "03 Oct 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: FlyDubai co-pilot who attacked pilot on flight to Tel Aviv had 'previously been banned fro...",
+      "description": "<b>BREAKING:</b> FlyDubai co-pilot who attacked pilot on flight to Tel Aviv had 'previously been banned from flying by Oman over concerns he had adopted radical ideological views', according to Wall Street Journal report.",
+      "date": "2026-10-02T21:00Z",
+      "date_display": "02 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "🇺🇸 President Trump approval rating\n\nApprove: 31%\nDisapprove: 69%\n\n(Associated Press/NORC) https://...",
+      "description": "🇺🇸 President Trump approval rating\n\nApprove: 31%\nDisapprove: 69%\n\n(Associated Press/NORC) https://t.co/magNuzZaRX",
+      "date": "2026-10-02T21:00Z",
+      "date_display": "02 Oct 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Christa Pike's attorneys says she is 'critically ill, unconscious, intubated and on a vent...",
+      "description": "<b>BREAKING:</b> Christa Pike's attorneys says she is 'critically ill, unconscious, intubated and on a ventilator' after failed execution.",
+      "date": "2026-10-02T20:00Z",
+      "date_display": "02 Oct 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.6 trill...",
+      "description": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.6 trillion\n🇩🇪 Entire German stock market: $3 trillion\n\n🇺🇸 NVIDIA: $5.65 trillion https://t.co/ecgZVQ0bnY",
+      "date": "2026-10-02T20:00Z",
+      "date_display": "02 Oct 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that ...",
       "description": "<b>BREAKING:</b> Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that the man was arrested for other reasons.",
@@ -341,78 +413,6 @@
       "date_display": "30 Sep 02:08 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "Rice futures price\n\n1st of January: $9.5\n\nNow: $16.3 https://t.co/jo5uXfeaY2",
-      "description": "Rice futures price\n\n1st of January: $9.5\n\nNow: $16.3 https://t.co/jo5uXfeaY2",
-      "date": "2026-09-30T00:00Z",
-      "date_display": "30 Sep 00:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump shares the accord signed by him and tech leaders on AI https://t.co/lbzrfOqLUZ...",
-      "description": "<b>BREAKING:</b> Trump shares the accord signed by him and tech leaders on AI https://t.co/lbzrfOqLUZ",
-      "date": "2026-09-29T22:00Z",
-      "date_display": "29 Sep 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: US military awards Boeing contract for sixth generation navy fighter jet https://t.co/SmVT...",
-      "description": "<b>BREAKING:</b> US military awards Boeing contract for sixth generation navy fighter jet https://t.co/SmVT4OgpYX",
-      "date": "2026-09-29T22:00Z",
-      "date_display": "29 Sep 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The price of rubber futures is up to $252, the highest since 2013. https://t.co/3isyUGxY9Y",
-      "description": "The price of rubber futures is up to $252, the highest since 2013. https://t.co/3isyUGxY9Y",
-      "date": "2026-09-29T21:00Z",
-      "date_display": "29 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Trump says he will appointment a 'Super Intelligence Czar' soon.",
-      "description": "Trump says he will appointment a 'Super Intelligence Czar' soon.",
-      "date": "2026-09-29T21:00Z",
-      "date_display": "29 Sep 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Iran's currency has fallen to 2.5 million per US Dollar, a record low.",
-      "description": "<b>BREAKING:</b> Iran's currency has fallen to 2.5 million per US Dollar, a record low.",
-      "date": "2026-09-29T11:08Z",
-      "date_display": "29 Sep 11:08 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: President Trump denies reports he offered sanctions relief to Iran",
-      "description": "<b>BREAKING:</b> President Trump denies reports he offered sanctions relief to Iran",
-      "date": "2026-09-28T23:00Z",
-      "date_display": "28 Sep 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Pope Leo XIV says concerns about artificial intelligence 'should be taken seriously' https...",
-      "description": "<b>BREAKING:</b> Pope Leo XIV says concerns about artificial intelligence 'should be taken seriously' https://t.co/ep0EU344LB",
-      "date": "2026-09-28T21:00Z",
-      "date_display": "28 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 US government 10-year bond yield rises further and reached 5.25%, the highest since 2...",
-      "description": "<b>BREAKING:</b> 🇺🇸 US government 10-year bond yield rises further and reached 5.25%, the highest since 2007.",
-      "date": "2026-09-28T21:00Z",
-      "date_display": "28 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
     }
   ]
 }

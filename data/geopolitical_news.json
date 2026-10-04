@@ -1,17 +1,57 @@
 {
-  "fetched_at": "2026-10-03T05:36Z",
+  "fetched_at": "2026-10-04T06:12Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 24,
+  "india_relevant_items": 21,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
     "opec_action": false,
     "price_direction": "up",
-    "latest_oil_headline": "BREAKING: Oil prices are up 4% after China suspends fuel exports"
+    "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +165%\nUK natural gas: +154%\nHeating oil: +11..."
   },
   "india_headlines": [
+    {
+      "title": "UNITED STATES: Police say a woman in Waxahachie, North Texas shot her two sons dead and then attempt...",
+      "description": "UNITED STATES: Police say a woman in Waxahachie, North Texas shot her two sons dead and then attempted to harm herself.",
+      "date": "2026-10-04T01:00Z",
+      "date_display": "04 Oct 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Iran's currency has fallen to 2.69 million per US Dollar, a record low.",
+      "description": "<b>BREAKING:</b> Iran's currency has fallen to 2.69 million per US Dollar, a record low.",
+      "date": "2026-10-03T22:00Z",
+      "date_display": "03 Oct 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Air strikes on Sanaa, Yemen, which is controlled by the Houthis.",
+      "description": "<b>BREAKING:</b> Air strikes on Sanaa, Yemen, which is controlled by the Houthis.",
+      "date": "2026-10-03T22:00Z",
+      "date_display": "03 Oct 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +165%\nUK natural gas: +154%\nHeating oil: +11...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +165%\nUK natural gas: +154%\nHeating oil: +112%\nGasoline: +105%\nBrent crude: +68%\nUS crude oil: +58%\nCoal: +38%",
+      "date": "2026-10-03T20:00Z",
+      "date_display": "03 Oct 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Ukraine's president Zelensky says attacks on Russian oil refineries will be intensified...",
+      "description": "<b>BREAKING:</b> Ukraine's president Zelensky says attacks on Russian oil refineries will be intensified",
+      "date": "2026-10-03T20:00Z",
+      "date_display": "03 Oct 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +42%\nOat: +35%\nWheat: +34%\nSugar: +32%\n...",
       "description": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +42%\nOat: +35%\nWheat: +34%\nSugar: +32%\nSoybeans: +24%\nCotton: +22%\nWool: +18%\nPalm oil: +12%\nTea: +10%",
@@ -131,49 +171,81 @@
       "date_display": "28 Sep 23:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Brent crude oil price is up 3% and now trading at $107.5",
-      "description": "<b>BREAKING:</b> Brent crude oil price is up 3% and now trading at $107.5",
-      "date": "2026-09-28T06:00Z",
-      "date_display": "28 Sep 06:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
-      "description": "Oil prices rise by 1% at open as US-Iran deal remains elusive.",
-      "date": "2026-09-27T23:00Z",
-      "date_display": "27 Sep 23:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Saudi Arabia is this month exporting 6 million barrels a day of crude oil, equivalent to its average...",
-      "description": "Saudi Arabia is this month exporting 6 million barrels a day of crude oil, equivalent to its average in 2025, according to Kpler. https://t.co/aggXwKeFAE",
-      "date": "2026-09-27T22:00Z",
-      "date_display": "27 Sep 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "President Trump says the United States is 'about a year, maybe a year and a half' up on China when i...",
-      "description": "President Trump says the United States is 'about a year, maybe a year and a half' up on China when it comes to artificial intelligence and 'there is nobody in third place'. https://t.co/SI5R4eirM8",
-      "date": "2026-09-27T22:00Z",
-      "date_display": "27 Sep 22:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Egypt's intelligence chief Abbas Kamel warned Netanyahu in early October, 2023, of an 'imp...",
-      "description": "<b>BREAKING:</b> Egypt's intelligence chief Abbas Kamel warned Netanyahu in early October, 2023, of an 'impending attack on Israel' in one of 'multiple advance warnings', according to the Wall Street Journal.",
-      "date": "2026-09-27T22:00Z",
-      "date_display": "27 Sep 22:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "UNITED STATES: Police say a woman in Waxahachie, North Texas shot her two sons dead and then attempt...",
+      "description": "UNITED STATES: Police say a woman in Waxahachie, North Texas shot her two sons dead and then attempted to harm herself.",
+      "date": "2026-10-04T01:00Z",
+      "date_display": "04 Oct 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "President Trump says US is the 'hottest country in the world' and this is now the 'Golden Age of Ame...",
+      "description": "President Trump says US is the 'hottest country in the world' and this is now the 'Golden Age of America'.",
+      "date": "2026-10-04T01:00Z",
+      "date_display": "04 Oct 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "President Trump says if Democrats win mid-terms there will be an 1929-style economic depression, but...",
+      "description": "President Trump says if Democrats win mid-terms there will be an 1929-style economic depression, but if Republicans win 'you will each have $5,000 in your pocket.' https://t.co/QCmYGoG1Dr",
+      "date": "2026-10-04T01:00Z",
+      "date_display": "04 Oct 01:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: 5.9 magnitude quake in the Sumbawa region of Indonesia",
+      "description": "<b>BREAKING:</b> 5.9 magnitude quake in the Sumbawa region of Indonesia",
+      "date": "2026-10-04T00:00Z",
+      "date_display": "04 Oct 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "European Natural Gas price.\n\n1st of January: $28\n\nNow: $74 https://t.co/DwilNOYtjR",
+      "description": "European Natural Gas price.\n\n1st of January: $28\n\nNow: $74 https://t.co/DwilNOYtjR",
+      "date": "2026-10-03T22:00Z",
+      "date_display": "03 Oct 22:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Iran's currency has fallen to 2.69 million per US Dollar, a record low.",
+      "description": "<b>BREAKING:</b> Iran's currency has fallen to 2.69 million per US Dollar, a record low.",
+      "date": "2026-10-03T22:00Z",
+      "date_display": "03 Oct 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Air strikes on Sanaa, Yemen, which is controlled by the Houthis.",
+      "description": "<b>BREAKING:</b> Air strikes on Sanaa, Yemen, which is controlled by the Houthis.",
+      "date": "2026-10-03T22:00Z",
+      "date_display": "03 Oct 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Prices, since start of the year.\n\nEuropean natural gas: +165%\nUK natural gas: +154%\nHeating oil: +11...",
+      "description": "Prices, since start of the year.\n\nEuropean natural gas: +165%\nUK natural gas: +154%\nHeating oil: +112%\nGasoline: +105%\nBrent crude: +68%\nUS crude oil: +58%\nCoal: +38%",
+      "date": "2026-10-03T20:00Z",
+      "date_display": "03 Oct 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Ukraine's president Zelensky says attacks on Russian oil refineries will be intensified...",
+      "description": "<b>BREAKING:</b> Ukraine's president Zelensky says attacks on Russian oil refineries will be intensified",
+      "date": "2026-10-03T20:00Z",
+      "date_display": "03 Oct 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Trump says he will give the $5,000 dividend to every US citizen, and not just US adults, i...",
       "description": "<b>BREAKING:</b> Trump says he will give the $5,000 dividend to every US citizen, and not just US adults, if Republicans win the midterms.",
@@ -341,78 +413,6 @@
       "date_display": "30 Sep 21:00 UTC",
       "severity": "high",
       "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Google introduces its new frontier AI model Gemini 4 Argon https://t.co/OO6TSMib8N",
-      "description": "<b>BREAKING:</b> Google introduces its new frontier AI model Gemini 4 Argon https://t.co/OO6TSMib8N",
-      "date": "2026-09-30T21:00Z",
-      "date_display": "30 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 US 30-year fixed mortgage rate has risen to 7.6% according to Mortgage News Daily....",
-      "description": "<b>BREAKING:</b> 🇺🇸 US 30-year fixed mortgage rate has risen to 7.6% according to Mortgage News Daily.",
-      "date": "2026-09-30T21:00Z",
-      "date_display": "30 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇺🇸 US government 10-year bond yield rises further and reached 5.3%, the highest since 20...",
-      "description": "<b>BREAKING:</b> 🇺🇸 US government 10-year bond yield rises further and reached 5.3%, the highest since 2002.",
-      "date": "2026-09-30T20:00Z",
-      "date_display": "30 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Cristiano Ronaldo has left the national team camp in what appears to be a conflict between...",
-      "description": "<b>BREAKING:</b> Cristiano Ronaldo has left the national team camp in what appears to be a conflict between the player and team management",
-      "date": "2026-09-30T20:00Z",
-      "date_display": "30 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: 🇩🇪 Germany's inflation rate rises to 3.3%, the highest since 2023.",
-      "description": "<b>BREAKING:</b> 🇩🇪 Germany's inflation rate rises to 3.3%, the highest since 2023.",
-      "date": "2026-09-30T20:00Z",
-      "date_display": "30 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli media reports emergency on board a Flydubai flight to Tel Aviv was due to an attem...",
-      "description": "<b>BREAKING:</b> Israeli media reports emergency on board a Flydubai flight to Tel Aviv was due to an attempted attack from one of the pilots",
-      "date": "2026-09-30T11:08Z",
-      "date_display": "30 Sep 11:08 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil tanker struck by projectile in the Strait of Hormuz according to UKMTO",
-      "description": "<b>BREAKING:</b> Oil tanker struck by projectile in the Strait of Hormuz according to UKMTO",
-      "date": "2026-09-30T10:00Z",
-      "date_display": "30 Sep 10:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans:...",
-      "description": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans: +23%\nWool: +20%\nPalm oil: +14%\nTea: +10%",
-      "date": "2026-09-30T04:00Z",
-      "date_display": "30 Sep 04:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "There is a 58% chance of traffic in the Strait of Hormuz returning to normal by the end of the year,...",
-      "description": "There is a 58% chance of traffic in the Strait of Hormuz returning to normal by the end of the year, according to @Kalshi prediction market. https://t.co/8gqyjzxUYk",
-      "date": "2026-09-30T02:08Z",
-      "date_display": "30 Sep 02:08 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ]
 }

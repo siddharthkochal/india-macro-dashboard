@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-04T06:12Z",
+  "fetched_at": "2026-10-05T06:04Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 21,
+  "india_relevant_items": 22,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,22 @@
     "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +165%\nUK natural gas: +154%\nHeating oil: +11..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: The Euro falls to weakest rate against US Dollar since May, 2025. https://t.co/BIfXQAPAcj...",
+      "description": "<b>BREAKING:</b> The Euro falls to weakest rate against US Dollar since May, 2025. https://t.co/BIfXQAPAcj",
+      "date": "2026-10-05T06:00Z",
+      "date_display": "05 Oct 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Max Verstappen wins Bahrain Grand Prix which is being held in Malaysia",
+      "description": "<b>BREAKING:</b> Max Verstappen wins Bahrain Grand Prix which is being held in Malaysia",
+      "date": "2026-10-04T11:08Z",
+      "date_display": "04 Oct 11:08 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "UNITED STATES: Police say a woman in Waxahachie, North Texas shot her two sons dead and then attempt...",
       "description": "UNITED STATES: Police say a woman in Waxahachie, North Texas shot her two sons dead and then attempted to harm herself.",
@@ -155,25 +171,33 @@
       "date_display": "30 Sep 02:08 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Iran's currency has fallen to 2.5 million per US Dollar, a record low.",
-      "description": "<b>BREAKING:</b> Iran's currency has fallen to 2.5 million per US Dollar, a record low.",
-      "date": "2026-09-29T11:08Z",
-      "date_display": "29 Sep 11:08 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: President Trump denies reports he offered sanctions relief to Iran",
-      "description": "<b>BREAKING:</b> President Trump denies reports he offered sanctions relief to Iran",
-      "date": "2026-09-28T23:00Z",
-      "date_display": "28 Sep 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: The Euro falls to weakest rate against US Dollar since May, 2025. https://t.co/BIfXQAPAcj...",
+      "description": "<b>BREAKING:</b> The Euro falls to weakest rate against US Dollar since May, 2025. https://t.co/BIfXQAPAcj",
+      "date": "2026-10-05T06:00Z",
+      "date_display": "05 Oct 06:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Japan-Korea liquefied natural gas price.\n\n1st of January: $9.6\n\nNow: $25.7",
+      "description": "Japan-Korea liquefied natural gas price.\n\n1st of January: $9.6\n\nNow: $25.7",
+      "date": "2026-10-04T21:00Z",
+      "date_display": "04 Oct 21:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Max Verstappen wins Bahrain Grand Prix which is being held in Malaysia",
+      "description": "<b>BREAKING:</b> Max Verstappen wins Bahrain Grand Prix which is being held in Malaysia",
+      "date": "2026-10-04T11:08Z",
+      "date_display": "04 Oct 11:08 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "UNITED STATES: Police say a woman in Waxahachie, North Texas shot her two sons dead and then attempt...",
       "description": "UNITED STATES: Police say a woman in Waxahachie, North Texas shot her two sons dead and then attempted to harm herself.",
@@ -387,30 +411,6 @@
       "description": "<b>BREAKING:</b> Tennessee death row inmate Christa Pike is alive and being treated in hospital after two lethal injections were administered and her execution failed.",
       "date": "2026-10-01T04:00Z",
       "date_display": "01 Oct 04:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Tennessee death row inmate Christa Pike's lawyer says she is still alive after two lethal ...",
-      "description": "<b>BREAKING:</b> Tennessee death row inmate Christa Pike's lawyer says she is still alive after two lethal injections were administered",
-      "date": "2026-10-01T03:00Z",
-      "date_display": "01 Oct 03:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe...",
-      "description": "<b>BREAKING:</b> Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe",
-      "date": "2026-09-30T21:00Z",
-      "date_display": "30 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Judge approves Paramount's $110 billion acquisition of Warner Brothers https://t.co/H3qJcC...",
-      "description": "<b>BREAKING:</b> Judge approves Paramount's $110 billion acquisition of Warner Brothers https://t.co/H3qJcCXW2X",
-      "date": "2026-09-30T21:00Z",
-      "date_display": "30 Sep 21:00 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

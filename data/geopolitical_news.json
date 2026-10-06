@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-05T06:04Z",
+  "fetched_at": "2026-10-06T06:44Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 22,
+  "india_relevant_items": 23,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +165%\nUK natural gas: +154%\nHeating oil: +11..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Blasts reported near Saudi Arabia's capital Riyadh",
+      "description": "<b>BREAKING:</b> Blasts reported near Saudi Arabia's capital Riyadh",
+      "date": "2026-10-05T21:00Z",
+      "date_display": "05 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi Arabia, Turkey and Pakistan activate Mecca Joint Defense Pact due to Houthi attacks,...",
+      "description": "<b>BREAKING:</b> Saudi Arabia, Turkey and Pakistan activate Mecca Joint Defense Pact due to Houthi attacks, with forces and capabilities set to be deployed to Saudi Arabia.",
+      "date": "2026-10-05T20:00Z",
+      "date_display": "05 Oct 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says he thinks Iran is responsible for Flydubai plane incident",
+      "description": "<b>BREAKING:</b> Trump says he thinks Iran is responsible for Flydubai plane incident",
+      "date": "2026-10-05T20:00Z",
+      "date_display": "05 Oct 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: The Euro falls to weakest rate against US Dollar since May, 2025. https://t.co/BIfXQAPAcj...",
       "description": "<b>BREAKING:</b> The Euro falls to weakest rate against US Dollar since May, 2025. https://t.co/BIfXQAPAcj",
@@ -147,33 +171,57 @@
       "date_display": "30 Sep 11:08 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil tanker struck by projectile in the Strait of Hormuz according to UKMTO",
-      "description": "<b>BREAKING:</b> Oil tanker struck by projectile in the Strait of Hormuz according to UKMTO",
-      "date": "2026-09-30T10:00Z",
-      "date_display": "30 Sep 10:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans:...",
-      "description": "Futures prices, since start of the year.\n\nRice: +71%\nRubber: +40%\nWheat: +37%\nCotton: +23%\nSoybeans: +23%\nWool: +20%\nPalm oil: +14%\nTea: +10%",
-      "date": "2026-09-30T04:00Z",
-      "date_display": "30 Sep 04:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "There is a 58% chance of traffic in the Strait of Hormuz returning to normal by the end of the year,...",
-      "description": "There is a 58% chance of traffic in the Strait of Hormuz returning to normal by the end of the year, according to @Kalshi prediction market. https://t.co/8gqyjzxUYk",
-      "date": "2026-09-30T02:08Z",
-      "date_display": "30 Sep 02:08 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: 🇯🇵 Japan's 30-year government bond yield hits record high",
+      "description": "<b>BREAKING:</b> 🇯🇵 Japan's 30-year government bond yield hits record high",
+      "date": "2026-10-06T00:00Z",
+      "date_display": "06 Oct 00:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump's approval rating falls to record low 32% according to Reuters/Ipsos poll",
+      "description": "<b>BREAKING:</b> Trump's approval rating falls to record low 32% according to Reuters/Ipsos poll",
+      "date": "2026-10-05T21:00Z",
+      "date_display": "05 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Blasts reported near Saudi Arabia's capital Riyadh",
+      "description": "<b>BREAKING:</b> Blasts reported near Saudi Arabia's capital Riyadh",
+      "date": "2026-10-05T21:00Z",
+      "date_display": "05 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Saudi Arabia, Turkey and Pakistan activate Mecca Joint Defense Pact due to Houthi attacks,...",
+      "description": "<b>BREAKING:</b> Saudi Arabia, Turkey and Pakistan activate Mecca Joint Defense Pact due to Houthi attacks, with forces and capabilities set to be deployed to Saudi Arabia.",
+      "date": "2026-10-05T20:00Z",
+      "date_display": "05 Oct 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says he thinks Iran is responsible for Flydubai plane incident",
+      "description": "<b>BREAKING:</b> Trump says he thinks Iran is responsible for Flydubai plane incident",
+      "date": "2026-10-05T20:00Z",
+      "date_display": "05 Oct 20:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.32\n\n(AAA) https://t.co/Hv5013Axs1",
+      "description": "US average diesel price\n\nOne year ago: $3.68\n\nNow: $6.32\n\n(AAA) https://t.co/Hv5013Axs1",
+      "date": "2026-10-05T20:00Z",
+      "date_display": "05 Oct 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: The Euro falls to weakest rate against US Dollar since May, 2025. https://t.co/BIfXQAPAcj...",
       "description": "<b>BREAKING:</b> The Euro falls to weakest rate against US Dollar since May, 2025. https://t.co/BIfXQAPAcj",
@@ -363,54 +411,6 @@
       "description": "<b>BREAKING:</b> Nike share price falls by over 5%, and is now down 81% from its peak and trading at the lowest since 2014. https://t.co/mdiIrqVokL",
       "date": "2026-10-01T21:00Z",
       "date_display": "01 Oct 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Judge rejects request by her lawyers that Lindsay Clancy be found not guilty of ‌murder fo...",
-      "description": "<b>BREAKING:</b> Judge rejects request by her lawyers that Lindsay Clancy be found not guilty of ‌murder following mistrial",
-      "date": "2026-10-01T21:00Z",
-      "date_display": "01 Oct 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Egypt and Ethiopia expel embassy advisors from the other country as relations worsen...",
-      "description": "<b>BREAKING:</b> Egypt and Ethiopia expel embassy advisors from the other country as relations worsen",
-      "date": "2026-10-01T21:00Z",
-      "date_display": "01 Oct 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Tanker struck by projectile in the Strait of Hormuz according to UKMTO",
-      "description": "<b>BREAKING:</b> Tanker struck by projectile in the Strait of Hormuz according to UKMTO",
-      "date": "2026-10-01T21:00Z",
-      "date_display": "01 Oct 21:00 UTC",
-      "severity": "critical",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Tennessee death row inmate Christa Pike is receiving life-saving medical care after she su...",
-      "description": "<b>BREAKING:</b> Tennessee death row inmate Christa Pike is receiving life-saving medical care after she survived two doses of lethal injection, according to her attorney, who adds that the execution attempt yesterday was 'was not just inefficient, it was cruel and it was torturous'.",
-      "date": "2026-10-01T20:00Z",
-      "date_display": "01 Oct 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Oil prices are up 4% after China suspends fuel exports",
-      "description": "<b>BREAKING:</b> Oil prices are up 4% after China suspends fuel exports",
-      "date": "2026-10-01T20:00Z",
-      "date_display": "01 Oct 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Tennessee death row inmate Christa Pike is alive and being treated in hospital after two l...",
-      "description": "<b>BREAKING:</b> Tennessee death row inmate Christa Pike is alive and being treated in hospital after two lethal injections were administered and her execution failed.",
-      "date": "2026-10-01T04:00Z",
-      "date_display": "01 Oct 04:00 UTC",
       "severity": "high",
       "is_india_relevant": false
     }

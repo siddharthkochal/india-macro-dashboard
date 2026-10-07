@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-06T06:44Z",
+  "fetched_at": "2026-10-07T06:19Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 23,
+  "india_relevant_items": 21,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,30 @@
     "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +165%\nUK natural gas: +154%\nHeating oil: +11..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: Saudi military says it intercepted ballistic missile that was fired by Houthis towards Riy...",
+      "description": "<b>BREAKING:</b> Saudi military says it intercepted ballistic missile that was fired by Houthis towards Riyadh",
+      "date": "2026-10-07T03:00Z",
+      "date_display": "07 Oct 03:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Trump says that 'we have to finish up' war against Iran and the question is whether it is ...",
+      "description": "<b>BREAKING:</b> Trump says that 'we have to finish up' war against Iran and the question is whether it is the 'nice way or the not-so-nice way'.",
+      "date": "2026-10-06T21:00Z",
+      "date_display": "06 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "Iranian media says the government has summoned France's ambassador over the 'violent crackdown' and ...",
+      "description": "Iranian media says the government has summoned France's ambassador over the 'violent crackdown' and 'violations of human rights' against protesters in France.",
+      "date": "2026-10-06T19:01Z",
+      "date_display": "06 Oct 19:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Blasts reported near Saudi Arabia's capital Riyadh",
       "description": "<b>BREAKING:</b> Blasts reported near Saudi Arabia's capital Riyadh",
@@ -147,33 +171,81 @@
       "date_display": "01 Oct 20:00 UTC",
       "severity": "high",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe...",
-      "description": "<b>BREAKING:</b> Trump calls on Jerome Powell to resign from Federal Reserve board https://t.co/AuUIJiULfe",
-      "date": "2026-09-30T21:00Z",
-      "date_display": "30 Sep 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: 🇩🇪 Germany's inflation rate rises to 3.3%, the highest since 2023.",
-      "description": "<b>BREAKING:</b> 🇩🇪 Germany's inflation rate rises to 3.3%, the highest since 2023.",
-      "date": "2026-09-30T20:00Z",
-      "date_display": "30 Sep 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Israeli media reports emergency on board a Flydubai flight to Tel Aviv was due to an attem...",
-      "description": "<b>BREAKING:</b> Israeli media reports emergency on board a Flydubai flight to Tel Aviv was due to an attempted attack from one of the pilots",
-      "date": "2026-09-30T11:08Z",
-      "date_display": "30 Sep 11:08 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "Gadi Eizenkot has a 52% chance of being Israel's prime minister after this year's election, compared...",
+      "description": "Gadi Eizenkot has a 52% chance of being Israel's prime minister after this year's election, compared with 34% for Netanyahu, according to @Kalshi prediction market. https://t.co/ZvujZDw8B4",
+      "date": "2026-10-07T05:00Z",
+      "date_display": "07 Oct 05:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The price of rice futures (CBOT) is now up 70% since the start of the year. https://t.co/3r78rWJORd",
+      "description": "The price of rice futures (CBOT) is now up 70% since the start of the year. https://t.co/3r78rWJORd",
+      "date": "2026-10-07T04:00Z",
+      "date_display": "07 Oct 04:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Saudi military says it intercepted ballistic missile that was fired by Houthis towards Riy...",
+      "description": "<b>BREAKING:</b> Saudi military says it intercepted ballistic missile that was fired by Houthis towards Riyadh",
+      "date": "2026-10-07T03:00Z",
+      "date_display": "07 Oct 03:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: Tennessee death row inmate Christa Pike, whose execution failed, is now conscious and spea...",
+      "description": "<b>BREAKING:</b> Tennessee death row inmate Christa Pike, whose execution failed, is now conscious and speaking according to her lawyers.",
+      "date": "2026-10-06T22:00Z",
+      "date_display": "06 Oct 22:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "BREAKING: Trump says that 'we have to finish up' war against Iran and the question is whether it is ...",
+      "description": "<b>BREAKING:</b> Trump says that 'we have to finish up' war against Iran and the question is whether it is the 'nice way or the not-so-nice way'.",
+      "date": "2026-10-06T21:00Z",
+      "date_display": "06 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": true
+    },
+    {
+      "title": "BREAKING: The S&amp;P 500 closes at record high https://t.co/TijLCzyGgi",
+      "description": "<b>BREAKING:</b> The S&amp;P 500 closes at record high https://t.co/TijLCzyGgi",
+      "date": "2026-10-06T21:00Z",
+      "date_display": "06 Oct 21:00 UTC",
+      "severity": "high",
+      "is_india_relevant": false
+    },
+    {
+      "title": "The Times reports that Chinese electric cars are 'conquering Britain' with 'cheap high spec models, ...",
+      "description": "The Times reports that Chinese electric cars are 'conquering Britain' with 'cheap high spec models, generous finance and a rapidly expanding dealership network'. https://t.co/UPCUfycqP8",
+      "date": "2026-10-06T20:00Z",
+      "date_display": "06 Oct 20:00 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
+    {
+      "title": "Iranian media says the government has summoned France's ambassador over the 'violent crackdown' and ...",
+      "description": "Iranian media says the government has summoned France's ambassador over the 'violent crackdown' and 'violations of human rights' against protesters in France.",
+      "date": "2026-10-06T19:01Z",
+      "date_display": "06 Oct 19:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": true
+    },
+    {
+      "title": "United States 30-Year Fixed Mortgage Rates\n\n1st of January: 6.2%\n\nNow: 7.56%\n\n(Mortgage News Daily) ...",
+      "description": "United States 30-Year Fixed Mortgage Rates\n\n1st of January: 6.2%\n\nNow: 7.56%\n\n(Mortgage News Daily) https://t.co/HZJryYQUW4",
+      "date": "2026-10-06T19:01Z",
+      "date_display": "06 Oct 19:01 UTC",
+      "severity": "medium",
+      "is_india_relevant": false
+    },
     {
       "title": "BREAKING: 🇯🇵 Japan's 30-year government bond yield hits record high",
       "description": "<b>BREAKING:</b> 🇯🇵 Japan's 30-year government bond yield hits record high",
@@ -340,78 +412,6 @@
       "date": "2026-10-03T02:07Z",
       "date_display": "03 Oct 02:07 UTC",
       "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "The Financial Times reports that 'shipping through the Arctic has reached record levels' as the Gulf...",
-      "description": "The Financial Times reports that 'shipping through the Arctic has reached record levels' as the Gulf war and global warming play a role in diverting shipping. https://t.co/MRKVDQUVST",
-      "date": "2026-10-03T02:07Z",
-      "date_display": "03 Oct 02:07 UTC",
-      "severity": "medium",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: South Korea says that North Korea fired a ballistic missile",
-      "description": "<b>BREAKING:</b> South Korea says that North Korea fired a ballistic missile",
-      "date": "2026-10-03T00:00Z",
-      "date_display": "03 Oct 00:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: FlyDubai co-pilot who attacked pilot on flight to Tel Aviv had 'previously been banned fro...",
-      "description": "<b>BREAKING:</b> FlyDubai co-pilot who attacked pilot on flight to Tel Aviv had 'previously been banned from flying by Oman over concerns he had adopted radical ideological views', according to Wall Street Journal report.",
-      "date": "2026-10-02T21:00Z",
-      "date_display": "02 Oct 21:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "🇺🇸 President Trump approval rating\n\nApprove: 31%\nDisapprove: 69%\n\n(Associated Press/NORC) https://...",
-      "description": "🇺🇸 President Trump approval rating\n\nApprove: 31%\nDisapprove: 69%\n\n(Associated Press/NORC) https://t.co/magNuzZaRX",
-      "date": "2026-10-02T21:00Z",
-      "date_display": "02 Oct 21:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Christa Pike's attorneys says she is 'critically ill, unconscious, intubated and on a vent...",
-      "description": "<b>BREAKING:</b> Christa Pike's attorneys says she is 'critically ill, unconscious, intubated and on a ventilator' after failed execution.",
-      "date": "2026-10-02T20:00Z",
-      "date_display": "02 Oct 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.6 trill...",
-      "description": "Market value\n\n🇬🇧 Entire UK stock market: $4.1 trillion\n🇫🇷 Entire French stock market: $3.6 trillion\n🇩🇪 Entire German stock market: $3 trillion\n\n🇺🇸 NVIDIA: $5.65 trillion https://t.co/ecgZVQ0bnY",
-      "date": "2026-10-02T20:00Z",
-      "date_display": "02 Oct 20:00 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that ...",
-      "description": "<b>BREAKING:</b> Saudi Arabia denies reports of a suicide bomber at the Grand Mosque in Mecca, saying that the man was arrested for other reasons.",
-      "date": "2026-10-02T01:00Z",
-      "date_display": "02 Oct 01:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Randy Spivey, an attorney for Tennessee death row inmate Christa Pike, says he is 'haunted...",
-      "description": "<b>BREAKING:</b> Randy Spivey, an attorney for Tennessee death row inmate Christa Pike, says he is 'haunted by last night' and that the execution team tried to establish an IV line for an hour and at one point there were at least seven needles in one of her arms.",
-      "date": "2026-10-01T23:00Z",
-      "date_display": "01 Oct 23:00 UTC",
-      "severity": "high",
-      "is_india_relevant": false
-    },
-    {
-      "title": "BREAKING: Nike share price falls by over 5%, and is now down 81% from its peak and trading at the lo...",
-      "description": "<b>BREAKING:</b> Nike share price falls by over 5%, and is now down 81% from its peak and trading at the lowest since 2014. https://t.co/mdiIrqVokL",
-      "date": "2026-10-01T21:00Z",
-      "date_display": "01 Oct 21:00 UTC",
-      "severity": "high",
       "is_india_relevant": false
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-07T06:19Z",
+  "fetched_at": "2026-10-08T06:31Z",
   "source": "https://spectator-index.com/api/rss",
   "source_authority": "The Spectator Index",
   "total_items": 50,
-  "india_relevant_items": 21,
+  "india_relevant_items": 22,
   "oil_signals": {
     "brent_mentioned": true,
     "hormuz_risk": true,
@@ -12,6 +12,14 @@
     "latest_oil_headline": "Prices, since start of the year.\n\nEuropean natural gas: +165%\nUK natural gas: +154%\nHeating oil: +11..."
   },
   "india_headlines": [
+    {
+      "title": "BREAKING: US Secretary of State Marco Rubio says that Iran has 'lost complete control' of the Strait...",
+      "description": "<b>BREAKING:</b> US Secretary of State Marco Rubio says that Iran has 'lost complete control' of the Strait of Hormuz and as much oil is flowing now as before the conflict. https://t.co/ua7WuWHOPq",
+      "date": "2026-10-07T10:00Z",
+      "date_display": "07 Oct 10:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "BREAKING: Saudi military says it intercepted ballistic missile that was fired by Houthis towards Riy...",
       "description": "<b>BREAKING:</b> Saudi military says it intercepted ballistic missile that was fired by Houthis towards Riyadh",
@@ -163,17 +171,17 @@
       "date_display": "01 Oct 21:00 UTC",
       "severity": "critical",
       "is_india_relevant": true
-    },
-    {
-      "title": "BREAKING: Oil prices are up 4% after China suspends fuel exports",
-      "description": "<b>BREAKING:</b> Oil prices are up 4% after China suspends fuel exports",
-      "date": "2026-10-01T20:00Z",
-      "date_display": "01 Oct 20:00 UTC",
-      "severity": "high",
-      "is_india_relevant": true
     }
   ],
   "all_recent_headlines": [
+    {
+      "title": "BREAKING: US Secretary of State Marco Rubio says that Iran has 'lost complete control' of the Strait...",
+      "description": "<b>BREAKING:</b> US Secretary of State Marco Rubio says that Iran has 'lost complete control' of the Strait of Hormuz and as much oil is flowing now as before the conflict. https://t.co/ua7WuWHOPq",
+      "date": "2026-10-07T10:00Z",
+      "date_display": "07 Oct 10:00 UTC",
+      "severity": "critical",
+      "is_india_relevant": true
+    },
     {
       "title": "Gadi Eizenkot has a 52% chance of being Israel's prime minister after this year's election, compared...",
       "description": "Gadi Eizenkot has a 52% chance of being Israel's prime minister after this year's election, compared with 34% for Netanyahu, according to @Kalshi prediction market. https://t.co/ZvujZDw8B4",
@@ -405,14 +413,6 @@
       "date_display": "03 Oct 02:07 UTC",
       "severity": "medium",
       "is_india_relevant": true
-    },
-    {
-      "title": "California average diesel price\n\nOne year ago: $5.16\n\nNow: $8.37\n\n(AAA) https://t.co/sW1h3c2kjW",
-      "description": "California average diesel price\n\nOne year ago: $5.16\n\nNow: $8.37\n\n(AAA) https://t.co/sW1h3c2kjW",
-      "date": "2026-10-03T02:07Z",
-      "date_display": "03 Oct 02:07 UTC",
-      "severity": "medium",
-      "is_india_relevant": false
     }
   ]
 }

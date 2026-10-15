@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T05:14Z",
+  "fetched_at": "2026-10-15T05:01Z",
   "source": "Yahoo Finance (free, no API key)",
   "prices": {
     "brent": {
@@ -7,8 +7,8 @@
       "name": "Brent Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_85",
-      "current_value": 106.34,
-      "change_from_prev": -0.31,
+      "current_value": 104.36,
+      "change_from_prev": -1.7,
       "direction": "down",
       "signal": "bearish",
       "series": [
@@ -54,23 +54,23 @@
         },
         {
           "date": "Oct-26",
-          "value": 106.65
+          "value": 106.06
         },
         {
           "date": "Oct-26",
-          "value": 106.34
+          "value": 104.36
         }
       ],
-      "fetched_at": "2026-10-14T05:14Z"
+      "fetched_at": "2026-10-15T05:01Z"
     },
     "wti": {
       "symbol": "CL=F",
       "name": "WTI Crude",
       "unit": "USD/barrel",
       "india_impact": "high_negative_if_above_80",
-      "current_value": 94.77,
-      "change_from_prev": 1.03,
-      "direction": "up",
+      "current_value": 94.1,
+      "change_from_prev": -0.99,
+      "direction": "down",
       "signal": "bearish",
       "series": [
         {
@@ -115,23 +115,23 @@
         },
         {
           "date": "Oct-26",
-          "value": 93.74
+          "value": 95.09
         },
         {
           "date": "Oct-26",
-          "value": 94.77
+          "value": 94.1
         }
       ],
-      "fetched_at": "2026-10-14T05:14Z"
+      "fetched_at": "2026-10-15T05:01Z"
     },
     "gold": {
       "symbol": "GC=F",
       "name": "Gold",
       "unit": "USD/troy oz",
       "india_impact": "negative_via_import_demand",
-      "current_value": 4187.4,
-      "change_from_prev": -3.2,
-      "direction": "down",
+      "current_value": 4166.0,
+      "change_from_prev": 58.1,
+      "direction": "up",
       "signal": "bearish",
       "series": [
         {
@@ -176,22 +176,22 @@
         },
         {
           "date": "Oct-26",
-          "value": 4190.6
+          "value": 4107.9
         },
         {
           "date": "Oct-26",
-          "value": 4187.4
+          "value": 4166.0
         }
       ],
-      "fetched_at": "2026-10-14T05:14Z"
+      "fetched_at": "2026-10-15T05:01Z"
     },
     "inr": {
       "symbol": "USDINR=X",
       "name": "USD/INR",
       "unit": "INR per USD",
       "india_impact": "higher_is_bearish_for_india",
-      "current_value": 94.91,
-      "change_from_prev": -0.87,
+      "current_value": 94.94,
+      "change_from_prev": -0.35,
       "direction": "down",
       "signal": "bearish",
       "series": [
@@ -245,14 +245,14 @@
         },
         {
           "date": "Sep-26",
-          "value": 95.78
+          "value": 95.29
         },
         {
           "date": "Oct-26",
-          "value": 94.91
+          "value": 94.94
         }
       ],
-      "fetched_at": "2026-10-14T05:14Z"
+      "fetched_at": "2026-10-15T05:01Z"
     },
     "ovx": {
       "symbol": "^OVX",
@@ -260,8 +260,8 @@
       "unit": "index",
       "india_impact": "above_40_signals_supply_risk",
       "current_value": 48.77,
-      "change_from_prev": 0.0,
-      "direction": "flat",
+      "change_from_prev": 0.15,
+      "direction": "up",
       "signal": "bearish",
       "series": [
         {
@@ -314,25 +314,25 @@
         },
         {
           "date": "Oct-26",
-          "value": 48.77
+          "value": 48.62
         },
         {
           "date": "Oct-26",
           "value": 48.77
         }
       ],
-      "fetched_at": "2026-10-14T05:14Z"
+      "fetched_at": "2026-10-15T05:01Z"
     }
   },
   "india_oil_alert": {
     "severity": "critical",
     "alerts": [
-      "Brent at $106/barrel \u2014 severe import bill pressure for India",
+      "Brent at $104/barrel \u2014 severe import bill pressure for India",
       "Oil volatility index (OVX) at 49 \u2014 elevated supply disruption risk (Strait of Hormuz?)",
-      "USD/INR at 94.91 \u2014 weak rupee amplifies oil import cost in INR terms"
+      "USD/INR at 94.94 \u2014 weak rupee amplifies oil import cost in INR terms"
     ],
-    "brent": 106.34,
-    "inr": 94.91,
+    "brent": 104.36,
+    "inr": 94.94,
     "ovx": 48.77
   }
 }
